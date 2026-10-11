@@ -8,12 +8,9 @@
    "template": "F illustrated scene",
    "character": "The Settled One",
    "quote": "Peace is a porch, a quiet evening, and nobody asking what's for dinner.",
-   "prompt": "A hand-drawn cartoon illustration in a soft painterly style featuring a slim woman in her early 60s with silver-white hair falling just past her jaw in a soft natural wave, round purple-tinted glasses, calm and quietly amused expression, wearing an oversized oatmeal knit cardigan over a sage green top and soft joggers, barefoot. She sits in an old wooden rocking chair on a farmhouse front porch at sunset, holding a glass of white wine, feet bare on the porch boards, gazing at a big oak tree silhouetted against an orange and pink sky, a small plate of crackers on a side table. Peaceful, contemplative mood. Illustration style: clean black line art with soft flat color fills, slight watercolor texture, warm earthy palette, no comic book border, no panel frame, full-bleed image. Bold black uppercase sans-serif text at the very top of the image on a clean light cream horizontal strip reads exactly: \"PEACE IS A PORCH, A QUIET EVENING,\" Bold black uppercase sans-serif text at the very bottom of the image on a matching cream horizontal strip reads exactly: \"AND NOBODY ASKING WHAT'S FOR DINNER.\" Text is centered, high contrast. Vertical 4:5 portrait format. Plain text watermark 'WineWimsey' in small clean bold sans-serif font, bottom-right corner, dark charcoal color. No drop shadows, no outer glows, flat 2D text only.",
    "caption": "The house emptied out around 6 last night. My husband went to his brother's for the game, and the grandkids went home with full bellies and a bag of leftover cookies. I stood in the kitchen for a minute listening to nothing. The dishwasher humming. A neighbor's sprinkler. Then I took a glass out to the porch and sat in the rocker that squeaks on the left side. Nobody needed me to find anything. Nobody asked what we were eating. The sun went down behind the Millers' oak tree like it does every night, except this time I actually watched it. Dinner was crackers. Perfect.",
    "first": "That rocker belonged to my grandmother. It squeaked on her porch too, same exact spot, for as long as I can remember. My husband keeps offering to oil it. I keep telling him no. Some sounds you don't fix. You just let them keep you company.",
-   "generation_id": "SbHJME5x47kWCGw4MrO8",
-   "image": "https://raw.githubusercontent.com/woodspan1967/post-images/main/images/wine-wimsey/2026-10-11/ww-011.png",
-   "held_for_next": true
+   "image": "images/wine-wimsey/2026-10-11/ww-011.png"
   },
   {
    "id": "ww-012",
@@ -21,12 +18,9 @@
    "template": "G vintage poster",
    "character": "",
    "quote": "Age is just a number. Mine happens to be unlisted.",
-   "prompt": "A vintage decorative poster illustration in the style of an aged tavern sign or antique wine advertisement. An elegant old-world wine bottle and a single filled wine glass on a polished wooden table beside a small brass birthday candle holder with one unlit candle, a glowing fireplace and stacked leather books in the background, soft amber firelight. Warm brown, cream, and deep red color palette, distressed border edges with gentle texture, soft grainy aged-paper background. Large ornate flowing cursive script text at the top reads exactly: \"Age is just a number.\" Elegant serif uppercase text below it reads exactly: \"MINE HAPPENS TO BE UNLISTED.\" The text is integrated into the poster design. Handwritten cursive signature \"Wine Wimsey\" in burgundy in the bottom-right corner as the ONLY branding element. Vintage print illustration style, warm nostalgic mood. Vertical 4:5 portrait format. Do NOT add a separate plain text watermark anywhere else in the image, the cursive \"Wine Wimsey\" signature is the watermark. No drop shadows, no outer glows, flat 2D text only.",
    "caption": "At my doctor's office last week, the new receptionist asked me to confirm my date of birth. Out loud. In a full waiting room. I gave her the month and the day and then just stood there smiling. She waited. I waited. Eventually she said, \"And the year?\" I said, \"It's in the file, sweetheart.\" The man behind me laughed so hard he had to sit down. She found it in the file. She did not say it out loud, bless her. I've decided this is how it goes from now on. My age is need-to-know, and very few people need to know.",
    "first": "My grandmother lied about her age for so long that when she passed, none of us were sure how old she really was. We had to go find her birth certificate. She'd taken six years off. We put the real number on the program. She'd have been furious, and also secretly proud.",
-   "generation_id": "6tJnfLa23M1fQMTyTCM7",
-   "image": "https://raw.githubusercontent.com/woodspan1967/post-images/main/images/wine-wimsey/2026-10-11/ww-012.png",
-   "held_for_next": true
+   "image": "images/wine-wimsey/2026-10-11/ww-012.png"
   }
  ]
 }

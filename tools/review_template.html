@@ -1,0 +1,209 @@
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Libre+Franklin:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: laptop review queue — one post per row in queue order, image left, copy right; sticky tally bar */
+:root{
+  --bg:#f6f2f3; --surface:#ffffff; --ink:#24181c; --muted:#6c5a60; --line:#e3d7db;
+  --accent:#722f37; --accent-soft:#f3e4e6;
+  --ok:#1d7148; --ok-soft:#e1f2e8; --no:#a12e28; --no-soft:#f8e3e1; --redo:#8a5800; --redo-soft:#fbefd6;
+  --display:"Fraunces",Georgia,serif; --body:"Libre Franklin",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#171214; --surface:#211a1d; --ink:#f0e6e8; --muted:#b39fa5; --line:#3a2e32;
+  --accent:#e08c97; --accent-soft:#3a2026; --ok:#62d29b; --ok-soft:#173326; --no:#f08b82; --no-soft:#3b1d1b; --redo:#f0c060; --redo-soft:#352a12; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#171214; --surface:#211a1d; --ink:#f0e6e8; --muted:#b39fa5; --line:#3a2e32;
+  --accent:#e08c97; --accent-soft:#3a2026; --ok:#62d29b; --ok-soft:#173326; --no:#f08b82; --no-soft:#3b1d1b; --redo:#f0c060; --redo-soft:#352a12; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55}
+.wrap{max-width:1140px;margin:0 auto;padding-inline:20px;padding-block:24px 72px;display:grid;gap:20px}
+header{display:grid;gap:6px}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(1.8rem,3.2vw,2.5rem);margin:0;letter-spacing:-.01em;text-wrap:balance}
+.sub{color:var(--muted);margin:0}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:10px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between}
+.tally{display:flex;gap:8px;flex-wrap:wrap}
+.pill{font-family:var(--mono);font-size:.78rem;padding:5px 10px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-variant-numeric:tabular-nums}
+.pill{cursor:pointer;font-weight:500}.pill:hover{border-color:var(--ink)}.pill.ok{color:var(--ok)} .pill.redo{color:var(--redo)} .pill.no{color:var(--no)}
+.status{font-size:.85rem;color:var(--muted)}
+.note{background:var(--accent-soft);border-radius:10px;padding:12px 16px;font-size:.95rem}
+.list{display:grid;gap:18px}
+.post{background:var(--surface);border:1px solid var(--line);border-radius:14px;display:grid;grid-template-columns:minmax(0,340px) minmax(0,1fr);overflow:hidden}
+.post{scroll-margin-top:80px}.post.flash{outline:3px solid var(--accent);outline-offset:3px}
+.post[data-state="approved"]{border-color:var(--ok);box-shadow:0 0 0 1px var(--ok)}
+.post[data-state="redo"]{border-color:var(--redo);box-shadow:0 0 0 1px var(--redo)}
+.post[data-state="rejected"] .media,.post[data-state="rejected"] .copy>.field{opacity:.5}
+.media{padding:16px;background:var(--bg);border-right:1px solid var(--line);display:grid;align-content:start;gap:8px}
+.media img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:8px;display:block;cursor:zoom-in;background:var(--line)}
+.tobi{aspect-ratio:4/5;max-width:100%;border-radius:8px;background:#000;color:#fff;display:grid;place-items:center;text-align:center;padding:28px;font-family:var(--body);font-weight:600;font-size:1.3rem;line-height:1.35}
+.cap{font-family:var(--mono);font-size:.7rem;color:var(--muted)}
+.copy{padding:18px 22px;display:grid;gap:14px;min-width:0;align-content:start}
+.top{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:baseline;justify-content:space-between}
+.num{font-family:var(--display);font-weight:800;font-size:1.25rem}
+.meta{font-family:var(--mono);font-size:.74rem;color:var(--muted)}
+.field{display:grid;gap:4px}
+.label{font-family:var(--mono);font-size:.7rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted)}
+.field p{margin:0;max-width:68ch}
+.quote{font-family:var(--display);font-weight:600;font-size:1.1rem}
+.actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center;border-top:1px solid var(--line);padding-top:14px}
+button{font:inherit;font-weight:600;font-size:.92rem;border-radius:8px;padding:8px 14px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+button:disabled{opacity:.5;cursor:not-allowed}
+button:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+button.approve[aria-pressed="true"]{background:var(--ok-soft);border-color:var(--ok);color:var(--ok)}
+button.redo[aria-pressed="true"]{background:var(--redo-soft);border-color:var(--redo);color:var(--redo)}
+button.reject[aria-pressed="true"]{background:var(--no-soft);border-color:var(--no);color:var(--no)}
+button.primary{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.state{margin-left:auto;font-family:var(--mono);font-size:.75rem;color:var(--muted)}
+textarea{font:inherit;font-size:.92rem;width:100%;min-height:64px;border:1px solid var(--line);border-radius:8px;padding:8px 10px;background:var(--bg);color:var(--ink);resize:vertical}
+.sect{font-family:var(--display);font-weight:800;font-size:1.4rem;margin:18px 0 0}
+.done{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 22px}
+.done h2{font-family:var(--display);font-weight:800;font-size:1.25rem;margin:0 0 6px}
+.done p{margin:0;max-width:68ch}
+dialog{border:0;padding:0;background:transparent;max-width:min(92vw,620px)}
+dialog img{width:100%;border-radius:10px;display:block}
+dialog::backdrop{background:rgba(0,0,0,.75)}
+@media (max-width:760px){.post{grid-template-columns:minmax(0,1fr)}.media{border-right:0;border-bottom:1px solid var(--line)}.media img,.tobi{max-width:340px}}
+@media (prefers-reduced-motion:no-preference){.post{transition:box-shadow .15s,border-color .15s}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>__TITLE__</h1>
+    <p class="sub">__SUB__</p>
+  </header>
+  <div class="bar">
+    <div class="tally" aria-live="polite">
+      <button type="button" class="pill ok" data-jump="approved">Approved <b id="cOk">0</b></button>
+      <button type="button" class="pill redo" data-jump="redo">Redo <b id="cRedo">0</b></button>
+      <button type="button" class="pill no" data-jump="rejected">Rejected <b id="cNo">0</b></button>
+      <button type="button" class="pill" data-jump="">Waiting <b id="cWait">0</b></button>
+    </div>
+    <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+      <span class="status" id="saveStatus">Connecting…</span>
+      <button type="button" id="approveRest">Approve all waiting</button>
+    </div>
+  </div>
+  <div class="note">Click an image to see it full size. Your choices save automatically. When you're done, tell Claude <b>"upload"</b> in chat. Redo posts get fixed and come back for another look; rejected ones are dropped.</div>
+  <div class="list" id="list"></div>
+  <section class="done" id="redoBox">
+    <h2>Redo images</h2>
+    <p id="redoText">No posts are marked for a redo.</p>
+    <div style="margin-top:12px;display:flex;gap:10px;align-items:center;flex-wrap:wrap"><button type="button" class="primary" id="redoBtn" disabled>Redo images</button><span class="status" id="redoStatus"></span></div>
+  </section>
+  <section class="done">
+    <h2>What happens next</h2>
+    <p>Approved posts go into the Wine Wimsy bucket at the bottom of your queue, each with its first comment (5-minute delay). TOBIs use the black background. Claude waits for your OK in chat before the final upload click.</p>
+  </section>
+</div>
+<dialog id="zoom"><img alt=""></dialog>
+
+<script>
+const POSTS = __POSTS__;
+const state = {};
+let db = null, canWrite = true;
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const LABEL = {approved:"Approved", redo:"Sent back for a redo", rejected:"Rejected", "":"Waiting for review"};
+
+function render(){
+  let n = 0;
+  $("#list").innerHTML = POSTS.map(p => {
+    const s = (state[p.id]||{}).decision || "";
+    const note = (state[p.id]||{}).note || "";
+    const img = p.kind === "tobi"
+      ? `<div class="tobi" role="img" aria-label="TOBI preview">${esc(p.quote)}</div><span class="cap">TOBI · black background</span>`
+      : `<img src="img/${p.id}.jpg?v=2" alt="${esc(p.quote)}" data-zoom="img/${p.id}.jpg?v=2" loading="lazy"><span class="cap">${esc(p.template)}${p.character ? " · " + esc(p.character) : ""}</span>`;
+    n++;
+    const head = (p.kind==="story" && !POSTS.slice(0,POSTS.indexOf(p)).some(q=>q.kind==="story")) ? `<h2 class="sect">Stories · Wine Wimsy Stories bucket</h2>` : "";
+    return head + `<article class="post" id="post-${p.id}" data-state="${s}">
+      <div class="media">${img}</div>
+      <div class="copy">
+        <div class="top"><span class="num">${p.kind==="story" ? "Story " + (POSTS.filter(q=>q.kind==="story").indexOf(p)+1) : "#" + n + (p.kind==="tobi" ? " TOBI" : "")}</span><span class="meta">${p.id}</span></div>
+        <div class="field"><span class="label">${p.kind==="tobi"?"Text on background":"Quote on image"}</span><p class="quote">${esc(p.quote)}</p></div>
+        ${p.caption ? `<div class="field"><span class="label">Caption</span><p>${esc(p.caption)}</p></div>` : ""}
+        ${p.first ? `<div class="field"><span class="label">First comment</span><p>${esc(p.first)}</p></div>` : `<div class="field"><span class="label">Story</span><p>Image only, no caption. Goes to the Wine Wimsy Stories bucket.</p></div>`}
+        <div class="field" ${s==="redo"?"":"hidden"}><label class="label" for="note-${p.id}">What should change?</label>
+          <textarea id="note-${p.id}" data-id="${p.id}" placeholder="e.g. new quote, different setting, shorter caption">${esc(note)}</textarea></div>
+        <div class="actions">
+          <button type="button" class="approve" data-id="${p.id}" data-d="approved" aria-pressed="${s==="approved"}" ${canWrite?"":"disabled"}>Approve</button>
+          <button type="button" class="redo" data-id="${p.id}" data-d="redo" aria-pressed="${s==="redo"}" ${canWrite?"":"disabled"}>Redo</button>
+          <button type="button" class="reject" data-id="${p.id}" data-d="rejected" aria-pressed="${s==="rejected"}" ${canWrite?"":"disabled"}>Reject</button>
+          <span class="state">${LABEL[s]}</span>
+        </div>
+      </div></article>`;
+  }).join("");
+  const c = d => POSTS.filter(p => (state[p.id]||{}).decision === d).length;
+  $("#cOk").textContent = c("approved"); $("#cRedo").textContent = c("redo"); $("#cNo").textContent = c("rejected");
+  $("#cWait").textContent = POSTS.length - c("approved") - c("redo") - c("rejected");
+  const r = POSTS.filter(p => (state[p.id]||{}).decision === "redo").map(p => "#" + (POSTS.indexOf(p)+1));
+  $("#redoText").textContent = r.length ? `Marked for a redo: ${r.join(", ")}. Add a note on each saying what to change, then click Redo images.` : "No posts are marked for a redo.";
+  $("#redoBtn").disabled = !r.length || !canWrite;
+}
+
+async function save(id, patch){
+  state[id] = Object.assign({}, state[id], patch);
+  render();
+  if (!db) { $("#saveStatus").textContent = "Not saved: this view can't reach storage."; return; }
+  $("#saveStatus").textContent = "Saving…";
+  try {
+    await db.collection("decisions").doc(id).set({decision: state[id].decision || "", note: state[id].note || "", updatedAt: Date.now()});
+    $("#saveStatus").textContent = "All changes saved";
+  } catch (e) {
+    $("#saveStatus").textContent = "Couldn't save (" + (e && e.code || "error") + "). Try again.";
+  }
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest("button[data-d]");
+  if (b) { const id = b.dataset.id, d = b.dataset.d; save(id, {decision: (state[id]||{}).decision === d ? "" : d}); return; }
+  const z = e.target.closest("[data-zoom]");
+  if (z) { const dlg = $("#zoom"); dlg.querySelector("img").src = z.dataset.zoom; dlg.showModal(); return; }
+  if (e.target.id === "zoom") e.target.close();
+  const j = e.target.closest("[data-jump]");
+  if (j) {
+    const want = j.dataset.jump;
+    const ids = POSTS.filter(p => ((state[p.id]||{}).decision || "") === want).map(p => p.id);
+    if (!ids.length) return;
+    const k = (jumpIdx[want] = ((jumpIdx[want] ?? -1) + 1) % ids.length);
+    const el = document.getElementById("post-" + ids[k]);
+    el.scrollIntoView({behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start"});
+    el.classList.add("flash"); setTimeout(() => el.classList.remove("flash"), 1200);
+    return;
+  }
+  if (e.target.id === "redoBtn") requestRedo();
+  if (e.target.id === "approveRest") POSTS.filter(p => !(state[p.id]||{}).decision).forEach(p => save(p.id, {decision:"approved"}));
+});
+const jumpIdx = {};
+async function requestRedo(){
+  const ids = POSTS.filter(p => (state[p.id]||{}).decision === "redo").map(p => p.id);
+  if (!db) { $("#redoStatus").textContent = "Can't send from this view. Tell Claude \"redo\" in chat."; return; }
+  $("#redoStatus").textContent = "Sending…";
+  try {
+    await db.collection("requests").doc("redo").set({ids, requestedAt: Date.now(), status: "requested"});
+    $("#redoStatus").textContent = `Redo requested for ${ids.length} post${ids.length>1?"s":""}. Send Claude any message in chat (like "go") to start it.`;
+  } catch (e) { $("#redoStatus").textContent = "Couldn't send (" + (e && e.code || "error") + "). Try again."; }
+}
+let t;
+document.addEventListener("input", e => {
+  if (!e.target.matches("textarea[data-id]")) return;
+  const id = e.target.dataset.id; state[id] = Object.assign({}, state[id], {note: e.target.value});
+  clearTimeout(t); t = setTimeout(() => save(id, {note: e.target.value}), 700);
+});
+
+render();
+(async () => {
+  try {
+    db = await window.claude?.use?.("db");
+    const user = await window.claude?.use?.("user");
+    if (user && user.can && user.can("data.write") === false) canWrite = false;
+  } catch (e) { db = null; }
+  if (!db) { $("#saveStatus").textContent = "Read-only view: open this page signed in to save choices."; return; }
+  $("#saveStatus").textContent = "Ready";
+  db.collection("decisions").onSnapshot(snap => {
+    snap.docs.forEach(d => { const v = d.data() || {}; const ta = document.getElementById("note-" + d.id);
+      state[d.id] = {decision: v.decision || "", note: (ta && document.activeElement === ta) ? ta.value : (v.note || "")}; });
+    if (!document.activeElement || !document.activeElement.matches("textarea")) render();
+    else { const c = d => POSTS.filter(p => (state[p.id]||{}).decision === d).length; $("#cOk").textContent=c("approved"); }
+  }, err => { $("#saveStatus").textContent = "Lost connection to storage. Reload the page."; });
+})();
+</script>
