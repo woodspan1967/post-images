@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "image-fetcher"
           git config user.email "actions@users.noreply.github.com"
-          git add -A images queue
+          git add -A .
           git diff --cached --quiet || git commit -m "Add fetched images"
           git push
