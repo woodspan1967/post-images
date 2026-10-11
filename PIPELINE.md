@@ -12,7 +12,7 @@ Standing rules for generating, reviewing, and uploading posts. Agreed with Scott
 
 ## Wine Wimsey
 - Bucket: Wine Wimsy. 12 posts a day total: 1-2 of them TOBIs (vary), the rest image posts (so 11+1 or 10+2). TOBI background `black`.
-- Runs cover 3 days (36 posts). TOBIs are interleaved between image posts in queue order.
+- Daily run at about 6 AM Central covers one day (12 posts + 4 stories). Scott asks for multi-day runs when he needs them. See RUN_WINE_WIMSEY.md. TOBIs are interleaved between image posts in queue order.
 - Each post: caption + first comment (5-minute delay). No second comment in bulk uploads.
 - TOBI text stays under 130 characters.
 - Stories: 4 a day into the Wine Wimsy Stories bucket (12 per 3-day run). One image per story, same templates, characters, size (4:5) and stamping as feed images, but their own quotes (never a feed quote). No caption or comment. Uploaded as a second CSV with REEL OR STORY set to `story` (confirmed working 2026-10-11).
