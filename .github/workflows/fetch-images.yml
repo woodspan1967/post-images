@@ -1,0 +1,36 @@
+name: Fetch images
+on:
+  push:
+    branches: [main]
+    paths: ['queue/*.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-images
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download queued images
+        run: |
+          shopt -s nullglob
+          for list in queue/*.txt; do
+            # each line: <destination path under images/> <source url>
+            while read -r dest url; do
+              [ -z "$dest" ] && continue
+              mkdir -p "$(dirname "images/$dest")"
+              curl -fsSL --retry 3 -o "images/$dest" "$url"
+              echo "saved images/$dest"
+            done < "$list"
+            git rm -q "$list"
+          done
+      - name: Commit
+        run: |
+          git config user.name "image-fetcher"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A images queue
+          git diff --cached --quiet || git commit -m "Add fetched images"
+          git push
