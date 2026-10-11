@@ -11,8 +11,8 @@ Standing rules for generating, reviewing, and uploading posts. Agreed with Scott
 - Images are copied here by the Fetch images workflow (drop a `queue/*.txt` list of `path url` lines) for permanent links.
 
 ## Wine Wimsey
-- Bucket: Wine Wimsy. 12 image posts a day plus 1-2 TOBIs a day (vary), TOBI background `black`.
-- Runs cover 3 days. TOBIs are interleaved between image posts in queue order.
+- Bucket: Wine Wimsy. 12 posts a day total: 1-2 of them TOBIs (vary), the rest image posts (so 11+1 or 10+2). TOBI background `black`.
+- Runs cover 3 days (36 posts). TOBIs are interleaved between image posts in queue order.
 - Each post: caption + first comment (5-minute delay). No second comment in bulk uploads.
 - TOBI text stays under 130 characters.
 
