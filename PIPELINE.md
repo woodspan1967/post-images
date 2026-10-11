@@ -15,7 +15,7 @@ Standing rules for generating, reviewing, and uploading posts. Agreed with Scott
 - Runs cover 3 days (36 posts). TOBIs are interleaved between image posts in queue order.
 - Each post: caption + first comment (5-minute delay). No second comment in bulk uploads.
 - TOBI text stays under 130 characters.
-- Stories: 4 a day into the Wine Wimsy Stories bucket (12 per 3-day run). One image per story, same templates, characters, size (4:5) and stamping as feed images, but their own quotes (never a feed quote). No caption or comment. Uploaded as a second CSV with REEL OR STORY set to story; check the value on the first upload.
+- Stories: 4 a day into the Wine Wimsy Stories bucket (12 per 3-day run). One image per story, same templates, characters, size (4:5) and stamping as feed images, but their own quotes (never a feed quote). No caption or comment. Uploaded as a second CSV with REEL OR STORY set to `story` (confirmed working 2026-10-11).
 - Stories appear in their own section on the same review page and follow the same approve / redo / reject rules.
 
 ## Review page
