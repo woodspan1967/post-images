@@ -1,0 +1,1 @@
+# Quotes already used on Horse Soup (feed, TOBI, stories). Never reuse; append each run as "YYYY-MM-DD | theme | quote".

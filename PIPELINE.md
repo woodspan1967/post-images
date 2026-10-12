@@ -26,6 +26,19 @@ Standing rules for generating, reviewing, and uploading posts. Agreed with Scott
 - Stamping: `--brand "Whispers Of Yesterday"` on every image; `--ai` on every image that looks real (T1 photoreal scenes, T2 vintage photos); flat retro posters (T3) brand only. Prompts are 4:5 and never include the skill's watermark sentence.
 - Inbox: https://claude.ai/artifact/ELPgE7UJER5X8nkBwC74ch (separate from Wine Wimsey's). Same rules as the Wine Wimsey inbox below.
 
+## Horse Soup
+- Buckets: Horse Soup (feed) and Horse Soup Stories. Daily run at about 6:20 AM Central, one day. See RUN_HORSE_SOUP.md.
+- 6 feed posts a day: 5 image posts + 1 TOBI. TOBI background `black`, text under 130 characters.
+- 2 stories a day, own quotes, image only, same templates/size/stamping as feed images.
+- Captions and first comments follow the Horse Soup skill (SEE MORE caption ~100 words; first comment ~50 words, no hashtags). 5-minute first-comment delay. The skill's second comment is not used.
+- All images 4:5, including the skill's square templates (W, H), re-composed for the taller frame. Prompts never include the skill's 'HorseSoup' footer sentence.
+- Prompt ending allows the skill's 2-4 word wall signs: "The only text in the image is the [bubble/banner/lettered] text[ and the small wall sign]. Keep the bottom corners plain. Vertical 4:5 format."
+- No TOBI caption and no second comment (no slot in bulk upload). TOBI = quote under 130 characters + first comment.
+- Skill/pipeline differences settled with Scott on 2026-10-11.
+- Stamping: `--brand "Horse Soup"` on every image. Every Horse Soup image is a cartoon, so no `--ai` label.
+- Meme posts only. Reels (Meta AI video + voiceover) stay a manual, on-request workflow.
+- Inbox: https://claude.ai/artifact/4WXju43mLVkJfK1CLEwp7v (separate from the other pages'). Same rules as the Wine Wimsey inbox below.
+
 ## Inbox
 - Scott drops quotes/images into the Wine Wimsey Inbox page (https://claude.ai/artifact/Fxf3RdrmK5pmoH3bfJzVwD). The daily run uses new items first, word-for-word quotes, and marks them used.
 
