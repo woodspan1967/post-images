@@ -3,6 +3,8 @@
 Follow PIPELINE.md for every rule. This file is the order of operations. Default: one day.
 If Scott asked for more days ahead (vacation), multiply counts by that number of days.
 
+**First read the "All pages: hard rules" section of PIPELINE.md (no realistic people, no reused quotes or jokes, rejected = replaced). They override the skill and this file.**
+
 ## 0. Setup
 - Clone/pull this repo (woodspan1967/post-images, push access). Work in it.
 - Load the Wine Wimsey skill (`wine-niche-initiative`) for characters, templates, voice, caption/comment rules, quote quality filter.
@@ -23,7 +25,7 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 ## 1. Write the day
 - 12 feed posts total = held posts + new ones. Pick 1 or 2 TOBIs (vary day to day); the rest are image posts.
 - 4 stories (image only, own quotes).
-- Mix templates and characters per the skill (I2 is the primary format). Avoid photo templates unless they suit; any photo-style image gets the AI label.
+- Mix templates and characters per the skill (I2 is the primary format). Do NOT use Template B (photoreal) or Template C (vintage B&W photo) with people; if you want those looks, make them people-free (still life, empty porch) or draw the people as illustration. Template D still life is fine (AI label).
 - Captions ~100 words (hook / story / button), first comment ~50 words. TOBI text under 130 characters + first comment.
 - Image prompts: end with "No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format." Never ask the model for a watermark.
 - Ids: feed `ww-YYYYMMDD-NN`, TOBI `ww-YYYYMMDD-tN`, stories `ws-YYYYMMDD-N`.

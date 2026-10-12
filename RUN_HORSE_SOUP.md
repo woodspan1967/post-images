@@ -3,6 +3,8 @@
 Follow PIPELINE.md for every rule. This file is the order of operations. Default: one day.
 If Scott asked for more days ahead (vacation), multiply counts by that number of days.
 
+**First read the "All pages: hard rules" section of PIPELINE.md (no realistic people, no reused quotes or jokes, rejected = replaced). They override the skill and this file.**
+
 ## 0. Setup
 - Clone/pull this repo (woodspan1967/post-images, push access). Work in it.
 - Load the Horse Soup skill (`horse-soup`) for characters, Shared Style Lock / Whimsy Lock, templates (I2, I, W, H, F), auto-routing, caption and first-comment rules, the TOBI five-test quality filter, theme rotation and guardrails. The meme sections only: reels are not part of this run.

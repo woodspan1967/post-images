@@ -3,6 +3,8 @@
 Follow PIPELINE.md for every rule. This file is the order of operations. Default: one day.
 If Scott asked for more days ahead (vacation), multiply counts by that number of days.
 
+**First read the "All pages: hard rules" section of PIPELINE.md (no realistic people, no reused quotes or jokes, rejected = replaced). They override the skill and this file.**
+
 ## 0. Setup
 - Clone/pull this repo (woodspan1967/post-images, push access). Work in it.
 - Load the Whispers Of Yesterday skill (`whispers-of-yesterday`) for voice, themes, templates, story captions, first comments, hashtag block, quote bank.
@@ -28,6 +30,9 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - 10 feed posts total = held posts + new ones. Pick 1 or 2 TOBIs (vary day to day); the rest are image posts (so 9+1 or 8+2).
 - 3 stories (image only, own quotes, never a feed quote).
 - Templates across the image posts, roughly the skill's 5/3/2 ratio: for 8-9 images about 4-5 Template 1 (illustrated scene), 2-3 Template 2 (vintage photo), 1-2 Template 3 (retro poster). Stories use any template.
+- Template 1 change: it must read as a PAINTING, not a photo. Replace the skill's "richly painted photorealistic illustration" with "a warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph".
+- Template 2 change: vintage photos must contain NO people (no faces, hands or figures, not even in the background). Use the era's objects and places: a 1960s gas station at dusk, a chrome diner counter, a wood-paneled station wagon, a brass cash register, a rotary phone on a kitchen wall. Add "no people anywhere in the frame" to the prompt.
+- Never use the skill's QUOTE / CONCEPT BANK lines; write fresh ones (see PIPELINE.md hard rule 2).
 - Themes: rotate the skill's Core Nostalgia Themes, never more than 2 on the same theme in a day (feed + stories together).
 - Quote text on images in ALL CAPS in the prompt, and the quote field in batch.json matches what the image should show.
 - Children appear only in wholesome, era-typical family/school/play scenes. No cigarettes, no named celebrities, no real brand logos or store names.
@@ -39,7 +44,7 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 ## 2. Images
 - ElevenLabs: one flow per day, one image-generation node per image, model gpt-image-2.5-sunburst, {aspect_ratio 4:5, resolution 1K, quality low}; run all nodes; poll creative_get_flow_run_status until done.
 - `python3 tools/signed_urls.py <dest>=<generation_id> ... > queue/<name>.txt` with dest `whispers-of-yesterday/YYYY-MM-DD/<id>.png` (stories under `.../stories/`). Commit + push, wait ~60s, pull.
-- Stamp: `python3 tools/stamp.py --brand "Whispers Of Yesterday" <pngs>` on every image; add `--ai` to every image that looks real (photoreal illustrated scenes, vintage photos, anything that could pass as a real photo or real people). Flat retro posters and clearly drawn illustrations get the brand only. Commit + push.
+- Stamp: `python3 tools/stamp.py --brand "Whispers Of Yesterday" <pngs>` on every image; add `--ai` to every photo-style image (Template 2, which is people-free). Painted Template 1 scenes and flat retro posters get the brand only. If any person looks photographic, regenerate before stamping. Commit + push.
 - Look at every image: quote must match word for word, no stray logos or extra text, era looks right (no modern objects). Regenerate any that fail (once), then flag anything still off in the page subtitle.
 - Set each item's `image` to the repo path.
 

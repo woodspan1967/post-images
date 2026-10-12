@@ -2,12 +2,21 @@
 
 Standing rules for generating, reviewing, and uploading posts. Agreed with Scott on 2026-10-11.
 
+## All pages: hard rules (added 2026-10-12, Scott)
+These override any skill or runbook.
+1. NO REALISTIC PEOPLE. Facebook is restricting images that look like real people. Every person (or human face, hand, body) must be clearly drawn: cartoon, comic, flat illustration, poster, painterly storybook art. Never photoreal, never "photograph", never vintage-photo people, never "hyperrealistic" or "editorial lifestyle photograph" of a person.
+   - Photo-style images are allowed only with NO people in them (objects, cars, storefronts, still lifes, rooms, landscapes). Those still get the `--ai` label.
+   - Prompts for any image with a person must say the style plainly (e.g. "flat cartoon illustration", "hand-painted illustration with visible brushstrokes, clearly a painting, not a photo").
+   - After generating, if a person in the image could pass for a photo, regenerate it as an illustration before it goes on the review page.
+2. NO REUSED QUOTES OR JOKES. Never take quotes from a skill's quote bank, concept bank, benchmark list or examples: those are posts Scott has already published. Write new ones. Before keeping a quote, check `used/<page>-quotes.txt` for the same wording AND the same joke or idea in different words (e.g. glasses-on-my-head, be-home-before-the-streetlights); if it's close, write a different one.
+3. REJECTED = REPLACED. When Scott rejects a post, write a new post for that slot (new quote, rules 1-2 apply) and put it back on the review page as Waiting. Redo = fix per his note. This happens when he messages in that day's run conversation.
+
 ## Images
 - Engine: ElevenLabs, model GPT Image 2.5 (`gpt-image-2.5-sunburst`), 1K, low quality, 4:5.
 - Prompts never ask the model for a watermark; they ask for plain bottom corners and no extra signs, logos, or text.
 - After generation, `tools/stamp.py` adds:
   - `--brand <PageName>` watermark, bottom-right (every image except vintage-poster templates that carry an in-scene signature).
-  - `--ai` faint "AI-generated" label, bottom-left, on every photo-style image (photoreal, vintage photo, still life). Cartoons don't get it.
+  - `--ai` faint "AI-generated" label, bottom-left, on every photo-style image (people-free photos, still lifes, vintage-photo objects/scenes). Cartoons and illustrations don't get it.
 - Images are copied here by the Fetch images workflow (drop a `queue/*.txt` list of `path url` lines) for permanent links.
 
 ## Wine Wimsey
@@ -23,7 +32,7 @@ Standing rules for generating, reviewing, and uploading posts. Agreed with Scott
 - 10 feed posts a day: 1-2 TOBIs (vary), the rest image posts (9+1 or 8+2). TOBI background `black`, text under 130 characters.
 - 3 stories a day, own quotes, image only, same templates/size/stamping as feed images.
 - Captions and first comments follow the Whispers skill (story caption 4-8 sentences; first comment 2-4 sentences + 5-8 hashtags). 5-minute first-comment delay, no second comment.
-- Stamping: `--brand "Whispers Of Yesterday"` on every image; `--ai` on every image that looks real (T1 photoreal scenes, T2 vintage photos); flat retro posters (T3) brand only. Prompts are 4:5 and never include the skill's watermark sentence.
+- Stamping: `--brand "Whispers Of Yesterday"` on every image; `--ai` on every photo-style image (T2 vintage photos, people-free only); T1 is now a clearly painted illustration and T3 a flat poster, brand only. Prompts are 4:5 and never include the skill's watermark sentence.
 - Inbox: https://claude.ai/artifact/ELPgE7UJER5X8nkBwC74ch (separate from Wine Wimsey's). Same rules as the Wine Wimsey inbox below.
 
 ## Horse Soup
