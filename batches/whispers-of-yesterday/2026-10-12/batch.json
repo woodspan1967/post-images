@@ -157,5 +157,10 @@
       "ai": false,
       "image": "images/whispers-of-yesterday/2026-10-12/stories/wys-20261012-3.png"
     }
-  ]
+  ],
+  "uploaded": {
+    "feed": 10,
+    "stories": 3,
+    "at": "2026-10-12T18:46-05:00"
+  }
 }
