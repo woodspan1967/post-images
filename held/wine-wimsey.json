@@ -1,26 +1,5 @@
 {
  "page": "Wine Wimsey",
  "note": "Approved posts held for the start of the next batch.",
- "posts": [
-  {
-   "id": "ww-011",
-   "kind": "image",
-   "template": "F illustrated scene",
-   "character": "The Settled One",
-   "quote": "Peace is a porch, a quiet evening, and nobody asking what's for dinner.",
-   "caption": "The house emptied out around 6 last night. My husband went to his brother's for the game, and the grandkids went home with full bellies and a bag of leftover cookies. I stood in the kitchen for a minute listening to nothing. The dishwasher humming. A neighbor's sprinkler. Then I took a glass out to the porch and sat in the rocker that squeaks on the left side. Nobody needed me to find anything. Nobody asked what we were eating. The sun went down behind the Millers' oak tree like it does every night, except this time I actually watched it. Dinner was crackers. Perfect.",
-   "first": "That rocker belonged to my grandmother. It squeaked on her porch too, same exact spot, for as long as I can remember. My husband keeps offering to oil it. I keep telling him no. Some sounds you don't fix. You just let them keep you company.",
-   "image": "images/wine-wimsey/2026-10-11/ww-011.png"
-  },
-  {
-   "id": "ww-012",
-   "kind": "image",
-   "template": "G vintage poster",
-   "character": "",
-   "quote": "Age is just a number. Mine happens to be unlisted.",
-   "caption": "At my doctor's office last week, the new receptionist asked me to confirm my date of birth. Out loud. In a full waiting room. I gave her the month and the day and then just stood there smiling. She waited. I waited. Eventually she said, \"And the year?\" I said, \"It's in the file, sweetheart.\" The man behind me laughed so hard he had to sit down. She found it in the file. She did not say it out loud, bless her. I've decided this is how it goes from now on. My age is need-to-know, and very few people need to know.",
-   "first": "My grandmother lied about her age for so long that when she passed, none of us were sure how old she really was. We had to go find her birth certificate. She'd taken six years off. We put the real number on the program. She'd have been furious, and also secretly proud.",
-   "image": "images/wine-wimsey/2026-10-11/ww-012.png"
-  }
- ]
+ "posts": []
 }
