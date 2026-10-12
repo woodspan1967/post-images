@@ -1,0 +1,160 @@
+{
+ "title": "Whispers Of Yesterday Review · Oct 12",
+ "subtitle": "10 feed (8 new images + 2 TOBIs) and 3 stories · 0 held · 0 from inbox (empty) · every image checked: quotes match word for word, no redos needed · note: story 2's red muscle car is unbadged but has a Camaro-like shape; post 5 has a faint artist-style squiggle in the bottom-left corner",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261012-01",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Childhood rules and rituals",
+   "quote": "WE DIDN'T HAVE PLAYDATES. WE HAD \"BE HOME BEFORE THE STREETLIGHTS COME ON.\"",
+   "caption": "You could be gone from breakfast till supper and nobody called a soul. There was one rule, and it hung over the whole neighborhood like the sky. When that first streetlight buzzed on at the end of the block, every bike on the street turned around at once. You'd hear screen doors slapping shut from three houses down. Nobody owned a watch, but nobody was ever late, either. That light was the most reliable clock in America, and every mother in town had it set to the same time.",
+   "first": "Our streetlight was right in front of the Hendersons' house, and it always took a minute to warm up. My brother and I used to argue about whether the flicker counted or whether we had until it went full bright. Mom never once agreed with our interpretation.\n\n#WhispersOfYesterday #ChildhoodMemories #GrowingUpIn60s #RememberWhen #BoomerMemories #NostalgiaTrip",
+   "prompt": "A richly painted photorealistic illustration in warm golden-hour light, a 1960s tree-lined suburban street at dusk, the first streetlight just flickering on. Three children of about nine and ten in striped t-shirts, dungarees and sneakers race their bicycles toward home, a baseball glove hanging from one handlebar, while a mother in a 1960s house dress stands on a front porch with one hand on her hip. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"WE DIDN'T HAVE PLAYDATES. WE HAD \"BE HOME BEFORE THE STREETLIGHTS COME ON.\"\". Norman Rockwell influence, warm amber and honey tones, highly detailed, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-12/wy-20261012-01.png"
+  },
+  {
+   "id": "wy-20261012-02",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Old jobs and skills",
+   "quote": "FULL SERVICE MEANT SOMEBODY ELSE PUMPED THE GAS, CHECKED THE OIL, AND WASHED THE WINDSHIELD.",
+   "caption": "You'd pull in, roll over that rubber hose, and a bell would ding somewhere inside the garage. Before your tires stopped rolling, a fellow in a cap was already at your window asking, \"Fill 'er up?\" He'd check your oil and show you the dipstick like a doctor showing you an X-ray. Then he'd wash the windshield, front and back, and check the air in your tires without being asked. You paid him in cash and he made change out of a coin changer on his belt. Nobody tipped him and nobody expected it. He just figured that's what the job was.",
+   "first": "My first real job was at a station on Route 9 the summer I turned sixteen. The owner told me the windshield was the most important part, because it's the last thing the customer looks through when they drive away. I still can't pass a dirty windshield without wanting to fix it.\n\n#WhispersOfYesterday #OldSchool #BackInTheDay #AmericanNostalgia #RememberWhen #GrowingUpIn60s",
+   "prompt": "A realistic color photograph from the early 1960s with slightly faded warm Kodachrome tones, a young gas station attendant in a pressed uniform shirt and cap leans over the windshield of a two-tone 1950s sedan with a squeegee, while an older attendant checks the oil under the raised hood; plain unbranded round-top gas pumps, a small-town service station with a garage bay behind them. Authentic period photojournalism style, fine film grain. Bold white uppercase text at the top reads exactly: \"FULL SERVICE MEANT SOMEBODY ELSE PUMPED THE GAS, CHECKED THE OIL, AND WASHED THE WINDSHIELD.\". Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-12/wy-20261012-02.png"
+  },
+  {
+   "id": "wy-20261012-03",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Old-school parenting",
+   "quote": "MY MOTHER HAD A LOOK THAT COULD STOP A FREIGHT TRAIN AT 40 YARDS.",
+   "caption": "She never had to raise her voice. She didn't have to say a single word. You'd be reaching for something you had no business reaching for, and the back of your neck would just go cold. You'd turn around, and there she was in the doorway with one eyebrow slightly up. That was it. That was the whole sentence. Grown men who worked at the plant with my father were scared of that look, and they'd only seen it once.",
+   "first": "I tested the look exactly one time, at my cousin's wedding when I was nine. I made it about two steps toward the cake table before I felt it from across the hall. I sat back down and folded my hands like a choirboy for the rest of the night.\n\n#WhispersOfYesterday #BoomerMemories #OldSchool #ChildhoodMemories #GrowingUpIn60s #NostalgiaTrip #GenX",
+   "prompt": "A richly painted photorealistic illustration in warm golden-hour light, a 1960s kitchen with yellow cabinets, a checkered floor and a ceramic cookie jar on the counter. A boy of about eight stands frozen on a step stool with his hand halfway into the cookie jar, eyes wide. In the doorway, his mother in a 1960s apron and pearl earrings stands with her arms folded, one eyebrow raised, giving him a calm but devastating look. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"MY MOTHER HAD A LOOK THAT COULD STOP A FREIGHT TRAIN AT 40 YARDS.\". Norman Rockwell influence, warm amber and honey tones, highly detailed, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-12/wy-20261012-03.png"
+  },
+  {
+   "id": "wy-20261012-t1",
+   "kind": "tobi",
+   "template": "TOBI (black)",
+   "character": "Old-school parenting",
+   "quote": "If you heard your full name from the back door, middle name included, you came running. No questions asked.",
+   "caption": "",
+   "first": "Mine was \"Robert Allen,\" and when both names came out together, it meant somebody had found the broken flower pot. I don't think I've ever run faster in my life, before or since.\n\n#WhispersOfYesterday #BoomerMemories #GenX #ChildhoodMemories #RememberWhen #BackInTheDay"
+  },
+  {
+   "id": "wy-20261012-05",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Lost school subjects (old skills)",
+   "quote": "HOME EC AND WOOD SHOP / WE LEARNED TO SEW A HEM AND BUILD A BIRDHOUSE BEFORE WE LEARNED TO DRIVE.",
+   "caption": "Third period was Home Ec, and the room always smelled like warm sewing machine oil and somebody's burnt cinnamon toast. Down the hall, you could hear the band saw whining in Wood Shop. They taught us to thread a bobbin, balance a checkbook, and plane a board straight without taking a finger off. Nobody called them life skills back then. They were just classes, same as algebra. Half the birdhouses we made were crooked, and every one of them hung in somebody's backyard for twenty years.",
+   "first": "I made an apron in Home Ec that my mother wore every Thanksgiving until 1994. The pocket was sewn on slightly crooked, and she said that was her favorite part. When she passed, my sister found it folded in the kitchen drawer.\n\n#WhispersOfYesterday #RememberWhen #OldSchool #GrowingUpIn60s #GrowingUpIn70s #BoomerMemories",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, split vertically into two framed panels: the left panel shows a teenage girl in a 1960s blouse and apron carefully guiding fabric through a sewing machine in a school home economics room; the right panel shows a teenage boy in safety goggles and a shop apron hammering together a wooden birdhouse at a school wood shop bench, hand tools on a pegboard behind him. Bold retro serif headline text at top reads exactly: \"HOME EC AND WOOD SHOP\". Subtitle text below it reads exactly: \"WE LEARNED TO SEW A HEM AND BUILD A BIRDHOUSE BEFORE WE LEARNED TO DRIVE.\". Saturday Evening Post illustration style, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-12/wy-20261012-05.png"
+  },
+  {
+   "id": "wy-20261012-06",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Crafts and homemaking",
+   "quote": "A NEW PATTERN, A YARD OF GINGHAM, AND A SPOOL OF RICKRACK. SUNDAY WAS GOING TO BE BEAUTIFUL.",
+   "caption": "The fabric store was the quietest happy place in town. You'd walk in and run your hand along those bolts like you were reading a book. The pattern drawer was a whole afternoon's work, flipping through envelopes until the right dress jumped out at you. The lady at the counter would measure your yard against the brass ruler nailed to the wood, snip it, and tear the rest with one clean pull. Then came the rickrack, the buttons, and a spool of thread matched by holding it up to the window light. By Saturday night the kitchen table was covered in pins. By Sunday morning, you had something nobody else in church was wearing.",
+   "first": "My grandmother could look at a dress in a store window and sew it from memory without a pattern. I used to sit under her sewing table and collect the pins she dropped in a little magnet dish. I still have that dish.\n\n#WhispersOfYesterday #VintageLife #RememberWhen #GrowingUpIn60s #AmericanNostalgia #NostalgiaTrip",
+   "prompt": "A richly painted photorealistic illustration in warm golden-hour light, inside a 1960s small-town fabric store with tall wooden shelves of colorful fabric bolts, a long wooden measuring counter and spools of ribbon. A woman in her thirties in a 1960s shirtwaist dress holds a folded length of blue gingham and a spool of white rickrack against her chest, smiling dreamily, a paper sewing pattern envelope with no lettering in her other hand. A cloud-shaped white thought bubble above her head with bold black text reads exactly: \"A NEW PATTERN, A YARD OF GINGHAM, AND A SPOOL OF RICKRACK. SUNDAY WAS GOING TO BE BEAUTIFUL.\". Norman Rockwell influence, warm amber and honey tones, highly detailed, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-12/wy-20261012-06.png"
+  },
+  {
+   "id": "wy-20261012-07",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Cars and driving culture",
+   "quote": "THE WAY-BACK OF THE STATION WAGON WAS THE BEST SEAT IN AMERICA.",
+   "caption": "Mom and Dad got the front. The baby got the middle. But if you were lucky, you got the way-back. Facing backward, waving at every truck driver until one of them blew his horn. You could stretch out on a blanket, play cards, and pretend you were riding a train across the country. When Dad hit the brakes, everything back there slid forward, including you. Nobody ever counted that as a problem. Two hundred miles to Grandma's, and it felt like the best ride at the county fair.",
+   "first": "Our wagon was a pale green with fake wood on the sides, and my dad loved it more than he let on. My sister and I worked out a system where we traded the way-back every hundred miles. She cheated by falling asleep so I couldn't move her.\n\n#WhispersOfYesterday #GrowingUpIn70s #ChildhoodMemories #BackInTheDay #RetroLife #RememberWhen #GenX",
+   "prompt": "A realistic color photograph from the late 1960s with faded warm film tones, a long woodgrain-paneled family station wagon with no visible badges parked in a sunny suburban driveway, the rear tailgate window rolled down and three laughing children of about seven to ten sitting in the rear cargo area facing backward with a picnic basket and a plaid blanket, their father loading a cooler beside them. Authentic period photojournalism style, fine film grain. Bold white uppercase text at the top reads exactly: \"THE WAY-BACK OF THE STATION WAGON WAS THE BEST SEAT IN AMERICA.\". Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-12/wy-20261012-07.png"
+  },
+  {
+   "id": "wy-20261012-t2",
+   "kind": "tobi",
+   "template": "TOBI (black)",
+   "character": "Childhood rules and rituals",
+   "quote": "Saturday morning: up before the sun, cereal in a big bowl, cartoons until Mom ran the vacuum right in front of the TV.",
+   "caption": "",
+   "first": "We had one TV and three kids, so whoever got up first held the dial. I set no alarm in my life the way I set my own internal clock on Saturdays. I was up at 5:58 every week, sitting cross-legged on the rug, waiting for the test pattern to go away.\n\n#WhispersOfYesterday #ChildhoodMemories #GrowingUpIn70s #GenX #RememberWhen #BoomerMemories"
+  },
+  {
+   "id": "wy-20261012-09",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Values and punctuality",
+   "quote": "BETTER TO BE TEN MINUTES EARLY THAN ONE MINUTE LATE.",
+   "caption": "In our house, the car started at 9:40 for 10 o'clock church, and it was eight minutes away. My father would be standing by the door with his keys at 9:35, saying nothing. He didn't have to. The whole family moved around him like he was a lighthouse. If you showed up at the same time as everybody else, as far as he was concerned, you were late. He'd say, \"Early is respect.\" We rolled our eyes at it for years. Funny how every one of us ended up the first car in the parking lot.",
+   "first": "My dad drove for a dairy for thirty-one years and was never once late for a route. When he retired, they gave him a gold watch, and he laughed because he didn't need it. He'd been running on his own clock his whole life.\n\n#WhispersOfYesterday #OldSchool #BoomerMemories #AmericanNostalgia #GoodOldDays #GrowingUpIn60s",
+   "prompt": "A richly painted photorealistic illustration in warm golden-hour light, the front hallway of a 1960s home on a Sunday morning. A father in a dark suit and narrow tie stands by the open front door tapping his wristwatch, car keys in hand, while his family hurries down the stairs behind him: a mother pinning on a small hat, a girl in a church dress and white gloves, a boy struggling into a clip-on tie. A white rounded speech bubble with a tail pointing to the father, with bold black text, reads exactly: \"BETTER TO BE TEN MINUTES EARLY THAN ONE MINUTE LATE.\". Norman Rockwell influence, warm amber and honey tones, highly detailed, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-12/wy-20261012-09.png"
+  },
+  {
+   "id": "wy-20261012-10",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Humor about today vs. then (the family phone)",
+   "quote": "ONE PHONE. ONE CORD. SEVEN PEOPLE. / AND EVERYBODY HEARD EVERY WORD.",
+   "caption": "The phone hung on the kitchen wall, and that's where it stayed. If you wanted privacy, you stretched that curly cord as far down the hallway as it would go and closed the closet door on it. Your little brother was always listening on the extension. Dad was always \"just reading the paper\" in the next room. When the call ran too long, somebody would start picking up the receiver and setting it down again. We learned to say a whole lot in very few words. Some of the best talks of my life happened sitting on that hallway floor.",
+   "first": "Our phone cord got stretched so many times it reached all the way to the basement stairs. My father finally bought a 25-foot replacement and said it was a gift for the whole family. Really, he just wanted the hallway back.\n\n#WhispersOfYesterday #GrowingUpIn60s #GrowingUpIn70s #RetroLife #RememberWhen #NostalgiaTrip",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, split vertically into two framed panels: the left panel shows a rotary telephone mounted on a kitchen wall with a very long curly cord stretching out of frame; the right panel shows a teenage girl in a 1960s sweater lying stretched out on the hallway floor with the receiver at her ear and the cord pulled tight around the corner, while a younger brother peeks from behind a door and a father reads the newspaper in the next room pretending not to listen. Bold retro serif headline text at top reads exactly: \"ONE PHONE. ONE CORD. SEVEN PEOPLE.\". Subtitle text below it reads exactly: \"AND EVERYBODY HEARD EVERY WORD.\". Saturday Evening Post illustration style, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-12/wy-20261012-10.png"
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261012-1",
+   "kind": "story",
+   "template": "T2 vintage photo",
+   "character": "Real-photo nostalgia (soda fountain)",
+   "quote": "A STOOL AT THE SODA FOUNTAIN AND A NICKEL IN YOUR POCKET. THAT WAS A GOOD DAY.",
+   "caption": "",
+   "first": "",
+   "prompt": "A realistic black-and-white vintage photograph from the 1950s, high contrast, a small-town drugstore soda fountain with a long counter, chrome-trimmed spinning stools, glass sundae dishes and a soda jerk in a white paper cap and bow tie handing a tall milkshake with two straws to a boy and girl of about twelve sitting at the counter, no visible store names or brand signs. Authentic period photojournalism style, fine film grain. Bold white uppercase text at the bottom, above the lower edge, reads exactly: \"A STOOL AT THE SODA FOUNTAIN AND A NICKEL IN YOUR POCKET. THAT WAS A GOOD DAY.\". Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-12/stories/wys-20261012-1.png"
+  },
+  {
+   "id": "wys-20261012-2",
+   "kind": "story",
+   "template": "T1 illustrated scene",
+   "character": "Cars and driving culture",
+   "quote": "A ROARING V8 WITH NO MUFFLER ANNOUNCED YOU TO THE ZIP CODE BEFORE YOU ARRIVED.",
+   "caption": "",
+   "first": "",
+   "prompt": "A richly painted photorealistic illustration in warm golden-hour light, a quiet 1960s suburban street on a summer evening. A grinning young man of about twenty with slicked-back hair and a white t-shirt rolls slowly past in a gleaming candy-red late-1960s muscle car with no visible badges, exhaust rumbling. On the sidewalk, an older neighbor lady in a housecoat and curlers at her mailbox covers her ears, and a dog on a porch sits up startled. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"A ROARING V8 WITH NO MUFFLER ANNOUNCED YOU TO THE ZIP CODE BEFORE YOU ARRIVED.\". Norman Rockwell influence, warm amber and honey tones, highly detailed, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-12/stories/wys-20261012-2.png"
+  },
+  {
+   "id": "wys-20261012-3",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Crafts and homemaking (kitchen)",
+   "quote": "NO MEASURING CUPS. JUST GRANDMA'S HANDS. / A PINCH, A DASH, AND \"UNTIL IT LOOKS RIGHT.\"",
+   "caption": "",
+   "first": "",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a single warm kitchen scene: a smiling grandmother in a floral apron and wire-rim glasses kneads dough on a floured wooden table, a wooden recipe box with handwritten index cards open beside a crock of flour and a rolling pin, a granddaughter of about seven standing on a chair beside her watching closely. Bold retro serif headline text at top reads exactly: \"NO MEASURING CUPS. JUST GRANDMA'S HANDS.\". Subtitle text below it reads exactly: \"A PINCH, A DASH, AND \"UNTIL IT LOOKS RIGHT.\"\". Saturday Evening Post illustration style, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-12/stories/wys-20261012-3.png"
+  }
+ ]
+}
