@@ -1,194 +1,191 @@
 {
- "title": "Wine Wimsey Review · Oct 12",
- "subtitle": "12 feed (2 held from Oct 11 + 8 new images + 2 TOBIs) and 4 stories · 0 from inbox (empty) · every image checked: quotes match word for word, no redos needed",
- "bucket": "Wine Wimsy",
- "story_bucket": "Wine Wimsy Stories",
- "posts": [
-  {
-   "id": "ww-20261012-01",
-   "kind": "image",
-   "template": "F illustrated scene",
-   "character": "The Settled One",
-   "quote": "Peace is a porch, a quiet evening, and nobody asking what's for dinner.",
-   "caption": "The house emptied out around 6 last night. My husband went to his brother's for the game, and the grandkids went home with full bellies and a bag of leftover cookies. I stood in the kitchen for a minute listening to nothing. The dishwasher humming. A neighbor's sprinkler. Then I took a glass out to the porch and sat in the rocker that squeaks on the left side. Nobody needed me to find anything. Nobody asked what we were eating. The sun went down behind the Millers' oak tree like it does every night, except this time I actually watched it. Dinner was crackers. Perfect.",
-   "first": "That rocker belonged to my grandmother. It squeaked on her porch too, same exact spot, for as long as I can remember. My husband keeps offering to oil it. I keep telling him no. Some sounds you don't fix. You just let them keep you company.",
-   "image": "images/wine-wimsey/2026-10-11/ww-011.png",
-   "heldFrom": "ww-011"
-  },
-  {
-   "id": "ww-20261012-02",
-   "kind": "image",
-   "template": "I2 speech bubble",
-   "character": "The Bold One",
-   "quote": "Age is just a number. Mine happens to be unlisted.",
-   "caption": "At my doctor's office last week, the new receptionist asked me to confirm my date of birth. Out loud. In a full waiting room. I gave her the month and the day and then just stood there smiling. She waited. I waited. Eventually she said, \"And the year?\" I said, \"It's in the file, sweetheart.\" The man behind me laughed so hard he had to sit down. She found it in the file. She did not say it out loud, bless her. I've decided this is how it goes from now on. My age is need-to-know, and very few people need to know.",
-   "first": "My grandmother lied about her age for so long that when she passed, none of us were sure how old she really was. We had to go find her birth certificate. She'd taken six years off. We put the real number on the program. She'd have been furious, and also secretly proud.",
-   "image": "images/wine-wimsey/2026-10-11/ww-012.png",
-   "heldFrom": "ww-012"
-  },
-  {
-   "id": "ww-20261012-03",
-   "kind": "image",
-   "template": "I2 speech bubble",
-   "character": "The Hot Mess",
-   "quote": "I found my reading glasses. They were on my head. I'd been wearing them to look for them.",
-   "caption": "Twenty minutes. That's how long the search went on Saturday morning before I figured it out. I checked the couch cushions, the bathroom counter, the junk drawer, the car, and the pocket of the coat I haven't worn since March. I called my sister to complain about it. She asked what I was reading the junk drawer labels with. I didn't have an answer for that. I went to the hall mirror to make a face at myself and there they were, sitting on top of my head like they'd been watching the whole time. I've decided they were.",
-   "first": "I own six pairs of readers now. One in the car, one by the bed, one in my purse, one in the kitchen, and two I have never seen again. The kitchen pair has a chip in the left lens from when I sat on them. They're still my favorite.",
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a woman in her early 50s with auburn-brown hair streaked with grey piled in a collapsing messy bun with a pencil stuck in it, warm complexion, laugh lines, wildly expressive face, wearing a zip-up puffer vest over a striped long-sleeve shirt, standing in a cluttered hallway beside a coat rack, couch cushions tossed on the floor behind her and an open junk drawer spilling batteries and rubber bands. Her red reading glasses are pushed up on top of her head while she squints and pats her pockets with one hand, holding a glass of red wine in the other, mouth open mid-realization. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I FOUND MY READING GLASSES. THEY WERE ON MY HEAD. I'D BEEN WEARING THEM TO LOOK FOR THEM.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/ww-20261012-03.png"
-  },
-  {
-   "id": "ww-20261012-t1",
-   "kind": "tobi",
-   "template": "TOBI",
-   "character": "",
-   "quote": "Told my husband I needed space. He cleaned out one drawer. Twenty-six years and that man still thinks small.",
-   "caption": "",
-   "first": "He was very proud of that drawer. He showed it to me twice. I put my good scarves in it and said thank you, because twenty-six years also teaches you which battles come with a sandwich afterward and which ones don't."
-  },
-  {
-   "id": "ww-20261012-05",
-   "kind": "image",
-   "template": "A retro pop art",
-   "character": "",
-   "quote": "I don't need a hobby. I already have a full-time job ignoring the group chat.",
-   "caption": "Forty-one unread messages. That was the number at 7:15 this morning, and it was all one thread about whether Linda's birthday dinner should be Italian or that new tapas place. I read the first three. I muted the rest. By lunch it was up to ninety, and somebody had started a poll. Somebody else voted twice. I made a sandwich and ate it on the back step with my phone face down on the railing. Around four I scrolled to the bottom, saw they'd picked Italian, and sent a thumbs up. Nobody needs to know the rest.",
-   "first": "My niece set my phone up so the group chat doesn't buzz anymore. Best thing anyone has done for me all year. It just sits there quietly filling up, like a bathtub in another room I'm in no hurry to check on.",
-   "prompt": "A retro 1950s pop art comic illustration of a glamorous woman in her late 40s with a dark bobbed hairdo, red lipstick and a mint-green polka dot blouse, lounging on a turquoise kitchen chair holding a glass of red wine in one hand and holding a vintage phone at arm's length with the other, one eyebrow raised in total disinterest. Vibrant hot pink background with Ben-Day dots halftone texture, thick black comic book border around the entire panel. Bold black uppercase text in a white banner at the top reads exactly: \"I DON'T NEED A HOBBY.\" Bold black uppercase text in a white banner lower in the panel, above the bottom edge, reads exactly: \"I ALREADY HAVE A FULL-TIME JOB IGNORING THE GROUP CHAT.\" Retro pop art illustration style, thick black outlines, flat vibrant colors, Roy Lichtenstein influence, 1950s advertising aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/ww-20261012-05.png"
-  },
-  {
-   "id": "ww-20261012-06",
-   "kind": "image",
-   "template": "I2 speech bubble",
-   "character": "The Bold One",
-   "quote": "If you start a sentence with 'no offense,' I've already started a list.",
-   "caption": "There's a woman at my book club who opens every comment the same way. Last Thursday she said it four times before we'd even gotten to chapter two. No offense, but your lasagna was a little dry. No offense, but that sweater is a choice. I kept count on the back of my bookmark. Little tally marks, very neat. At the end of the night she asked what I was writing, and I told her it was my notes on the book. She said she'd love to see them sometime. No offense, but she won't.",
-   "first": "My mother had a rule about people who say 'no offense.' She'd smile, say 'none taken,' and then never lend them a casserole dish again. I didn't understand it until I was about forty-five. Now I have a whole cabinet of dishes I'm very careful about.",
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a plus-size woman in her 50s with a massive wild halo of deep auburn copper curls, round full-cheeked face, round thin wire-frame glasses, bold wine-red lipstick, large gold hoop earrings, wearing a bold geometric-print tunic in burnt orange, deep purple and mustard, at a cozy living-room book club gathering, other chairs and a coffee table with paperback books and a cheese plate around her. Her right hand is raised flat palm-out in a firm 'stop' gesture while her left hand holds a glass of red wine at chest height, mid-declaration, giving a sharp side-eye toward someone just out of frame. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"IF YOU START A SENTENCE WITH 'NO OFFENSE,' I'VE ALREADY STARTED A LIST.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/ww-20261012-06.png"
-  },
-  {
-   "id": "ww-20261012-07",
-   "kind": "image",
-   "template": "H character card",
-   "character": "The Glamorous One",
-   "quote": "My knees make a noise every time I stand up. I've started treating it like applause.",
-   "caption": "The first time it happened in public was at my cousin's wedding. I stood up from the table to go dance, and both knees went off like a bowl of cereal. The whole table heard it. My cousin's new husband actually turned around to see what broke. I could have sat back down and pretended nothing happened. Instead I gave a small bow, fixed my dress, and walked to the dance floor like I'd been announced. Nobody said a word. The DJ played Earth, Wind & Fire. I'm taking that as a sign.",
-   "first": "My husband says his knees sound like a campfire in the morning. Mine are more of a drumroll. We get up off the couch at the same time sometimes and it sounds like a small band warming up. The dog leaves the room every time. Critics, all of them.",
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her late 40s with shoulder-length two-tone hair, dark at the roots fading to silver-white waves, full and styled; strong cheekbones, heavy-lidded knowing eyes, bold wine-red lipstick, medium gold hoop earrings, wearing a deep navy blue wrap-style V-neck dress, shown from the waist up, rising elegantly from a chair with one hand on her hip and a glass of red wine held near her shoulder, chin lifted, one eyebrow raised, a slight smirk as if accepting applause. Thick black ink outlines, flat color fills, slightly exaggerated comic features. Simple soft cream background with no room details; the character is the focus. Hand-lettered black text in a handwritten serif font positioned above the character, flowing directly on the background, not inside any bubble, box or banner, in natural sentence case, reads exactly: \"My knees make a noise every time I stand up. I've started treating it like applause.\". Aunty Acid comic illustration style, flat 2D, thick outlines, no panel border, no frame. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/ww-20261012-07.png"
-  },
-  {
-   "id": "ww-20261012-08",
-   "kind": "image",
-   "template": "E comic panel",
-   "character": "The Homebody",
-   "quote": "Anyone else hear the doorbell and freeze like a deer, even when you ordered the pizza yourself?",
-   "caption": "Friday night, 7:40. I had placed the order myself, tracked it on my phone like an air traffic controller, and watched the little car icon turn onto my street. Then the doorbell rang and I froze on the couch like someone had called my name in a library. I muted the TV. I held my breath. I was hiding from my own dinner. It took me a full ten seconds to remember I was the one who invited him. I tipped extra, partly out of guilt. He said have a good night. I absolutely did.",
-   "first": "When I was a kid, my dad would turn off every light in the house if someone knocked after dark and we weren't expecting them. We'd all sit on the floor and whisper. I used to think it was a game. Turns out it was genetic.",
-   "prompt": "A colorful cartoon comic panel illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater, lavender loose pants and dusty pink fluffy slippers, fully reclined on a big floral-patterned armchair with pink and mauve flowers on cream, feet up, frozen mid-motion with eyes wide like a startled deer, clutching a glass of red wine to her chest, the TV remote in her other hand. A front door is visible across the cozy living room, a wine bottle on a side table beside her, a floor lamp glowing. Bright sunny yellow background walls, thick black comic book border around the entire panel. Bold black uppercase text in a white strip at the top of the panel reads exactly: \"ANYONE ELSE HEAR THE DOORBELL AND FREEZE LIKE A DEER,\". Bold black uppercase text in a white strip near the bottom of the panel reads exactly: \"EVEN WHEN YOU ORDERED THE PIZZA YOURSELF?\". Within that bottom text, the word \"YOURSELF\" is rendered in bold red while all other words are bold black. Cartoon illustration style, thick black outlines, flat vibrant colors, expressive exaggerated facial features, Sunday newspaper comic aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/ww-20261012-08.png"
-  },
-  {
-   "id": "ww-20261012-t2",
-   "kind": "tobi",
-   "template": "TOBI",
-   "character": "",
-   "quote": "Nobody warns you that one day you'll get excited about a new sponge. Tuesday I got excited about a new sponge.",
-   "caption": "",
-   "first": "It was a two-pack, blue and yellow, the kind with the scrubby side. I opened it the second I got home. My old sponge had been hanging on since the Fourth of July. I didn't throw it out. I demoted it to the garage, where it will live out its days with dignity."
-  },
-  {
-   "id": "ww-20261012-10",
-   "kind": "image",
-   "template": "I2 speech bubble",
-   "character": "The Settled One",
-   "quote": "I stopped ironing in 2009. Nobody noticed. I've applied this lesson broadly.",
-   "caption": "The iron is still in the hall closet. Top shelf, behind the extra light bulbs, with the cord wrapped around it exactly the way I left it all those years ago. I remember the exact shirt. A white button-down for a work luncheon, and halfway through the left sleeve I just stopped and put it on wrinkled. I sat through two hours of chicken salad and a slideshow and not one person mentioned it. That afternoon, I quit three committees. I've stuck with it ever since, very consistently. It's the only thing I've ever been consistent about.",
-   "first": "My daughter asked last Christmas why I don't own a steamer. I told her I own a dryer and a little patience. Throw the shirt in for ten minutes with a damp washcloth and go sit down for a while. By the time you're ready, the shirt is too, more or less.",
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her early 60s with silver-white jaw-length softly waved hair, calm angular face with fine lines, round lavender-tinted glasses, wearing an oversized oatmeal knit sweater and soft sage joggers, barefoot, sitting at a sunny kitchen table with a slightly wrinkled linen tablecloth, an old dusty iron sitting on a high shelf in the background. She leans back calmly in her chair, one bare foot tucked under her, holding a glass of white wine, with a faintly amused, unbothered expression, as if stating a simple fact. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I STOPPED IRONING IN 2009. NOBODY NOTICED. I'VE APPLIED THIS LESSON BROADLY.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/ww-20261012-10.png"
-  },
-  {
-   "id": "ww-20261012-11",
-   "kind": "image",
-   "template": "I speech bubble",
-   "character": "The Glamorous One",
-   "quote": "My phone says my screen time is up 40 percent this week. That's the most growth I've shown in years.",
-   "caption": "It shows up every Sunday morning at 9, right when I'm trying to enjoy my coffee. A little report card nobody asked for. This week it came with an arrow pointing up and a number I'm choosing to read as ambition. Five hours a day. Most of it was looking at houses I'll never buy in towns I'll never visit, and one very long video of a man restoring a rusty pocketknife. I learned a lot about pocketknives. I'd call that education. My phone would call it a problem. We've agreed to disagree.",
-   "first": "There was a stretch on Wednesday when I watched a woman in Maine reorganize her entire pantry into glass jars. Forty-five minutes. I don't even like her pantry. I just couldn't leave until I knew where the lentils ended up. They went on the top shelf, for the record.",
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her late 40s with shoulder-length two-tone hair, dark at the roots fading to silver-white waves, full and styled; strong cheekbones, heavy-lidded knowing eyes, bold wine-red lipstick, medium gold hoop earrings, wearing a deep navy blue wrap-style V-neck dress in a chic hotel lobby lounge with velvet chairs and potted palms. She leans an elbow on a marble bar counter, holding a glass of red wine near her shoulder in one hand and her smartphone up in the other, looking at it with a dry, self-satisfied smirk. A clean white speech bubble with a thin black outline rises from the character near the top of the image. Inside the speech bubble, black sentence-case text in a clean hand-drawn font reads exactly: \"My phone says my screen time is up 40 percent this week. That's the most growth I've shown in years.\". Text neatly formatted with natural line breaks. Illustration style: flat cartoon vector style with clean black outlines, vibrant flat colors, no comic book panel border, no frame, full-bleed scene. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/ww-20261012-11.png"
-  },
-  {
-   "id": "ww-20261012-12",
-   "kind": "image",
-   "template": "C vintage B&W",
-   "character": "",
-   "quote": "Friends for thirty years means we can sit in silence and both know exactly who we're judging.",
-   "caption": "Patty and I met in 1994 in the waiting room of a car dealership. Both of us were getting robbed on an oil change and both of us knew it. We've been friends ever since. These days we don't even need to talk much. Last month at a baby shower, a woman across the room announced she was 'just not a cake person.' Patty didn't look at me. I didn't look at her. We both took a very slow sip of our drinks at the exact same moment. That's thirty years right there. You can't teach it.",
-   "first": "My mother and her best friend had a whole language made of eyebrows. One up meant 'did you hear that.' Both up meant 'we're leaving early.' I used to think they were just making faces. Now I know they were having entire conversations right in front of us.",
-   "prompt": "An authentic vintage 1950s black and white photograph, PURE MONOCHROME with zero color saturation anywhere in the image. Two glamorous women in their late 40s in tailored dresses and pearl necklaces, seated side by side on a settee at an elegant 1950s cocktail party, each holding a wine glass, both with the same slightly raised eyebrow and knowing sideways glance toward someone off-camera, unmistakably sharing the same unspoken opinion. Other guests blurred in the background. Authentic Kodak Tri-X 400 film aesthetic, visible film grain, soft contrast, aged paper texture, subtle vignette darkening toward the edges, period-accurate 1950s styling in every detail. Everything in the image is pure black, white, and grayscale, no color tints, no sepia. A solid burgundy color banner bar (burgundy #722F37, the ONLY color in the image) covers the lower part of the image, just above a plain strip at the very bottom. Bold cream-white uppercase serif text inside the burgundy banner reads exactly: \"FRIENDS FOR THIRTY YEARS MEANS WE CAN SIT IN SILENCE AND BOTH KNOW EXACTLY WHO WE'RE JUDGING.\" Text is clean, centered, 2-3 lines. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": true,
-   "image": "images/wine-wimsey/2026-10-12/ww-20261012-12.png"
-  }
- ],
- "stories": [
-  {
-   "id": "ws-20261012-1",
-   "kind": "story",
-   "template": "I2 speech bubble",
-   "character": "The Homebody",
-   "quote": "My couch and I have been through a lot together. Mostly naps.",
-   "caption": "",
-   "first": "",
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater, lavender loose pants and dusty pink fluffy slippers, sunk deep into an overstuffed floral sofa piled with throw pillows and a crocheted blanket, a wine bottle on the side table. She is fully reclined, feet up, eyes half-closed and blissful, raising a glass of red wine with a sleepy grin. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"MY COUCH AND I HAVE BEEN THROUGH A LOT TOGETHER. MOSTLY NAPS.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-1.png"
-  },
-  {
-   "id": "ws-20261012-2",
-   "kind": "story",
-   "template": "I2 speech bubble",
-   "character": "The Bold One",
-   "quote": "Don't call me after 8. Text me after 8. Actually, just wait until tomorrow.",
-   "caption": "",
-   "first": "",
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a plus-size woman in her 50s with a massive wild halo of deep auburn copper curls, round full-cheeked face, round thin wire-frame glasses, bold wine-red lipstick, large gold hoop earrings, wearing a bold geometric-print tunic in burnt orange, deep purple and mustard, in her garden at dusk with string lights in the trees, a patio chair behind her. Her right hand is raised flat palm-out in a 'stop' gesture toward a ringing phone on the patio table, her left hand holding a glass of red wine at chest height, firm no-nonsense expression. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"DON'T CALL ME AFTER 8. TEXT ME AFTER 8. ACTUALLY, JUST WAIT UNTIL TOMORROW.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-2.png"
-  },
-  {
-   "id": "ws-20261012-3",
-   "kind": "story",
-   "template": "F illustrated scene",
-   "character": "The Settled One",
-   "quote": "The leaves don't rush and neither do I.",
-   "caption": "",
-   "first": "",
-   "prompt": "A hand-drawn cartoon illustration in a soft painterly style featuring a slim woman in her early 60s with silver-white jaw-length softly waved hair, calm angular face with fine lines, round lavender-tinted glasses, wearing an oversized oatmeal knit sweater and soft sage joggers, in sheepskin slippers, seated in an Adirondack chair on a back porch, holding a glass of red wine, watching orange and gold autumn leaves drift down from a big maple tree in the yard, a warm knit blanket over her lap, soft late-afternoon light, peaceful unhurried mood. Illustration style: clean black line art with soft flat color fills, slight watercolor texture, warm earthy autumn palette, no comic book border, no panel frame, full-bleed. Bold black uppercase sans-serif text at the very top of the image on a clean light cream horizontal strip reads exactly: \"THE LEAVES DON'T RUSH\". Bold black uppercase sans-serif text on a matching cream horizontal strip in the lower part of the image, above a plain bottom edge, reads exactly: \"AND NEITHER DO I.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-3.png"
-  },
-  {
-   "id": "ws-20261012-4",
-   "kind": "story",
-   "template": "H character card",
-   "character": "The Hot Mess",
-   "quote": "I put on mascara today. Let's not make it weird.",
-   "caption": "",
-   "first": "",
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a woman in her early 50s with auburn-brown hair streaked with grey piled in a collapsing messy bun with a pencil stuck in it, warm complexion, laugh lines, wildly expressive face, wearing a zip-up puffer vest over a striped long-sleeve shirt, her reading glasses hanging from her collar, shown from the waist up holding a mascara wand in one hand and a glass of red wine in the other, eyes dramatically wide with freshly done lashes, a mildly defensive expression. Thick black ink outlines, flat color fills, slightly exaggerated comic features. Simple pale mint background with no room details; the character is the focus. Hand-lettered black text in a handwritten serif font above the character, directly on the background, not inside any bubble, box or banner, in natural sentence case, reads exactly: \"I put on mascara today. Let's not make it weird.\". Aunty Acid comic illustration style, flat 2D, thick outlines, no panel border, no frame. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-4.png"
-  }
- ]
+  "title": "Wine Wimsey Review · Oct 12",
+  "subtitle": "12 feed (2 held from Oct 11 + 8 new images + 2 TOBIs) and 4 stories · 0 from inbox (empty) · every image checked: quotes match word for word, no redos needed · 4 replacements added for rejected posts",
+  "bucket": "Wine Wimsy",
+  "story_bucket": "Wine Wimsy Stories",
+  "posts": [
+    {
+      "id": "ww-20261012-01",
+      "kind": "image",
+      "template": "F illustrated scene",
+      "character": "The Settled One",
+      "quote": "Peace is a porch, a quiet evening, and nobody asking what's for dinner.",
+      "caption": "The house emptied out around 6 last night. My husband went to his brother's for the game, and the grandkids went home with full bellies and a bag of leftover cookies. I stood in the kitchen for a minute listening to nothing. The dishwasher humming. A neighbor's sprinkler. Then I took a glass out to the porch and sat in the rocker that squeaks on the left side. Nobody needed me to find anything. Nobody asked what we were eating. The sun went down behind the Millers' oak tree like it does every night, except this time I actually watched it. Dinner was crackers. Perfect.",
+      "first": "That rocker belonged to my grandmother. It squeaked on her porch too, same exact spot, for as long as I can remember. My husband keeps offering to oil it. I keep telling him no. Some sounds you don't fix. You just let them keep you company.",
+      "image": "images/wine-wimsey/2026-10-11/ww-011.png",
+      "heldFrom": "ww-011"
+    },
+    {
+      "id": "ww-20261012-02r",
+      "kind": "image",
+      "template": "I2 speech bubble",
+      "character": "The Hot Mess",
+      "quote": "I made a grocery list, left it on the counter, and came home with nine things that weren't on it. One of them was a fern.",
+      "caption": "Saturday, 9:40 a.m., I sat down with a pen and made a real list. Milk, eggs, coffee filters, the good bread. Four things. I even put it in order of the aisles, because I am a woman who plans. Then I walked out the door without it. At the store I relied on instinct, which apparently believes we need a candle called Autumn Hearth, two kinds of crackers, and a fern. The fern was on sale. I don't know what that has to do with anything. I got home and the list was right there on the counter, looking at me. We still have no coffee filters.",
+      "first": "The fern is doing better than I am, for the record. It's on the windowsill getting the good light. I watered it twice already. I have not watered myself once today, unless you count the wine, which I do.",
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-02r.png",
+      "replaces": "ww-20261012-02"
+    },
+    {
+      "id": "ww-20261012-03",
+      "kind": "image",
+      "template": "I2 speech bubble",
+      "character": "The Hot Mess",
+      "quote": "I found my reading glasses. They were on my head. I'd been wearing them to look for them.",
+      "caption": "Twenty minutes. That's how long the search went on Saturday morning before I figured it out. I checked the couch cushions, the bathroom counter, the junk drawer, the car, and the pocket of the coat I haven't worn since March. I called my sister to complain about it. She asked what I was reading the junk drawer labels with. I didn't have an answer for that. I went to the hall mirror to make a face at myself and there they were, sitting on top of my head like they'd been watching the whole time. I've decided they were.",
+      "first": "I own six pairs of readers now. One in the car, one by the bed, one in my purse, one in the kitchen, and two I have never seen again. The kitchen pair has a chip in the left lens from when I sat on them. They're still my favorite.",
+      "prompt": "An Aunty Acid-style flat cartoon illustration of a woman in her early 50s with auburn-brown hair streaked with grey piled in a collapsing messy bun with a pencil stuck in it, warm complexion, laugh lines, wildly expressive face, wearing a zip-up puffer vest over a striped long-sleeve shirt, standing in a cluttered hallway beside a coat rack, couch cushions tossed on the floor behind her and an open junk drawer spilling batteries and rubber bands. Her red reading glasses are pushed up on top of her head while she squints and pats her pockets with one hand, holding a glass of red wine in the other, mouth open mid-realization. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I FOUND MY READING GLASSES. THEY WERE ON MY HEAD. I'D BEEN WEARING THEM TO LOOK FOR THEM.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-03.png"
+    },
+    {
+      "id": "ww-20261012-t1",
+      "kind": "tobi",
+      "template": "TOBI",
+      "character": "",
+      "quote": "Told my husband I needed space. He cleaned out one drawer. Twenty-six years and that man still thinks small.",
+      "caption": "",
+      "first": "He was very proud of that drawer. He showed it to me twice. I put my good scarves in it and said thank you, because twenty-six years also teaches you which battles come with a sandwich afterward and which ones don't."
+    },
+    {
+      "id": "ww-20261012-05r",
+      "kind": "image",
+      "template": "I speech bubble",
+      "character": "The Settled One",
+      "quote": "I don't do drama anymore. I barely do Thursdays.",
+      "caption": "Somebody at church tried to fill me in on a feud last week. Two women, one casserole dish, a disagreement about whose it was. There were sides. There was a group text. I listened politely for about forty seconds and then I realized I didn't need to know how it ended. It's not that I don't care about people. I care a lot. I just don't have the energy for anything that requires a timeline. These days my calendar has three things on it and one of them is a nap. Thursday showed up anyway this week. I let it in, but I didn't offer it anything to drink.",
+      "first": "I gave up on a book club once because the meetings had a sign-up sheet for snacks. Not because of the snacks. Because of the sign-up sheet. I knew right then I'd become someone who reads alone, and honestly, I read more now.",
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-05r.png",
+      "replaces": "ww-20261012-05"
+    },
+    {
+      "id": "ww-20261012-06r",
+      "kind": "image",
+      "template": "I2 speech bubble",
+      "character": "The Homebody",
+      "quote": "My idea of meal prep is deciding at noon which takeout I'm ordering at six.",
+      "caption": "I bought the containers. The good glass ones with the snap lids, a whole set of twelve, because a woman on the internet made it look peaceful. Sunday afternoons, she said. Chop everything, portion it out, feel in control of your week. That was in March. The containers are still in the box in the pantry, and they look very organized in there. What I do instead is think about dinner around lunchtime, narrow it down to Thai or the pizza place by two, and commit by four. That's planning. That's a system. It's just not the system on the box.",
+      "first": "The Thai place knows my order now. Last week the girl said \"the usual?\" before I said a word, and I felt seen in a way I wasn't ready for. I tipped extra. I think we both know what this relationship is.",
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-06r.png",
+      "replaces": "ww-20261012-06"
+    },
+    {
+      "id": "ww-20261012-07",
+      "kind": "image",
+      "template": "H character card",
+      "character": "The Glamorous One",
+      "quote": "My knees make a noise every time I stand up. I've started treating it like applause.",
+      "caption": "The first time it happened in public was at my cousin's wedding. I stood up from the table to go dance, and both knees went off like a bowl of cereal. The whole table heard it. My cousin's new husband actually turned around to see what broke. I could have sat back down and pretended nothing happened. Instead I gave a small bow, fixed my dress, and walked to the dance floor like I'd been announced. Nobody said a word. The DJ played Earth, Wind & Fire. I'm taking that as a sign.",
+      "first": "My husband says his knees sound like a campfire in the morning. Mine are more of a drumroll. We get up off the couch at the same time sometimes and it sounds like a small band warming up. The dog leaves the room every time. Critics, all of them.",
+      "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her late 40s with shoulder-length two-tone hair, dark at the roots fading to silver-white waves, full and styled; strong cheekbones, heavy-lidded knowing eyes, bold wine-red lipstick, medium gold hoop earrings, wearing a deep navy blue wrap-style V-neck dress, shown from the waist up, rising elegantly from a chair with one hand on her hip and a glass of red wine held near her shoulder, chin lifted, one eyebrow raised, a slight smirk as if accepting applause. Thick black ink outlines, flat color fills, slightly exaggerated comic features. Simple soft cream background with no room details; the character is the focus. Hand-lettered black text in a handwritten serif font positioned above the character, flowing directly on the background, not inside any bubble, box or banner, in natural sentence case, reads exactly: \"My knees make a noise every time I stand up. I've started treating it like applause.\". Aunty Acid comic illustration style, flat 2D, thick outlines, no panel border, no frame. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-07.png"
+    },
+    {
+      "id": "ww-20261012-08",
+      "kind": "image",
+      "template": "E comic panel",
+      "character": "The Homebody",
+      "quote": "Anyone else hear the doorbell and freeze like a deer, even when you ordered the pizza yourself?",
+      "caption": "Friday night, 7:40. I had placed the order myself, tracked it on my phone like an air traffic controller, and watched the little car icon turn onto my street. Then the doorbell rang and I froze on the couch like someone had called my name in a library. I muted the TV. I held my breath. I was hiding from my own dinner. It took me a full ten seconds to remember I was the one who invited him. I tipped extra, partly out of guilt. He said have a good night. I absolutely did.",
+      "first": "When I was a kid, my dad would turn off every light in the house if someone knocked after dark and we weren't expecting them. We'd all sit on the floor and whisper. I used to think it was a game. Turns out it was genetic.",
+      "prompt": "A colorful cartoon comic panel illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater, lavender loose pants and dusty pink fluffy slippers, fully reclined on a big floral-patterned armchair with pink and mauve flowers on cream, feet up, frozen mid-motion with eyes wide like a startled deer, clutching a glass of red wine to her chest, the TV remote in her other hand. A front door is visible across the cozy living room, a wine bottle on a side table beside her, a floor lamp glowing. Bright sunny yellow background walls, thick black comic book border around the entire panel. Bold black uppercase text in a white strip at the top of the panel reads exactly: \"ANYONE ELSE HEAR THE DOORBELL AND FREEZE LIKE A DEER,\". Bold black uppercase text in a white strip near the bottom of the panel reads exactly: \"EVEN WHEN YOU ORDERED THE PIZZA YOURSELF?\". Within that bottom text, the word \"YOURSELF\" is rendered in bold red while all other words are bold black. Cartoon illustration style, thick black outlines, flat vibrant colors, expressive exaggerated facial features, Sunday newspaper comic aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-08.png"
+    },
+    {
+      "id": "ww-20261012-t2",
+      "kind": "tobi",
+      "template": "TOBI",
+      "character": "",
+      "quote": "Nobody warns you that one day you'll get excited about a new sponge. Tuesday I got excited about a new sponge.",
+      "caption": "",
+      "first": "It was a two-pack, blue and yellow, the kind with the scrubby side. I opened it the second I got home. My old sponge had been hanging on since the Fourth of July. I didn't throw it out. I demoted it to the garage, where it will live out its days with dignity."
+    },
+    {
+      "id": "ww-20261012-10",
+      "kind": "image",
+      "template": "I2 speech bubble",
+      "character": "The Settled One",
+      "quote": "I stopped ironing in 2009. Nobody noticed. I've applied this lesson broadly.",
+      "caption": "The iron is still in the hall closet. Top shelf, behind the extra light bulbs, with the cord wrapped around it exactly the way I left it all those years ago. I remember the exact shirt. A white button-down for a work luncheon, and halfway through the left sleeve I just stopped and put it on wrinkled. I sat through two hours of chicken salad and a slideshow and not one person mentioned it. That afternoon, I quit three committees. I've stuck with it ever since, very consistently. It's the only thing I've ever been consistent about.",
+      "first": "My daughter asked last Christmas why I don't own a steamer. I told her I own a dryer and a little patience. Throw the shirt in for ten minutes with a damp washcloth and go sit down for a while. By the time you're ready, the shirt is too, more or less.",
+      "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her early 60s with silver-white jaw-length softly waved hair, calm angular face with fine lines, round lavender-tinted glasses, wearing an oversized oatmeal knit sweater and soft sage joggers, barefoot, sitting at a sunny kitchen table with a slightly wrinkled linen tablecloth, an old dusty iron sitting on a high shelf in the background. She leans back calmly in her chair, one bare foot tucked under her, holding a glass of white wine, with a faintly amused, unbothered expression, as if stating a simple fact. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I STOPPED IRONING IN 2009. NOBODY NOTICED. I'VE APPLIED THIS LESSON BROADLY.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-10.png"
+    },
+    {
+      "id": "ww-20261012-11",
+      "kind": "image",
+      "template": "I speech bubble",
+      "character": "The Glamorous One",
+      "quote": "My phone says my screen time is up 40 percent this week. That's the most growth I've shown in years.",
+      "caption": "It shows up every Sunday morning at 9, right when I'm trying to enjoy my coffee. A little report card nobody asked for. This week it came with an arrow pointing up and a number I'm choosing to read as ambition. Five hours a day. Most of it was looking at houses I'll never buy in towns I'll never visit, and one very long video of a man restoring a rusty pocketknife. I learned a lot about pocketknives. I'd call that education. My phone would call it a problem. We've agreed to disagree.",
+      "first": "There was a stretch on Wednesday when I watched a woman in Maine reorganize her entire pantry into glass jars. Forty-five minutes. I don't even like her pantry. I just couldn't leave until I knew where the lentils ended up. They went on the top shelf, for the record.",
+      "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her late 40s with shoulder-length two-tone hair, dark at the roots fading to silver-white waves, full and styled; strong cheekbones, heavy-lidded knowing eyes, bold wine-red lipstick, medium gold hoop earrings, wearing a deep navy blue wrap-style V-neck dress in a chic hotel lobby lounge with velvet chairs and potted palms. She leans an elbow on a marble bar counter, holding a glass of red wine near her shoulder in one hand and her smartphone up in the other, looking at it with a dry, self-satisfied smirk. A clean white speech bubble with a thin black outline rises from the character near the top of the image. Inside the speech bubble, black sentence-case text in a clean hand-drawn font reads exactly: \"My phone says my screen time is up 40 percent this week. That's the most growth I've shown in years.\". Text neatly formatted with natural line breaks. Illustration style: flat cartoon vector style with clean black outlines, vibrant flat colors, no comic book panel border, no frame, full-bleed scene. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-11.png"
+    },
+    {
+      "id": "ww-20261012-12r",
+      "kind": "image",
+      "template": "H character card",
+      "character": "The Glamorous One",
+      "quote": "I don't lie about my age. I just stopped attending the birthdays.",
+      "caption": "My sister called last week asking what I wanted to do for my birthday. I told her nothing. She said that's what I said last year. I said yes, and look how well it went. There's a point where birthdays stop being a party and start being a progress report, and I've read enough of those. So now the day comes and goes like any Wednesday. I have a nice dinner, I buy myself something small, and I do not blow out anything. Nobody sings. Nobody counts. The number goes up anyway, I'm told. I just don't see why I have to attend.",
+      "first": "My husband tried to sneak a cake in last year. I found it in the garage fridge behind the paint cans. I ate a slice standing up in the garage at 10 p.m. and told him it was delicious. We never spoke of it. That's love.",
+      "image": "images/wine-wimsey/2026-10-12/ww-20261012-12r.png",
+      "replaces": "ww-20261012-12"
+    }
+  ],
+  "stories": [
+    {
+      "id": "ws-20261012-1",
+      "kind": "story",
+      "template": "I2 speech bubble",
+      "character": "The Homebody",
+      "quote": "My couch and I have been through a lot together. Mostly naps.",
+      "caption": "",
+      "first": "",
+      "prompt": "An Aunty Acid-style flat cartoon illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater, lavender loose pants and dusty pink fluffy slippers, sunk deep into an overstuffed floral sofa piled with throw pillows and a crocheted blanket, a wine bottle on the side table. She is fully reclined, feet up, eyes half-closed and blissful, raising a glass of red wine with a sleepy grin. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"MY COUCH AND I HAVE BEEN THROUGH A LOT TOGETHER. MOSTLY NAPS.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-1.png"
+    },
+    {
+      "id": "ws-20261012-2",
+      "kind": "story",
+      "template": "I2 speech bubble",
+      "character": "The Bold One",
+      "quote": "Don't call me after 8. Text me after 8. Actually, just wait until tomorrow.",
+      "caption": "",
+      "first": "",
+      "prompt": "An Aunty Acid-style flat cartoon illustration of a plus-size woman in her 50s with a massive wild halo of deep auburn copper curls, round full-cheeked face, round thin wire-frame glasses, bold wine-red lipstick, large gold hoop earrings, wearing a bold geometric-print tunic in burnt orange, deep purple and mustard, in her garden at dusk with string lights in the trees, a patio chair behind her. Her right hand is raised flat palm-out in a 'stop' gesture toward a ringing phone on the patio table, her left hand holding a glass of red wine at chest height, firm no-nonsense expression. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"DON'T CALL ME AFTER 8. TEXT ME AFTER 8. ACTUALLY, JUST WAIT UNTIL TOMORROW.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-2.png"
+    },
+    {
+      "id": "ws-20261012-3",
+      "kind": "story",
+      "template": "F illustrated scene",
+      "character": "The Settled One",
+      "quote": "The leaves don't rush and neither do I.",
+      "caption": "",
+      "first": "",
+      "prompt": "A hand-drawn cartoon illustration in a soft painterly style featuring a slim woman in her early 60s with silver-white jaw-length softly waved hair, calm angular face with fine lines, round lavender-tinted glasses, wearing an oversized oatmeal knit sweater and soft sage joggers, in sheepskin slippers, seated in an Adirondack chair on a back porch, holding a glass of red wine, watching orange and gold autumn leaves drift down from a big maple tree in the yard, a warm knit blanket over her lap, soft late-afternoon light, peaceful unhurried mood. Illustration style: clean black line art with soft flat color fills, slight watercolor texture, warm earthy autumn palette, no comic book border, no panel frame, full-bleed. Bold black uppercase sans-serif text at the very top of the image on a clean light cream horizontal strip reads exactly: \"THE LEAVES DON'T RUSH\". Bold black uppercase sans-serif text on a matching cream horizontal strip in the lower part of the image, above a plain bottom edge, reads exactly: \"AND NEITHER DO I.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-3.png"
+    },
+    {
+      "id": "ws-20261012-4",
+      "kind": "story",
+      "template": "H character card",
+      "character": "The Hot Mess",
+      "quote": "I put on mascara today. Let's not make it weird.",
+      "caption": "",
+      "first": "",
+      "prompt": "An Aunty Acid-style flat cartoon illustration of a woman in her early 50s with auburn-brown hair streaked with grey piled in a collapsing messy bun with a pencil stuck in it, warm complexion, laugh lines, wildly expressive face, wearing a zip-up puffer vest over a striped long-sleeve shirt, her reading glasses hanging from her collar, shown from the waist up holding a mascara wand in one hand and a glass of red wine in the other, eyes dramatically wide with freshly done lashes, a mildly defensive expression. Thick black ink outlines, flat color fills, slightly exaggerated comic features. Simple pale mint background with no room details; the character is the focus. Hand-lettered black text in a handwritten serif font above the character, directly on the background, not inside any bubble, box or banner, in natural sentence case, reads exactly: \"I put on mascara today. Let's not make it weird.\". Aunty Acid comic illustration style, flat 2D, thick outlines, no panel border, no frame. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "ai": false,
+      "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-4.png"
+    }
+  ]
 }
