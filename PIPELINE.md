@@ -51,3 +51,9 @@ Standing rules for generating, reviewing, and uploading posts. Agreed with Scott
 ## Upload
 - Post Planner bulk CSV (version 3.1 template), posting time blank (queue), bottom of queue, bucket chosen on the upload screen.
 - Uploaded through the Claude desktop app's built-in browser; Scott confirms before the final click.
+
+## Weekly performance review
+- Mondays about 6 AM Central, pages on this pipeline only. See RUN_WEEKLY_REVIEW.md.
+- Scott exports post insights from Meta Business Suite himself and drops them on https://claude.ai/artifact/2s9ytPX14C65UGFPGVhL3X . Never automate anything on Facebook or Meta Business Suite.
+- Measures reach and earnings. Reach/earnings data stays out of this repo (public); it lives in the private dashboard.
+- Recommendations are proposals; runbooks change only after Scott approves.
