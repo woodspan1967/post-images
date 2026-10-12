@@ -18,6 +18,9 @@ Standing rules for generating, reviewing, and uploading posts. Agreed with Scott
 - Stories: 4 a day into the Wine Wimsy Stories bucket (12 per 3-day run). One image per story, same templates, characters, size (4:5) and stamping as feed images, but their own quotes (never a feed quote). No caption or comment. Uploaded as a second CSV with REEL OR STORY set to `story` (confirmed working 2026-10-11).
 - Stories appear in their own section on the same review page and follow the same approve / redo / reject rules.
 
+## Inbox
+- Scott drops quotes/images into the Wine Wimsey Inbox page (https://claude.ai/artifact/Fxf3RdrmK5pmoH3bfJzVwD). The daily run uses new items first, word-for-word quotes, and marks them used.
+
 ## Review page
 - One page per batch: approve / redo / reject per post, decisions stored in the page's database.
 - Redo: regenerate using the note, put back as Waiting.

@@ -9,6 +9,17 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - Read `held/wine-wimsey.json`: approved posts carried over. They count toward today's 12 and go first. Clear the file after you use them.
 - Read `used/wine-wimsey-quotes.txt`: never reuse a quote.
 
+## 0b. Inbox (Scott's curated items) — use these first
+- Inbox page: https://claude.ai/artifact/Fxf3RdrmK5pmoH3bfJzVwD . Read collection `inbox` with ArtifactData (action list).
+- Each doc: quote, note, placement (auto|feed|tobi|story), assetId (uploaded image, may be empty), status (new|used), createdAt.
+- For an image item: download it with the Artifact tool (action read, url = inbox page, path = assetId) and look at it.
+  - If it carries a quote, that quote is the post's quote, word for word (skill QUOTE FIDELITY). If he also typed a quote, the typed one wins.
+  - Rebuild it in Wine Wimsey style (skill RECREATE). Never reproduce trademarked characters, logos or someone else's art; swap in a Wine Wimsey character.
+- Quote-only items follow skill CREATE FOR THIS: pick template + character (or follow his note), write caption + first comment.
+- Placement: tobi -> TOBI slot (quote must be under 130 chars, else make it a feed post and say so); story -> story slot; feed or auto -> feed slot (auto may go to story if the feed is full).
+- New inbox items fill slots before anything you write yourself. Oldest first. If there are more than fit today, leave the rest as new for tomorrow.
+- Mark each used item in the inbox: ArtifactData update {status:"used", usedIn:"<Mon D> review"} with its if_version. Mention on the review page subtitle how many came from the inbox.
+
 ## 1. Write the day
 - 12 feed posts total = held posts + new ones. Pick 1 or 2 TOBIs (vary day to day); the rest are image posts.
 - 4 stories (image only, own quotes).
