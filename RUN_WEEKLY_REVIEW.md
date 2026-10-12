@@ -11,7 +11,9 @@ dashboard and the private drop page.
 ## 0. Setup
 - Clone/pull this repo (woodspan1967/post-images). Read PIPELINE.md and this file.
 - Drop page (Scott uploads exports here): https://claude.ai/artifact/2s9ytPX14C65UGFPGVhL3X
-- Dashboard (the report): URL is in the `Dashboard` line at the bottom of this file.
+- Dashboard (the report): URL is in the `Dashboard` line at the bottom of this file. If that line has no URL yet,
+  create the dashboard from the Dashboard artifact type (title "Page Performance"), with datasets `posts` and
+  `findings` built in steps 2-5, then write its URL into that line and push.
 
 ## 1. Collect the exports
 - ArtifactData list collection `exports` on the drop page. Each doc: page, assetId, filename, status (new|analyzed), createdAt.
