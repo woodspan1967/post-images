@@ -1,0 +1,47 @@
+# Whispers Of Yesterday daily run (runbook)
+
+Follow PIPELINE.md for every rule. This file is the order of operations. Default: one day.
+If Scott asked for more days ahead (vacation), multiply counts by that number of days.
+
+## 0. Setup
+- Clone/pull this repo (woodspan1967/post-images, push access). Work in it.
+- Load the Whispers Of Yesterday skill (`whispers-of-yesterday`) for voice, themes, templates, story captions, first comments, hashtag block, quote bank.
+- Pipeline overrides to the skill (the pipeline wins where they differ):
+  - Format is vertical 4:5, never "Square 1:1" or "8K". Drop those phrases from the skill's prompt templates.
+  - Do NOT put the skill's watermark sentence in prompts. The watermark is stamped afterwards (`--brand "Whispers Of Yesterday"`).
+  - Story-caption and first-comment rules are the skill's own (4-8 sentence story caption; 2-4 sentence first-person first comment + 5-8 hashtags after a line break). Do not apply Wine Wimsey's ~100-word caption rule.
+- Read `held/whispers-of-yesterday.json`: approved posts carried over. They count toward today's 10 and go first. Clear the file after you use them.
+- Read `used/whispers-of-yesterday-quotes.txt`: never reuse a quote or headline. Also avoid repeating a topic used in the last 7 days of that file.
+
+## 1. Write the day
+- 10 feed posts total = held posts + new ones. Pick 1 or 2 TOBIs (vary day to day); the rest are image posts (so 9+1 or 8+2).
+- 3 stories (image only, own quotes, never a feed quote).
+- Templates across the image posts, roughly the skill's 5/3/2 ratio: for 8-9 images about 4-5 Template 1 (illustrated scene), 2-3 Template 2 (vintage photo), 1-2 Template 3 (retro poster). Stories use any template.
+- Themes: rotate the skill's Core Nostalgia Themes, never more than 2 on the same theme in a day (feed + stories together).
+- Quote text on images in ALL CAPS in the prompt, and the quote field in batch.json matches what the image should show.
+- Children appear only in wholesome, era-typical family/school/play scenes. No cigarettes, no named celebrities, no real brand logos or store names.
+- Image prompts: end with "No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format." Never ask the model for a watermark.
+- TOBI: text under 130 characters, a nostalgia memory line or question in the page voice, + first comment (skill format, with hashtags). Background `black`.
+- Ids: feed `wy-YYYYMMDD-NN`, TOBI `wy-YYYYMMDD-tN`, stories `wys-YYYYMMDD-N`.
+- Write `batches/whispers-of-yesterday/YYYY-MM-DD/batch.json` (format in tools/build_review.py) with title "Whispers Of Yesterday Review · <Mon D>", a one-line subtitle, `"bucket": "Whispers Of Yesterday"`, `"story_bucket": "Whispers Of Yesterday Stories"`, feed in queue order with TOBIs spread between images. Put the template name in `template` (e.g. "T1 illustrated scene", "T2 vintage photo", "T3 retro poster") and the theme in `character`.
+
+## 2. Images
+- ElevenLabs: one flow per day, one image-generation node per image, model gpt-image-2.5-sunburst, {aspect_ratio 4:5, resolution 1K, quality low}; run all nodes; poll creative_get_flow_run_status until done.
+- `python3 tools/signed_urls.py <dest>=<generation_id> ... > queue/<name>.txt` with dest `whispers-of-yesterday/YYYY-MM-DD/<id>.png` (stories under `.../stories/`). Commit + push, wait ~60s, pull.
+- Stamp: `python3 tools/stamp.py --brand "Whispers Of Yesterday" <pngs>` on every image; add `--ai` for Template 1 and Template 2 images (photoreal / vintage photo). Template 3 posters get the brand only. Commit + push.
+- Look at every image: quote must match word for word, no stray logos or extra text, era looks right (no modern objects). Regenerate any that fail (once), then flag anything still off in the page subtitle.
+- Set each item's `image` to the repo path.
+
+## 3. Review page
+- `python3 tools/build_review.py batches/.../batch.json <scratch>/review` then publish `<scratch>/review/index.html` as a NEW artifact with files img/*.jpg, capabilities {db:{}, user:{}}, icon "checklist".
+- Append today's quotes/headlines to used/whispers-of-yesterday-quotes.txt, commit + push batch.json.
+- Send Scott the review link with SendUserMessage (counts, credits used, anything flagged).
+
+## 4. When Scott replies
+- Read the page's `decisions` collection (ArtifactData). `redo` -> regenerate with his note; `rejected` -> write a replacement for that slot; update the page (same artifact) and reset those docs to "" so they show as Waiting.
+- Approved posts he wants to hold for tomorrow go into held/whispers-of-yesterday.json (same shape as held/wine-wimsey.json).
+- On "upload" (needs his desktop app open; built-in browser, Post Planner signed in, viewport 1280x800 or it shows a mobile wall):
+  - `python3 tools/build_csv.py batch.json approved.txt <scratch>/csv`
+  - Create multiple posts -> Bucket "Whispers Of Yesterday" -> inject feed CSV into the spreadsheet file input via DataTransfer -> confirm count with Scott -> Upload to bucket.
+  - Repeat with bucket "Whispers Of Yesterday Stories" and the stories CSV.
+  - Spot-check in the bucket (search a caption) that images and first comments landed. Reset viewport.

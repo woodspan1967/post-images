@@ -43,7 +43,7 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(1.8rem,3.2vw,2.5re
 .meta{font-family:var(--mono);font-size:.74rem;color:var(--muted)}
 .field{display:grid;gap:4px}
 .label{font-family:var(--mono);font-size:.7rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted)}
-.field p{margin:0;max-width:68ch}
+.field p{margin:0;max-width:68ch;white-space:pre-line}
 .quote{font-family:var(--display);font-weight:600;font-size:1.1rem}
 .actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center;border-top:1px solid var(--line);padding-top:14px}
 button{font:inherit;font-weight:600;font-size:.92rem;border-radius:8px;padding:8px 14px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
@@ -92,7 +92,7 @@ dialog::backdrop{background:rgba(0,0,0,.75)}
   </section>
   <section class="done">
     <h2>What happens next</h2>
-    <p>Approved posts go into the Wine Wimsy bucket at the bottom of your queue, each with its first comment (5-minute delay). TOBIs use the black background. Claude waits for your OK in chat before the final upload click.</p>
+    <p>Approved posts go into the __BUCKET__ bucket at the bottom of your queue, each with its first comment (5-minute delay). TOBIs use the black background. Claude waits for your OK in chat before the final upload click.</p>
   </section>
 </div>
 <dialog id="zoom"><img alt=""></dialog>
@@ -114,14 +114,14 @@ function render(){
       ? `<div class="tobi" role="img" aria-label="TOBI preview">${esc(p.quote)}</div><span class="cap">TOBI · black background</span>`
       : `<img src="img/${p.id}.jpg?v=2" alt="${esc(p.quote)}" data-zoom="img/${p.id}.jpg?v=2" loading="lazy"><span class="cap">${esc(p.template)}${p.character ? " · " + esc(p.character) : ""}</span>`;
     n++;
-    const head = (p.kind==="story" && !POSTS.slice(0,POSTS.indexOf(p)).some(q=>q.kind==="story")) ? `<h2 class="sect">Stories · Wine Wimsy Stories bucket</h2>` : "";
+    const head = (p.kind==="story" && !POSTS.slice(0,POSTS.indexOf(p)).some(q=>q.kind==="story")) ? `<h2 class="sect">Stories · __STORYBUCKET__ bucket</h2>` : "";
     return head + `<article class="post" id="post-${p.id}" data-state="${s}">
       <div class="media">${img}</div>
       <div class="copy">
         <div class="top"><span class="num">${p.kind==="story" ? "Story " + (POSTS.filter(q=>q.kind==="story").indexOf(p)+1) : "#" + n + (p.kind==="tobi" ? " TOBI" : "")}</span><span class="meta">${p.id}</span></div>
         <div class="field"><span class="label">${p.kind==="tobi"?"Text on background":"Quote on image"}</span><p class="quote">${esc(p.quote)}</p></div>
         ${p.caption ? `<div class="field"><span class="label">Caption</span><p>${esc(p.caption)}</p></div>` : ""}
-        ${p.first ? `<div class="field"><span class="label">First comment</span><p>${esc(p.first)}</p></div>` : `<div class="field"><span class="label">Story</span><p>Image only, no caption. Goes to the Wine Wimsy Stories bucket.</p></div>`}
+        ${p.first ? `<div class="field"><span class="label">First comment</span><p>${esc(p.first)}</p></div>` : `<div class="field"><span class="label">Story</span><p>Image only, no caption. Goes to the __STORYBUCKET__ bucket.</p></div>`}
         <div class="field" ${s==="redo"?"":"hidden"}><label class="label" for="note-${p.id}">What should change?</label>
           <textarea id="note-${p.id}" data-id="${p.id}" placeholder="e.g. new quote, different setting, shorter caption">${esc(note)}</textarea></div>
         <div class="actions">

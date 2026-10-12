@@ -1,0 +1,1 @@
+# Quotes and headlines already used on Whispers Of Yesterday (feed, TOBI, stories). Never reuse; append each run as "YYYY-MM-DD | theme | quote".

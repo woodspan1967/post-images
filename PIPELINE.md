@@ -18,6 +18,14 @@ Standing rules for generating, reviewing, and uploading posts. Agreed with Scott
 - Stories: 4 a day into the Wine Wimsy Stories bucket (12 per 3-day run). One image per story, same templates, characters, size (4:5) and stamping as feed images, but their own quotes (never a feed quote). No caption or comment. Uploaded as a second CSV with REEL OR STORY set to `story` (confirmed working 2026-10-11).
 - Stories appear in their own section on the same review page and follow the same approve / redo / reject rules.
 
+## Whispers Of Yesterday
+- Buckets: Whispers Of Yesterday (feed) and Whispers Of Yesterday Stories. Daily run at about 6:15 AM Central, one day. See RUN_WHISPERS_OF_YESTERDAY.md.
+- 10 feed posts a day: 1-2 TOBIs (vary), the rest image posts (9+1 or 8+2). TOBI background `black`, text under 130 characters.
+- 3 stories a day, own quotes, image only, same templates/size/stamping as feed images.
+- Captions and first comments follow the Whispers skill (story caption 4-8 sentences; first comment 2-4 sentences + 5-8 hashtags). 5-minute first-comment delay, no second comment.
+- Stamping: `--brand "Whispers Of Yesterday"` on every image; `--ai` on illustrated scenes (T1) and vintage photos (T2); retro posters (T3) brand only. Prompts are 4:5 and never include the skill's watermark sentence.
+- No inbox page yet; Wine Wimsey's inbox is Wine Wimsey only.
+
 ## Inbox
 - Scott drops quotes/images into the Wine Wimsey Inbox page (https://claude.ai/artifact/Fxf3RdrmK5pmoH3bfJzVwD). The daily run uses new items first, word-for-word quotes, and marks them used.
 
