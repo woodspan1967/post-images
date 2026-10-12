@@ -187,5 +187,10 @@
       "ai": false,
       "image": "images/wine-wimsey/2026-10-12/stories/ws-20261012-4.png"
     }
-  ]
+  ],
+  "uploaded": {
+    "feed": 12,
+    "stories": 4,
+    "at": "2026-10-12T18:30-05:00"
+  }
 }
