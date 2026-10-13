@@ -55,7 +55,7 @@
     {
       "id": "wy-20261013-t1",
       "kind": "tobi",
-      "template": "TOBI",
+      "template": "TOBI (black)",
       "character": "Old-school parenting",
       "quote": "Say \"I'm bored\" in our house and Mom had a rake in your hands before you finished the sentence. You only said it once.",
       "caption": "",
@@ -140,7 +140,7 @@
       "template": "T3 retro poster",
       "character": "Crafts and homemaking (canning)",
       "quote": "PUTTING UP PEACHES IN AUGUST / A WHOLE SUMMER IN A ROW OF JARS ON THE CELLAR SHELF",
-      "prompt": "A vintage 1960s flat retro poster illustration, warm cream background, clean lines and a warm muted palette of peach, mustard and sage green. A wooden cellar shelf lined with rows of glass canning jars filled with golden peach halves, pickles, red tomatoes and purple jam, with a gingham cloth over one jar lid and a bushel basket of fresh peaches on the floor below. Bold retro serif headline text at the top reads exactly: \"PUTTING UP PEACHES IN AUGUST\". Subtitle text at the bottom reads exactly: \"A WHOLE SUMMER IN A ROW OF JARS ON THE CELLAR SHELF\". Saturday Evening Post illustration style, nostalgic textbook aesthetic, clearly a drawing. The jars have no labels or writing. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+      "prompt": "A vintage 1960s flat retro poster illustration, warm cream background, clean lines and a warm muted palette of peach, mustard and sage green. Bold retro serif headline text at the top reads exactly: \"PUTTING UP PEACHES IN AUGUST\". Directly under the headline, smaller subtitle text reads exactly: \"A WHOLE SUMMER IN A ROW OF JARS ON THE CELLAR SHELF\". Below the text, a wooden cellar shelf lined with rows of glass canning jars filled with golden peach halves, pickles, red tomatoes and purple jam, with a gingham cloth over one jar lid and a bushel basket of fresh peaches on the stone floor below. The bottom tenth of the image is plain stone floor with no text. Saturday Evening Post illustration style, nostalgic textbook aesthetic, clearly a drawing. The jars have no labels or writing. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
       "ai": false,
       "image": "images/whispers-of-yesterday/2026-10-13/stories/wys-20261013-2.png"
     },
