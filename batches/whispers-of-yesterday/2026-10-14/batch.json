@@ -1,6 +1,6 @@
 {
  "title": "Whispers Of Yesterday Review · Oct 14",
- "subtitle": "10 feed (8 image + 2 TOBI) + 3 stories · held: 0 · inbox: 0 (empty) · #8 regenerated once (window showed a twin-tower city skyline) · #3 has a faint painted scribble at bottom-right, mostly under the watermark",
+ "subtitle": "10 feed (8 image + 2 TOBI) + 3 stories · held: 0 · inbox: 0 (empty) · #8 regenerated once (window showed a twin-tower city skyline) · #3 has a faint painted scribble at bottom-right, mostly under the watermark · +1 extra feed post (#9, Christmas catalog) added Oct 14 evening for a Thursday gap",
  "bucket": "Whispers Of Yesterday",
  "story_bucket": "Whispers Of Yesterday Stories",
  "posts": [
@@ -119,6 +119,19 @@
    "prompt": "A vintage 1950s illustration in flat retro style, warm cream background, a smiling small-town telephone switchboard operator in a neat blouse and headset seated at a tall wooden switchboard full of jacks and patch cords, plugging in a cord, drawn as a flat stylized cartoon figure. Behind her is a plain painted wall with a small framed landscape picture and a potted plant; no windows, no city skyline, no tall buildings. Bold retro serif headline text at top reads: \"THE SWITCHBOARD OPERATOR\". Subtitle text reads: \"SHE KNEW EVERYBODY'S NUMBER AND MOST OF THEIR BUSINESS\". Saturday Evening Post illustration style, warm muted palette of mustard, teal and dusty rose, clean lines, nostalgic textbook aesthetic. The switchboard has no readable labels. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-14/wy-20261014-08.png"
+  },
+  {
+   "id": "wy-20261014-09",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Childhood rules and rituals (Christmas catalog)",
+   "quote": "THE CHRISTMAS CATALOG CAME IN OCTOBER, AND BY NOVEMBER EVERY PAGE HAD A KID'S NAME CIRCLED ON IT.",
+   "caption": "Every year it showed up in the mailbox right around the first frost, thick as a phone book and smelling like fresh ink. Mom would set it on the coffee table and that was the end of homework for a week. My sister and I lay on the living room rug and went through it page by page, pencil in hand. She circled dolls. I circled anything with wheels. By the time Thanksgiving came around, the corners were soft and the spine was cracked from being opened so many times. We never got half of what we circled, and somehow it was still the best part of the whole season.",
+   "first": "My brother wrote his initials next to every circle so nobody could claim his picks. Mom kept that catalog in the hall closet until spring, and I never once asked why.\n\n#WhispersOfYesterday #AmericanNostalgia #RememberWhen #ChristmasMemories #BoomerMemories #GrowingUpIn60s #BackInTheDay",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-14/wy-20261014-09.png",
+   "prompt": "(see ElevenLabs node 7DxEkGnyLwkjQNhv0hb4)",
+   "extra_for": "Thu Oct 15 gap"
   }
  ],
  "stories": [
