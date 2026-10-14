@@ -1,0 +1,112 @@
+{
+ "title": "Horse Soup Review · Oct 14",
+ "subtitle": "",
+ "bucket": "Horse Soup",
+ "story_bucket": "Horse Soup Stories",
+ "posts": [
+  {
+   "id": "hs-20261014-01",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "Pudding",
+   "theme": "treats and food obsession",
+   "quote": "THEY PUT ME ON A DIET. I PUT THE APPLE TREE ON A SCHEDULE.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. Pudding, an adorable, very round, chubby Shetland pony drawn in a cute, friendly cartoon style, with four short stubby legs, small hooves, fuzzy pony ears, a soft fuzzy dark brown coat, a big round belly, and a huge fluffy cream-colored forelock that flops over his forehead with one or two pieces of straw stuck in it. His face is a natural soft horse muzzle with no human lips and no visible teeth: large round shiny brown eyes with sparkly highlights, rosy cheeks, a small closed-mouth content smile, and slightly raised eyebrows that look innocent and a little guilty. standing proudly under a gnarled old apple tree with a shiny red apple balanced on the grass right in front of his hooves and two tidy apple cores beside him, looking up at the branches with innocent raised eyebrows, ears perked forward, a tiny bit of apple on his nose, in the back corner of a green fall pasture with a weathered split-rail fence, fallen red leaves, a few apples hanging on the branches, a slow-feeder hay net hung on the fence, and a dented water bucket, with a small sign nailed to the fence post reading \"Good Pony\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"THEY PUT ME ON A DIET. I PUT THE APPLE TREE ON A SCHEDULE.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small sign on the fence post. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "The vet stood back on Thursday, looked at Pudding from the side, and said the words easy keeper in a tone I didn't love. So we're cutting back. Less grain, a slow feeder net, and no more handfuls of anything from my coat pocket. He took it well for about a day. Then I noticed the old apple tree in the back corner of the pasture had stopped dropping apples on the ground. Or rather, they were dropping. They just weren't staying there long. I found him under it at 7:10 this morning, waiting. He looked up like the next one was running late.",
+   "first": "My first pony figured out which neighbor had the crabapple tree within a week of coming home. Every escape that whole summer ended under that tree. The neighbor eventually started leaving a bucket of windfalls by the fence for him, which I'm fairly sure counts as aiding and abetting.",
+   "image": "images/horse-soup/2026-10-14/hs-20261014-01.png",
+   "ai": false
+  },
+  {
+   "id": "hs-20261014-02",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "Big Red",
+   "theme": "vet and farrier bills",
+   "quote": "YOU CAN FLOAT MY TEETH AFTER I SEE A CARROT AND A SIGNED APOLOGY FOR LAST TIME.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. Big Red, a huge, solidly built copper-chestnut draft mare with heavy white feathered legs, a wide white blaze, an enormous wild halo of curly copper mane and forelock, thin round wire-frame reading glasses, large gold hoop earrings in both ears, and a bold geometric-print blanket in burnt orange, deep plum, and mustard gold, with a confident side-eye and a smug red-lipped smirk. standing in a wash rack with one front hoof lifted in a firm stop gesture, head turned toward a partially visible adult equine dentist at the edge of the frame in navy coveralls holding a long-handled dental rasp behind his back, ears tipped back, mouth firmly closed, mid-declaration, in a covered concrete wash rack with a coiled green hose, two buckets, a sponge, a sweat scraper on a hook, and a rubber mat, with a small sign on the wall reading \"Treats Before Feats\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"YOU CAN FLOAT MY TEETH AFTER I SEE A CARROT AND A SIGNED APOLOGY FOR LAST TIME.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "The equine dentist comes twice a year, and twice a year Big Red treats it like a hostile takeover. Last spring she let him get the speculum about halfway in before she remembered she had opinions. This time he called ahead. He parked by the wash rack instead of the barn door, walked up slowly, and kept his hands in his pockets like he was visiting a museum. She watched him the whole way. He got the job done in forty minutes, which is a record. I'm told the carrot in his coat pocket did most of the work.",
+   "first": "Our old dentist used to talk to every horse the entire time, low and steady, like a radio left on in the barn. I asked him once what he was saying. He said mostly the weather and what he had for lunch. It worked on every horse I ever owned.",
+   "image": "images/horse-soup/2026-10-14/hs-20261014-02.png",
+   "ai": false
+  },
+  {
+   "id": "hs-20261014-t1",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "",
+   "theme": "the horse budget vs. the spouse",
+   "quote": "Horse math: the saddle was $1,400, so the $60 pad was basically free and the matching ear bonnet saved me money.",
+   "background": "black",
+   "caption": "",
+   "first": "I once drove forty minutes to the tack shop for one hoof pick. I came home with the hoof pick, two lead ropes, a fly mask on clearance and a winter blanket that was a really good deal in July. The hoof pick was a dollar fifty. I've lost it since."
+  },
+  {
+   "id": "hs-20261014-04",
+   "kind": "image",
+   "template": "H character card",
+   "character": "The Old Timer",
+   "theme": "spooking at nothing",
+   "quote": "At thirty-one, I've stopped spooking at things. Mostly because by the time I notice them, they've already left.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Old Timer, an elderly dappled gray gelding with a silver-white mane and long white forelock, gray whiskers on his muzzle, a slightly swayed back, a droopy relaxed lower lip, calm heavy-lidded eyes, and small round bifocals perched low on his nose, wearing a faded green plaid sheet. shown from the shoulders or chest up in the lower left of the image, calm and unbothered, head tilted slightly, peering over his bifocals with one ear drooping sideways and a single strand of hay hanging from his lip. Soft cream background with one small sketched scene element beside him, a small sketched wooden fence post with a dented bucket hanging on it. In the upper right of the image, large black hand-lettered text in a playful handwritten font reads exactly: \"At thirty-one, I've stopped spooking at things. Mostly because by the time I notice them, they've already left.\", written directly on the background with natural line breaks, no speech bubble, no box. The only text in the image is the hand-lettered text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "The neighbor kids got a trampoline this summer and set it up about forty feet from our fence line. The younger horses lost their minds for a week. Snorting, tails up, laps of the pasture every time somebody bounced. The old gray gelding never moved. He stood under the maple with one hind leg cocked and a strand of hay hanging out of his mouth. At first I thought it was wisdom. Then on Saturday I watched him turn his head, look straight at the trampoline, and blink at it like he was seeing it for the first time.",
+   "first": "When I was young I rode an old school horse named Buck who had carried every kid in the county. A balloon popped right beside him at the fair once. He sighed. That was it. I've owned a lot of horses since, and I still compare every one of them to Buck.",
+   "image": "images/horse-soup/2026-10-14/hs-20261014-04.png",
+   "ai": false
+  },
+  {
+   "id": "hs-20261014-05",
+   "kind": "image",
+   "template": "W storybook",
+   "character": "The Homebody",
+   "theme": "aging horses and aging owners",
+   "quote": "We've both gone a little gray around the eyes. She calls it wisdom. I call it twenty years of standing out here together, and I wouldn't trade one of them.",
+   "prompt": "Whimsical, heartwarming hand-drawn storybook cartoon illustration with clean black ink outlines, soft rounded shapes, gentle painterly coloring, and a warm nostalgic glow. Golden sunbeams stream through a window with floating dust motes and soft light. The main character is a real four-legged horse drawn extra cute and huggable, with a round soft body, sturdy legs, small hooves, fuzzy ears, and a soft rounded muzzle with no human lips and no visible teeth. Big gentle expressive eyes, rosy blushing cheeks, and a tender, sweet expression. Cozy, cluttered, sentimental setting full of heartfelt keepsake details. The Homebody, a round, plump bay mare with a fuzzy extra-thick winter coat, a short black mane, soft heavy-lidded sleepy eyes, full rosy cheeks, and a contented little smile, wearing a cozy lavender-purple fleece cooler, with a tabby barn cat curled up asleep on her back. with a few soft gray hairs around her eyes and muzzle, standing beside the open half-door of an old red barn, eyes crinkled in a gentle smile, gazing softly toward a farmhouse porch in the distance where an empty rocking chair and an upturned bucket sit side by side, at golden hour with warm sun on the weathered boards, surrounded by keepsakes: a framed drawing of a young bay foal hung on a nail, a faded blue show ribbon, a worn first halter on a peg, a long braided mane ribbon, a child's crayon drawing of a brown horse pinned to the boards, and a dented tin coffee can on a shelf. A clean white speech bubble with a black outline sits in the upper right of the image, tail pointing to the character. Inside, black sentence-case text in a friendly handwritten font reads exactly: \"We've both gone a little gray around the eyes. She calls it wisdom. I call it twenty years of standing out here together, and I wouldn't trade one of them.\". Natural line breaks. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "I bought her as a coming three-year-old at a sale barn in 2006 with money I'd been saving for a different car. I drove the old one six more years. Somewhere along the way her muzzle went gray, and so did the spot over my left ear that my hairdresser now calls a feature. We don't ride much anymore. Most evenings I sit on an upturned bucket by her stall while she works on her hay and the cat works on her back. Nobody says anything. It's still the best part of my day.",
+   "first": "I have a coffee can in the tack room full of her old mane braids from shows in the early years. I keep meaning to throw them out. Every spring when I clean the tack room I open the lid, look at them for a while, and put the can back on the shelf.",
+   "image": "images/horse-soup/2026-10-14/hs-20261014-05.png",
+   "ai": false
+  },
+  {
+   "id": "hs-20261014-06",
+   "kind": "image",
+   "template": "F banner",
+   "character": "The Diva",
+   "theme": "mare attitude",
+   "quote": "I'VE BEEN IN A MOOD SINCE MARCH. IT'S OCTOBER. AT THIS POINT IT'S MY PERSONALITY.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Diva, a sleek chestnut mare with a glossy copper coat, a long flowing wavy flaxen-blonde mane and forelock that look salon-styled, a small white star on her forehead, long dark eyelashes, heavy-lidded knowing eyes, a slim gold hoop earring in her left ear, and a sly closed-mouth smirk, wearing a burgundy leather halter with small gold trim. standing on a leaf-covered trail with her head turned three-quarters and chin lifted, one ear pinned back and one forward, tail mid-swish, giving the viewer a sly side-eye with a closed-mouth smirk, her flaxen mane catching the light, in a wooded autumn trail at sunset with orange and gold maple trees, fallen leaves on the path, a split-rail fence along one side, and warm low sunlight streaming between the trunks. A light cream horizontal strip across the very top of the image holds bold black UPPERCASE sans-serif text reading exactly: \"I'VE BEEN IN A MOOD SINCE MARCH.\". A matching cream strip across the very bottom holds bold black UPPERCASE sans-serif text reading exactly: \"IT'S OCTOBER. AT THIS POINT IT'S MY PERSONALITY.\". Illustration is full-bleed between the strips. The only text in the image is the banner text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "Spring is when it started. A new horse moved into the stall next to hers, and she has not forgiven any of us for that decision. She pins her ears at him over the divider every morning at feeding. She swishes her tail at the farrier on principle. She walked the whole trail ride Sunday with her nose half a step ahead of every other horse. Then we got back to the barn, I picked out her feet, and she rested her chin on my shoulder for a full minute. Don't tell anyone. She'd deny it.",
+   "first": "I had a mare in my twenties who only let one person catch her in the field, and it wasn't me. It was a retired mailman who boarded two stalls down. She walked right up to him every single time. I paid her board for nine years.",
+   "image": "images/horse-soup/2026-10-14/hs-20261014-06.png",
+   "ai": false
+  }
+ ],
+ "stories": [
+  {
+   "id": "hss-20261014-1",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "theme": "barn chores and hay",
+   "quote": "SHE CLEANED MY STALL AT SEVEN. I'VE ALREADY REDECORATED. YOU'RE WELCOME.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Homebody, a round, plump bay mare with a fuzzy extra-thick winter coat, a short black mane, soft heavy-lidded sleepy eyes, full rosy cheeks, and a contented little smile, wearing a cozy lavender-purple fleece cooler, with a tabby barn cat curled up asleep on her back. lying down contentedly in her stall, eyes half closed with a pleased little smile, the cat asleep on her back, surrounded by fresh pale shavings that have been kicked into lumpy uneven piles, a hay net pulled half down, loose hay scattered everywhere and a water bucket knocked on its side, in a cozy wooden stall in the morning with a pitchfork and an empty wheelbarrow parked just outside the open stall door, warm string lights along the beam, and a quilt over the stall door, with a small sign on the wall reading \"Stall Sweet Stall\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"SHE CLEANED MY STALL AT SEVEN. I'VE ALREADY REDECORATED. YOU'RE WELCOME.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "",
+   "first": "",
+   "image": "images/horse-soup/2026-10-14/stories/hss-20261014-1.png",
+   "ai": false
+  },
+  {
+   "id": "hss-20261014-2",
+   "kind": "story",
+   "template": "W storybook",
+   "character": "Pudding",
+   "theme": "spooking at nothing",
+   "quote": "The first windy night, I hid behind the big horses. Now I stand right up front. I'm still very small. I'm just a lot braver than I look.",
+   "prompt": "Whimsical, heartwarming hand-drawn storybook cartoon illustration with clean black ink outlines, soft rounded shapes, gentle painterly coloring, and a warm nostalgic glow. Golden sunbeams stream through a window with floating dust motes and soft light. The main character is a real four-legged horse drawn extra cute and huggable, with a round soft body, sturdy legs, small hooves, fuzzy ears, and a soft rounded muzzle with no human lips and no visible teeth. Big gentle expressive eyes, rosy blushing cheeks, and a tender, sweet expression. Cozy, cluttered, sentimental setting full of heartfelt keepsake details. Pudding, an adorable, very round, chubby Shetland pony drawn in a cute, friendly cartoon style, with four short stubby legs, small hooves, fuzzy pony ears, a soft fuzzy dark brown coat, a big round belly, and a huge fluffy cream-colored forelock that flops over his forehead with one or two pieces of straw stuck in it. His face is a natural soft horse muzzle with no human lips and no visible teeth: large round shiny brown eyes with sparkly highlights, rosy cheeks, a small closed-mouth content smile, and slightly raised eyebrows that look innocent and a little guilty. standing bravely with his chest puffed out and his huge cream forelock blowing sideways in the wind, eyes bright and determined with a small proud closed-mouth smile, two big gentle horses peeking out of their stalls behind him, in the open doorway of an old wooden barn at dusk, leaves swirling past outside, a warm lantern glowing on a hook, surrounded by keepsakes: a tiny worn pony halter on a peg, a small faded red ribbon, a child's crayon drawing of a little brown pony pinned to the wall, a folded plaid blanket on a hay bale, and a dented tin bucket. A clean white speech bubble with a black outline sits in the upper right of the image, tail pointing to the character. Inside, black sentence-case text in a friendly handwritten font reads exactly: \"The first windy night, I hid behind the big horses. Now I stand right up front. I'm still very small. I'm just a lot braver than I look.\". Natural line breaks. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "",
+   "first": "",
+   "image": "images/horse-soup/2026-10-14/stories/hss-20261014-2.png",
+   "ai": false
+  }
+ ]
+}
