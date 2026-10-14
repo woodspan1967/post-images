@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review · Oct 14",
- "subtitle": "12 feed (10 images + 2 TOBIs) and 4 stories · 0 held, 0 from inbox (empty) · every image checked: quotes match word for word, all people drawn as cartoons · notes: on #04, #06 and #07 the WineWimsey mark sits just above the bottom text strip so it doesn't cover words; #06 highlights AGE in red along with THREE YEARS",
+ "subtitle": "12 feed (10 images + 2 TOBIs) and 4 stories · 6 rejected posts replaced with your 6 inbox quotes (new posts at #03, #04, #06, #08, #11, #12, quotes word for word) · every image checked: quotes match, all people drawn as cartoons",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -29,28 +29,30 @@
    "image": "images/wine-wimsey/2026-10-14/ww-20261014-02.png"
   },
   {
-   "id": "ww-20261014-03",
+   "id": "ww-20261014-13",
    "kind": "image",
    "template": "H character card",
-   "character": "The Glamorous One",
-   "quote": "It took me fifty years to find my personal style. Turns out it's anything without a button.",
-   "caption": "I cleaned out my closet on Sunday with the full intention of donating the things I no longer wear. Two hours in, the donate pile was almost everything I own, and the keep pile was three wrap dresses, a cardigan, and the pants with the stretchy waist. Every single thing in the donate pile had a button somewhere. Jeans, blazers, that blouse I bought for a wedding in 2011. I tried one of the blazers on for old times' sake. It fought me. I let it win, folded it, and drove the whole pile to the church bin before I could change my mind.",
-   "first": "My mother wore a girdle to the grocery store every week of her life and told me a lady always suffers a little. I think about her every time I tie a wrap dress. I love her. I just think the suffering could have stayed home.",
+   "character": "The Settled One",
+   "quote": "If you want to understand Gen X, just remember TV once had to remind a whole generation of parents to go find their kids.",
+   "caption": "My daughter asked me last week what I did after school when I was eleven. I told her the truth. I got off the bus at 3:15, let myself in with the key on a shoelace around my neck, ate a sleeve of saltines standing up, and left. Where did you go, she asked. Out. With who. Whoever was outside. When did you come home. When the news came on, or when I got hungry, whichever came first. She looked at me like I had survived a shipwreck. I didn't have the heart to tell her it was the best part of the day.",
+   "first": "My mother's entire tracking system was opening the back door and yelling my name once. If I didn't answer, she assumed I was fine and went back to her show. I was always fine. I have no idea how, but I was always fine.",
    "ai": false,
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her late 40s with shoulder-length two-tone hair, dark at the roots fading to silver-white waves, full and styled, strong cheekbones, heavy-lidded knowing eyes, bold wine-red lipstick, medium gold hoop earrings, wearing a deep burgundy wrap-style V-neck dress tied at the waist with no buttons anywhere. Shown from the waist up, leaning one elbow on an invisible counter, a glass of red wine held near her shoulder, one eyebrow raised, slight satisfied smirk; at her feet a small discarded pile of cartoon jeans and a buttoned blazer. Thick black ink outlines, flat color fills, slightly exaggerated comic features, clearly a drawn cartoon, not a photo. Simple soft sage-green background, the character is the focus, no room details. Hand-lettered black text in a handwritten serif font, positioned above the character in the upper part of the image, reads exactly: \"It took me fifty years to find my personal style. Turns out it's anything without a button.\". Text is in natural sentence case, not inside a speech bubble, box or banner, flowing as if written by hand on the background. No panel border, no frame. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "image": "images/wine-wimsey/2026-10-14/ww-20261014-03.png"
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her early 60s with silver-white medium-length hair falling just past her jaw in a soft natural wave, calm slightly angular face with fine lines, small mouth with a quietly amused expression, round lavender-tinted glasses, wearing an oversized taupe knit sweater and soft olive joggers, barefoot. Shown from the waist up, seated at a simple wooden kitchen table, chin resting in one hand, a glass of red wine on the table in front of her, and beside it an old house key on a frayed shoelace loop. Thick black ink outlines, flat color fills, slightly exaggerated comic features, clearly a drawn cartoon, not a photo. Simple soft mustard-yellow background, the character is the focus, no room details. Hand-lettered black text in a handwritten serif font, positioned above the character in the upper part of the image, reads exactly: \"If you want to understand Gen X, just remember TV once had to remind a whole generation of parents to go find their kids.\". Text is in natural sentence case, not inside a speech bubble, box or banner, flowing as if written by hand on the background. No panel border, no frame. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-13.png",
+   "from_inbox": true
   },
   {
-   "id": "ww-20261014-04",
+   "id": "ww-20261014-14",
    "kind": "image",
-   "template": "A pop art",
-   "character": "",
-   "quote": "My love language is you leaving the dishwasher the way I loaded it.",
-   "caption": "There is a system. Plates face the center, bowls go top rack at an angle, and nothing, not one fork, goes in handle down. I have explained this system to my husband an estimated three hundred times since 1999. Last night at 9:15 I opened the dishwasher to start it and found a cereal bowl wedged sideways across four plates like it was trying to escape. He was very proud of himself for helping. I said thank you. I meant it, mostly. Then I waited until he went upstairs and fixed it. Twenty-seven years. Still fixing it. Still saying thank you.",
-   "first": "My sister says I should just let it go and run it however he loads it. My sister also has a dishwasher that smells like a pond. I'm not taking advice from her on this one. I've accepted that I'll be reloading that thing until one of us dies.",
+   "template": "I2 speech bubble",
+   "character": "The Bold One",
+   "quote": "Dating in midlife is something else. Half the people are still sorting out their baggage. The other half are the reason everyone has baggage. I’m staying in.",
+   "caption": "My friend Carol set me up on a coffee date last Saturday because she said I needed to put myself out there. He was on time, which I'll give him. Then in the first nine minutes he told me about his ex-wife, his other ex-wife, the woman he almost married in 2009, and a lawsuit involving a boat. He asked nothing about me. Not one thing. When he went up for a refill I sat there doing math on how many more ex-wives might be coming. I finished my coffee, thanked him kindly, and drove straight home to my couch. Carol has been informed.",
+   "first": "Carol called Sunday morning to ask how it went. I told her about the boat. There was a long silence on the line and then she said, well, at least he was on time. That's the bar now, apparently. I'm keeping my Saturdays.",
    "ai": false,
-   "prompt": "A retro 1950s pop art comic illustration of a glamorous woman in her early 50s with a set platinum-blonde bouffant, red lipstick and a mint-green shirtwaist dress, standing protectively in front of an open 1950s dishwasher with perfectly arranged plates and glasses, one hand on her hip, the other pointing sternly at a cartoon man's arm reaching into frame holding a single dirty mug, her face dramatic and narrow-eyed, a glass of red wine on the counter behind her. Vibrant sunny yellow background with Ben-Day dots halftone texture, thick black comic book border around the entire panel. Bold black uppercase text in a white caption box at the top reads exactly: \"MY LOVE LANGUAGE IS YOU LEAVING THE DISHWASHER\" Bold black uppercase text in a white caption box near the bottom (above the bottom corners) reads exactly: \"THE WAY I LOADED IT.\" Retro pop art illustration style, clearly a drawn comic, thick black outlines, flat vibrant colors, Roy Lichtenstein influence, 1950s advertising aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "image": "images/wine-wimsey/2026-10-14/ww-20261014-04.png"
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a plus-size woman in her 50s with a massive wild halo of deep auburn copper curls, round full-cheeked face, round wire-frame glasses, bold wine-red lipstick, large gold hoop earrings, wearing a bold geometric-print tunic in burnt orange, deep purple and mustard tones, standing in a busy cafe in the afternoon beside a small table with two coffee cups, one hand raised flat palm-out in a firm stop gesture toward the empty chair across from her, her other hand holding a glass of red wine at chest height, a stack of cartoon suitcases and duffel bags piled up beside the empty chair, direct confident side-eye, mouth open mid-declaration. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"DATING IN MIDLIFE IS SOMETHING ELSE. HALF THE PEOPLE ARE STILL SORTING OUT THEIR BAGGAGE. THE OTHER HALF ARE THE REASON EVERYONE HAS BAGGAGE. I’M STAYING IN.\". Text is centered, 3-5 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-14.png",
+   "from_inbox": true
   },
   {
    "id": "ww-20261014-t1",
@@ -62,16 +64,17 @@
    "first": "Grandma Ruth wore that cocktail ring to the Piggly Wiggly every Tuesday like she was attending a gala. I wore my heated blanket to the mailbox this morning. It has a cord. I had to unplug it first. She would have had a lot to say about that."
   },
   {
-   "id": "ww-20261014-06",
+   "id": "ww-20261014-15",
    "kind": "image",
-   "template": "E comic panel",
+   "template": "I2 speech bubble",
    "character": "The Homebody",
-   "quote": "Anyone else get a text that says 'call me when you can' and immediately age three years?",
-   "caption": "My cousin Linda sent me five words on Thursday at 2:12 in the afternoon. Call me when you can. No emoji. No context. No period, which somehow made it worse. In the forty seconds before I called her back, I had mentally attended two funerals, sold the house, and drafted an apology for something I did at Thanksgiving in 2016. She picked up on the first ring. She wanted to know if I still had the recipe for the corn casserole. I gave it to her. Then I sat down in the big chair and stayed there for the rest of the day.",
-   "first": "I have asked my family to please put the reason in the text. Even one word. Casserole. Weather. Gossip. My son now sends call me when you can, nothing's wrong. I appreciate the effort. I still don't believe him for the first ten seconds.",
+   "quote": "Nothing kills the joy of sinking into bed like suddenly realizing you forgot to pee.",
+   "caption": "Last night I did everything right. Teeth brushed, lamp off at 10:20, the good pillow flipped to the cold side, blanket tucked under both feet exactly the way I like it. The cat settled on my legs. My whole body let out the long sigh it saves for the end of the day. Then, about forty seconds into true happiness, my bladder cleared its throat. I lay there and negotiated. I told it we could wait until morning. It said we could not. So the blanket came off, the cat was offended, and the whole ritual started over from scratch.",
+   "first": "I've started making a final lap to the bathroom before bed whether I need it or not. My husband calls it the pre-flight check. Last night I did the pre-flight check and still had to get up at 2:10. Some flights just get delayed.",
    "ai": false,
-   "prompt": "A colorful cartoon comic panel illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater, lavender loose pants and dusty pink fluffy slippers, reclined in a big floral-print armchair (pink and mauve flowers on cream) with her feet up, frozen in horror as she stares at a phone held out at arm's length, a glass of red wine raised in her other hand, her mauve curls sticking straight up in shock, a few cartoon sweat drops flying off her head, a wine bottle on the side table next to her. Soft lavender background with thick black comic book border around the entire panel. Bold black uppercase text in a white strip at the top of the panel reads exactly: \"ANYONE ELSE GET A TEXT THAT SAYS 'CALL ME WHEN YOU CAN'\" Bold uppercase text in a white strip at the bottom of the panel (above the bottom corners) reads exactly: \"AND IMMEDIATELY AGE THREE YEARS?\" In the bottom text, the words \"THREE YEARS\" are bold red and all other words are bold black. Cartoon illustration style, clearly a drawn cartoon, thick black outlines, flat vibrant colors, expressive exaggerated facial features, Sunday newspaper comic aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "image": "images/wine-wimsey/2026-10-14/ww-20261014-06.png"
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes now wide open in sudden realization, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater and lavender loose pants, tucked into a big cozy bed piled with fluffy pillows and a thick quilt pulled up to her chest at night, a lamp glowing softly on the nightstand beside a glass of red wine, a sleeping cat curled on her legs, dusty pink fluffy slippers waiting on the rug beside the bed, the bedroom door slightly open in the background, her mouth open in a horrified groan. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"NOTHING KILLS THE JOY OF SINKING INTO BED LIKE SUDDENLY REALIZING YOU FORGOT TO PEE.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-15.png",
+   "from_inbox": true
   },
   {
    "id": "ww-20261014-07",
@@ -86,16 +89,17 @@
    "image": "images/wine-wimsey/2026-10-14/ww-20261014-07.png"
   },
   {
-   "id": "ww-20261014-08",
+   "id": "ww-20261014-16",
    "kind": "image",
-   "template": "G vintage poster",
-   "character": "",
-   "quote": "Kitchen Rules: If you didn't cook it, you don't get to season it.",
-   "caption": "I spent most of Sunday on a pot roast. Four hours, the good carrots, a splash of red in the pan because the recipe said so and I believe in following instructions. I set it on the table at 6. Before I had even sat down, my brother-in-law reached for the salt and shook it over his plate like he was putting out a fire. He hadn't tasted it. Not one bite. He just assumed. I watched him do it and said nothing, which my husband says was very mature of me. I've already decided what he's bringing to Thanksgiving. It's ice.",
-   "first": "My grandmother kept the salt shaker in her apron pocket during Sunday dinner for this exact reason. If you wanted it, you had to ask her, and she would look at you for a long time before handing it over. Nobody ever asked twice. I'm thinking about getting an apron.",
+   "template": "E comic panel",
+   "character": "The Hot Mess",
+   "quote": "I never know what menopause has in store today. Brain fog? Rage? Sobbing at a puppy commercial? Spoiler: it’s always some new bullshit.",
+   "caption": "Monday I couldn't remember the word for spatula and called it the flat flipper in front of my sister-in-law. Tuesday the man at the deli counter said have a nice day and I very nearly climbed over the glass. Wednesday a dog food commercial came on, a golden retriever waiting at a window for a little boy, and I cried so hard I had to pause it. Thursday I woke up at 3:40 a.m. fully awake and roughly the temperature of a toaster. I have stopped trying to predict anything. I just get up and see who shows up.",
+   "first": "I keep a small fan on the kitchen counter now, one in the car, and one in my purse. My husband calls it my fleet. Last week I turned all three on at once in the grocery store parking lot. Nobody said a word. Smart people.",
    "ai": false,
-   "prompt": "A vintage decorative poster illustration in the style of an aged tin kitchen sign or antique wine advertisement, clearly a printed illustration. A rustic farmhouse kitchen still life: a cast-iron pot of stew steaming on an old stove, a wooden spoon resting across it, a pepper grinder and a salt cellar set slightly out of reach on a shelf, a bottle of red wine and a filled wine glass on a butcher-block counter, copper pans hanging behind. No people. Warm brown, cream and deep red color palette, distressed border edges with gentle texture, soft grainy aged-paper background. Large ornate flowing cursive script text at the top reads exactly: \"Kitchen Rules:\" Elegant serif uppercase text below it reads exactly: \"IF YOU DIDN'T COOK IT, YOU DON'T GET TO SEASON IT.\" The text is integrated into the poster design. Handwritten cursive signature \"Wine Wimsey\" in burgundy in the bottom-right corner as the only branding. No other text, signs, logos or watermarks anywhere in the image. Vertical 4:5 portrait format.",
-   "image": "images/wine-wimsey/2026-10-14/ww-20261014-08.png"
+   "prompt": "A colorful cartoon comic panel illustration of a woman in her early 50s with auburn-brown hair streaked with grey piled in a collapsing messy bun with a pencil stuck in it, warm complexion, full cheeks, laugh lines, wildly expressive raised eyebrows, reading glasses pushed up on her forehead, wearing a zip-up quilted vest over a floral blouse, standing in her kitchen in the morning, a small handheld fan blowing her loose hair sideways, a box of tissues tucked under one arm, a glass of red wine in her other hand, and a TV on the counter behind her showing a cartoon puppy with big eyes, her expression a chaotic mix of crying and furious at the same time. Bright coral background with thick black comic book border around the entire panel. Bold black uppercase text in a white strip at the top of the panel reads exactly: \"I NEVER KNOW WHAT MENOPAUSE HAS IN STORE TODAY. BRAIN FOG? RAGE? SOBBING AT A PUPPY COMMERCIAL?\" Bold uppercase text in a white strip at the bottom of the panel (above the bottom corners) reads exactly: \"SPOILER: IT’S ALWAYS SOME NEW BULLSHIT.\" In the bottom text, the words \"NEW BULLSHIT\" are bold red and all other words are bold black. Cartoon illustration style, clearly a drawn cartoon, thick black outlines, flat vibrant colors, expressive exaggerated facial features, Sunday newspaper comic aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-16.png",
+   "from_inbox": true
   },
   {
    "id": "ww-20261014-t2",
@@ -119,28 +123,30 @@
    "image": "images/wine-wimsey/2026-10-14/ww-20261014-10.png"
   },
   {
-   "id": "ww-20261014-11",
-   "kind": "image",
-   "template": "I speech bubble",
-   "character": "The Settled One",
-   "quote": "I said I'd be there in five minutes. I meant that as a mood, not a measurement.",
-   "caption": "My friend Carol texted at 6:05 on Friday asking if I was still coming to trivia night. I wrote back on my way, five minutes. At that exact moment I was on the couch, barefoot, with half a glass of red and a show I'd been meaning to finish since August. I want to be clear that I believed it when I typed it. I did eventually go. I arrived at 6:50, right as they announced the round on state capitals, which I would not have helped with. Carol looked at her watch. I looked at the snacks. We both moved on.",
-   "first": "My husband has learned to translate. Five minutes means twenty. Ten minutes means I haven't found my shoes. On my way means I have thought about leaving. He just nods and starts the car around the twenty-minute mark. It's the most romantic thing he does.",
-   "ai": false,
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her early 60s with silver-white wavy hair just past her jaw, calm slightly angular face with fine lines, round lavender-tinted glasses, wearing an oversized sage-green knit cardigan over an oatmeal top and soft grey joggers, barefoot, seated comfortably on her couch in a cozy lived-in living room in the early evening, completely unhurried, one foot tucked under her, a glass of red wine in one hand and her phone resting face-down on the cushion beside her, a pair of shoes sitting untouched by the front door in the background, a wall clock showing a time with no numbers, calm quietly amused expression. A clean white speech bubble with a thin black outline rises from the character. Inside the speech bubble, black sentence-case text in a clean hand-drawn font reads exactly: \"I said I'd be there in five minutes. I meant that as a mood, not a measurement.\". Text neatly formatted with natural line breaks. Illustration style: flat cartoon vector style with clean black outlines, vibrant flat colors, thick outlines on character and background elements, clearly a drawn cartoon, not a photo, no comic book panel border, no frame, full-bleed scene. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "image": "images/wine-wimsey/2026-10-14/ww-20261014-11.png"
-  },
-  {
-   "id": "ww-20261014-12",
+   "id": "ww-20261014-17",
    "kind": "image",
    "template": "I2 speech bubble",
-   "character": "The Homebody",
-   "quote": "I said yes to brunch three weeks ago because it felt so far away. Now it's tomorrow and I'd like to speak to whoever agreed to this.",
-   "caption": "Three weeks ago a woman from book club asked if I wanted to do brunch on a Sunday at the end of the month. In my mind the end of the month was so far away it practically didn't exist. Future me would be rested. Future me would have clean hair. So I said yes, sounds lovely, and went home. Tonight I opened the calendar and there it is, tomorrow at 10:30, circled in red in my own handwriting. Future me is here. She has none of those things. She is on the couch drafting a strongly worded note to her past self.",
-   "first": "I've started a new rule where I only agree to plans that fall within forty-eight hours. Anything further out and I'm signing a contract on behalf of a woman I've never met. My book club now says I'm hard to schedule. That's the idea, sweetheart.",
+   "character": "The Bold One",
+   "quote": "I used to wonder why dishwasher pods have to say “Do not eat.” Then I met people.",
+   "caption": "At the neighborhood potluck on Sunday, a grown man in a golf shirt picked up a decorative pinecone off the table and asked if it was the dessert. He was serious. His wife had to take it out of his hand. Ten minutes later a woman two houses down explained to me that she doesn't wear sunscreen because she has a base tan from 1994. Then someone microwaved a foil pan. I stood by the punch bowl and quietly made my peace with every warning label I've ever laughed at. They know exactly who they're writing for. I've met him. He took a pinecone.",
+   "first": "I went home that night and read the back of my dishwasher pod tub just to see what else it says. It says keep out of reach of children, and there's a little picture of a man who looks a lot like the pinecone guy. I'm not saying it's him.",
    "ai": false,
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater, lavender loose pants and dusty pink fluffy slippers, sunk deep in a soft sofa piled with pillows on a Saturday night, a wall calendar beside her with one square circled in red (no readable words), a glass of red wine raised in one hand and the other hand thrown up in exasperation, mouth open mid-complaint, a wine bottle on the side table and a sleepy cat on the armrest. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I SAID YES TO BRUNCH THREE WEEKS AGO BECAUSE IT FELT SO FAR AWAY. NOW IT'S TOMORROW AND I'D LIKE TO SPEAK TO WHOEVER AGREED TO THIS.\". Text is centered, 2-5 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "image": "images/wine-wimsey/2026-10-14/ww-20261014-12.png"
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a plus-size woman in her 50s with a massive wild halo of deep auburn copper curls, round full-cheeked face, round wire-frame glasses, bold wine-red lipstick, large gold hoop earrings, wearing a bold geometric-print tunic in rust red, mustard and deep purple tones, standing at a backyard potluck table in the late afternoon with string lights overhead, one hand raised flat palm-out in a stop gesture, her other hand holding a glass of red wine at chest height, deadpan side-eye toward a cartoon man in a golf shirt in the background who is holding a pinecone up to his open mouth, casserole dishes and a punch bowl on the table. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I USED TO WONDER WHY DISHWASHER PODS HAVE TO SAY “DO NOT EAT.” THEN I MET PEOPLE.\". Text is centered, 2-4 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-17.png",
+   "from_inbox": true
+  },
+  {
+   "id": "ww-20261014-18",
+   "kind": "image",
+   "template": "I speech bubble",
+   "character": "The Hot Mess",
+   "quote": "My brain lets go of names, appointments, and why I walked in here. But every word of “Pour Some Sugar on Me” is perfectly preserved.",
+   "caption": "On Thursday I walked into the garage, stood there for a full minute, and walked back out with nothing. I still don't know what I went in for. That same afternoon I ran into a woman I've known for twelve years at the pharmacy and called her Linda. Her name is Brenda. Then the dentist's office called to ask where I was, and the answer was the pharmacy, calling Brenda Linda. On the drive home the radio played one song from 1988 and I sang every single word, both verses, the bridge, the ad-libs. My memory works fine. It just has priorities.",
+   "first": "My husband tested this at dinner. He asked me the name of our accountant and I got nothing. He started humming a song from junior year and I finished the entire second verse with hand motions. He just nodded and wrote the accountant's name on a sticky note for me. He's learning.",
+   "ai": false,
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a woman in her early 50s with auburn-brown hair streaked with grey, worn down and wavy and going in multiple directions, warm complexion, full cheeks, laugh lines, wildly expressive raised eyebrows, reading glasses hanging from her collar, wearing an oversized denim jacket over a striped long-sleeve shirt and yoga leggings, standing in a cluttered garage in the afternoon holding a hairbrush up like a microphone and belting out a song with her eyes closed, a glass of red wine in her other hand, a wall calendar behind her with sticky notes falling off it, a few cartoon music notes floating around her head. A clean white speech bubble with a thin black outline rises from the character. Inside the speech bubble, black sentence-case text in a clean hand-drawn font reads exactly: \"My brain lets go of names, appointments, and why I walked in here. But every word of “Pour Some Sugar on Me” is perfectly preserved.\". Text neatly formatted with natural line breaks. Illustration style: flat cartoon vector style with clean black outlines, vibrant flat colors, thick outlines on character and background elements, clearly a drawn cartoon, not a photo, no comic book panel border, no frame, full-bleed scene. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-18.png",
+   "from_inbox": true
   }
  ],
  "stories": [
@@ -191,6 +197,80 @@
    "caption": "",
    "first": "",
    "image": "images/wine-wimsey/2026-10-14/stories/ws-20261014-4.png"
+  }
+ ],
+ "rejected": [
+  {
+   "id": "ww-20261014-03",
+   "kind": "image",
+   "template": "H character card",
+   "character": "The Glamorous One",
+   "quote": "It took me fifty years to find my personal style. Turns out it's anything without a button.",
+   "caption": "I cleaned out my closet on Sunday with the full intention of donating the things I no longer wear. Two hours in, the donate pile was almost everything I own, and the keep pile was three wrap dresses, a cardigan, and the pants with the stretchy waist. Every single thing in the donate pile had a button somewhere. Jeans, blazers, that blouse I bought for a wedding in 2011. I tried one of the blazers on for old times' sake. It fought me. I let it win, folded it, and drove the whole pile to the church bin before I could change my mind.",
+   "first": "My mother wore a girdle to the grocery store every week of her life and told me a lady always suffers a little. I think about her every time I tie a wrap dress. I love her. I just think the suffering could have stayed home.",
+   "ai": false,
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her late 40s with shoulder-length two-tone hair, dark at the roots fading to silver-white waves, full and styled, strong cheekbones, heavy-lidded knowing eyes, bold wine-red lipstick, medium gold hoop earrings, wearing a deep burgundy wrap-style V-neck dress tied at the waist with no buttons anywhere. Shown from the waist up, leaning one elbow on an invisible counter, a glass of red wine held near her shoulder, one eyebrow raised, slight satisfied smirk; at her feet a small discarded pile of cartoon jeans and a buttoned blazer. Thick black ink outlines, flat color fills, slightly exaggerated comic features, clearly a drawn cartoon, not a photo. Simple soft sage-green background, the character is the focus, no room details. Hand-lettered black text in a handwritten serif font, positioned above the character in the upper part of the image, reads exactly: \"It took me fifty years to find my personal style. Turns out it's anything without a button.\". Text is in natural sentence case, not inside a speech bubble, box or banner, flowing as if written by hand on the background. No panel border, no frame. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-03.png"
+  },
+  {
+   "id": "ww-20261014-04",
+   "kind": "image",
+   "template": "A pop art",
+   "character": "",
+   "quote": "My love language is you leaving the dishwasher the way I loaded it.",
+   "caption": "There is a system. Plates face the center, bowls go top rack at an angle, and nothing, not one fork, goes in handle down. I have explained this system to my husband an estimated three hundred times since 1999. Last night at 9:15 I opened the dishwasher to start it and found a cereal bowl wedged sideways across four plates like it was trying to escape. He was very proud of himself for helping. I said thank you. I meant it, mostly. Then I waited until he went upstairs and fixed it. Twenty-seven years. Still fixing it. Still saying thank you.",
+   "first": "My sister says I should just let it go and run it however he loads it. My sister also has a dishwasher that smells like a pond. I'm not taking advice from her on this one. I've accepted that I'll be reloading that thing until one of us dies.",
+   "ai": false,
+   "prompt": "A retro 1950s pop art comic illustration of a glamorous woman in her early 50s with a set platinum-blonde bouffant, red lipstick and a mint-green shirtwaist dress, standing protectively in front of an open 1950s dishwasher with perfectly arranged plates and glasses, one hand on her hip, the other pointing sternly at a cartoon man's arm reaching into frame holding a single dirty mug, her face dramatic and narrow-eyed, a glass of red wine on the counter behind her. Vibrant sunny yellow background with Ben-Day dots halftone texture, thick black comic book border around the entire panel. Bold black uppercase text in a white caption box at the top reads exactly: \"MY LOVE LANGUAGE IS YOU LEAVING THE DISHWASHER\" Bold black uppercase text in a white caption box near the bottom (above the bottom corners) reads exactly: \"THE WAY I LOADED IT.\" Retro pop art illustration style, clearly a drawn comic, thick black outlines, flat vibrant colors, Roy Lichtenstein influence, 1950s advertising aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-04.png"
+  },
+  {
+   "id": "ww-20261014-06",
+   "kind": "image",
+   "template": "E comic panel",
+   "character": "The Homebody",
+   "quote": "Anyone else get a text that says 'call me when you can' and immediately age three years?",
+   "caption": "My cousin Linda sent me five words on Thursday at 2:12 in the afternoon. Call me when you can. No emoji. No context. No period, which somehow made it worse. In the forty seconds before I called her back, I had mentally attended two funerals, sold the house, and drafted an apology for something I did at Thanksgiving in 2016. She picked up on the first ring. She wanted to know if I still had the recipe for the corn casserole. I gave it to her. Then I sat down in the big chair and stayed there for the rest of the day.",
+   "first": "I have asked my family to please put the reason in the text. Even one word. Casserole. Weather. Gossip. My son now sends call me when you can, nothing's wrong. I appreciate the effort. I still don't believe him for the first ten seconds.",
+   "ai": false,
+   "prompt": "A colorful cartoon comic panel illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater, lavender loose pants and dusty pink fluffy slippers, reclined in a big floral-print armchair (pink and mauve flowers on cream) with her feet up, frozen in horror as she stares at a phone held out at arm's length, a glass of red wine raised in her other hand, her mauve curls sticking straight up in shock, a few cartoon sweat drops flying off her head, a wine bottle on the side table next to her. Soft lavender background with thick black comic book border around the entire panel. Bold black uppercase text in a white strip at the top of the panel reads exactly: \"ANYONE ELSE GET A TEXT THAT SAYS 'CALL ME WHEN YOU CAN'\" Bold uppercase text in a white strip at the bottom of the panel (above the bottom corners) reads exactly: \"AND IMMEDIATELY AGE THREE YEARS?\" In the bottom text, the words \"THREE YEARS\" are bold red and all other words are bold black. Cartoon illustration style, clearly a drawn cartoon, thick black outlines, flat vibrant colors, expressive exaggerated facial features, Sunday newspaper comic aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-06.png"
+  },
+  {
+   "id": "ww-20261014-08",
+   "kind": "image",
+   "template": "G vintage poster",
+   "character": "",
+   "quote": "Kitchen Rules: If you didn't cook it, you don't get to season it.",
+   "caption": "I spent most of Sunday on a pot roast. Four hours, the good carrots, a splash of red in the pan because the recipe said so and I believe in following instructions. I set it on the table at 6. Before I had even sat down, my brother-in-law reached for the salt and shook it over his plate like he was putting out a fire. He hadn't tasted it. Not one bite. He just assumed. I watched him do it and said nothing, which my husband says was very mature of me. I've already decided what he's bringing to Thanksgiving. It's ice.",
+   "first": "My grandmother kept the salt shaker in her apron pocket during Sunday dinner for this exact reason. If you wanted it, you had to ask her, and she would look at you for a long time before handing it over. Nobody ever asked twice. I'm thinking about getting an apron.",
+   "ai": false,
+   "prompt": "A vintage decorative poster illustration in the style of an aged tin kitchen sign or antique wine advertisement, clearly a printed illustration. A rustic farmhouse kitchen still life: a cast-iron pot of stew steaming on an old stove, a wooden spoon resting across it, a pepper grinder and a salt cellar set slightly out of reach on a shelf, a bottle of red wine and a filled wine glass on a butcher-block counter, copper pans hanging behind. No people. Warm brown, cream and deep red color palette, distressed border edges with gentle texture, soft grainy aged-paper background. Large ornate flowing cursive script text at the top reads exactly: \"Kitchen Rules:\" Elegant serif uppercase text below it reads exactly: \"IF YOU DIDN'T COOK IT, YOU DON'T GET TO SEASON IT.\" The text is integrated into the poster design. Handwritten cursive signature \"Wine Wimsey\" in burgundy in the bottom-right corner as the only branding. No other text, signs, logos or watermarks anywhere in the image. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-08.png"
+  },
+  {
+   "id": "ww-20261014-11",
+   "kind": "image",
+   "template": "I speech bubble",
+   "character": "The Settled One",
+   "quote": "I said I'd be there in five minutes. I meant that as a mood, not a measurement.",
+   "caption": "My friend Carol texted at 6:05 on Friday asking if I was still coming to trivia night. I wrote back on my way, five minutes. At that exact moment I was on the couch, barefoot, with half a glass of red and a show I'd been meaning to finish since August. I want to be clear that I believed it when I typed it. I did eventually go. I arrived at 6:50, right as they announced the round on state capitals, which I would not have helped with. Carol looked at her watch. I looked at the snacks. We both moved on.",
+   "first": "My husband has learned to translate. Five minutes means twenty. Ten minutes means I haven't found my shoes. On my way means I have thought about leaving. He just nods and starts the car around the twenty-minute mark. It's the most romantic thing he does.",
+   "ai": false,
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her early 60s with silver-white wavy hair just past her jaw, calm slightly angular face with fine lines, round lavender-tinted glasses, wearing an oversized sage-green knit cardigan over an oatmeal top and soft grey joggers, barefoot, seated comfortably on her couch in a cozy lived-in living room in the early evening, completely unhurried, one foot tucked under her, a glass of red wine in one hand and her phone resting face-down on the cushion beside her, a pair of shoes sitting untouched by the front door in the background, a wall clock showing a time with no numbers, calm quietly amused expression. A clean white speech bubble with a thin black outline rises from the character. Inside the speech bubble, black sentence-case text in a clean hand-drawn font reads exactly: \"I said I'd be there in five minutes. I meant that as a mood, not a measurement.\". Text neatly formatted with natural line breaks. Illustration style: flat cartoon vector style with clean black outlines, vibrant flat colors, thick outlines on character and background elements, clearly a drawn cartoon, not a photo, no comic book panel border, no frame, full-bleed scene. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-11.png"
+  },
+  {
+   "id": "ww-20261014-12",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "I said yes to brunch three weeks ago because it felt so far away. Now it's tomorrow and I'd like to speak to whoever agreed to this.",
+   "caption": "Three weeks ago a woman from book club asked if I wanted to do brunch on a Sunday at the end of the month. In my mind the end of the month was so far away it practically didn't exist. Future me would be rested. Future me would have clean hair. So I said yes, sounds lovely, and went home. Tonight I opened the calendar and there it is, tomorrow at 10:30, circled in red in my own handwriting. Future me is here. She has none of those things. She is on the couch drafting a strongly worded note to her past self.",
+   "first": "I've started a new rule where I only agree to plans that fall within forty-eight hours. Anything further out and I'm signing a contract on behalf of a woman I've never met. My book club now says I'm hard to schedule. That's the idea, sweetheart.",
+   "ai": false,
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle-patterned knit sweater, lavender loose pants and dusty pink fluffy slippers, sunk deep in a soft sofa piled with pillows on a Saturday night, a wall calendar beside her with one square circled in red (no readable words), a glass of red wine raised in one hand and the other hand thrown up in exasperation, mouth open mid-complaint, a wine bottle on the side table and a sleepy cat on the armrest. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I SAID YES TO BRUNCH THREE WEEKS AGO BECAUSE IT FELT SO FAR AWAY. NOW IT'S TOMORROW AND I'D LIKE TO SPEAK TO WHOEVER AGREED TO THIS.\". Text is centered, 2-5 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-14/ww-20261014-12.png"
   }
  ]
 }
