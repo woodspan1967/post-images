@@ -140,18 +140,16 @@
    "inbox_id": "suahctd0xfnxv9bo0hov"
   },
   {
-   "id": "ww-20261015-11",
+   "id": "ww-20261015-13",
    "kind": "image",
-   "template": "I speech bubble",
-   "character": "The Homebody",
-   "quote": "You know you’re getting old when your bedtime is the hour you used to head out.",
-   "caption": "In 1989 I left the house at 9:30 on a Friday with a can of Aqua Net and no plan. Now 9:30 is when I'm brushing my teeth and checking the back door twice. Last Friday my niece texted me at 9:45 asking if I wanted to meet her at a bar downtown. I read it lying flat in bed, glasses on, a heating pad on my back, and laughed out loud alone in the dark. I wrote back that I'd been asleep for a while. I hadn't. But I was well on my way. The heating pad was set to medium.",
-   "first": "My husband and I used to go dancing on Saturdays. Last Saturday we watched a show about people restoring old furniture and both fell asleep before they finished the dresser. We never found out how the dresser turned out. We've made our peace with that.",
+   "template": "I2 speech bubble",
+   "character": "The Glamorous One",
+   "quote": "I'm not dramatic. I just enter every room like it owes me money.",
+   "caption": "My cousin's retirement party was at the Elks lodge on Saturday, and I was forty minutes late because of a zipper situation I won't go into. By the time I got there everyone was already seated. So I did what any reasonable woman would do. I paused in the doorway, adjusted one earring, and took a long look around the room like I was deciding whether it deserved me. Three people stopped talking. My aunt Rita set her fork down. Nobody needed to know about the zipper. As far as that room knows, I arrived exactly when I meant to.",
+   "first": "My sister says I've walked into rooms this way since the third grade, when I showed up to picture day wearing one shoe. I don't remember the shoe. I remember the photographer saying whatever you're doing, keep doing it. I haven't stopped since.",
    "ai": false,
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls sitting close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle knit sweater over lavender pajama pants and dusty pink fluffy slippers, a sleep mask pushed up on her forehead, fully reclined in her big floral-patterned armchair with her feet up on an ottoman in a cozy lamplit living room at night, a fluffy blanket over her legs, a glass of red wine on the side table beside the bottle, a wall clock showing 9:00, a dark window behind her with a neon-lit city skyline far in the distance, mid-yawn with a contented half-asleep smile. A clean white speech bubble with a thin black outline rises from her near the top of the image. Inside the speech bubble, black sentence-case text in a clean hand-drawn font reads exactly: \"You know you’re getting old when your bedtime is the hour you used to head out.\". Text neatly formatted with natural line breaks. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, vibrant flat colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "image": "images/wine-wimsey/2026-10-15/ww-20261015-11.png",
-   "from_inbox": true,
-   "inbox_id": "zyu8g46t7z7a4tfokm4k"
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her late 40s with shoulder-length two-tone hair, dark at the roots fading to silver-white waves, full and styled, strong cheekbones, heavy-lidded knowing eyes, bold wine-red lipstick, medium gold hoop earrings, wearing a deep navy blue wrap-style V-neck dress, pausing in the arched doorway of an elegant restaurant dining room in the evening, one hand resting on the door frame, a glass of red wine held up near her shoulder, chin lifted, one eyebrow raised, scanning the room with a slow confident smirk while seated diners glance up. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I'M NOT DRAMATIC. I JUST ENTER EVERY ROOM LIKE IT OWES ME MONEY.\". Text is centered, 2-5 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-15/ww-20261015-13.png"
   },
   {
    "id": "ww-20261015-12",
@@ -170,16 +168,18 @@
  ],
  "stories": [
   {
-   "id": "ws-20261015-1",
+   "id": "ws-20261015-5",
    "kind": "story",
-   "template": "I2 speech bubble",
-   "character": "The Glamorous One",
-   "quote": "I'm not dramatic. I just enter every room like it owes me money.",
+   "template": "I speech bubble",
+   "character": "The Homebody",
+   "quote": "You know you’re getting old when your bedtime is the hour you used to head out.",
    "caption": "",
    "first": "",
    "ai": false,
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her late 40s with shoulder-length two-tone hair, dark at the roots fading to silver-white waves, full and styled, strong cheekbones, heavy-lidded knowing eyes, bold wine-red lipstick, medium gold hoop earrings, wearing a deep navy blue wrap-style V-neck dress, pausing in the arched doorway of an elegant restaurant dining room in the evening, one hand resting on the door frame, a glass of red wine held up near her shoulder, chin lifted, one eyebrow raised, scanning the room with a slow confident smirk while seated diners glance up. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I'M NOT DRAMATIC. I JUST ENTER EVERY ROOM LIKE IT OWES ME MONEY.\". Text is centered, 2-5 lines, dominant in the composition. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "image": "images/wine-wimsey/2026-10-15/stories/ws-20261015-1.png"
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a full-figured woman in her mid-50s with a short voluminous puff of dusty mauve-pink curls sitting close to her head, round soft face, heavy-lidded droopy eyes, full cheeks, small upturned nose, small yellow teardrop earrings, wearing an ochre mustard fairisle knit sweater over lavender pajama pants and dusty pink fluffy slippers, a sleep mask pushed up on her forehead, fully reclined in her big floral-patterned armchair with her feet up on an ottoman in a cozy lamplit living room at night, a fluffy blanket over her legs, a glass of red wine on the side table beside the bottle, a wall clock showing 9:00, a dark window behind her with a neon-lit city skyline far in the distance, mid-yawn with a contented half-asleep smile. A clean white speech bubble with a thin black outline rises from her near the top of the image. Inside the speech bubble, black sentence-case text in a clean hand-drawn font reads exactly: \"You know you’re getting old when your bedtime is the hour you used to head out.\". Text neatly formatted with natural line breaks. Illustration style: Aunty Acid-style flat cartoon vector style, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, vibrant flat colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/wine-wimsey/2026-10-15/stories/ws-20261015-5.png",
+   "from_inbox": true,
+   "inbox_id": "zyu8g46t7z7a4tfokm4k"
   },
   {
    "id": "ws-20261015-2",
@@ -219,5 +219,8 @@
   }
  ],
  "review_url": "https://claude.ai/artifact/VM4S9Sy51styVNfSLBUJdN",
- "flow_id": "YkmRRkTyLppkjfQW8TK8"
+ "flow_id": "YkmRRkTyLppkjfQW8TK8",
+ "swaps": [
+  "Oct 15: feed #11 (bedtime, Homebody) moved to Story 1 as ws-20261015-5; Story 1 (owes me money, Glamorous) moved to feed #11 as ww-20261015-13, with new caption + first comment"
+ ]
 }
