@@ -7,11 +7,11 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 
 ## 0. Setup
 - Clone/pull this repo (woodspan1967/post-images, push access). Work in it.
-- Load the Whispers Of Yesterday skill (`whispers-of-yesterday`) for voice, themes, templates, story captions, first comments, hashtag block, quote bank.
+- Load the Whispers Of Yesterday skill (`whispers-of-yesterday`) for voice, themes, templates, story captions, first comments, quote bank.
 - Pipeline overrides to the skill (the pipeline wins where they differ):
   - Format is vertical 4:5, never "Square 1:1" or "8K". Drop those phrases from the skill's prompt templates.
   - Do NOT put the skill's watermark sentence in prompts. The watermark is stamped afterwards (`--brand "Whispers Of Yesterday"`).
-  - Story-caption and first-comment rules are the skill's own (4-8 sentence story caption; 2-4 sentence first-person first comment + 5-8 hashtags after a line break). Do not apply Wine Wimsey's ~100-word caption rule.
+  - Story-caption and first-comment rules are the skill's own (4-8 sentence story caption; 2-4 sentence first-person first comment). NO hashtags in first comments, even though the skill has a hashtag block (PIPELINE.md hard rule 3). Do not apply Wine Wimsey's ~100-word caption rule.
 - Read `held/whispers-of-yesterday.json`: approved posts carried over. They count toward today's 10 and go first. Clear the file after you use them.
 - Read `used/whispers-of-yesterday-quotes.txt`: never reuse a quote or headline. Also avoid repeating a topic used in the last 7 days of that file.
 
@@ -37,7 +37,7 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - Quote text on images in ALL CAPS in the prompt, and the quote field in batch.json matches what the image should show.
 - Children appear only in wholesome, era-typical family/school/play scenes. No cigarettes, no named celebrities, no real brand logos or store names.
 - Image prompts: end with "No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format." Never ask the model for a watermark.
-- TOBI: text under 130 characters, a nostalgia memory line or question in the page voice, + first comment (skill format, with hashtags). Background `black`.
+- TOBI: text under 130 characters, a nostalgia memory line or question in the page voice, + first comment (skill format, no hashtags). Background `black`.
 - Ids: feed `wy-YYYYMMDD-NN`, TOBI `wy-YYYYMMDD-tN`, stories `wys-YYYYMMDD-N`.
 - Write `batches/whispers-of-yesterday/YYYY-MM-DD/batch.json` (format in tools/build_review.py) with title "Whispers Of Yesterday Review · <Mon D>", a one-line subtitle, `"bucket": "Whispers Of Yesterday"`, `"story_bucket": "Whispers Of Yesterday Stories"`, feed in queue order with TOBIs spread between images. Put the template name in `template` (e.g. "T1 illustrated scene", "T2 vintage photo", "T3 retro poster") and the theme in `character`.
 

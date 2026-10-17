@@ -26,7 +26,7 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - 12 feed posts total = held posts + new ones. Pick 1 or 2 TOBIs (vary day to day); the rest are image posts.
 - 4 stories (image only, own quotes).
 - Mix templates and characters per the skill (I2 is the primary format). Do NOT use Template B (photoreal) or Template C (vintage B&W photo) with people; if you want those looks, make them people-free (still life, empty porch) or draw the people as illustration. Template D still life is fine (AI label).
-- Captions ~100 words (hook / story / button), first comment ~50 words. TOBI text under 130 characters + first comment.
+- Captions ~100 words (hook / story / button), first comment ~50 words, no hashtags. TOBI text under 130 characters + first comment.
 - Image prompts: end with "No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format." Never ask the model for a watermark.
 - Ids: feed `ww-YYYYMMDD-NN`, TOBI `ww-YYYYMMDD-tN`, stories `ws-YYYYMMDD-N`.
 - Write `batches/wine-wimsey/YYYY-MM-DD/batch.json` (format in tools/build_review.py) with title "Wine Wimsey Review · <Mon D>" and a one-line subtitle, feed in queue order with TOBIs spread between images.
