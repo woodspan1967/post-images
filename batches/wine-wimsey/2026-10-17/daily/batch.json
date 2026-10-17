@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review · Oct 17",
- "subtitle": "",
+ "subtitle": "12 feed (11 images + 1 TOBI) and 4 stories · 0 held · all 15 new inbox items used word for word (11 feed images + 4 stories); the TOBI at #6 is new · Heads-up: 3 of your inbox quotes are close to jokes already posted: #1 ’80s song (Pour Some Sugar on Me, Oct 14), #4 knees (applause, Oct 12), #10 fridge (stare for a full minute, Oct 13); #3 grudges is close to an example line in the skill · Story 4 retaken once (first take had a framed family photo with a child next to the wine) · every image checked: quotes match word for word, all cartoons, no logos",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -234,12 +234,13 @@
    "caption": "",
    "first": "",
    "ai": false,
-   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her early 60s with silver-white jaw-length softly waved hair, calm angular face with fine lines, small quietly amused mouth, round lavender-tinted glasses, wearing a soft taupe cardigan over a sage top and olive joggers, in house slippers, seated at a lived-in kitchen table with an old framed family photo on the wall behind her showing only simple painted shapes, a stack of bills and a glass of red wine in front of her, chin resting in one hand, giving a dry, unbothered, faintly amused look straight at the viewer. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I’VE FINALLY FIGURED OUT WHAT MY MOTHER MEANT BY “YOU’LL UNDERSTAND WHEN YOU’RE OLDER.” I’M OLDER. I UNDERSTAND. I’D LIKE A REFUND.\". Text is centered, 2-5 lines, dominant in the composition. Illustration style: flat cartoon vector style like a bold greeting-card comic strip, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "prompt": "An Aunty Acid-style flat cartoon illustration of a slim woman in her early 60s with silver-white jaw-length softly waved hair, calm angular face with fine lines, small quietly amused mouth, round lavender-tinted glasses, wearing a soft taupe cardigan over a sage top and olive joggers, in house slippers, seated at a lived-in kitchen table with a small framed painting of a lemon tree on the wall behind her, a stack of bills and a glass of red wine in front of her, chin resting in one hand, giving a dry, unbothered, faintly amused look straight at the viewer. A large white speech bubble with a thick bold black outline spans horizontally across the top 30-35% of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"I’VE FINALLY FIGURED OUT WHAT MY MOTHER MEANT BY “YOU’LL UNDERSTAND WHEN YOU’RE OLDER.” I’M OLDER. I UNDERSTAND. I’D LIKE A REFUND.\". Text is centered, 2-5 lines, dominant in the composition. Illustration style: flat cartoon vector style like a bold greeting-card comic strip, semi-realistic comic illustration, thick bold black outlines on everything, smooth flat color fills with subtle cel-shading, saturated colors, clearly a drawn cartoon, not a photo, no panel border, no frame, full-bleed. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "image": "images/wine-wimsey/2026-10-17/stories/ws-20261017-4.png",
    "from_inbox": true,
    "inbox_id": "7txrpsmn8bu79mdvqung",
-   "generation_id": "6DBkvCtp2IX7ybx7PfSo"
+   "generation_id": "awcmKE0Pp3gZRnnwobfb"
   }
  ],
- "flow_id": "rhQDgvzpykFBRhXsyHl1"
+ "flow_id": "rhQDgvzpykFBRhXsyHl1",
+ "review_url": "https://claude.ai/artifact/8C6JMuK3hGTsoYXrTZAsgw"
 }
