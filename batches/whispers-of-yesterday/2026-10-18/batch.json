@@ -1,6 +1,6 @@
 {
  "title": "Whispers Of Yesterday Extra · Sun Oct 18",
- "subtitle": "4 extra image posts for Sunday, written fresh (inbox not used); tomorrow's daily run should go in 2026-10-18-daily and start at wy-20261018-05",
+ "subtitle": "4 extra image posts for Sunday Oct 18 (2 painted scenes, 1 people-free vintage photo, 1 retro poster) · written fresh, inbox not used · all quotes checked word for word · #3 drive-in car has a tiny illegible chrome script badge on the side (no real brand) · tomorrow's daily run should start at wy-20261018-05",
  "bucket": "Whispers Of Yesterday",
  "story_bucket": "Whispers Of Yesterday Stories",
  "posts": [
@@ -13,7 +13,8 @@
    "caption": "Sunday afternoon, the game was on, and the picture looked like it was snowing inside the set. Dad sent you over to fix the rabbit ears. You'd bend one, twist the other, and wrap a little more tinfoil around the tips while he hollered from his chair: warmer, no, back, right there, don't move. And that was it, you were part of the television now, standing with one arm in the air for the whole fourth quarter. Nobody ever told you who won. You were facing the wall.",
    "first": "My brother and I used to take turns, one quarter each, and we argued about whose quarter had more commercials. Dad swore the reception was better when you stood on one foot. I believed that until I was about twelve.\n\n#WhispersOfYesterday #ChildhoodMemories #GrowingUpIn60s #RememberWhen #OldSchool #BackInTheDay",
    "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a cozy 1960s living room on a Sunday afternoon with wood paneling, a braided rug, and a big wooden console television showing a fuzzy, snowy football picture. A boy of about ten in a striped T-shirt and dungarees stands beside the set on tiptoe, holding one arm of a rabbit-ear antenna up high, the tips wrapped in crinkled tinfoil, with a long-suffering expression. His father in a cardigan leans forward in a worn armchair, one hand raised, calling out directions, while a beagle naps on the rug. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"I WAS THE REMOTE CONTROL, AND ON GAME DAY I WAS ALSO THE ANTENNA.\". Norman Rockwell influence, warm amber and honey tones, nostalgic American home setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-18/wy-20261018-01.png"
   },
   {
    "id": "wy-20261018-02",
@@ -24,7 +25,8 @@
    "caption": "Monday morning the wringer washer came rumbling to life in the basement, and by nine o'clock the clothesline was full. Mom had a mouth full of wooden clothespins and a system nobody else understood. Sheets on the outside line, towels in the middle, unmentionables hidden in the back where the neighbors couldn't see. If a cloud rolled in, the whole house ran out back like the building was on fire. And the kids weren't allowed to run between the sheets, which is exactly why we did it every single week. Those sheets came in smelling like sunshine, and nothing out of a box has ever smelled that good since.",
    "first": "My grandmother would check the sky every Monday morning like a ship captain before she hung a single sock. She kept her clothespins in an apron with one big pocket across the front. I can still hear that line squeak on the pulley.\n\n#WhispersOfYesterday #BoomerMemories #RememberWhen #GrowingUpIn60s #GoodOldDays #AmericanNostalgia",
    "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a sunny, breezy 1950s backyard on a Monday morning. Long clotheslines strung between wooden T-shaped poles are full of bright white sheets and towels billowing in the wind like sails. A mother in a cotton house dress and a clothespin apron pins up a sheet with two wooden clothespins in her mouth, a wicker laundry basket at her feet. Two laughing children run between the flapping sheets. Neighboring backyards with picket fences show more laundry on the lines in the distance. Bold dark navy text with a thin white outline across the top of the image, no bubble, reads exactly: \"MONDAY WAS WASH DAY, AND EVERY BACKYARD ON THE BLOCK HAD SHEETS FLAPPING LIKE SAILS.\". Norman Rockwell influence, soft blue sky, fresh morning light, nostalgic American neighborhood. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-18/wy-20261018-02.png"
   },
   {
    "id": "wy-20261018-03",
@@ -35,7 +37,8 @@
    "caption": "Friday night meant piling in the car with the kids already in their pajamas and a grocery sack of popcorn from home. Dad would back into the spot so we could see over the hood, then reach out and hook that heavy metal speaker on the window. It crackled more than it talked. The cartoon came on, then the first feature, and somewhere in the middle of the second one, every kid in the back seat was asleep in a pile. Dad always forgot the speaker was still on the window. Every drive-in in America had a few dangling cords from somebody who drove off with one.",
    "first": "We went to the drive-in out on the county road every summer, and Mom brought a thermos of lemonade and a stack of napkins. I made it to the second movie exactly once. I woke up in my own bed and couldn't figure out how I got there.\n\n#WhispersOfYesterday #BoomerMemories #RetroLife #VintageLife #GrowingUpIn60s #AmericanNostalgia #ClassicCars",
    "prompt": "A realistic faded color photograph from the early 1960s, an outdoor drive-in movie theater at dusk. In the foreground, a two-tone 1950s sedan with whitewall tires is parked facing a giant white movie screen glowing in the distance, its driver-side window rolled down with a heavy metal drive-in speaker hooked on the glass, the cord running to a speaker post. Rows of other vintage cars are parked on gentle ramps, a small concession stand glows warmly to one side, and the sky is deep orange and violet. No people anywhere in the frame, no faces, hands or figures, not even inside the cars. Authentic period photography, soft film grain, warm faded colors. Bold white uppercase text with a thin dark outline at the top of the image reads exactly: \"A DOLLAR A CARLOAD, A SPEAKER ON THE WINDOW, AND KIDS IN PAJAMAS IN THE BACK SEAT.\". The movie screen is blank white with no image and no words. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": true
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-18/wy-20261018-03.png"
   },
   {
    "id": "wy-20261018-04",
@@ -46,8 +49,10 @@
    "caption": "You picked up the phone to call your best friend, and somebody was already on it. Mrs. Pruitt from two houses down, talking about her gallbladder. You hung up gently, waited a minute, and picked it up again, and she was still going. Everybody had their own ring, two longs and a short or whatever it was, and you learned to tell yours from across the house. You also learned that anything you said on that line would be all over the church by Sunday. We didn't call it privacy. We called it being careful.",
    "first": "Our ring was one long and two shorts, and my mother could hear it from the backyard with the radio on. There was a lady on our line who picked up every single time, and you could hear her clock ticking in the background. Nobody ever said a word about it. We all just knew.\n\n#WhispersOfYesterday #OldSchool #RememberWhen #BoomerMemories #BackInTheDay #GrowingUpIn60s",
    "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, split into two side-by-side panels. Left panel: a cartoon girl with a ponytail in a 1950s kitchen holding a black wall-mounted rotary telephone receiver to her ear, looking puzzled. Right panel: a cartoon older woman with curlers and cat-eye glasses in her own parlor, sitting in an armchair and quietly listening on her own telephone with a sly, delighted expression, a teacup in her other hand. A single telephone wire runs between the two panels on wooden telephone poles. Bold retro serif headline text at the top reads exactly: \"THE PARTY LINE\". Smaller subtitle text below it reads exactly: \"ONE TELEPHONE LINE, FOUR FAMILIES, AND ALWAYS SOMEBODY LISTENING IN\". Saturday Evening Post illustration style, warm muted palette of mustard, teal and brick red, clean lines, nostalgic textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-18/wy-20261018-04.png"
   }
  ],
- "stories": []
+ "stories": [],
+ "flow_id": "NmFdHCvdUaokUtRwVMFo"
 }
