@@ -92,7 +92,7 @@ dialog::backdrop{background:rgba(0,0,0,.75)}
   </section>
   <section class="done">
     <h2>What happens next</h2>
-    <p>Approved posts go into the __BUCKET__ bucket at the bottom of your queue, each with its first comment (5-minute delay). TOBIs use the black background. Claude waits for your OK in chat before the final upload click.</p>
+    <p>Approved posts go into the __BUCKET__ bucket at the bottom of your queue, each with its first comment (5-minute delay). After the upload Claude switches on AI content and adds the alt text on every image post and story. TOBIs use the black background. Claude waits for your OK in chat before the final upload click.</p>
   </section>
 </div>
 <dialog id="zoom"><img alt=""></dialog>
@@ -121,6 +121,7 @@ function render(){
         <div class="top"><span class="num">${p.kind==="story" ? "Story " + (POSTS.filter(q=>q.kind==="story").indexOf(p)+1) : "#" + n + (p.kind==="tobi" ? " TOBI" : "")}</span><span class="meta">${p.id}</span></div>
         <div class="field"><span class="label">${p.kind==="tobi"?"Text on background":"Quote on image"}</span><p class="quote">${esc(p.quote)}</p></div>
         ${p.caption ? `<div class="field"><span class="label">Caption</span><p>${esc(p.caption)}</p></div>` : ""}
+        ${p.kind!=="tobi" ? `<div class="field"><span class="label">Alt text · AI content on</span><p>${p.alt ? esc(p.alt) : "(missing: write one before upload)"}</p></div>` : ""}
         ${p.first ? `<div class="field"><span class="label">First comment</span><p>${esc(p.first)}</p></div>` : `<div class="field"><span class="label">Story</span><p>Image only, no caption. Goes to the __STORYBUCKET__ bucket.</p></div>`}
         <div class="field" ${s==="redo"?"":"hidden"}><label class="label" for="note-${p.id}">What should change?</label>
           <textarea id="note-${p.id}" data-id="${p.id}" placeholder="e.g. new quote, different setting, shorter caption">${esc(note)}</textarea></div>

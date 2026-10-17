@@ -47,11 +47,12 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - Stamp: `python3 tools/stamp.py --brand "Whispers Of Yesterday" <pngs>` on every image; add `--ai` to every photo-style image (Template 2, which is people-free). Painted Template 1 scenes and flat retro posters get the brand only. If any person looks photographic, regenerate before stamping. Commit + push.
 - Look at every image: quote must match word for word, no stray logos or extra text, era looks right (no modern objects). Regenerate any that fail (once), then flag anything still off in the page subtitle.
 - Set each item's `image` to the repo path.
+- Alt text: add `alt` to every image post and story (not TOBIs), following PIPELINE.md "AI content + alt text". Write it after you've looked at the final image, so it describes what is actually there.
 
 ## 3. Review page
 - `python3 tools/build_review.py batches/.../batch.json <scratch>/review` then publish `<scratch>/review/index.html` as a NEW artifact with files img/*.jpg, capabilities {db:{}, user:{}}, icon "checklist".
 - Append today's quotes/headlines to used/whispers-of-yesterday-quotes.txt, commit + push batch.json.
-- Send Scott the review link with SendUserMessage (counts, credits used, anything flagged).
+- Send Scott the review link with SendUserMessage (counts, credits used, anything flagged, any post missing alt text).
 
 ## 4. When Scott replies
 - Read the page's `decisions` collection (ArtifactData). `redo` -> regenerate with his note; `rejected` -> write a replacement for that slot; update the page (same artifact) and reset those docs to "" so they show as Waiting.
@@ -60,4 +61,5 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
   - `python3 tools/build_csv.py batch.json approved.txt <scratch>/csv`
   - Create multiple posts -> Bucket "Whispers Of Yesterday" -> inject feed CSV into the spreadsheet file input via DataTransfer -> confirm count with Scott -> Upload to bucket.
   - Repeat with bucket "Whispers Of Yesterday Stories" and the stories CSV.
-  - Spot-check in the bucket (search a caption) that images and first comments landed. Reset viewport.
+  - AI content + alt text (PIPELINE.md): after each bucket upload, reload that bucket's page, take one screenshot (the list doesn't draw while the pane is hidden), paste `tools/pp_post_options.js` into javascript_tool, run `await __pp.run(<output of python3 tools/alt_jobs.py batch.json approved.txt feed>)` (stories bucket: `stories`). All results must be ok:true; retry failures once, then tell Scott which posts.
+  - Spot-check in the bucket (search a caption) that images, first comments, AI content and alt text landed. Reset viewport.

@@ -61,6 +61,13 @@ These override any skill or runbook.
 - Post Planner bulk CSV (version 3.1 template), posting time blank (queue), bottom of queue, bucket chosen on the upload screen.
 - Uploaded through the Claude desktop app's built-in browser; Scott confirms before the final click.
 
+## AI content + alt text (all pages, added 2026-10-17, Scott)
+- Every image post and every story gets Post Planner's **AI content** switch ON and **Add alt text** ON with its alt text typed in. TOBIs get neither (they have no media, so the editor shows no options for them).
+- The bulk CSV (v3.1) has no columns for these, so they are set per post after each upload, in the post's editor under the first comment ("POST OPTIONS").
+- Write `alt` for every image post and story in batch.json when the batch is written; the review page shows it under each post so Scott can check it.
+- Alt text style: 1-3 plain sentences, under 500 characters (aim 250-350). Start with the art style (painted illustration, cartoon illustration, vintage-style photo, retro poster, still life), then who/what is shown and what they're doing, then the words on the image: `Text at the top reads: <quote in normal sentence case>` (or `Headline: ... Subtitle: ...`). No hashtags, no "image of", no jokes or opinions, no brand names, no page name.
+- After each bucket upload: reload the bucket page (clears any search), take one screenshot (the post list doesn't draw while the browser pane is hidden), paste `tools/pp_post_options.js` into javascript_tool, then `await __pp.run(<python3 tools/alt_jobs.py batch.json approved.txt feed>)`; for the stories bucket use `... stories`. Every result must be `ok:true` (it reopens each post and reads the settings back). Retry a failed post once, then flag it to Scott by caption.
+
 ## Weekly performance review
 - Mondays about 6 AM Central, pages on this pipeline only. See RUN_WEEKLY_REVIEW.md.
 - Scott exports post insights from Meta Business Suite himself and drops them on https://claude.ai/artifact/2s9ytPX14C65UGFPGVhL3X . Never automate anything on Facebook or Meta Business Suite.
