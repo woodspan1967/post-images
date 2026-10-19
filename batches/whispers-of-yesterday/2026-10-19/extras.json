@@ -1,6 +1,6 @@
 {
  "title": "Whispers Of Yesterday Review · Oct 19 extras",
- "subtitle": "3 extras added to today: 2 feed image posts + 1 story · quotes checked against the used list",
+ "subtitle": "3 extras for Oct 19: 2 feed image posts + 1 story · #09 regenerated once (a garbled letter), now word for word · story 4 has a small empty dish on the side table that reads like an ashtray (no cigarette); Redo if it bothers you",
  "bucket": "Whispers Of Yesterday",
  "story_bucket": "Whispers Of Yesterday Stories",
  "eleven_flow": "D37elfhQtfuvM0EX82hN",
@@ -13,7 +13,10 @@
    "quote": "SATURDAY NIGHT MOM GAVE YOU A HOME PERMANENT, AND THE WHOLE HOUSE SMELLED LIKE IT UNTIL TUESDAY.",
    "caption": "Every few months, usually on a Saturday night, the kitchen turned into a beauty parlor. Out came the little pink rods, the box with the smiling lady on the front, and a bottle of something strong enough to take the paint off a barn. You sat on a kitchen chair with a towel around your neck while Mom wound your hair so tight your eyebrows went up an inch. Then came the solution, and the smell rolled through the house like a wet dog that had been dipped in vinegar. Dad opened every window, even in January. Sunday morning you went to church with a head full of curls and sat as far from the candles as you could.",
    "first": "My sister got a home perm every spring before Easter, and every year she cried about how it came out. By the Fourth of July it had relaxed into exactly what she wanted. My mother called that her plan all along.",
-   "ai": false
+   "ai": false,
+   "alt": "Painted illustration of a 1960s yellow kitchen at night. A girl in a pink dress sits on a chair with a towel around her shoulders, scrunching her face as her mother in a flowered apron squeezes solution onto the curlers in her hair, while her father holds his nose in the doorway and her little brother in pajamas waves a dish towel. Text at the top reads: Saturday night Mom gave you a home permanent, and the whole house smelled like it until Tuesday.",
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-09.png",
+   "prompt": ""
   },
   {
    "id": "wy-20261019-10",
@@ -23,7 +26,10 @@
    "quote": "THE METAL ICE CUBE TRAY TOOK BOTH HANDS, ONE GOOD YANK, AND A LITTLE BIT OF PRAYER.",
    "caption": "Before anybody had an ice maker, getting a cube out of the freezer was a two-person job you did by yourself. The tray was solid aluminum, frozen to the shelf, and wearing a coat of frost you had to chip through first. You pulled up on that lever and the whole thing groaned like an old porch step. Half the cubes shot across the counter, the other half cracked into slivers, and one always stayed stuck no matter what you did. Then you ran it under the faucet and somebody hollered at you for wasting water. Still, nothing ever tasted colder than lemonade poured over the ones that made it.",
    "first": "We kept two trays, and the rule was whoever emptied one had to refill it. My brother never once followed that rule in his life. I still check the ice trays at Thanksgiving out of pure habit.",
-   "ai": true
+   "ai": true,
+   "alt": "Vintage-style color photo of a 1950s kitchen counter. An aluminum ice cube tray with a lever divider sits beside loose ice cubes and a glass of lemonade, in front of an open, frost-covered refrigerator freezer. Text at the top reads: The metal ice cube tray took both hands, one good yank, and a little bit of prayer.",
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-10.png",
+   "prompt": ""
   }
  ],
  "stories": [
@@ -35,7 +41,11 @@
    "quote": "SIGN-OFF / AT MIDNIGHT THE TV PLAYED THE ANTHEM, SHOWED A TEST PATTERN, AND SENT THE WHOLE TOWN TO BED",
    "caption": "",
    "first": "",
-   "ai": false
+   "ai": false,
+   "alt": "Painted retro poster of a 1960s living room late at night. A father snores in a recliner, a mother sleeps on the couch under a crocheted afghan, a dog naps on a braided rug, and a wooden console television shows a test pattern. Headline: Sign-off. Subtitle: At midnight the TV played the anthem, showed a test pattern, and sent the whole town to bed.",
+   "image": "images/whispers-of-yesterday/2026-10-19/stories/wys-20261019-4.png",
+   "prompt": ""
   }
- ]
+ ],
+ "review_url": "https://claude.ai/artifact/1fJ3pZykoZZj5hoLgkCoyg"
 }
