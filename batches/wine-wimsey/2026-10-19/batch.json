@@ -151,6 +151,20 @@
    "ai": false,
    "image": "images/wine-wimsey/2026-10-19/ww-20261019-10.png",
    "alt": "Cartoon illustration of a woman with big red curls and round glasses at a neighborhood potluck, holding a glass of red wine and raising her palm as a startled neighbor clutches a paper plate. Text at the top reads: If you ask me how I'm doing, I'm going to tell you. All of it. That's the risk you took."
+  },
+  {
+   "id": "ww-20261019-11",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "I started a 30-day stretching challenge on October 1st. I'm proudly on day three. I've been on day three for two weeks.",
+   "caption": "Day one went beautifully. I rolled out the mat, put on the leggings with the tags still on them, and followed a woman on YouTube who could fold herself in half like a lawn chair. Day two I was sore in places I didn't know had opinions. Day three I did the whole routine during a commercial break, which I'm counting as multitasking. Then a Tuesday happened. Then several more. The mat is still on the living room floor, rolled out and ready, mostly for the cat now. I step over it every morning on the way to the coffee. That counts as a lunge.",
+   "first": "My sister signed up for the same challenge and texts me her day number every morning. She's on day nineteen. I've started replying with a thumbs-up and nothing else. Last night she asked how my hamstrings were doing. I said they're resting. They've been resting since the third.",
+   "prompt": "(ElevenLabs flow 4X1CnRCXHHjMPB32IExs, node gFkVowdCiRY5Htd8v6FN) I2 Hot Mess on yoga mat with wine, remote and popcorn",
+   "ai": false,
+   "image": "images/wine-wimsey/2026-10-19/ww-20261019-11.png",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun, a pencil in her hair and glasses on her forehead, sitting on a pink yoga mat in her living room in a half-hearted stretch, holding a glass of red wine and a TV remote beside a bowl of popcorn. Text at the top reads: I started a 30-day stretching challenge on October 1st. I'm proudly on day three. I've been on day three for two weeks.",
+   "note": "Extra post added Oct 19 evening for the Tue Oct 20 9:36 PM slot"
   }
  ],
  "stories": [
