@@ -1,0 +1,172 @@
+{
+ "title": "Whispers Of Yesterday Review · Oct 19",
+ "subtitle": "",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261019-01",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Childhood rules and rituals (hayride)",
+   "quote": "ONE HAYRIDE AND YOU WERE FINDING STRAW IN YOUR SOCKS UNTIL THANKSGIVING.",
+   "caption": "Every October the church or the 4-H or somebody's uncle with a tractor put together a hayride. You piled onto a flatbed wagon full of loose bales with every kid you knew, wrapped in a scratchy wool blanket that smelled like the cedar chest. The tractor never went faster than a walk, and somehow it still felt like an adventure. Somebody always started a hay fight, somebody always ended up with a fistful down their collar, and the grownups pretended not to notice. Afterward there was hot cider in paper cups and a bonfire you could feel on your face. And for weeks you'd pull off a sock and find another little piece of that night.",
+   "first": "Our hayrides went out past the Hendersons' back pasture and around the pond, and the tractor always stalled once, right at the spookiest part. I'm convinced Mr. Henderson did it on purpose. Best ten minutes of the whole fall.",
+   "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a crisp October night in the early 1960s countryside. An old red farm tractor pulls a flatbed wagon piled with loose hay bales, full of laughing children bundled in plaid wool coats and knit caps, a couple of parents sitting at the edge, one boy tossing a handful of straw at his sister. A kerosene lantern swings from a pole on the wagon, a big orange harvest moon hangs over a field of pumpkins and corn shocks. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"ONE HAYRIDE AND YOU WERE FINDING STRAW IN YOUR SOCKS UNTIL THANKSGIVING.\". Norman Rockwell influence, warm amber and deep blue tones, nostalgic American farm setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-01.png",
+   "alt": ""
+  },
+  {
+   "id": "wy-20261019-02",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Real-photo nostalgia (bowling alley)",
+   "quote": "THE BOWLING ALLEY HAD RENTED SHOES, PENCIL SCORECARDS, AND A SMELL YOU NEVER FORGOT.",
+   "caption": "Friday night was league night, Saturday morning was for the junior bowlers, and every birthday party in town landed somewhere in between. You walked up to the counter, said your size, and the man slid a pair of two-tone shoes across like he was handing over a prize. Somebody kept score with a stubby pencil, doing strike-and-spare math in their head faster than any machine. The pins crashed, the ball return rumbled, and the snack bar fried something all night long. That mix of lane oil, floor wax and french fries got into your coat and stayed there for a week. Nobody minded one bit.",
+   "first": "My dad bowled in a Thursday league for about thirty years and kept his own ball in a leather bag in the hall closet. Nobody was allowed to touch it. I'm pretty sure it weighed more than I did.",
+   "prompt": "A realistic color photograph from the early 1960s of an empty small-town bowling alley after hours. Polished maple lanes gleam under the lights and stretch toward a row of white pins, a swirled marbled bowling ball rests on the curved ball return, and a pair of two-tone rental bowling shoes sits on the floor beside a molded plastic seat. A blank paper score sheet with an empty grid and a short yellow pencil lie on the scoring table. No people anywhere in the frame, no faces, hands or figures, not even in the background. Authentic period photograph, slightly faded warm Kodachrome colors, fine film grain. Bold white uppercase text across the top reads exactly: \"THE BOWLING ALLEY HAD RENTED SHOES, PENCIL SCORECARDS, AND A SMELL YOU NEVER FORGOT.\". Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-02.png",
+   "alt": ""
+  },
+  {
+   "id": "wy-20261019-03",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Old-school parenting (the cookie jar)",
+   "quote": "MOM COULD HEAR THE COOKIE JAR LID FROM THREE ROOMS AWAY.",
+   "caption": "You waited until she was busy. Ironing, on the phone, out back pinning laundry, it didn't matter. You dragged the step stool over without a sound, climbed up like a cat burglar, and lifted that lid as slow as any human being has ever lifted anything. And from somewhere in the back of the house came the voice: \"You'll spoil your supper.\" Nobody ever figured out how she did it. That lid made a sound only mothers could hear.",
+   "first": "Our cookie jar was a ceramic owl, and its head was the lid. It had a little chip on one ear and rattled no matter how careful you were. I still think Mom picked it out for exactly that reason.",
+   "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a sunny 1950s kitchen with yellow cabinets, a checkered linoleum floor and a plain round ceramic cookie jar with no lettering on the counter. A boy of about eight in a striped shirt stands on a wooden step stool, frozen mid-reach, lifting the lid with both hands and wincing. Through an open doorway in the background, his mother stands at an ironing board in the living room, looking straight back at him over her shoulder with one eyebrow raised. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"MOM COULD HEAR THE COOKIE JAR LID FROM THREE ROOMS AWAY.\". Norman Rockwell influence, warm amber and honey tones, nostalgic American home setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-03.png",
+   "alt": ""
+  },
+  {
+   "id": "wy-20261019-t1",
+   "kind": "tobi",
+   "template": "TOBI (black)",
+   "character": "Old-school parenting (Dad's fix-it kit)",
+   "quote": "Dad fixed everything with duct tape, baling wire, and a few words we weren't allowed to repeat.",
+   "caption": "",
+   "first": "My father kept a coffee can in the garage full of screws, washers and bolts from things that were long gone. Whatever broke, the answer was in that can somewhere. It took him an hour to find it, but it was always in there."
+  },
+  {
+   "id": "wy-20261019-04",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Lost school subjects (the slide rule)",
+   "quote": "THE SLIDE RULE / BEFORE POCKET CALCULATORS, THE SMARTEST KID IN CLASS CARRIED ONE IN HIS SHIRT POCKET",
+   "caption": "Before anybody had a calculator, math class came with a stick that slid in the middle and had about a thousand tiny lines on it. The teacher kept a giant one hanging over the chalkboard, six feet long, so the whole class could follow along. If you knew how to read it, you could multiply, divide and find square roots without touching a pencil. Most of us never quite got there. But there was always one kid who did, and he carried his slide rule in a leather case like a sheriff wears a badge. Last I heard, he was building bridges.",
+   "first": "I got about as far as multiplying two numbers, as long as one of them was ten. My buddy Ray could do it in his sleep. I copied off Ray more than I care to admit.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background. A confident teenage boy with a crew cut and horn-rimmed glasses, wearing a short-sleeved white shirt, proudly holds up a long wooden slide rule marked only with tiny tick lines and no numbers, while two classmates at wooden desks look on in awe. Behind them, a green chalkboard shows only simple chalk triangles and circles, no writing. Bold retro serif headline text at top reads: \"THE SLIDE RULE\". Smaller subtitle text beneath it reads: \"BEFORE POCKET CALCULATORS, THE SMARTEST KID IN CLASS CARRIED ONE IN HIS SHIRT POCKET\". Saturday Evening Post illustration style, warm muted palette of mustard, teal and brick red, clean lines, nostalgic school textbook aesthetic, clearly a flat illustration. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-04.png",
+   "alt": ""
+  },
+  {
+   "id": "wy-20261019-05",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Cars and driving culture (roadside markers)",
+   "quote": "DAD STOPPED AT EVERY HISTORICAL MARKER BETWEEN OUR HOUSE AND GRANDMA'S.",
+   "caption": "It didn't matter if we'd driven that road fifty times. If there was a little metal sign on a post by the side of the highway, the brakes came on. Dad got out, put his hands in his pockets, and read every word out loud like it was the Gettysburg Address. Something about a mill that burned down in 1871. Something about a man who slept here once. The rest of us sat in a hot car with the windows down, watching the cows watch us. It added two hours to every trip to Grandma's, and I'd give a lot to sit through one more.",
+   "first": "My dad kept a little spiral notebook in the glove box and wrote down every marker he ever read, with the date. Years later we found three of them full. My sister still keeps them on her bookshelf.",
+   "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a hot summer afternoon in the 1960s on a two-lane country highway between cornfields. A wood-paneled station wagon is parked on the gravel shoulder. The father, in a short-sleeved shirt and a straw hat, stands with his hands in his pockets reading a roadside cast-metal historical marker on a post, shown from the side so its face cannot be seen. The mother waits in the front seat fanning herself, and three bored children hang their arms and chins out of the back windows. A few cows watch from behind a fence. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"DAD STOPPED AT EVERY HISTORICAL MARKER BETWEEN OUR HOUSE AND GRANDMA'S.\". Norman Rockwell influence, warm golden light, nostalgic American road trip. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-05.png",
+   "alt": ""
+  },
+  {
+   "id": "wy-20261019-06",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Crafts and homemaking (cast iron skillet)",
+   "quote": "GRANDMA'S CAST IRON SKILLET NEVER SAW A DROP OF SOAP, AND NOTHING EVER STUCK TO IT.",
+   "caption": "Every kitchen had one, and it was older than anybody in the house. Black as a coal bucket, heavy enough to stop a burglar, and seasoned by forty years of bacon and cornbread. You did not put that skillet in the dishwater. You wiped it out, set it on the burner to dry, and rubbed a little grease into it like you were oiling a saddle. Eggs slid right off, and the cornbread came out with a crust you could knock on. When Grandma was gone, that skillet was the first thing anybody asked about.",
+   "first": "My grandmother's skillet hung on a nail by the stove, and she could tell from across the room if somebody had used soap on it. A cousin of mine scrubbed it with steel wool once. Grandma didn't speak to her until Easter.",
+   "prompt": "A realistic color photograph from the 1950s of a farmhouse kitchen in soft morning window light. A heavy, well-seasoned black cast iron skillet sits on a white enamel stove, with two sunny-side-up eggs and strips of bacon sizzling in it. Beside it are a speckled enamel coffee pot, a small stoneware crock of bacon grease, and a folded flour-sack dish towel; gingham curtains frame the window behind. No people anywhere in the frame, no faces, hands or figures. Authentic period photograph, warm faded colors, fine film grain. Bold white uppercase text across the top reads exactly: \"GRANDMA'S CAST IRON SKILLET NEVER SAW A DROP OF SOAP, AND NOTHING EVER STUCK TO IT.\". Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-06.png",
+   "alt": ""
+  },
+  {
+   "id": "wy-20261019-07",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Old jobs and skills (the family doctor)",
+   "quote": "THE DOCTOR CAME TO THE HOUSE WITH A BLACK BAG, AND MOM MADE THE BEDS BEFORE HE GOT THERE.",
+   "caption": "If you were sick enough, the doctor came to you. He'd pull up in a dark sedan and come in with his hat in his hand and that black leather bag that seemed to hold everything. Before he arrived, the house got cleaned like the preacher was coming, sick kid or not. He'd sit on the edge of the bed, put a cold stethoscope on your chest, look down your throat with a flat wooden stick, and tell your mother to keep you in bed with plenty of fluids. Sometimes he stayed for a cup of coffee in the kitchen. You felt better the minute he walked in, and nobody could ever explain why.",
+   "first": "Our doctor delivered me, my brother, and half the kids in my class. He always had a peppermint in his coat pocket for whoever was sick. I think that peppermint did more good than the medicine.",
+   "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a cozy 1950s child's bedroom with a patchwork quilt, wallpaper with small flowers, and a lamp glowing on the nightstand. A pale boy of about seven sits up in a neatly made bed in flannel pajamas while a kindly gray-haired country doctor in a three-piece suit sits on the edge of the bed, listening to the boy's chest with a stethoscope, his worn black leather doctor's bag open beside him. The mother stands in the doorway holding a folded towel and a glass of water, looking relieved. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE DOCTOR CAME TO THE HOUSE WITH A BLACK BAG, AND MOM MADE THE BEDS BEFORE HE GOT THERE.\". Norman Rockwell influence, warm amber and honey tones, nostalgic American home setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-07.png",
+   "alt": ""
+  },
+  {
+   "id": "wy-20261019-t2",
+   "kind": "tobi",
+   "template": "TOBI (black)",
+   "character": "Values and punctuality (supper time)",
+   "quote": "Supper was at 5:30. Not 5:31. If you were late, you ate it cold and you ate it quiet.",
+   "caption": "",
+   "first": "Mom rang a bell off the back porch, and every kid in the neighborhood knew whose bell was whose. You didn't finish the inning. You ran."
+  },
+  {
+   "id": "wy-20261019-08",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Childhood rules and rituals (school picture day)",
+   "quote": "SCHOOL PICTURE DAY / MOM SLICKED YOUR HAIR DOWN WITH A WET COMB, AND IT POPPED BACK UP BEFORE THE BUS CAME",
+   "caption": "Picture day was the one morning a year your mother treated your head like a lawn that needed mowing. Out came the good shirt, the one with the collar that scratched. Then the comb went under the faucet, and she went after that cowlick like she was settling a score. It lay flat for maybe four minutes. By the time you sat on that little stool in the gym and the photographer said \"big smile,\" it was standing straight up again. In every school picture we ever took, you can see that one piece of hair waving hello.",
+   "first": "My mother tried a dab of Dad's hair tonic on my cowlick one year. It didn't hold, and it made my hair shine like a bowling ball in the picture. That one hung in the hallway for twenty years.",
+   "prompt": "A vintage 1960s illustration in flat retro poster style, warm cream background, split into two panels. Left panel: in a kitchen, a mother in an apron firmly combs down a stubborn cowlick on her squirming son's head with a wet black comb; the boy wears a crisp collared shirt and a clip-on bow tie. Right panel: the same boy sits on a stool in front of a mottled blue photo backdrop, grinning wide, his cowlick sticking straight up again. Bold retro serif headline text at top reads: \"SCHOOL PICTURE DAY\". Smaller subtitle text beneath it reads: \"MOM SLICKED YOUR HAIR DOWN WITH A WET COMB, AND IT POPPED BACK UP BEFORE THE BUS CAME\". Saturday Evening Post illustration style, warm muted palette, clean lines, nostalgic school textbook aesthetic, clearly a flat illustration. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-19/wy-20261019-08.png",
+   "alt": ""
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261019-1",
+   "kind": "story",
+   "template": "T1 illustrated scene",
+   "character": "Humor about today vs. then (the neighbor)",
+   "quote": "OUR HOME SECURITY SYSTEM WAS A SCREEN DOOR THAT SLAMMED AND A NEIGHBOR WHO SAW EVERYTHING.",
+   "caption": "",
+   "first": "",
+   "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a quiet 1950s residential street at dusk. In the foreground, a boy of about twelve tiptoes up the front porch steps of a white clapboard house toward a wooden screen door, sneakers in his hand, clearly home late. Across the street, an older woman in a housecoat with curlers in her hair peeks out between lace curtains in her front window, eyebrows raised, missing nothing. Porch lights glow, elm trees line the street. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"OUR HOME SECURITY SYSTEM WAS A SCREEN DOOR THAT SLAMMED AND A NEIGHBOR WHO SAW EVERYTHING.\". Norman Rockwell influence, warm dusk light, nostalgic American neighborhood. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-19/stories/wys-20261019-1.png",
+   "alt": ""
+  },
+  {
+   "id": "wys-20261019-2",
+   "kind": "story",
+   "template": "T2 vintage photo",
+   "character": "Cars and driving culture (keys in the car)",
+   "quote": "THE KEYS STAYED IN THE IGNITION ALL NIGHT, AND NOBODY THOUGHT TWICE ABOUT IT.",
+   "caption": "",
+   "first": "",
+   "prompt": "A realistic color photograph from the late 1950s, taken at night in a small-town driveway. A two-tone turquoise and white sedan with chrome trim and no visible badges or lettering is parked on gravel under the glow of a front porch light, its driver's window rolled down. Through the open window a key ring dangles from the ignition on the dashboard. A white farmhouse porch with a swing sits behind it, the front door unlocked and slightly open. No people anywhere in the frame, no faces, hands or figures, not even in the background. Authentic period photograph, warm porch-light glow against deep blue night, fine film grain. Bold white uppercase text across the top reads exactly: \"THE KEYS STAYED IN THE IGNITION ALL NIGHT, AND NOBODY THOUGHT TWICE ABOUT IT.\". Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "image": "images/whispers-of-yesterday/2026-10-19/stories/wys-20261019-2.png",
+   "alt": ""
+  },
+  {
+   "id": "wys-20261019-3",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (shoe shine stand)",
+   "quote": "THE SHOE SHINE STAND / A NICKEL, A SNAP OF THE RAG, AND SHOES YOU COULD SEE YOUR FACE IN",
+   "caption": "",
+   "first": "",
+   "prompt": "A vintage 1950s illustration in flat retro poster style, warm cream background. Inside a train station, a cheerful older shoe shine man in a flat cap and vest kneels at a wooden shoe shine stand, snapping a cloth rag across a gleaming black wingtip shoe. A businessman in a gray suit and fedora sits up on the tall shoe shine chair, smiling, his foot on the brass footrest. Tins of polish and brushes sit on the stand, with no labels. Bold retro serif headline text at top reads: \"THE SHOE SHINE STAND\". Smaller subtitle text beneath it reads: \"A NICKEL, A SNAP OF THE RAG, AND SHOES YOU COULD SEE YOUR FACE IN\". Saturday Evening Post illustration style, warm muted palette, clean lines, clearly a flat illustration. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "image": "images/whispers-of-yesterday/2026-10-19/stories/wys-20261019-3.png",
+   "alt": ""
+  }
+ ],
+ "eleven_flow": "D37elfhQtfuvM0EX82hN"
+}
