@@ -1,0 +1,41 @@
+{
+ "title": "Whispers Of Yesterday Review · Oct 19 extras",
+ "subtitle": "3 extras added to today: 2 feed image posts + 1 story · quotes checked against the used list",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "eleven_flow": "D37elfhQtfuvM0EX82hN",
+ "posts": [
+  {
+   "id": "wy-20261019-09",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Crafts and homemaking (home permanent)",
+   "quote": "SATURDAY NIGHT MOM GAVE YOU A HOME PERMANENT, AND THE WHOLE HOUSE SMELLED LIKE IT UNTIL TUESDAY.",
+   "caption": "Every few months, usually on a Saturday night, the kitchen turned into a beauty parlor. Out came the little pink rods, the box with the smiling lady on the front, and a bottle of something strong enough to take the paint off a barn. You sat on a kitchen chair with a towel around your neck while Mom wound your hair so tight your eyebrows went up an inch. Then came the solution, and the smell rolled through the house like a wet dog that had been dipped in vinegar. Dad opened every window, even in January. Sunday morning you went to church with a head full of curls and sat as far from the candles as you could.",
+   "first": "My sister got a home perm every spring before Easter, and every year she cried about how it came out. By the Fourth of July it had relaxed into exactly what she wanted. My mother called that her plan all along.",
+   "ai": false
+  },
+  {
+   "id": "wy-20261019-10",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Real-photo nostalgia (metal ice cube tray)",
+   "quote": "THE METAL ICE CUBE TRAY TOOK BOTH HANDS, ONE GOOD YANK, AND A LITTLE BIT OF PRAYER.",
+   "caption": "Before anybody had an ice maker, getting a cube out of the freezer was a two-person job you did by yourself. The tray was solid aluminum, frozen to the shelf, and wearing a coat of frost you had to chip through first. You pulled up on that lever and the whole thing groaned like an old porch step. Half the cubes shot across the counter, the other half cracked into slivers, and one always stayed stuck no matter what you did. Then you ran it under the faucet and somebody hollered at you for wasting water. Still, nothing ever tasted colder than lemonade poured over the ones that made it.",
+   "first": "We kept two trays, and the rule was whoever emptied one had to refill it. My brother never once followed that rule in his life. I still check the ice trays at Thanksgiving out of pure habit.",
+   "ai": true
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261019-4",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Humor about today vs. then (TV sign-off)",
+   "quote": "SIGN-OFF / AT MIDNIGHT THE TV PLAYED THE ANTHEM, SHOWED A TEST PATTERN, AND SENT THE WHOLE TOWN TO BED",
+   "caption": "",
+   "first": "",
+   "ai": false
+  }
+ ]
+}
