@@ -1,6 +1,6 @@
 {
  "title": "Horse Soup Review · Oct 23",
- "subtitle": "",
+ "subtitle": "6 feed (5 images + 1 TOBI) and 2 stories · 0 from inbox (empty), 0 held · every quote checked against the used list, word for word on the images · I (soft bubble) today since F ran Oct 19 · max 2 per theme (budget x2, TOBI + story) · all 7 images passed first take, no retakes · #06 Diva's gold earring is hidden by her mane (can't see it); #02 H card has Pudding cropped from the chest up as designed",
  "bucket": "Horse Soup",
  "story_bucket": "Horse Soup Stories",
  "posts": [
@@ -15,7 +15,8 @@
    "caption": "Big Red weighs just under nineteen hundred pounds, and she knows where every one of them is. The woman at the farm stand across the road waves at her every morning from forty feet away and has never once crossed it. Last month a delivery driver pulled in, spotted her over the gate, and sat in his truck for a full five minutes before getting out. She watched him the whole time with her glasses low on her nose. I signed for the package myself. He left without waiting for the receipt.",
    "first": "When I first started boarding, a woman from the next farm told me she'd always wanted to ride but was too scared. Eight years later she still drives over every Sunday just to stand at the fence and look at the horses. She brings her own folding chair. We've never once talked about riding.",
    "alt": "Cartoon illustration of a huge copper-chestnut draft mare with a wild curly mane, round glasses and a patterned blanket, standing in a muddy paddock with one feathered hoof raised and a sly side-glance toward a fence. Text at the top reads: A man at the fence said I'm bigger up close. That's what close means, sir.",
-   "ai": false
+   "ai": false,
+   "image": "images/horse-soup/2026-10-23/hs-20261023-01.png"
   },
   {
    "id": "hs-20261023-02",
@@ -28,7 +29,8 @@
    "caption": "Pudding has been escaping the pony stall since July, and I've stopped being surprised about where he ends up. Tuesday it was the feed room. Last week it was the wash rack, standing under the hose like he'd paid for it. This morning I found him outside the tack room with a look I can only describe as rehearsed. I took the blankets back to the rack. He watched me hang every one. Then he went and stood by the door I had just closed. I'm ordering a better latch.",
    "first": "My first pony learned to open every latch I owned by the time he was five. I switched to a carabiner. He took it off with his lips and dropped it in the water bucket. I think about that carabiner more than I'd like to admit. It's still down there.",
    "alt": "Cartoon illustration of a round, fuzzy brown pony with a fluffy cream forelock and a stack of three plaid blankets on his back, looking innocent, on a cream background with a small sketch of a tack room wall. Text at the top right reads: It was going to get cold, so I took three blankets from the tack room. I'm not stealing. I'm layering.",
-   "ai": false
+   "ai": false,
+   "image": "images/horse-soup/2026-10-23/hs-20261023-02.png"
   },
   {
    "id": "hs-20261023-t1",
@@ -53,7 +55,8 @@
    "caption": "The hay guy comes every second Thursday at 6:40, in a truck that sounds like a coffee grinder. He has delivered to this barn since before I owned it. He unloads two hundred bales without saying a word, then stands at the end of the aisle and watches the old gray eat his first flake. Last week I finally told him the old guy likes the other stack better. He looked at me, looked at the horse, and said he'd known for years. He sets that first bale out anyway.",
    "first": "My dad drove a feed truck for thirty-one years and never once let a customer carry their own bags. He'd say it was policy. It was not policy. He just liked watching the horses get their dinner before he left. He retired and still drives past the barn on Sundays.",
    "alt": "Storybook cartoon illustration of an elderly dappled gray horse in a green plaid sheet and small round glasses, standing in a sunlit hay barn beside stacked bales, a feed-store cap on a nail, work gloves and a framed photo of a farm truck. Text in a speech bubble reads: For thirty years the hay guy has set the first bale outside my stall. I've preferred the second bale since 2019. I've never told him. He's so proud of that first one.",
-   "ai": false
+   "ai": false,
+   "image": "images/horse-soup/2026-10-23/hs-20261023-04.png"
   },
   {
    "id": "hs-20261023-05",
@@ -66,7 +69,8 @@
    "caption": "We had a trail ride on the calendar for Saturday, and I had a thermos, a hat, and a sincere plan. The mare walked to the gate with me. She looked at the trail, looked at the sky, and turned around toward the barn without a word. I stood there holding a lead rope and my own good intentions. It was forty-one degrees. We spent the afternoon in her stall with a flake of hay and a clean blanket. I read two chapters. She slept through all of them, and the cat never moved.",
    "first": "I used to feel guilty on the days we skipped our ride. Then my old trainer told me a horse has never once filed a complaint about a day off. I've kept that in my coat pocket for twelve years. It's gotten a lot of use.",
    "alt": "Cartoon illustration of a plump bay mare in a lavender fleece cooler with a tabby cat asleep on her back, standing at a pasture gate and glancing back toward a red barn, with a thermos and riding hat on the fence. Text in a speech bubble reads: She said we'd just walk a little today. I walked to the gate, turned around, and walked back to my stall. We both agreed that counted.",
-   "ai": false
+   "ai": false,
+   "image": "images/horse-soup/2026-10-23/hs-20261023-05.png"
   },
   {
    "id": "hs-20261023-06",
@@ -78,8 +82,9 @@
    "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Diva, a sleek chestnut mare with a glossy copper coat, a long flowing wavy flaxen-blonde mane and forelock that look salon-styled, a small white star on her forehead, long dark eyelashes, heavy-lidded knowing eyes, a slim gold hoop earring in her left ear, and a sly closed-mouth smirk, wearing a burgundy leather halter with small gold trim. Standing in the doorway of a feed room with her head turned three-quarters and her chin lifted, one eye side-glancing at the viewer with a sly closed-mouth smirk, the slim gold hoop earring clearly visible in her left ear, four plain unlabeled supplement tubs lined up on a shelf with a scoop beside each, grain bins with scoops, a clipboard with a handwritten chart on the door, a stack of feed buckets, and warm lamp light, with a small sign on the wall reading \"Carrots Accepted Here\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"I'M NOT GETTING OLDER. I'M BECOMING A PREMIUM PRODUCT WITH A SUPPLEMENT SCHEDULE.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
    "caption": "My mare's supplement shelf has outgrown my own medicine cabinet. There are four tubs on it now, a scoop for each one, and a laminated chart on the feed room door that I made myself at eleven o'clock at night. She eats it all with her chin lifted like she's being served at a restaurant. Meanwhile I take my vitamins in the truck on the way to the barn, if I remember. The vet says she's in great shape for her age. I choose to believe the chart did that.",
    "first": "The first time I put a supplement scoop in her grain she picked around it for two days like it was a personal insult. I switched to a sweeter one. She ate every flake and licked the bucket. She has never thanked me. I've never expected it.",
-   "alt": "Cartoon illustration of a glossy chestnut mare with a long wavy blonde mane, gold hoop earring and burgundy halter, standing in a feed room doorway with her chin lifted, with supplement tubs, grain bins and a feeding chart behind her. Text at the top reads: I'm not getting older. I'm becoming a premium product with a supplement schedule.",
-   "ai": false
+   "alt": "Cartoon illustration of a glossy chestnut mare with a long wavy blonde mane and burgundy halter, standing in a feed room doorway with her chin lifted, with supplement tubs, grain bins and a feeding chart behind her. Text at the top reads: I'm not getting older. I'm becoming a premium product with a supplement schedule.",
+   "ai": false,
+   "image": "images/horse-soup/2026-10-23/hs-20261023-06.png"
   }
  ],
  "stories": [
@@ -92,7 +97,8 @@
    "quote": "THE VET CALLED ME AN EASY KEEPER. I'M PUTTING THAT ON MY RESUME.",
    "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. Pudding, an adorable, very round, chubby Shetland pony drawn in a cute, friendly cartoon style, with four short stubby legs, small hooves, fuzzy pony ears, a soft fuzzy dark brown coat, a big round belly, and a huge fluffy cream-colored forelock that flops over his forehead with one or two pieces of straw stuck in it. His face is a natural soft horse muzzle with no human lips and no visible teeth: large round shiny brown eyes with sparkly highlights, rosy cheeks, a small closed-mouth content smile, and slightly raised eyebrows that look innocent and a little guilty. Standing proudly with his chest puffed out and his round belly front and center, peeking over the half door of a cozy stall with deep straw bedding, eyes wide and sparkly, eyebrows raised innocently, a small closed-mouth content smile, a hanging halter, a rolled-up vet's blue exam glove on the door latch, a bucket of water, a hay net, and warm golden barn light, with a small sign on the wall reading \"Stall Sweet Stall\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"THE VET CALLED ME AN EASY KEEPER. I'M PUTTING THAT ON MY RESUME.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
    "alt": "Cartoon illustration of a round, fuzzy brown pony with a fluffy cream forelock looking proudly over a stall door in deep straw, with a hay net and water bucket nearby. Text at the top reads: The vet called me an easy keeper. I'm putting that on my resume.",
-   "ai": false
+   "ai": false,
+   "image": "images/horse-soup/2026-10-23/stories/hss-20261023-1.png"
   },
   {
    "id": "hss-20261023-2",
@@ -103,7 +109,8 @@
    "quote": "She bought me with the money she'd saved for a car. For six winters she drove a truck with no heat. I never knew. I only knew I was never cold.",
    "prompt": "Whimsical, heartwarming hand-drawn storybook cartoon illustration with clean black ink outlines, soft rounded shapes, gentle painterly coloring, and a warm nostalgic glow. Golden sunbeams stream through a window with floating dust motes and soft light. The main character is a real four-legged horse drawn extra cute and huggable, with a round soft body, sturdy legs, small hooves, fuzzy ears, and a soft rounded muzzle with no human lips and no visible teeth. Big gentle expressive eyes, rosy blushing cheeks, and a tender, sweet expression. Cozy, cluttered, sentimental setting full of heartfelt keepsake details. The Homebody, a round, plump bay mare with a fuzzy extra-thick winter coat, a short black mane, soft heavy-lidded sleepy eyes, full rosy cheeks, and a contented little smile, wearing a cozy lavender-purple fleece cooler, with a tabby barn cat curled up asleep on her back. Standing in a cozy tack room corner with a soft grateful smile and a single happy tear, tender sleepy eyes, the tabby cat asleep on her back, sunbeams through a small window, surrounded by keepsakes: an old truck key hanging on a nail, a worn pair of winter gloves, a folded wool blanket, a faded photo of a rusty pickup truck, a small jar of coins, and her first worn halter on a hook. A clean white speech bubble with a black outline sits in the upper right of the image, tail pointing to the character. Inside, black sentence-case text in a friendly handwritten font reads exactly: \"She bought me with the money she'd saved for a car. For six winters she drove a truck with no heat. I never knew. I only knew I was never cold.\". Natural line breaks. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text. Keep the bottom corners plain. Vertical 4:5 format.",
    "alt": "Storybook cartoon illustration of a bay mare in a lavender fleece cooler with a tabby cat asleep on her back, standing in a tack room corner with a happy tear, near an old truck key, winter gloves, a folded blanket and a photo of an old pickup truck. Text in a speech bubble reads: She bought me with the money she'd saved for a car. For six winters she drove a truck with no heat. I never knew. I only knew I was never cold.",
-   "ai": false
+   "ai": false,
+   "image": "images/horse-soup/2026-10-23/stories/hss-20261023-2.png"
   }
  ]
 }
