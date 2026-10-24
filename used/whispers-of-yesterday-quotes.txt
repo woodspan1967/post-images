@@ -134,3 +134,16 @@
 2026-10-23 | Cars and driving culture (chrome bumpers) | THE BUMPERS WERE CHROME, THE DOORS WERE STEEL, AND THE RADIO TOOK A MINUTE TO WARM UP.
 2026-10-23 | Childhood rituals (ice cream truck) | THE ICE CREAM TRUCK / ONE JINGLE DOWN THE STREET AND EVERY KID DIGGING THROUGH THE COUCH FOR CHANGE
 2026-10-23 | Childhood rituals (lawn sprinkler) | A LAWN SPRINKLER AND A HOT AUGUST AFTERNOON WERE ALL THE WATER PARK WE EVER NEEDED.
+2026-10-24 | Childhood rituals (jump rope rhymes) | EVERY KID ON THE BLOCK KNEW THE SAME JUMP ROPE RHYMES, AND NOBODY EVER WROTE ONE DOWN.
+2026-10-24 | Crafts and homemaking (kitchen calendar) | THE KITCHEN CALENDAR CAME FREE FROM THE BANK, AND IT RAN THE WHOLE FAMILY'S LIFE IN PENCIL.
+2026-10-24 | Old-school parenting (Dad's recliner nap) | DAD FELL ASLEEP IN HIS RECLINER AFTER SUPPER, AND THE WHOLE HOUSE TIPTOED AROUND HIM LIKE A SLEEPING BEAR.
+2026-10-24 | Old-school parenting (things Mom said) | What did your mother say that you swore you'd never repeat, and then heard yourself saying to your own kids?
+2026-10-24 | Lost school subjects (the old school desk) | THE DESK HAD AN INKWELL HOLE, SOMEBODY'S INITIALS, AND A PIECE OF GUM FROM BEFORE YOU WERE BORN.
+2026-10-24 | Childhood rituals (the school bus) | THE SCHOOL BUS / NO SEAT BELTS, NO ASSIGNED SEATS, AND THE BACK ROW WAS FOR THE BIG KIDS
+2026-10-24 | Values and work ethic (the hand-me-down coat) | THE COAT WAS MY BROTHER'S, THEN MINE, THEN MY SISTER'S, AND IT STILL HAD ANOTHER WINTER IN IT.
+2026-10-24 | Real-photo nostalgia (the rocking horse) | THE ROCKING HORSE WAS WORN SMOOTH ON THE EARS, AND EVERY KID IN THE FAMILY HAD RIDDEN IT TO THE END OF THE WORLD.
+2026-10-24 | Values and work ethic (chores) | What was the one chore you hated as a kid that you'd happily do again just to be back in that house?
+2026-10-24 | Old-school family (Grandma's purse) | GRANDMA'S PURSE HAD A HANKIE, A PEPPERMINT, A SAFETY PIN, AND AN ANSWER FOR EVERYTHING.
+2026-10-24 | Old jobs and skills (the hand pump) | THE PUMP HANDLE TOOK PRIMING, MUSCLE, AND PATIENCE, AND THE COLDEST WATER IN THE COUNTY CAME OUT OF IT.
+2026-10-24 | Lost school subjects (the spelling bee) | THE SPELLING BEE / TWENTY NERVOUS KIDS, ONE CHALK LINE, AND A WORD YOU SWORE YOU KNEW
+2026-10-24 | Family kitchen (drying dishes) | MOM HUMMED WHILE SHE WASHED, YOU DRIED, AND NOBODY SAID A WORD ABOUT HOW GOOD IT FELT.
