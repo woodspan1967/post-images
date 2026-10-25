@@ -152,7 +152,6 @@
 2026-10-25 | Cars and driving culture (the family motel) | THE MOTEL HAD A NEON SIGN, A SWIMMING POOL, AND ONE ROOM FOR ALL FIVE OF US.
 2026-10-25 | Lost school subjects (the lunch lady) | THE LUNCH LADY / A HAIRNET, A LADLE, AND A LOOK THAT MADE YOU FINISH YOUR PEAS
 2026-10-25 | Old jobs and skills (the mailman) | THE MAILMAN KNEW EVERY DOG ON THE ROUTE BY NAME, AND EVERY DOG KNEW HIM.
-2026-10-25 | Values and manners (the one rule) | Finish this sentence: In our house, the one rule nobody ever dared to break was...
 2026-10-25 | Childhood rituals (the wooden sled) | THE SLED HUNG IN THE GARAGE ALL YEAR, AND THE FIRST SNOW MADE IT THE MOST VALUABLE THING WE OWNED.
 2026-10-25 | Old jobs and skills (the corner store) | THE CORNER STORE / WHERE THE OWNER KNEW YOUR NAME AND YOUR MOTHER'S ORDER
 2026-10-25 | Crafts and homemaking (the wringer washer) | MONDAY MEANT THE WRINGER WASHER, AND MOM WATCHED THAT WRINGER LIKE A HAWK.
@@ -164,4 +163,5 @@
 2026-10-25 | Values and community (the neighbors) | THOSE TWO COULDN'T AGREE ON A DAMN THING. BUT NEITHER ONE WAS GOING TO LET THE OTHER FREEZE.
 2026-10-25 | Childhood rituals (returning bottles) | HOW MANY OF YOU REMEMBER TAKING EMPTY SODA BOTTLES BACK TO THE STORE FOR MONEY?
 2026-10-25 | Humor about today vs. then (the VCR) | REMEMBER THE DAY YOUR FAMILY BROUGHT HOME A VCR AND SUDDENLY YOU COULD WATCH WHATEVER YOU WANTED WHENEVER YOU WANTED? THAT WAS BRAND NEW.
-2026-10-25 | Old-school family (grandmother's kitchen) | What smell takes you straight back to your grandmother's kitchen, no matter where you are?
+2026-10-25 | Childhood rituals (first purchase) | What was the first thing you ever bought with your own money, and do you still remember what it cost?
+2026-10-25 | Entertainment (family TV night) | Which TV show did your whole family stop everything to watch together, even on a school night?
