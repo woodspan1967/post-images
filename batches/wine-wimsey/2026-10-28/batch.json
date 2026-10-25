@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review · Oct 28",
- "subtitle": "Starter batch for Wed Oct 28: 6 image posts from your inbox (3 Hot Mess, 3 Homebody), quotes word for word, no TOBIs or stories yet · Flags: the cat stays in the cat quote; the Walmart quote has no bra shown in the picture · 1 inbox image (the menopause nap) was a repeat of Tuesday #1 so I skipped it",
+ "subtitle": "Full Wed Oct 28 batch: 16 feed image posts (6 from your inbox + 10 new) and 4 stories · 8 Hot Mess and 8 Homebody on the feed, no TOBIs (you asked for 10 image posts) · Flags: the cat stays in the cat quote; the Walmart quote has no bra shown · the inbox menopause nap was a repeat of Tuesday #1 so I skipped it · the new quotes and stories are written fresh and checked against the used list",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -69,7 +69,162 @@
    "first": "Last week I saw a woman in a bathrobe and rain boots comparing paper towels. We locked eyes. Neither of us said a word. It was one of the most meaningful moments I've had all year.",
    "alt": "Cartoon illustration of a relaxed woman lounging on a green couch in pajamas and a robe with her hair up, holding a mug, a shopping bag and a glass of red wine beside her. Text at the top reads: Bra off, jammies on, hair up—I call that relaxing, while others call it going to Walmart.",
    "image": "images/wine-wimsey/2026-10-28/ww-20261028-06.png"
+  },
+  {
+   "id": "ww-20261028-07",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "I asked the universe for a calm, relaxing weekend. It heard “surprise me with three errands and a flat tire.”",
+   "caption": "Saturday started with a plan: coffee, a good book, absolutely nothing else. By nine I had a flat tire, a dead phone and a list of errands that multiplied overnight. The book is still on the counter. I did get to know my tire guy very well. He's a lovely man and he knows my name.",
+   "first": "After the tire got fixed I sat in the parking lot with a drive-through coffee and decided that was my relaxing weekend. It lasted eleven minutes. It was a good eleven minutes, and I'm counting it.",
+   "alt": "Cartoon illustration of a resigned woman standing beside a car with a flat tire holding grocery bags and a phone, a glass of red wine on the car roof. Text at the top reads: I asked the universe for a calm, relaxing weekend. It heard “surprise me with three errands and a flat tire.”",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-07.png"
+  },
+  {
+   "id": "ww-20261028-08",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "Why does a nap feel so much better when it’s accidental?",
+   "caption": "I sat down with a book and told myself I'd read one chapter. The next thing I knew the room was dim, the cushion had left a pattern on my cheek and the book was on the floor. Best sleep I've had all week. The planned ones never feel that good, and I have stopped asking why.",
+   "first": "My husband tiptoed past and whispered that dinner was handled. I haven't felt that taken care of in years. I've decided to read one chapter every afternoon and see how far I get.",
+   "alt": "Cartoon illustration of a woman with pink curls dozing in an armchair with a book open on her chest and a blanket over her knees, a glass of red wine on the side table. Text at the top reads: Why does a nap feel so much better when it’s accidental?",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-08.png"
+  },
+  {
+   "id": "ww-20261028-09",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "I put my phone down for ten whole minutes and felt so proud, then picked it up to tell someone about it.",
+   "caption": "The screen time report arrived on Sunday morning, uninvited and honest. Five hours a day. I stared at it for a while, then decided to be a better person by reading about being a better person online. It's a process. Right now I'm enjoying the quiet, mostly because the charger is in the other room.",
+   "first": "This afternoon I left my phone upstairs and went out to water the plants. I felt strangely free for about six minutes. Then I remembered I wanted to look something up and walked back inside like I had been called home.",
+   "alt": "Cartoon illustration of a woman in pajamas on a couch with a proud smile holding a phone at arm's length, a mug and a glass of red wine on the coffee table. Text at the top reads: I put my phone down for ten whole minutes and felt so proud, then picked it up to tell someone about it.",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-09.png"
+  },
+  {
+   "id": "ww-20261028-10",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "Autumn evenings were made for a lap blanket, something simmering on the stove, and a calendar with absolutely nothing on it.",
+   "caption": "There is a particular kind of quiet that shows up around five o'clock in October. The light turns gold, the house smells like onions and thyme, and the whole world seems to agree it's time to slow down. I hold on to that feeling as long as I can, usually with both hands and a very warm blanket.",
+   "first": "Last night I turned off every light except the one over the stove and just stood there listening to the pot bubble. My husband walked in, looked around, and quietly went to find his own blanket. Marriage is mostly knowing when to join in.",
+   "alt": "Cartoon illustration of a content woman with pink curls in an armchair under a knitted lap blanket with a glass of red wine, a steaming pot on the stove behind her, golden autumn light. Text at the top reads: Autumn evenings were made for a lap blanket, something simmering on the stove, and a calendar with absolutely nothing on it.",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-10.png"
+  },
+  {
+   "id": "ww-20261028-11",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "I'm not late. I'm just running on a schedule that nobody else has been told about yet.",
+   "caption": "I have a theory that time moves faster between the front door and the car. I leave with ten minutes to spare and somehow arrive with a pencil in my hair, one shoe slightly different from the other and a story. Everyone is always so patient with me. I think it's pity, but I'll take it.",
+   "first": "I told my friend I was five minutes away and she laughed out loud, which felt rude. Then I remembered I was still standing in my kitchen looking for my keys. I found them in my hand.",
+   "alt": "Cartoon illustration of a flustered woman rushing out her front door with a half-on coat, keys in her mouth and a coffee in hand, a glass of red wine left on the hallway table. Text at the top reads: I'm not late. I'm just running on a schedule that nobody else has been told about yet.",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-11.png"
+  },
+  {
+   "id": "ww-20261028-12",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "The best part of getting older is realizing I never have to go to a party that starts after seven.",
+   "caption": "I used to think the night was young. Now I check the invitation for an end time before I check the date. If it says nine, I send a heartfelt apology and a lovely dessert. Everyone is delighted and I'm in my robe by eight with the heater on. It feels like cheating the system, and I love it.",
+   "first": "My neighbor invited us to something that began at 8:30 and I said we'd see what we could do. My husband laughed so hard he had to sit down. We both know exactly what we'll be doing, and it involves a couch.",
+   "alt": "Cartoon illustration of a woman with pink curls relaxing with her slippers up on an ottoman, holding a party invitation with a big X, a glass of red wine beside her. Text at the top reads: The best part of getting older is realizing I never have to go to a party that starts after seven.",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-12.png"
+  },
+  {
+   "id": "ww-20261028-13",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "I’ve reached the stage of life where the best compliment is “you look rested.”",
+   "caption": "There was a time I wanted to hear that I looked young, or glamorous, or like I'd just stepped off a yacht. Now I'll take rested. Rested means I slept, I hydrated and nobody called me before seven. A woman who looks rested has clearly figured out something the rest of us are still hunting for.",
+   "first": "Someone at church told me I looked rested last Sunday. I thanked her with real feeling and floated through the whole service. I'd been up until 11:40 watching a baking show. It was the right kind of lie.",
+   "alt": "Cartoon illustration of a woman in a robe smiling at her reflection in a bathroom mirror, one hand on her cheek, a glass of red wine on the sink edge. Text at the top reads: I’ve reached the stage of life where the best compliment is “you look rested.”",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-13.png"
+  },
+  {
+   "id": "ww-20261028-14",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "I save the good towels for guests, then wonder why my own towels feel like sandpaper.",
+   "caption": "Somewhere in my linen closet is a stack of thick fluffy towels that no one has ever touched. They're saved for company, for a rainy day, for a future me who has her life together. Meanwhile we dry off with something that could sand a deck. I'm starting to think the future me is already here and deserves better.",
+   "first": "This morning I took one of the good towels out and used it myself. It felt like a small act of rebellion. My husband noticed and said nothing, which means he approves. We're a quietly rebellious household.",
+   "alt": "Cartoon illustration of a woman with pink curls hugging a stack of fluffy towels with a guilty grin in a bathroom, a thin old towel on the rack, a glass of red wine on the tub edge. Text at the top reads: I save the good towels for guests, then wonder why my own towels feel like sandpaper.",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-14.png"
+  },
+  {
+   "id": "ww-20261028-15",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "My body now predicts rain better than the weather channel, and with a lot more complaining.",
+   "caption": "Every joint I own has joined the forecasting team. The left shoulder handles the storms, the right knee does the drizzle and the hip covers the cold fronts. They agree on nothing except the need for a chair. I've stopped checking the app and started checking how I feel getting out of bed.",
+   "first": "I told my friend it would rain by noon and she looked at the clear blue sky like I'd lost my mind. At 11:40 the clouds rolled in. She's asked me for the forecast every morning since. I charge in coffee.",
+   "alt": "Cartoon illustration of a woman on her porch holding her shoulder and back with a knowing look, storm clouds gathering over autumn trees, an umbrella on the railing, a glass of red wine on a table. Text at the top reads: My body now predicts rain better than the weather channel, and with a lot more complaining.",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-15.png"
+  },
+  {
+   "id": "ww-20261028-16",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "A slow Sunday, a warm kitchen, and a casserole dish older than my kids. That's my idea of luxury.",
+   "caption": "My mother's casserole dish has a chip on one handle and a stain nobody can name. It has gone through three decades of potlucks, funerals, and Tuesday nights. Everything tastes a little better coming out of it. I'm convinced the dish knows things, and I would never dream of replacing it.",
+   "first": "Yesterday I pulled it out for a simple pasta bake and my son asked if he could have it someday. I said we would discuss it in my will. He took that very seriously and washed it by hand.",
+   "alt": "Cartoon illustration of a woman with pink curls pulling a bubbling casserole out of the oven with floral mitts in a warm kitchen, a glass of red wine on the counter. Text at the top reads: A slow Sunday, a warm kitchen, and a casserole dish older than my kids. That's my idea of luxury.",
+   "image": "images/wine-wimsey/2026-10-28/ww-20261028-16.png"
   }
  ],
- "stories": []
+ "stories": [
+  {
+   "id": "ws-20261028-1",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "Today's forecast: sweater weather with a strong chance of nap.",
+   "caption": "",
+   "first": "",
+   "alt": "Cartoon illustration of a sleepy woman in an oversized sweater curled up under a blanket on a couch, a mug and a glass of red wine beside her, rain on the window. Text at the top reads: Today's forecast: sweater weather with a strong chance of nap.",
+   "image": "images/wine-wimsey/2026-10-28/stories/ws-20261028-1.png"
+  },
+  {
+   "id": "ws-20261028-2",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "If it can't be done in slippers, it can wait until tomorrow.",
+   "caption": "",
+   "first": "",
+   "alt": "Cartoon illustration of a proud woman with pink curls in a cozy kitchen showing off her fluffy slipper, a glass of red wine on the counter. Text at the top reads: If it can't be done in slippers, it can wait until tomorrow.",
+   "image": "images/wine-wimsey/2026-10-28/stories/ws-20261028-2.png"
+  },
+  {
+   "id": "ws-20261028-3",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "My to-do list and I are no longer on speaking terms.",
+   "caption": "",
+   "first": "",
+   "alt": "Cartoon illustration of a woman at a desk with arms crossed and her back turned to a long to-do list on the wall, a glass of red wine beside her laptop. Text at the top reads: My to-do list and I are no longer on speaking terms.",
+   "image": "images/wine-wimsey/2026-10-28/stories/ws-20261028-3.png"
+  },
+  {
+   "id": "ws-20261028-4",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "Soup on the stove, rain on the roof, nowhere to be.",
+   "caption": "",
+   "first": "",
+   "alt": "Cartoon illustration of a peaceful woman with pink curls at a rainy window holding a glass of red wine, a soup pot steaming on the stove behind her. Text at the top reads: Soup on the stove, rain on the roof, nowhere to be.",
+   "image": "images/wine-wimsey/2026-10-28/stories/ws-20261028-4.png"
+  }
+ ]
 }
