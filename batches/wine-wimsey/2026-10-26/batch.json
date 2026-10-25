@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review · Oct 26",
- "subtitle": "12 feed (10 images + 2 TOBIs at #4 and #8) and 4 stories, for posting Mon Oct 26 · 3 inbox quotes now (#1 cabin, #3 lost things, #10 swearing; the rest written fresh and checked against the used list) · Characters: 5 The Hot Mess and 5 The Homebody on the feed (stories split 2 and 2) · 2 new TOBIs under 130 characters · Caption mix: 4 short, 6 See More · Flag: #6 (shower) shows her bare shoulders behind frosted glass, easy to redo if you want her covered · Redo round: #2, #4 and #7 now have wine instead of tea, both TOBIs rewritten",
+ "subtitle": "12 feed (10 images + 2 TOBIs at #4 and #8) and 4 stories, for posting Mon Oct 26 · 3 inbox quotes now (#1 cabin, #3 lost things, #10 swearing; the rest written fresh and checked against the used list) · Characters: 5 The Hot Mess and 5 The Homebody on the feed (stories split 2 and 2) · 2 new TOBIs under 130 characters · Caption mix: 4 short, 6 See More · Flag: #6 (shower) shows her bare shoulders behind frosted glass, easy to redo if you want her covered · Redo round: #2, #4 and #7 now have wine instead of tea, both TOBIs rewritten · Extras added: #11–#14 from the inbox (toilet paper, 1900s, free-range, tomatoes) for the 4 extra feed slots",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -131,6 +131,50 @@
    "first": "I keep a tidy list of what I'd say if nobody were listening. It's a short list and it's mostly nouns. I've decided it counts as self-control that I've never read it out loud.",
    "alt": "Cartoon illustration of a calm, deadpan woman with a messy bun holding a glass of red wine in a chaotic kitchen with an overflowing sink, a smoking burnt pot and a spilled bag of flour. Text at the top reads: I don’t swear because I have a small vocabulary. I just know when “Well, that’s unfortunate” isn’t going to cover this much bullshit.",
    "image": "images/wine-wimsey/2026-10-26/ww-20261026-10.png"
+  },
+  {
+   "id": "ww-20261026-11",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "Life is a lot like toilet paper. Just when you think you’re on a roll, some jerk hands you shit.",
+   "caption": "I found the last roll in the house at six this morning and held it like a winning lottery ticket. The morning was going great right up until I reached the cardboard.",
+   "first": "I keep a spare roll in the car now, one in my purse, and one taped behind the bathroom door like a hostage situation. My husband thinks it's excessive. He's also the one who has borrowed from the stash twice this week.",
+   "alt": "Cartoon illustration of a deadpan woman with a messy bun standing in a bathroom doorway holding an empty cardboard toilet paper tube, a long tangle of unrolled toilet paper spilled across the floor behind her and a glass of red wine on the edge of the bathtub. Text at the top reads: Life is a lot like toilet paper. Just when you think you’re on a roll, some jerk hands you shit.",
+   "image": "images/wine-wimsey/2026-10-26/ww-20261026-11.png"
+  },
+  {
+   "id": "ww-20261026-12",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "You’ll need to be a little patient with me. I’m from the 1900s, back when buying something didn’t require an account, a password, and a verification code.",
+   "caption": "Tuesday I set out to buy one lamp. Forty minutes later I had a brand new email address, a password with a symbol I will never find again, and a code texted to a phone that was in the other room. The lamp is still in the cart. I made a pot of soup instead and thought about the catalog my mother used to circle with a pencil, put in an envelope with a check, and mail off with a stamp. Three weeks later a box showed up on the porch and nobody had to prove they were a person.",
+   "first": "I still keep one paper catalog in the kitchen drawer for comfort. My granddaughter set me up with a password manager and I've used it twice. Mostly I carry the picture of that lamp around in my head. It's a very nice lamp.",
+   "alt": "Cartoon illustration of a patient woman with pink curls sitting at a kitchen table squinting at a small laptop covered in blank sticky notes, with a vintage rotary phone, a paper mail-order catalog and pencil, and a glass of red wine beside her. Text at the top reads: You’ll need to be a little patient with me. I’m from the 1900s, back when buying something didn’t require an account, a password, and a verification code.",
+   "image": "images/wine-wimsey/2026-10-26/ww-20261026-12.png"
+  },
+  {
+   "id": "ww-20261026-13",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "I admire women who get completely dressed with nowhere to go. Me? If I’m staying home, even my boobs are going free-range.",
+   "caption": "Sunday uniform: the stretchiest pants I own and a cardigan older than my youngest. No plans, no mirrors, and not one apology.",
+   "first": "I do respect the women who put on the full outfit for a quiet day. I tried it once. By noon I was counting the hours until I could change. Now I save my best effort for the days it's actually needed, and the rest of the time I'm comfortable.",
+   "alt": "Cartoon illustration of a blissful woman with pink curls sprawled on a couch in an oversized cardigan and baggy pants, holding a glass of red wine with a smug grin, a bra hanging over the lamp shade beside her like a flag. Text at the top reads: I admire women who get completely dressed with nowhere to go. Me? If I’m staying home, even my boobs are going free-range.",
+   "image": "images/wine-wimsey/2026-10-26/ww-20261026-13.png"
+  },
+  {
+   "id": "ww-20261026-14",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "Nothing says midlife like the radio having no clue what I want to hear anymore. Meanwhile the grocery store has me picking out tomatoes to a total banger.",
+   "caption": "Aisle seven had a good rhythm going and I had a tomato in each hand before I noticed I was keeping time. A man reaching for the onions took one look at me and slowly backed away. I bought four pounds. The tomatoes were fine. The moment was the real purchase.",
+   "first": "I came home with enough tomatoes for a week of sauce and the memory of one very confused stock clerk. My husband asked why I was humming. I told him it's a grocery store thing and he's learning not to ask.",
+   "alt": "Cartoon illustration of a joyful woman with a messy bun and reading glasses on her forehead dancing in a grocery store produce aisle with a ripe tomato in each hand, eyes closed, music notes floating from a ceiling speaker, a glass of red wine on the cart seat and a bewildered shopper behind her. Text at the top reads: Nothing says midlife like the radio having no clue what I want to hear anymore. Meanwhile the grocery store has me picking out tomatoes to a total banger.",
+   "image": "images/wine-wimsey/2026-10-26/ww-20261026-14.png"
   }
  ],
  "stories": [
