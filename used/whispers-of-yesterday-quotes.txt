@@ -149,7 +149,6 @@
 2026-10-24 | Family kitchen (drying dishes) | MOM HUMMED WHILE SHE WASHED, YOU DRIED, AND NOBODY SAID A WORD ABOUT HOW GOOD IT FELT.
 2026-10-25 | Childhood rituals (lemonade stand) | OUR LEMONADE STAND SOLD TEN CUPS A DAY, AND NINE OF THEM WENT TO MOM AND THE NEIGHBORS.
 2026-10-25 | Crafts and homemaking (the bread box) | THE BREAD BOX SAT ON THE COUNTER, AND EVERYBODY KNEW THE LAST SLICE WAS SPOKEN FOR.
-2026-10-25 | Childhood rituals (first purchase) | What was the first thing you ever bought with your own money, and do you still remember what it cost?
 2026-10-25 | Cars and driving culture (the family motel) | THE MOTEL HAD A NEON SIGN, A SWIMMING POOL, AND ONE ROOM FOR ALL FIVE OF US.
 2026-10-25 | Lost school subjects (the lunch lady) | THE LUNCH LADY / A HAIRNET, A LADLE, AND A LOOK THAT MADE YOU FINISH YOUR PEAS
 2026-10-25 | Old jobs and skills (the mailman) | THE MAILMAN KNEW EVERY DOG ON THE ROUTE BY NAME, AND EVERY DOG KNEW HIM.
@@ -160,3 +159,9 @@
 2026-10-25 | Childhood rituals (marbles) | A COFFEE CAN OF MARBLES WAS THE CLOSEST THING THE NEIGHBORHOOD HAD TO A BANK.
 2026-10-25 | Old jobs and skills (the workbench) | DAD'S WORKBENCH HAD A COFFEE CAN OF MIXED SCREWS, AND HE FOUND THE RIGHT ONE EVERY TIME.
 2026-10-25 | Values and manners (Sunday best) | SUNDAY BEST / STARCHED COLLARS, POLISHED SHOES, AND A HAT FOR EVERY OCCASION
+2026-10-25 | Childhood rituals (the bonfire pile) | REMEMBER WHEN WE BUILT BONFIRES LIKE THIS
+2026-10-25 | Old-school family (the kitchen) | THERE WAS ALWAYS ENOUGH FOOD, A LITTLE CHAOS, AND A MOM WHO MADE EVERYONE FEEL LIKE THEY BELONGED.
+2026-10-25 | Values and community (the neighbors) | THOSE TWO COULDN'T AGREE ON A DAMN THING. BUT NEITHER ONE WAS GOING TO LET THE OTHER FREEZE.
+2026-10-25 | Childhood rituals (returning bottles) | HOW MANY OF YOU REMEMBER TAKING EMPTY SODA BOTTLES BACK TO THE STORE FOR MONEY?
+2026-10-25 | Humor about today vs. then (the VCR) | REMEMBER THE DAY YOUR FAMILY BROUGHT HOME A VCR AND SUDDENLY YOU COULD WATCH WHATEVER YOU WANTED WHENEVER YOU WANTED? THAT WAS BRAND NEW.
+2026-10-25 | Old-school family (grandmother's kitchen) | What smell takes you straight back to your grandmother's kitchen, no matter where you are?
