@@ -11,6 +11,7 @@ These override any skill or runbook.
 2. NO REUSED QUOTES OR JOKES. Never take quotes from a skill's quote bank, concept bank, benchmark list or examples: those are posts Scott has already published. Write new ones. Before keeping a quote, check `used/<page>-quotes.txt` for the same wording AND the same joke or idea in different words (e.g. glasses-on-my-head, be-home-before-the-streetlights); if it's close, write a different one.
 3. NO HASHTAGS IN FIRST COMMENTS (added 2026-10-17, Scott). First comments are the personal note only, on every page, even where a skill says to add a hashtag block. Captions stay hashtag-free too. tools/build_csv.py strips any hashtag line it finds and warns.
 4. REJECTED = REPLACED. When Scott rejects a post, write a new post for that slot (new quote, rules 1-2 apply) and put it back on the review page as Waiting. Redo = fix per his note. This happens when he messages in that day's run conversation.
+5. NO ENGAGEMENT BAIT (added 2026-10-25, Scott). Facebook restricted the page for it. TOBIs, captions and first comments must never ask questions or invite replies (no "what's yours?", "finish this sentence", "how many of you", "tag someone", "comment", "share"). TOBIs are calm, innocuous statements. Inbox quotes that break this are flagged to Scott on the review page, not silently changed.
 
 ## Images
 - Engine: ElevenLabs, model GPT Image 2.5 (`gpt-image-2.5-sunburst`), 1K, low quality, 4:5.

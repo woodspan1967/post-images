@@ -1,6 +1,6 @@
 {
   "title": "Whispers Of Yesterday Review · Oct 25",
-  "subtitle": "10 feed (8 images + 2 TOBIs at #3 and #7) + 3 stories · 5 from the inbox (#1, #4, #6, #8, #10: all five rebuilt as paintings) · 5 earlier posts held for the next batch · all quotes new and checked against the used list. Flags: painted people in #2, #9 and story 1 look close to photographic; story 3 poster faces are very realistic; #6 keeps the word 'damn' exactly as typed in the inbox quote. #10 (VCR) has a faint scribble near the bottom-right corner under the brand stamp.",
+  "subtitle": "10 feed (8 images + 2 TOBIs at #3 and #7) + 3 stories · 5 from the inbox (#1, #4, #6, #8, #10: all five rebuilt as paintings) · 5 earlier posts held for the next batch · all quotes new and checked against the used list. Flags: painted people in #2, #9 and story 1 look close to photographic; story 3 poster faces are very realistic; #6 keeps the word 'damn' exactly as typed in the inbox quote. #10 (VCR) has a faint scribble near the bottom-right corner under the brand stamp. ENGAGEMENT FLAG: inbox quotes #8 (soda bottles, 'HOW MANY OF YOU REMEMBER...?') and #10 (VCR, 'REMEMBER THE DAY...?') are phrased as questions; kept word for word, your call. TOBIs are now plain statements.",
   "bucket": "Whispers Of Yesterday",
   "story_bucket": "Whispers Of Yesterday Stories",
   "posts": [
@@ -36,7 +36,7 @@
       "kind": "tobi",
       "template": "TOBI (black)",
       "character": "Childhood rituals (first purchase)",
-      "quote": "What was the first thing you ever bought with your own money, and do you still remember what it cost?",
+      "quote": "The first thing you ever bought with your own money felt like the most important purchase in the world.",
       "caption": "",
       "first": "Mine was a model car kit for sixty-nine cents, saved up from mowing two lawns. I carried it home like it was made of gold. I can still smell the glue.",
       "prompt": "",
@@ -90,9 +90,9 @@
       "kind": "tobi",
       "template": "TOBI (black)",
       "character": "Entertainment (family TV night)",
-      "quote": "Which TV show did your whole family stop everything to watch together, even on a school night?",
+      "quote": "Sunday night meant one television, one big bowl of popcorn, and the whole family on the same couch.",
       "caption": "",
-      "first": "For us it was the Sunday night movie, and nobody was allowed to talk during it. Mom made popcorn in a big pot on the stove. I'd trade a lot of today's screens for one of those nights.",
+      "first": "For us it was the Sunday night movie, and nobody was allowed to talk during it. Mom made popcorn in a big pot on the stove. It felt like the whole world slowed down for a couple of hours.",
       "prompt": "",
       "ai": false,
       "image": "",
