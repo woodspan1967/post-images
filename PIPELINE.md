@@ -22,8 +22,8 @@ These override any skill or runbook.
 - Images are copied here by the Fetch images workflow (drop a `queue/*.txt` list of `path url` lines) for permanent links.
 
 ## Wine Wimsey
-- Bucket: Wine Wimsy. 12 posts a day total: 1-2 of them TOBIs (vary), the rest image posts (so 11+1 or 10+2). TOBI background `black`.
-- Daily run at about 6 AM Central covers one day (12 posts + 4 stories). Scott asks for multi-day runs when he needs them. See RUN_WINE_WIMSEY.md. TOBIs are interleaved between image posts in queue order.
+- Bucket: Wine Wimsy. 16 posts a day total (changed 2026-10-28): 1 or 2 of them TOBIs, the rest image posts (15+1 or 14+2). TOBI count alternates by weekday and ISO week: even week = 2 on Mon/Wed/Fri/Sun and 1 on Tue/Thu/Sat; odd week switched. TOBI background `black`.
+- Daily run at about 6 AM Central covers one day (16 posts + 4 stories). Scott asks for multi-day runs when he needs them. See RUN_WINE_WIMSEY.md. TOBIs are interleaved between image posts in queue order.
 - Each post: caption + first comment (5-minute delay). No second comment in bulk uploads.
 - TOBI text stays under 130 characters.
 - Stories: 4 a day into the Wine Wimsy Stories bucket (12 per 3-day run). One image per story, same templates, characters, size (4:5) and stamping as feed images, but their own quotes (never a feed quote). No caption or comment. Uploaded as a second CSV with REEL OR STORY set to `story` (confirmed working 2026-10-11).

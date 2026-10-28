@@ -8,7 +8,7 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 ## 0. Setup
 - Clone/pull this repo (woodspan1967/post-images, push access). Work in it.
 - Load the Wine Wimsey skill (`wine-niche-initiative`) for characters, templates, voice, caption/comment rules, quote quality filter.
-- Read `held/wine-wimsey.json`: approved posts carried over. They count toward today's 12 and go first. Clear the file after you use them.
+- Read `held/wine-wimsey.json`: approved posts carried over. They count toward today's 16 and go first. Clear the file after you use them.
 - Read `used/wine-wimsey-quotes.txt`: never reuse a quote.
 
 ## 0b. Inbox (Scott's curated items) — use these first
@@ -23,7 +23,7 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - Mark each used item in the inbox: ArtifactData update {status:"used", usedIn:"<Mon D> review"} with its if_version. Mention on the review page subtitle how many came from the inbox.
 
 ## 1. Write the day
-- 12 feed posts total = held posts + new ones. Pick 1 or 2 TOBIs (vary day to day); the rest are image posts.
+- 16 feed posts total = held posts + new ones (changed from 12 by Scott, 2026-10-28). TOBIs count toward the 16; the rest are image posts. TOBI count alternates (Scott, 2026-10-28): in an EVEN ISO week (week of Oct 26 2026 = week 44) Mon/Wed/Fri/Sun get 2 TOBIs and Tue/Thu/Sat get 1; in an ODD ISO week it is switched (Tue/Thu/Sat get 2, Mon/Wed/Fri/Sun get 1).
 - 4 stories (image only, own quotes).
 - Mix templates and characters per the skill (I2 is the primary format). Do NOT use Template B (photoreal) or Template C (vintage B&W photo) with people; if you want those looks, make them people-free (still life, empty porch) or draw the people as illustration. Template D still life is fine (AI label).
 - Captions ~100 words (hook / story / button), first comment ~50 words, no hashtags. TOBI text under 130 characters + first comment.
