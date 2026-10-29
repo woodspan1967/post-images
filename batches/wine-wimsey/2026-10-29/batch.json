@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review · Oct 29",
- "subtitle": "16 feed (14 images + 2 TOBIs at #5 and #11) and 4 stories · TOBIs: 2 because today, Wed Oct 28, is in even ISO week 44 · CHARACTER: The Hot Mess (single-character mode) · Inbox had no new items · Captions: 6 SHORT, 8 SEE MORE · EXPERIMENT posts: #8 lighthouse documentary, #10 grey hair union, #14 paper towels · NOTE: an Oct 28 batch already existed in the repo (16 image posts, no TOBIs, built Oct 25), so this one is dated Oct 29 and nothing was overwritten Four images were retaken once (stamp overlap, stray quote marks, stray notepad text). Story 1 renders without the final period.",
+ "subtitle": "16 feed (14 images + 2 TOBIs at #5 and #11) and 4 stories · TOBIs: 2 because today, Wed Oct 28, is in even ISO week 44 · CHARACTER: The Hot Mess (single-character mode) · Inbox had no new items · Captions: 6 SHORT, 8 SEE MORE · EXPERIMENT posts: #8 lighthouse documentary, #10 grey hair union, #14 paper towels · NOTE: an Oct 28 batch already existed in the repo (16 image posts, no TOBIs, built Oct 25), so this one is dated Oct 29 and nothing was overwritten Four images were retaken once (stamp overlap, stray quote marks, stray notepad text). Story 1 renders without the final period. REDOS APPLIED Oct 28 evening: #7 replaced with a new Hot Mess post (plastic bag quote), #9 now The Hot Mess, #13 and Story 4 now The Homebody.",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -83,12 +83,12 @@
   {
    "id": "ww-20261029-07",
    "kind": "image",
-   "template": "D still life",
-   "character": "N/A",
-   "quote": "I still know the phone number of a house I haven't visited since 1987. My own license plate takes me three tries.",
-   "caption": "I can still dial it with my eyes closed. It belonged to my best friend in sixth grade, and I called it every day after school until her mother started answering with an exhausted hello. The kitchen had a long curly phone cord that stretched into the hallway so we could talk in private. I can see the cord. I can hear the screen door. Meanwhile my own license plate lives on a card in my wallet that I check in every parking lot, like a spy confirming a code name. Some files just get stored in a better drawer. Hers is in the good drawer.",
-   "first": "I once tried to recall my own phone number for a form and gave the receptionist the number to the house with the screen door. She waited politely. Then I found the right one written on the back of my hand from that morning, which I had also forgotten about.",
-   "alt": "Still life photograph of an old cream rotary telephone with a long curly cord on a wooden windowsill beside a worn address book and a glass of red wine, with soft golden light. Text at the top reads: I still know the phone number of a house I haven't visited since 1987. My own license plate takes me three tries.",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "My mother kept every plastic bag inside a bigger plastic bag. I now have a bag of bags, and a drawer for the bag of bags.",
+   "caption": "There is a bag in my pantry that holds every plastic bag I have ever been handed. I did not decide to start it. It started itself, sometime around 2019, and now there is a drawer for the overflow. Last week I stood there pulling bags out one at a time, looking for a specific small one, and found a receipt from a hardware store that closed in 2011. My mother would have been proud. She would also have asked why I only had that many. I put everything back exactly as I found it. You never know when you will need nine.",
+   "first": "My mother folded hers into tight little triangles, like a flag. I never learned the fold, so I stuff. On Tuesday I needed one bag for a wet umbrella and found three in the car, four in my purse, and none in the drawer.",
+   "alt": "Cartoon illustration of a woman in her early 50s with a messy auburn bun, grey streaks and glasses on her forehead, wearing an olive vest over a striped shirt. She holds up a big clear plastic bag stuffed with more plastic bags beside an open kitchen drawer overflowing with bags. Text at the top reads: My mother kept every plastic bag inside a bigger plastic bag. I now have a bag of bags, and a drawer for the bag of bags.",
    "image": "images/wine-wimsey/2026-10-29/ww-20261029-07.png"
   },
   {
@@ -105,12 +105,12 @@
   {
    "id": "ww-20261029-09",
    "kind": "image",
-   "template": "G vintage poster",
-   "character": "N/A",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
    "quote": "I raked for two hours. The wind put it all back in eleven minutes. We both took it personally.",
    "caption": "The yard looked perfect for roughly one afternoon. I raked until my shoulders gave a stern warning, bagged six sacks, and stood on the porch admiring the lawn like a proud landowner. At 4:10 the wind showed up. By 4:21 the leaves were back, along with some new ones I'm sure came from another neighborhood. I went inside and watched from the window. A single oak leaf tumbled across the grass as if it had never heard of me. I'm choosing to believe the wind and I have a rivalry that makes us both better. Tomorrow, round two.",
    "first": "My neighbor three doors down uses a leaf blower and finishes in fifteen minutes. He's never once looked as defeated as I do. I've decided I prefer the rake. It makes the loss feel earned.",
-   "alt": "Vintage-style poster illustration of a wooden rake leaning against an oak tree on a tidy lawn while red and gold autumn leaves swirl through the air. Text at the top in cursive reads: I raked for two hours. The wind put it all back in eleven minutes. Text below reads: We both took it personally.",
+   "alt": "Cartoon illustration of a woman in her early 50s with a messy auburn bun, grey streaks and glasses on her forehead, wearing an olive vest over a striped shirt, raking a front yard under a big oak tree while red and gold autumn leaves blow back across the lawn. Six full leaf bags stand beside her. Text at the top reads: I raked for two hours. The wind put it all back in eleven minutes. We both took it personally.",
    "image": "images/wine-wimsey/2026-10-29/ww-20261029-09.png"
   },
   {
@@ -159,12 +159,12 @@
   {
    "id": "ww-20261029-13",
    "kind": "image",
-   "template": "D still life",
-   "character": "N/A",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
    "quote": "My Saturday is organized around where the sun lands on the porch chair. Everything else is negotiable.",
    "caption": "The sun moves, so I move. It's the closest thing to a fitness routine I have, and I stick to it.",
    "first": "By three o'clock the chair gets the sun for exactly fifty minutes. I plan around it. The dog thinks it's his chair, but he knows I started this. We share a respectful silence and one blanket.",
-   "alt": "Still life photograph of an empty wooden porch rocking chair in a patch of golden afternoon sunlight with a folded blanket and a glass of red wine on a small side table. Text at the top reads: My Saturday is organized around where the sun lands on the porch chair. Everything else is negotiable.",
+   "alt": "Cartoon illustration of a woman in her mid-50s with short mauve-pink curls, a mustard fairisle sweater and fluffy pink slippers, relaxing with her eyes closed in a wooden porch rocking chair in warm autumn sunlight, a plaid blanket over her lap, a glass of red wine beside her and a golden dog asleep at her feet. Text at the top reads: My Saturday is organized around where the sun lands on the porch chair. Everything else is negotiable.",
    "image": "images/wine-wimsey/2026-10-29/ww-20261029-13.png"
   },
   {
@@ -216,12 +216,12 @@
   {
    "id": "ws-20261029-4",
    "kind": "story",
-   "template": "D still life",
-   "character": "N/A",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
    "quote": "Phone face down, lamp on low, nothing left to answer.",
    "caption": "",
    "first": "",
-   "alt": "Still life photograph of a small table with a lit lamp on low, a smartphone lying face down and a glass of red wine beside a folded blanket, in a cozy dim living room. Text at the top reads: Phone face down, lamp on low, nothing left to answer.",
+   "alt": "Cartoon illustration of a woman in her mid-50s with short mauve-pink curls, a mustard fairisle sweater and fluffy pink slippers, reclined in a floral armchair in a cozy living room at night with a glass of red wine. A lamp glows on low and a phone lies face down on the side table while a cat sleeps nearby. Text at the top reads: Phone face down, lamp on low, nothing left to answer.",
    "image": "images/wine-wimsey/2026-10-29/stories/ws-20261029-4.png"
   }
  ]
