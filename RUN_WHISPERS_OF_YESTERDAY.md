@@ -15,6 +15,12 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - Read `held/whispers-of-yesterday.json`: approved posts carried over. They count toward today's 10 and go first. Clear the file after you use them.
 - Read `used/whispers-of-yesterday-quotes.txt`: never reuse a quote or headline. Also avoid repeating a topic used in the last 7 days of that file.
 
+### Freshness rules (added 2026-10-29, Scott: rejected two posts as generic, overdone, "seen everywhere")
+- AVOID THE OBVIOUS. Skip the stock nostalgia-page topics that circulate everywhere: recess, gas station attendants, party lines, layaway, play clothes, streetlights, rotary phones, drive-ins, milkman, wooden spoon parenting, "I brought you into this world", bench-seat cars, penmanship, Saturday cartoons, Home Ec / Wood Shop. If a topic would fit a generic "remember when" meme page, drop it.
+- Aim for specific, lived-in details a person would only remember if they were there (an exact object, smell, sound, small ritual, odd rule of a particular place), not the era's headline icons. Prefer a small, odd, true detail over a famous one.
+- VARIETY ACROSS DAYS. Do not repeat the same theme AND the same vibe (cozy porch, kitchen warmth, grandparent garden, front-porch evenings) day after day. Before writing, skim the last 5 batches' `character` (theme) and quote openings in `batches/whispers-of-yesterday/` and `used/`; change the setting, the season, the age of the narrator and the mood (funny, wry, bittersweet, matter-of-fact) from what ran recently. Within one day, no two posts may share a setting or mood.
+- IMAGERY: grounded, natural and unposed. No staged, stock-looking tableaux, no overly artsy or decorative painterly treatment. Prefer plain, believable framing (an ordinary room mid-use, a real object up close). Objects and places should look realistic; people stay clearly drawn per PIPELINE.md hard rule 1 until Scott says otherwise.
+
 ## 0b. Inbox (Scott's curated items) — use these first
 - Inbox page: https://claude.ai/artifact/ELPgE7UJER5X8nkBwC74ch . Read collection `inbox` with ArtifactData (action list).
 - Each doc: quote, note, placement (auto|feed|tobi|story), assetId (uploaded image, may be empty), status (new|used), createdAt.
