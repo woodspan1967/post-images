@@ -1,6 +1,6 @@
 {
- "title": "Whispers Of Yesterday Review \u00b7 Oct 29",
- "subtitle": "10 feed (9 images + 1 TOBI at #3) + 3 stories \u00b7 0 from the inbox (nothing new) \u00b7 0 held posts carried in \u00b7 all quotes checked against the used list; TOBI, captions and first comments have no questions or hashtags.",
+ "title": "Whispers Of Yesterday Review · Oct 29",
+ "subtitle": "10 feed (9 images + 1 TOBI at #3) + 3 stories · 0 from the inbox (nothing new) · 0 held posts carried in · all quotes checked against the used list · 14 images generated (2 redone for stray signatures) · painted faces in the T1 scenes are on the realistic side of 'painting', please eyeball #1, #4, #7, #8 and story 1 · TOBI, captions and first comments have no questions or hashtags.",
  "bucket": "Whispers Of Yesterday",
  "story_bucket": "Whispers Of Yesterday Stories",
  "posts": [
@@ -15,7 +15,7 @@
    "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a 1950s American front porch at dusk with a creaking wooden swing, a father in shirtsleeves and his wife sitting together, a glowing yellow porch light with a few moths, neighbors waving from the sidewalk, lightning bugs in the yard. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE PORCH LIGHT WAS ON, THE SWING WAS CREAKING, AND THE WHOLE STREET KNEW WHO WAS HOME.\" Norman Rockwell influence, warm amber and honey tones, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-01.png",
-   "alt": "Painted illustration of a couple sitting on a front porch swing at dusk under a glowing porch light while neighbors wave from the sidewalk. Text at the top reads: The porch light was on, the swing was creaking, and the whole street knew who was home."
+   "alt": "Painted illustration of a 1950s front porch at dusk. A man and a woman sit close together on a wooden porch swing under a glowing lantern while a dog rests nearby and neighbors wave from the street. Text at the top reads: The porch light was on, the swing was creaking, and the whole street knew who was home."
   },
   {
    "id": "wy-20261029-02",
@@ -28,7 +28,7 @@
    "prompt": "A realistic color photograph from the 1960s, the interior of a 1950s living room with a large wooden console radio glowing with an orange dial, a worn armchair, a braided rug, and a lace doily on a side table. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE CONSOLE RADIO GLOWED IN THE LIVING ROOM, AND THE WHOLE FAMILY LEANED IN FOR THE NEXT EPISODE.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": true,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-02.png",
-   "alt": "Vintage-style color photo of a wooden console radio with a glowing orange dial in a quiet 1950s living room beside an armchair and a braided rug. Text at the top reads: The console radio glowed in the living room, and the whole family leaned in for the next episode."
+   "alt": "Vintage-style color photo of a 1950s living room with a wooden console radio glowing orange, a worn armchair with a lace doily, and a braided rug. No people. Text at the top reads: The console radio glowed in the living room, and the whole family leaned in for the next episode."
   },
   {
    "id": "wy-20261029-t1",
@@ -54,7 +54,7 @@
    "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a single panel showing a shop counter with a wool winter coat on a hanger behind it, a paper price tag on the sleeve, a clerk writing in a ledger book, and a woman in a hat handing over a small envelope. Bold retro serif headline text at top reads exactly: \"LAYAWAY\" Subtitle text reads exactly: \"A LITTLE DOWN, A LITTLE EACH WEEK, AND THE COAT WAS YOURS BY CHRISTMAS\" Saturday Evening Post illustration style, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-03.png",
-   "alt": "Retro poster illustration of a shop counter with a wool coat on a hanger, a clerk writing in a ledger, and a woman in a hat handing over an envelope. Headline: Layaway. Subtitle: A little down, a little each week, and the coat was yours by Christmas."
+   "alt": "Retro poster illustration of a shop counter where a woman in a hat hands an envelope to a clerk writing in a ledger, with a wool coat hanging behind them. Headline: Layaway. Subtitle: A little down, a little each week, and the coat was yours by Christmas."
   },
   {
    "id": "wy-20261029-04",
@@ -67,7 +67,7 @@
    "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a 1950s full-service gas station on a sunny afternoon, a friendly attendant in a pressed uniform and cap wiping the windshield of a big family sedan, the father leaning out the window to chat, two children watching from the back seat, an old pump with a round glass top. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"DAD CHECKED THE OIL AT EVERY GAS STATION, AND THE ATTENDANT CLEANED THE WINDSHIELD WITHOUT BEING ASKED.\" Norman Rockwell influence, warm amber and honey tones, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-04.png",
-   "alt": "Painted illustration of a gas station attendant in a cap washing the windshield of a family sedan while the father chats through the window and two kids look on. Text at the top reads: Dad checked the oil at every gas station, and the attendant cleaned the windshield without being asked."
+   "alt": "Painted illustration of a 1950s gas station. An attendant in a cap wipes the windshield of a green family car while the father and two children smile from inside, beside an old red pump. Text at the top reads: Dad checked the oil at every gas station, and the attendant cleaned the windshield without being asked."
   },
   {
    "id": "wy-20261029-05",
@@ -80,7 +80,7 @@
    "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a single panel of a schoolyard with children jumping rope, a group playing kickball with a big red rubber ball, a school building with a bell tower in the background, and a teacher holding a brass hand bell. Bold retro serif headline text at top reads exactly: \"RECESS\" Subtitle text reads exactly: \"A JUMP ROPE, A KICKBALL, AND A BELL THAT ENDED TOO SOON\" Saturday Evening Post illustration style, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-05.png",
-   "alt": "Retro poster illustration of children jumping rope and playing kickball on a schoolyard with a bell tower behind them and a teacher ringing a hand bell. Headline: Recess. Subtitle: A jump rope, a kickball, and a bell that ended too soon."
+   "alt": "Retro poster illustration of a schoolyard where children jump rope and play kickball in front of a brick school with a bell tower, while a teacher holds up a hand bell. Headline: Recess. Subtitle: A jump rope, a kickball, and a bell that ended too soon."
   },
   {
    "id": "wy-20261029-06",
@@ -93,7 +93,7 @@
    "prompt": "A realistic color photograph from the 1960s, a sunlit 1950s kitchen with a chrome coffee percolator on the stove, a checkered tablecloth, yellow curtains, a toaster, and two empty ceramic mugs on the counter. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE COFFEE PERCOLATOR WAS BUBBLING BEFORE ANYONE ELSE WAS UP, AND THAT SOUND MEANT THE DAY HAD STARTED.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": true,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-06.png",
-   "alt": "Vintage-style color photo of a chrome percolator on a stove in a sunlit 1950s kitchen with checkered curtains and two ceramic mugs on the counter. Text at the top reads: The coffee percolator was bubbling before anyone else was up, and that sound meant the day had started."
+   "alt": "Vintage-style color photo of a sunlit 1950s kitchen with a chrome percolator on the stove, two mugs, a toaster, yellow curtains, and a checkered tablecloth. No people. Text at the top reads: The coffee percolator was bubbling before anyone else was up, and that sound meant the day had started."
   },
   {
    "id": "wy-20261029-07",
@@ -106,7 +106,7 @@
    "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a 1950s movie theater entrance on a Saturday afternoon with a glowing marquee and a ticket booth, two young boys in jeans and striped shirts holding a quarter and a box of popcorn, a line of other kids waiting behind them. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"A QUARTER AT THE SATURDAY MATINEE BOUGHT A MOVIE, A POPCORN, AND A SEAT NEXT TO YOUR BEST FRIEND.\" Norman Rockwell influence, warm amber and honey tones, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-07.png",
-   "alt": "Painted illustration of two young boys at a movie theater ticket booth with a glowing marquee, holding a quarter and a box of popcorn. Text at the top reads: A quarter at the Saturday matinee bought a movie, a popcorn, and a seat next to your best friend."
+   "alt": "Painted illustration of two boys in jeans and striped shirts at a 1950s movie theater ticket booth, one handing over a quarter and holding popcorn, with a line of kids behind them under a glowing marquee. Text at the top reads: A quarter at the Saturday matinee bought a movie, a popcorn, and a seat next to your best friend."
   },
   {
    "id": "wy-20261029-08",
@@ -119,7 +119,7 @@
    "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a sunny 1950s backyard vegetable garden with neat rows of staked tomato plants, an elderly grandfather in a straw hat and suspenders handing a paper bag of tomatoes to a neighbor woman over the fence, a small girl holding a ripe tomato. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"GRANDPA'S GARDEN FED THE WHOLE STREET, AND NOBODY EVER LEFT WITHOUT A BAG OF TOMATOES.\" Norman Rockwell influence, warm amber and honey tones, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-08.png",
-   "alt": "Painted illustration of a grandfather in a straw hat handing a bag of tomatoes to a neighbor over a fence beside rows of tomato plants while a small girl holds a ripe tomato. Text at the top reads: Grandpa's garden fed the whole street, and nobody ever left without a bag of tomatoes."
+   "alt": "Painted illustration of a sunny backyard garden where a grandfather in a straw hat hands a bag of tomatoes over a white fence to a neighbor woman, while a little girl holds a tomato beside a basket. Text at the top reads: Grandpa's garden fed the whole street, and nobody ever left without a bag of tomatoes."
   },
   {
    "id": "wy-20261029-09",
@@ -132,7 +132,7 @@
    "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a single panel showing a wall-mounted wooden crank telephone in a farmhouse hallway, a woman in an apron holding the receiver to her ear, and three small house icons on a telephone pole outside the window connected by a wire. Bold retro serif headline text at top reads exactly: \"THE PARTY LINE\" Subtitle text reads exactly: \"PICK UP QUIETLY, AND YOU MIGHT LEARN SOMETHING ABOUT THE NEIGHBORS\" Saturday Evening Post illustration style, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/wy-20261029-09.png",
-   "alt": "Retro poster illustration of a woman in an apron holding the receiver of a wall-mounted wooden telephone in a hallway, with a telephone pole and wires outside the window. Headline: The Party Line. Subtitle: Pick up quietly, and you might learn something about the neighbors."
+   "alt": "Retro poster illustration of a woman in an apron listening in at a wall-mounted crank telephone in a farmhouse hallway, with three houses connected by wires outside the window. Headline: The Party Line. Subtitle: Pick up quietly, and you might learn something about the neighbors."
   }
  ],
  "stories": [
@@ -147,7 +147,7 @@
    "prompt": "A warm hand-painted Saturday Evening Post style illustration with visible brushstrokes and slightly stylized faces, clearly a painting, not a photograph, a 1950s neighborhood barbershop with a red-white-and-blue spinning pole in the window, a barber in a white coat trimming a small boy seated on a board across the chair arms, an older man reading a magazine in a waiting chair. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE BARBERSHOP HAD A SPINNING POLE, A STACK OF OLD MAGAZINES, AND A BOARD ACROSS THE CHAIR FOR THE LITTLE KIDS.\" Norman Rockwell influence, warm amber and honey tones, nostalgic American setting. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/stories/wys-20261029-1.png",
-   "alt": "Painted illustration of a barber in a white coat trimming a small boy seated on a board across a barber chair while an older man reads in the corner. Text at the top reads: The barbershop had a spinning pole, a stack of old magazines, and a board across the chair for the little kids."
+   "alt": "Painted illustration of a 1950s barbershop where a barber trims a smiling boy sitting on a board across the chair, beside a spinning barber pole and an older man reading a magazine. Text at the top reads: The barbershop had a spinning pole, a stack of old magazines, and a board across the chair for the little kids."
   },
   {
    "id": "wys-20261029-2",
@@ -160,7 +160,7 @@
    "prompt": "A realistic color photograph from the 1960s, a single worn wooden school desk with a hinged lid, a round inkwell hole, carved initials in the top, and a pencil groove, in a sunlit empty 1950s classroom with a chalkboard behind it. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE SCHOOL DESK HAD A LID, AN INKWELL HOLE, AND SOMEBODY'S INITIALS CARVED YEARS BEFORE YOU.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": true,
    "image": "images/whispers-of-yesterday/2026-10-29/stories/wys-20261029-2.png",
-   "alt": "Vintage-style color photo of a worn wooden school desk with a hinged lid and an inkwell hole in an empty sunlit classroom. Text at the top reads: The school desk had a lid, an inkwell hole, and somebody's initials carved years before you."
+   "alt": "Vintage-style color photo of a worn wooden school desk with a hinged lid, inkwell hole, and carved initials in a sunlit empty classroom with a chalkboard. No people. Text at the top reads: The school desk had a lid, an inkwell hole, and somebody's initials carved years before you."
   },
   {
    "id": "wys-20261029-3",
@@ -173,7 +173,7 @@
    "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a single panel of a bright 1950s living room with a mother mopping the floor, a boy dusting a shelf, a girl beating a rug over a chair, and a tabletop radio playing in the corner. Bold retro serif headline text at top reads exactly: \"SATURDAY CHORES\" Subtitle text reads exactly: \"THE RADIO PLAYED, THE FLOORS SHINED, AND NOBODY SAT DOWN TILL NOON\" Saturday Evening Post illustration style, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "ai": false,
    "image": "images/whispers-of-yesterday/2026-10-29/stories/wys-20261029-3.png",
-   "alt": "Retro poster illustration of a mother mopping, a boy dusting, and a girl beating a rug in a bright living room with a radio playing. Headline: Saturday Chores. Subtitle: The radio played, the floors shined, and nobody sat down till noon."
+   "alt": "Retro poster illustration of a bright living room where a mother mops the floor, a boy dusts a shelf, and a girl beats a rug over a chair beside a playing radio. Headline: Saturday Chores. Subtitle: The radio played, the floors shined, and nobody sat down till noon."
   }
  ]
 }
