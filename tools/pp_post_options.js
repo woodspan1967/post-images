@@ -29,8 +29,15 @@ window.__pp = {
     for (let i = 0; i < 40; i++) {
       const hit = match();
       if (hit) {
+        // Smallest ancestor that has a More button and holds at most one post image. Counting buttons
+        // is not enough: story rows have only 2 buttons, so the climb overshot to an ancestor holding
+        // every row and the first row's More button got clicked for every story (fixed 2026-10-29).
+        const media = el => [...el.querySelectorAll('img')].filter(i => /^https?:/.test(i.src) && !/icons|\.svg/.test(i.src)).length;
         let row = hit;
-        for (let j = 0; j < 14 && row; j++) { row = row.parentElement; if (row && row.querySelectorAll('button').length >= 4) break; }
+        for (let j = 0; j < 14 && row; j++) {
+          row = row.parentElement;
+          if (row && media(row) <= 1 && [...row.querySelectorAll('button')].some(b => /More/.test(b.outerHTML))) break;
+        }
         return row;
       }
       els.forEach(e => e.scrollTop += 500); await this.sleep(250);
