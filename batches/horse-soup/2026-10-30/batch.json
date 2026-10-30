@@ -1,0 +1,122 @@
+{
+ "title": "Horse Soup Review · Oct 30",
+ "subtitle": "",
+ "bucket": "Horse Soup",
+ "story_bucket": "Horse Soup Stories",
+ "posts": [
+  {
+   "id": "hs-20261030-01",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "Pudding",
+   "theme": "treats and food obsession",
+   "quote": "THE FEED ROOM DOOR WAS OPEN. I'M NOT SAYING I WENT IN. I'M SAYING THERE'S GRAIN ON MY EYEBROWS.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. Pudding, an adorable, very round, chubby Shetland pony drawn in a cute, friendly cartoon style, with four short stubby legs, small hooves, fuzzy pony ears, a soft fuzzy dark brown coat, a big round belly, and a huge fluffy cream-colored forelock that flops over his forehead with one or two pieces of straw stuck in it. His face is a natural soft horse muzzle with no human lips and no visible teeth: large round shiny brown eyes with sparkly highlights, rosy cheeks, a small closed-mouth content smile, and slightly raised eyebrows that look innocent and a little guilty. Standing in the doorway of a feed room with his round belly out, grain dusting his nose and eyebrows and a few kernels stuck in his fluffy forelock, an innocent and slightly guilty look aimed at the viewer, wide-open grain bins with scoops, a tipped-over scoop bucket, a hanging scale, burlap sacks and a barn cat watching from a shelf, with a small sign on the wall reading \"No Hay No Way\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"THE FEED ROOM DOOR WAS OPEN. I'M NOT SAYING I WENT IN. I'M SAYING THERE'S GRAIN ON MY EYEBROWS.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "I walked into the feed room at six this morning and found the door standing open, which is usually my first sign that I did it myself. I had set the latch carefully. I had even given it a little tug the way you do. Pudding was sitting in the aisle looking like a man who had just finished a very honest day of work. There was grain on the floor in a neat trail leading straight to him. I swept it up while he supervised. Then I checked the latch again, and it was fine.",
+   "first": "Our first feed room had a screen door and a hook, and the pony before Pudding learned the hook in an afternoon. I spent that whole winter adding locks. The pony spent it patiently working through them one at a time. I've stopped counting the locks and started counting the days between incidents. We are at two.",
+   "alt": "Cartoon illustration of a round, fluffy dark brown Shetland pony with grain on his nose standing in a feed room doorway, surrounded by grain bins and burlap sacks. Text at the top reads: The feed room door was open. I'm not saying I went in. I'm saying there's grain on my eyebrows.",
+   "ai": false,
+   "image": "images/horse-soup/2026-10-30/hs-20261030-01.png"
+  },
+  {
+   "id": "hs-20261030-02",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "Big Red",
+   "theme": "the horse budget vs. the spouse",
+   "quote": "HER HUSBAND ASKED WHAT I COST PER MONTH. SHE SAID 'LESS THAN YOUR BOAT.' THAT ENDED THE CONVERSATION.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. Big Red, a huge, solidly built copper-chestnut draft mare with heavy white feathered legs, a wide white blaze, an enormous wild halo of curly copper mane and forelock, thin round wire-frame reading glasses, large gold hoop earrings in both ears, and a bold geometric-print blanket in burnt orange, deep plum, and mustard gold, with a confident side-eye and a smug red-lipped smirk. Standing beside an open horse trailer in a gravel farm driveway with one front hoof lifted in a firm stop gesture and her head turned toward an off-frame person with a smug side-eye, a pickup truck's bumper at the edge of the frame, a farmhouse porch in the background, a stack of feed sacks, a coiled lead rope and a pair of muddy boots on the trailer ramp, with a small sign on the wall reading \"Treats Before Feats\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"HER HUSBAND ASKED WHAT I COST PER MONTH. SHE SAID 'LESS THAN YOUR BOAT.' THAT ENDED THE CONVERSATION.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "There was a tense moment at the kitchen table last week involving a spreadsheet. My husband had printed it. He had highlighted things. I looked at the column labeled hay and I looked at the column labeled everything else, and I decided to bring up the boat that has been sitting behind the garage since 2019. It has not touched water in six years. We both looked out the window at Big Red, who was looking back in at us. He closed the folder. I put the kettle on.",
+   "first": "I keep the receipts for the horse in a coffee can in the tack room, and he keeps the receipts for the boat in a drawer in the garage. Neither of us has ever opened the other one. It's the longest running agreement we have. I think that's what people mean when they talk about a strong marriage.",
+   "alt": "Cartoon illustration of a huge copper-chestnut draft mare with white feathered legs, glasses and gold earrings, one hoof raised beside an open horse trailer in a farm driveway. Text at the top reads: Her husband asked what I cost per month. She said 'Less than your boat.' That ended the conversation.",
+   "ai": false,
+   "image": "images/horse-soup/2026-10-30/hs-20261030-02.png"
+  },
+  {
+   "id": "hs-20261030-t1",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "",
+   "theme": "spooking at nothing",
+   "quote": "The new mounting block has been in the arena for two weeks. The horses inspect it daily and have yet to reach a verdict.",
+   "prompt": "",
+   "caption": "",
+   "first": "I carried the mounting block out to the arena myself and set it by the rail. Pudding walked a full circle around it before he would look at me. The Old Timer lined up beside it and went to sleep. The Diva has asked to see the paperwork. I'm told a decision is expected by spring.",
+   "alt": "",
+   "background": "black",
+   "ai": false
+  },
+  {
+   "id": "hs-20261030-03",
+   "kind": "image",
+   "template": "W storybook",
+   "character": "The Homebody",
+   "theme": "mud, weather, and blankets",
+   "quote": "She bought me a heated water bucket in November and called it a practical purchase. She has checked on it twice every night since. I think we both know who it's really for.",
+   "prompt": "Whimsical, heartwarming hand-drawn storybook cartoon illustration with clean black ink outlines, soft rounded shapes, gentle painterly coloring, and a warm nostalgic glow. Golden sunbeams stream through a window with floating dust motes and soft light. The main character is a real four-legged horse drawn extra cute and huggable, with a round soft body, sturdy legs, small hooves, fuzzy ears, and a soft rounded muzzle with no human lips and no visible teeth. Big gentle expressive eyes, rosy blushing cheeks, and a tender, sweet expression. Cozy, cluttered, sentimental setting full of heartfelt keepsake details. The Homebody, a round, plump bay mare with a fuzzy extra-thick winter coat, a short black mane, soft heavy-lidded sleepy eyes, full rosy cheeks, and a contented little smile, wearing a cozy lavender-purple fleece cooler, with a tabby barn cat curled up asleep on her back. Standing hip-cocked in a cozy stall with a tender, grateful expression and soft crinkled eyes, gazing at a plugged-in heated water bucket steaming gently beside her, in a hayloft-style stall with a round window pouring afternoon sun, surrounded by keepsakes: a quilt draped over the stall door, a string of warm lights, a faded blue show ribbon, a child's crayon drawing of a horse, a worn first halter on a hook and a steaming mash bucket. A clean white speech bubble with a black outline sits in the upper right of the image, tail pointing to the character. Inside, black sentence-case text in a friendly handwritten font reads exactly: \"She bought me a heated water bucket in November and called it a practical purchase. She has checked on it twice every night since. I think we both know who it's really for.\". Natural line breaks. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "The first hard freeze came in on a Tuesday, and I was out at five with the kettle, a hammer, and a bucket of hot water like I do every year. By the second morning my hands had given up. So the next payday I ordered the heated bucket and told everyone it was for efficiency. It arrived in a box the size of a small refrigerator. I spent a Saturday running the cord safely along the wall, and checked it three times before bed. The Homebody drank from it like it had always been there.",
+   "first": "My mother kept a pot of water on the back burner all winter for the barn cats, and never said a word about it. I thought it was just a habit of hers. Now I check the bucket before I brush my teeth. I understand her a little better every December.",
+   "alt": "Storybook-style cartoon illustration of a round bay mare in a lavender fleece cooler with a tabby cat asleep on her back, standing in a sunlit stall beside a steaming water bucket, with a quilt and show ribbon nearby. Text at the top right reads: She bought me a heated water bucket in November and called it a practical purchase. She has checked on it twice every night since. I think we both know who it's really for.",
+   "ai": false,
+   "image": "images/horse-soup/2026-10-30/hs-20261030-03.png"
+  },
+  {
+   "id": "hs-20261030-04",
+   "kind": "image",
+   "template": "H character card",
+   "character": "The Diva",
+   "theme": "mare attitude",
+   "quote": "I told everyone the new look was a statement. It was a clipper accident. The statement is how well I'm carrying it.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Diva, a sleek chestnut mare with a glossy copper coat, a long flowing wavy flaxen-blonde mane and forelock that look salon-styled, a small white star on her forehead, long dark eyelashes, heavy-lidded knowing eyes, a slim gold hoop earring in her left ear, and a sly closed-mouth smirk, wearing a burgundy leather halter with small gold trim. Shown from the shoulders up on the left side of the image, chin lifted, one eye side-glancing at the viewer with a poised, unbothered smirk, her flaxen mane shaved short in one uneven patch along her neck that she wears like a fashion choice. Soft cream background with one small sketched scene element in the lower right corner, a red barn with a fence post and a bucket. On the right side, large black hand-lettered text in a playful handwritten font reads exactly: \"I told everyone the new look was a statement. It was a clipper accident. The statement is how well I'm carrying it.\", written directly on the background with natural line breaks, no speech bubble, no box. The only text in the image is the hand-lettered quote. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "The groomer came on Thursday to give everyone a quick trim before the cold set in, and I was in the house making coffee when I heard the clippers cut out mid-stroke. I walked out to find a very long silence and a patch along the Diva's neck that looked like a typo. She held her head high all the way back to her stall. For two days she would only be photographed from the left. I have decided to say it's called a lived-in look.",
+   "first": "I once dyed my own hair at the kitchen sink the night before a family wedding, and it came out a color the box had not promised. I wore it anyway, chin up, all weekend. Nobody mentioned it to my face. I recognized that walk when the Diva came out of the barn on Thursday.",
+   "alt": "Cartoon illustration of a glossy copper chestnut mare with a flaxen mane, a gold earring and a shaved patch on her neck, her chin lifted, on a cream background with a small red barn sketch. Text on the right reads: I told everyone the new look was a statement. It was a clipper accident. The statement is how well I'm carrying it.",
+   "ai": false,
+   "image": "images/horse-soup/2026-10-30/hs-20261030-04.png"
+  },
+  {
+   "id": "hs-20261030-05",
+   "kind": "image",
+   "template": "F banner",
+   "character": "The Old Timer",
+   "theme": "who's really in charge",
+   "quote": "A VISITOR ASKED WHAT I DO ALL DAY. / I SAID I'M IN MANAGEMENT. IT'S MOSTLY STANDING.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Old Timer, an elderly dappled gray gelding with a silver-white mane and long white forelock, gray whiskers on his muzzle, a slightly swayed back, a droopy relaxed lower lip, calm heavy-lidded eyes, and small round bifocals perched low on his nose, wearing a faded green plaid sheet. Standing calmly hip-cocked under a big maple tree in an autumn pasture at sunset, chewing a single strand of hay with a dry, unbothered look, red and gold leaves drifting down, a wooden rail fence, an old hay feeder and a distant red barn glowing in the evening light. A light cream horizontal strip across the very top of the image holds bold black UPPERCASE sans-serif text reading exactly: \"A VISITOR ASKED WHAT I DO ALL DAY.\". A matching cream strip across the very bottom holds bold black UPPERCASE sans-serif text reading exactly: \"I SAID I'M IN MANAGEMENT. IT'S MOSTLY STANDING.\". Illustration is full-bleed between the strips. The only text in the image is the top and bottom strip text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "caption": "We get a lot of drive-by visitors this time of year, mostly people who want to see the leaves and end up at our fence. A woman came up the lane Sunday with a thermos and a very sincere interest in how things work around here. The Old Timer let her talk for a good ten minutes. He doesn't move for anything but the feed truck. When she finally went back to her car, he turned and watched her leave with what I can only describe as professional satisfaction.",
+   "first": "The Old Timer came to us at twenty-two, retired from a lesson barn, and we didn't know what to do with him. We tried a schedule, a program, a little light work. He turned down all of it by standing there. Four years later it's still the best decision anyone on this farm has made.",
+   "alt": "Cartoon illustration of an elderly dappled gray gelding in bifocals and a green plaid sheet standing under a maple tree in an autumn pasture at sunset. Top banner reads: A visitor asked what I do all day. Bottom banner reads: I said I'm in management. It's mostly standing.",
+   "ai": false,
+   "image": "images/horse-soup/2026-10-30/hs-20261030-05.png"
+  }
+ ],
+ "stories": [
+  {
+   "id": "hss-20261030-1",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Diva",
+   "theme": "spooking at nothing",
+   "quote": "I WASN'T SPOOKED. I WAS RECONSIDERING MY ROUTE.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Diva, a sleek chestnut mare with a glossy copper coat, a long flowing wavy flaxen-blonde mane and forelock that look salon-styled, a small white star on her forehead, long dark eyelashes, heavy-lidded knowing eyes, a slim gold hoop earring in her left ear, and a sly closed-mouth smirk, wearing a burgundy leather halter with small gold trim. Standing on a frozen winter paddock with her head held high and one ear swiveled back, a poised, unbothered side-glance toward a wheelbarrow tipped on its side, a water trough with a thin skin of ice, frosty fence rails, a hay net hanging from a post and a snow-dusted barn behind her, with a small sign on the wall reading \"Mud Season\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"I WASN'T SPOOKED. I WAS RECONSIDERING MY ROUTE.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Cartoon illustration of a glossy copper chestnut mare with a flaxen mane standing in a frosty winter paddock beside an iced-over water trough, glancing sideways at a tipped wheelbarrow. Text at the top reads: I wasn't spooked. I was reconsidering my route.",
+   "caption": "",
+   "first": "",
+   "ai": false,
+   "image": "images/horse-soup/2026-10-30/stories/hss-20261030-1.png"
+  },
+  {
+   "id": "hss-20261030-2",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "theme": "mud, weather, and blankets",
+   "quote": "THE WIND WARNING SAYS STAY INDOORS. FINALLY, SOMEONE WITH GOOD ADVICE.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Homebody, a round, plump bay mare with a fuzzy extra-thick winter coat, a short black mane, soft heavy-lidded sleepy eyes, full rosy cheeks, and a contented little smile, wearing a cozy lavender-purple fleece cooler, with a tabby barn cat curled up asleep on her back. Leaning her round head in through a farmhouse kitchen window with a content, sleepy smile, the tabby cat asleep on her back, a steaming mug, a bowl of apples and a loaf of bread on the sill, gingham curtains blowing, bare tree branches swaying in the wind outside and a kitchen table with a plaid tablecloth, with a small sign on the wall reading \"Home Is The Barn\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"THE WIND WARNING SAYS STAY INDOORS. FINALLY, SOMEONE WITH GOOD ADVICE.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Cartoon illustration of a round bay mare in a lavender fleece cooler with a tabby cat on her back, poking her head through a farmhouse kitchen window past gingham curtains while trees sway outside. Text at the top reads: The wind warning says stay indoors. Finally, someone with good advice.",
+   "caption": "",
+   "first": "",
+   "ai": false,
+   "image": "images/horse-soup/2026-10-30/stories/hss-20261030-2.png"
+  }
+ ]
+}
