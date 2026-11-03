@@ -1,6 +1,6 @@
 {
- "title": "Wine Wimsey Review · Mon Nov 2",
- "subtitle": "16 feed (15 images + 1 TOBI at #6) and 4 stories for Monday Nov 2 · ISO week 45 is odd, Monday = 1 TOBI · CHARACTER: The Hot Mess (2 people-free still lifes, #4 and #11, carry the AI label) · 0 inbox items (nothing new, all 20 written fresh) · Captions: 5 SHORT, 10 SEE MORE, TOBI first comment only · EXPERIMENT: #9 (painted frost scene) and #13 (90s phone nostalgia) · FLAGS: posting date is Nov 2 because Nov 1 and Nov 1 extra already exist; no held posts",
+ "title": "Wine Wimsey Review · Mon Nov 2 (round 2)",
+ "subtitle": "Round 2: 6 approved kept (posts #3, 8, 9, 15 and stories 1, 3). 14 rejected slots replaced from the inbox (13 typed quotes + 2 images, oldest first), plus 1 extra post (#17) so all 15 inbox items are used. Feed is 17 (15 images + 1 TOBI at #6 + the extra), stories 4. Flags: #13 uses The Settled One per Scott's inbox note; #12 and #16 are both daylight-saving 6:30 jokes (both from the inbox); #11 keeps the typed 'One:' prefix and the story with the clocks quote keeps its stray closing quote mark, word for word",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -9,22 +9,21 @@
    "kind": "image",
    "template": "I2 speech bubble",
    "character": "The Hot Mess",
-   "quote": "I sneezed in the produce aisle and my whole back sent a memo to everyone I've ever lifted anything for.",
-   "caption": "It was a four-out-of-ten sneeze. Nothing about it announced itself. I'm told that's how these things go.",
-   "first": "I once threw my back out reaching for a spice jar. The jar was fine. I moved all the spices to the bottom shelf that night and haven't looked up since. I lifted the recliner once and it took two weeks to fully forgive me.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun sneezing in a grocery produce aisle, one hand on her lower back and a wine glass in the other hand. Text in the speech bubble reads: I sneezed in the produce aisle and my whole back sent a memo to everyone I've ever lifted anything for.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-01.png",
-   "ai": false
+   "quote": "Nothing gets you ready for the day you look in the mirror and realize your younger self packed up and left without saying goodbye.",
+   "caption": "I found my first grey streak in 2011 and gave it a name. It has since been joined by the whole committee, and the mirror no longer pretends to be surprised.",
+   "first": "There's a photo of me from college on the fridge that I walk past every morning. I look at it the way you look at a house you used to rent. Friendly, curious, no wish to move back in. The light in that kitchen was excellent, though.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun leaning toward a bathroom mirror with a hand on her cheek and a wistful squint, a wine glass beside the sink. Text in the speech bubble reads: Nothing gets you ready for the day you look in the mirror and realize your younger self packed up and left without saying goodbye.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-01.png"
   },
   {
    "id": "ww-20261102-02",
    "kind": "image",
-   "template": "I speech bubble",
+   "template": "Two-panel comic (inbox image recreation)",
    "character": "The Hot Mess",
-   "quote": "My phone said storage was almost full. I deleted nine blurry photos of my own thumb and felt like a hero.",
-   "caption": "The phone gave me one gigabyte of room and I celebrated like I'd paid off a car. By 9:40 that night I'd filled it with a video of a squirrel and four pictures of a parking sign I meant to remember. The thumb photos went first, and they were not my best work. The warning came back on Thursday. I have decided to treat it as weather. I keep a folder called Maybe Delete. It has four thousand things in it and I open it every few months like a museum I'm not allowed to redecorate. The squirrel video is still in there. He is very good at his job.",
-   "first": "My sister once told me to just buy more storage. I said that sounded like a decision, and I'd already made one that week. She let it go, which is how I know she loves me. He's thriving. I've never deleted him.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun squinting at a smartphone while sitting on a floral sofa, a wine glass on the side table. Text in the speech bubble reads: My phone said storage was almost full. I deleted nine blurry photos of my own thumb and felt like a hero.",
+   "quote": "Me 30 years ago, 9:00 PM, Ready to turn heads. Me now, 9:00 PM, Ready to turn over.",
+   "caption": "The 9 p.m. version of me used to start with a hairbrush and a plan. Now it starts with a heating pad and a very specific pillow arrangement. The cat on my left foot has been staring at the ceiling fan for forty minutes like he's reconsidering something. By 9:04 the lamp is off and the day is handed over to whoever runs the dark. Nobody has complained. The best part of the evening is how nobody asks for anything.",
+   "first": "I got up at 2 a.m. for water and found all four cats exactly where I'd left them, arranged like a very soft puzzle. I got back in on the one corner they'd left me. Eleven minutes later, I was out cold again. Nobody has ever slept better or taken up less room.",
+   "alt": "Two-panel cartoon comic. Top panel, labeled Me 30 years ago, 9:00 PM: a woman with a messy grey-streaked bun applies lipstick at a glowing vanity mirror. Caption: Ready to turn heads. Bottom panel, labeled Me now, 9:00 PM: she sleeps in bed with her mouth open, surrounded by four sleeping cats. Caption: Ready to turn over.",
    "image": "images/wine-wimsey/2026-11-02/ww-20261102-02.png",
    "ai": false
   },
@@ -43,48 +42,45 @@
   {
    "id": "ww-20261102-04",
    "kind": "image",
-   "template": "D still life",
-   "character": "N/A (still life)",
-   "quote": "The mail pile has a seasonal look now. I'm calling it a centerpiece.",
-   "caption": "Nothing in that stack is urgent, which I have confirmed by not opening it. A catalog arrived on Friday with a coupon that expired Saturday. The pumpkin was a gift and holds the pile down in a draft. Guests think it's a design choice. I've let them. I did open one envelope on Saturday, just to feel something. It was a notice that my notice was received. I put it back on the pile with some ceremony. The whole arrangement is more stable than it looks, and I'd like it to stay that way.",
-   "first": "Every few weeks I sort it into two piles, then put them back into one. It takes about eleven minutes and feels exactly like progress. The pumpkin supervises. The pumpkin has been there since October and no one has brought it up.",
-   "alt": "Still life photo of a wooden kitchen table with a tall stack of unopened mail topped with a small ceramic pumpkin, a glass of red wine, a yellow pencil and reading glasses beside it. Text at the top reads: The mail pile has a seasonal look now. I'm calling it a centerpiece.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-04.png",
-   "ai": true
+   "template": "I speech bubble",
+   "character": "The Hot Mess",
+   "quote": "I’m sure my patience is around here somewhere. It’s probably off hiding with my memory and my metabolism.",
+   "caption": "The patience went first, I think, though I couldn't swear to it. I noticed at the post office, somewhere between window two and the sign asking me to take a number. That was about three years ago, and I keep expecting it to turn up like a library book. I've checked the car and both coats. My memory left a note on the fridge that says back soon, which is how I know it's gone for good too. The metabolism sent a postcard.",
+   "first": "Last week I found a gift card from 2019 in a coat pocket, still good. It felt like the universe handing me a small refund. I'm hoping the patience is in a different coat. I plan to check them all by Friday.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun on her hands and knees looking under a sofa cushion with a flashlight, a wine glass on the coffee table. Text in the speech bubble reads: I’m sure my patience is around here somewhere. It’s probably off hiding with my memory and my metabolism.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-04.png"
   },
   {
    "id": "ww-20261102-05",
    "kind": "image",
-   "template": "I2 speech bubble",
+   "template": "E comic panel",
    "character": "The Hot Mess",
-   "quote": "I set three alarms for 6:45 and woke up at 6:44 out of spite. My body has never once respected the plan.",
-   "caption": "The eyes just opened. No sound, no light, nothing to fight. I lay there and listened to the alarms that hadn't gone off yet, like waiting for a train I'd already decided not to take.",
-   "first": "I tried going to bed an hour earlier last week. I woke up at 6:43. The body has taken a position, and I've stopped sending it memos. I made the coffee anyway, out of professionalism.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun sitting upright in bed at dawn with three alarm clocks on the nightstand and a wine glass beside them. Text in the speech bubble reads: I set three alarms for 6:45 and woke up at 6:44 out of spite. My body has never once respected the plan.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-05.png",
-   "ai": false
+   "quote": "When I was a kid, making ashtrays for our parents counted as a sweet school craft. Nothing says childhood like homemade smoking supplies.",
+   "caption": "The clay one was my best work, and it was about the size of a dinner roll. My mother kept it by the kitchen sink for years, which I now understand was an act of love.",
+   "first": "We made them in third grade out of clay that dried gray and cracked on one side. I painted mine green because the green paint was closest. My dad kept paper clips in it until it got lost in a garage move. I still think about that green.",
+   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun holding up a lumpy green clay dish with a wry look at a kitchen table, a shelf of crooked childhood crafts behind her and a wine glass on the table. Text at the top reads: When I was a kid, making ashtrays for our parents counted as a sweet school craft. Nothing says childhood like homemade smoking supplies.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-05.png"
   },
   {
    "id": "ww-20261102-t1",
    "kind": "tobi",
    "template": "TOBI",
    "character": "",
-   "quote": "I've been on hold for twenty-two minutes. The music and I have started to understand each other.",
+   "quote": "After standing here for a few minutes, I’ve decided whatever I came in this room for can come find me.",
    "caption": "",
-   "first": "The song loops every ninety seconds, so by now I know where the saxophone comes in. A woman came on at minute nineteen to say my call was important. I believed her more than I expected to. I'm still holding.",
+   "first": "I walked into the spare room at 2:40 and stood in the middle of it for a full minute. The room was patient. I eventually left with a roll of tape I didn't know I needed, which felt like a fair trade. Whatever I came for is probably still in there, waiting.",
    "alt": ""
   },
   {
    "id": "ww-20261102-07",
    "kind": "image",
-   "template": "I speech bubble",
+   "template": "I2 speech bubble",
    "character": "The Hot Mess",
-   "quote": "I walked three blocks to save four dollars on parking. My feet charged me nine.",
-   "caption": "The cheap lot was behind the hardware store, past two crosswalks and one very slow man with a dog. I did the math at block two and kept walking out of principle. My feet have been billing me since Thursday. The four dollars has long since gone into a coffee. The sock-and-shoe situation happened on the way back. A pebble had gotten in somewhere around block two and I decided it was better to carry the shoe than to stop. A man in a truck slowed down to check on me. I said I was fine and meant it, mostly.",
-   "first": "My mother parked as close to the door as the law allowed and called it respect for her own time. I used to roll my eyes. I get it now. I get it in my arches. The truck driver was named Dale. We didn't speak again.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun walking down a city sidewalk past brick storefronts, one shoe in her hand and a paper bag under her arm. Text in the speech bubble reads: I walked three blocks to save four dollars on parking. My feet charged me nine.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-07.png",
-   "ai": false
+   "quote": "I thought I’d grown out of my teenage attitude. Then menopause brought it back, with sharper comebacks and nobody left to ground me.",
+   "caption": "At fifteen my mother grounded me for a week over what she called my tone. I'm now fifty-two and the tone has come back with better material and a hand fan. There's nobody left to take my phone away, and it turns out the phone was never the point. The comebacks are faster and drier now, and mostly aimed at the thermostat. The thermostat has not responded. I take that as agreement.",
+   "first": "My mother called last Sunday and asked why I sounded short. I said I was fine, with a little extra on the fine. There was a pause on the line. Then she said now you know, and hung up very pleased with herself.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun sitting sideways in an armchair with her arms crossed, rolling her eyes and holding a folding fan, a wine glass on the side table. Text in the speech bubble reads: I thought I’d grown out of my teenage attitude. Then menopause brought it back, with sharper comebacks and nobody left to ground me.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-07.png"
   },
   {
    "id": "ww-20261102-08",
@@ -113,62 +109,57 @@
   {
    "id": "ww-20261102-10",
    "kind": "image",
-   "template": "E comic panel",
+   "template": "I speech bubble",
    "character": "The Hot Mess",
-   "quote": "My dentist said floss daily. I said define daily. We both left the room feeling unheard.",
-   "caption": "She has the patience of a saint. I have the dental history of someone who flosses before appointments. We both know this.",
-   "first": "I bought a new floss pick on the way home and set it on the counter by the sink. It has been there nine days. It looks great and hasn't been asked to do anything. The dentist smiled at me with real warmth, which was worse.",
-   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun sitting in a dental chair with a bib, arms crossed and one eyebrow raised, holding a small cup of water. Text at the top reads: My dentist said floss daily. I said define daily. We both left the room feeling unheard.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-10.png",
-   "ai": false
+   "quote": "The radio just called one of my favorite ’80s songs an “oldie.” That kind of disrespect was completely uncalled for.",
+   "caption": "It was Tuesday and I was making toast, and the DJ said it so casually. The toast went cold. So did something else.",
+   "first": "I told my nephew about it at dinner and he said that song is forty years old. I said I'm aware of the number and the song is fine, thank you. He went back to his plate. Some things people have to work out on their own.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun at a kitchen counter with a hand on her chest looking offended, a retro radio and a wine glass beside her, cassette tapes on a shelf. Text in the speech bubble reads: The radio just called one of my favorite ’80s songs an “oldie.” That kind of disrespect was completely uncalled for.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-10.png"
   },
   {
    "id": "ww-20261102-11",
    "kind": "image",
-   "template": "D still life",
-   "character": "N/A (still life)",
-   "quote": "Three of the four porch bulbs burned out in August. I've decided the house is going for mood.",
-   "caption": "The ladder lives behind the shed, behind the other things I haven't looked at since spring. Each bulb has gone out on a different night, so I've never had to face all three at once. The one left glows like a nightlight with ambition. Honestly, the dark corners suit the porch. The bulb in the closet drawer is the right size, I checked. The ladder is the problem, and so is the fact that the fixture is over the steps. I have done the math on how long I can run on one bulb. It's longer than you'd think.",
-   "first": "I did buy the bulbs. They are in a bag in the hall closet, in the same bag as the ones from last year. I took comfort in knowing where they are and left them there. My neighbor offered me a bulb and I told her I was fine. The house and I have an arrangement.",
-   "alt": "Still life photo of an old wooden porch at dusk with one glowing bulb, a wicker chair with a plaid blanket, a glass of red wine and a candle on a small table, red maple leaves on the floor. Text at the top reads: Three of the four porch bulbs burned out in August. I've decided the house is going for mood.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-11.png",
-   "ai": true
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "One: I used to be young, wild, and totally carefree. Now I catch myself saying, “I should probably head out before it gets dark.”",
+   "caption": "There was a time the evening started at ten and ended when the sun came up. Now I'm in bed with the lamp on by 9:15 and I count that as a late night. Nobody warned me the switch would be this gentle. One day you're closing the place down, and the next you're annoyed at how dark the driveway is. I keep a flashlight by the door now and I'm not embarrassed. It has very good batteries, which is more than I can say for my knees.",
+   "first": "I drove home at dusk last Friday and turned the high beams on twice just to be safe. A deer looked at me, I looked at the deer, and we agreed on a speed. I got home at 5:50 feeling wildly accomplished. Straight to the sweatpants.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun in a coat and scarf on a front porch at dusk holding a flashlight and looking up at the darkening sky. Text in the speech bubble reads: One: I used to be young, wild, and totally carefree. Now I catch myself saying, “I should probably head out before it gets dark.”",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-11.png"
   },
   {
    "id": "ww-20261102-12",
    "kind": "image",
    "template": "I2 speech bubble",
    "character": "The Hot Mess",
-   "quote": "The quick stretch I did at 7 a.m. was a commitment. I'll be honoring it until Friday.",
-   "caption": "The video said ten minutes, gentle. The woman in it was twenty-six and breathing like it was nothing. I made it through the first four, then stood up too quickly and the right side of my ribs put in a formal objection. Now I turn my whole body to check the mailbox. I'm told you're supposed to do it again tomorrow to loosen things up. I'm going to let the situation resolve itself in its own time. Stairs are handled sideways for now. The dog watched the whole thing and has chosen to remain neutral.",
-   "first": "I did get a mat in the end. It's rolled up in the corner by the bookshelf, and it looks hopeful. I keep it there for support. I did the second half on Wednesday, in my head.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun stuck mid-stretch bent sideways in a living room with a yoga mat tangled around one foot, a wine glass on a bookshelf. Text in the speech bubble reads: The quick stretch I did at 7 a.m. was a commitment. I'll be honoring it until Friday.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-12.png",
-   "ai": false
+   "quote": "That moment you get into your pajamas, ready for bed, and realize it’s only 6:30. The end of daylight saving time is no joke.",
+   "caption": "The pajamas were on by 6:10. I'd had dinner, wiped the counter, and was feeling pretty good about the whole evening. Then I looked at the clock and it said 6:30, and the sky outside looked like midnight at the very least. Nothing in my body believes it's early. It would like the lamp off and the day closed. So I'm in the flannel with a long evening and a glass of something, and I've decided to be gracious about it. I'll watch a show. Then I'll watch the same show again.",
+   "first": "Last year I tried to stay up until nine just to prove I could. I got to 8:15, then spent forty minutes reading the same page. The book is still on the nightstand, bookmarked and a little embarrassed. We both know how it went.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun on a couch in flannel pajamas with a blanket over her knees, wide awake, a wall clock above her and a dark evening sky in the window. Text in the speech bubble reads: That moment you get into your pajamas, ready for bed, and realize it’s only 6:30. The end of daylight saving time is no joke.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-12.png"
   },
   {
    "id": "ww-20261102-13",
    "kind": "image",
    "template": "I speech bubble",
-   "character": "The Hot Mess",
-   "quote": "The phones in that '90s sitcom are all stuck to the wall, and nobody ever lost one. I felt things.",
-   "caption": "Nine minutes into the episode I stopped following the plot and just watched the phone. Someone picked it up, talked for a while, and hung it back on the wall like a person who knew where it was. Nobody checked it. Nobody had a number to remember the number. I rewound twice. Then a laugh track came in and I realized I hadn't been laughing, just watching a phone ring and then be answered. That's a strange thing to miss. I turned the episode off and sat there with a glass of wine and the quiet.",
-   "first": "My parents had a yellow one in the kitchen with a cord that stretched across the room. It had a knot in the middle by 1988. I'd give a lot to untangle that knot again. It's a small thing, and it's still in the room with me.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun lying on a couch with her feet up, watching an old television with a wistful look, a wine glass in her hand and a wall phone with a curly cord behind her. Text in the speech bubble reads: The phones in that '90s sitcom are all stuck to the wall, and nobody ever lost one. I felt things.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-13.png",
-   "ai": false
+   "character": "The Settled One",
+   "quote": "Stray cats didn’t choose to be homeless. They’re just trying to get by. If you can’t help them, at least don’t hurt them.",
+   "caption": "There are two of them now, a grey one with a torn ear and a small orange one who waits on the step like she has an appointment. They showed up in September and I told myself I wouldn't. I put a bowl on the porch rail, and now there's a second bowl and a folded towel in the corner of a box. Nobody has named them yet, but I think they've named me. I'm the one who comes out at 6:30 with the can opener. It's a small job, and I like it.",
+   "first": "The orange one let me put a hand near her this week, not on her, just near. I counted that as a whole conversation. I'm moving the towel to the dry side of the porch before the rain this weekend. It seems like the polite thing to do.",
+   "alt": "Cartoon illustration of an older woman with silver-white hair and lavender glasses on a back porch putting down a bowl of food for two stray cats, a grey one and a small orange one. Text in the speech bubble reads: Stray cats didn’t choose to be homeless. They’re just trying to get by. If you can’t help them, at least don’t hurt them.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-13.png"
   },
   {
    "id": "ww-20261102-14",
    "kind": "image",
-   "template": "I2 speech bubble",
+   "template": "I speech bubble",
    "character": "The Hot Mess",
-   "quote": "The vitamin organizer has seven days on it and I've been on Thursday since Sunday.",
-   "caption": "Monday through Wednesday were taken care of in a burst of optimism. Then Thursday sat there looking back at me. The lid was cheerful about it, I'll give it that. I have started opening whatever compartment is closest and calling it the day. The vitamins haven't complained so far. They're very forgiving, mostly pills with good manners. The pharmacist told me once they sell the kind with alarms, and I said I'd think about it. I have thought about it, mostly in the aisle at the drugstore, holding one. It cost eleven dollars and had an alarm. I put it back and bought a candle.",
-   "first": "My neighbor has a lid with the letters on it and swears by it. She takes hers at 7:30 every morning. I told her that sounded lovely and I meant it. Friday is looking good, for the record.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun squinting at a seven-day pill organizer at a kitchen counter with scattered capsules, a coffee mug and a wine glass beside her. Text in the speech bubble reads: The vitamin organizer has seven days on it and I've been on Thursday since Sunday.",
-   "image": "images/wine-wimsey/2026-11-02/ww-20261102-14.png",
-   "ai": false
+   "quote": "At this point in life my filter is pretty much gone. I’ve outlived most of the people who told me to watch my mouth, I survived the wild ’70s and ’80s, and I’ve handled enough real problems to know a few hurt feelings won’t end the world.",
+   "caption": "It left around 2009 and didn't send a forwarding address. I've learned to live with the quiet it left behind, such as it is.",
+   "first": "At a family dinner last month I said exactly what I thought about the casserole, and the room went silent for a full ten seconds. Then my cousin said thank you, somebody finally did. The casserole is still being served, which tells you something about everybody.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun standing with her hands on her hips and a calm smirk in a living room, a wine glass in one hand. Text in the speech bubble reads: At this point in life my filter is pretty much gone. I’ve outlived most of the people who told me to watch my mouth, I survived the wild ’70s and ’80s, and I’ve handled enough real problems to know a few hurt feelings won’t end the world.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-14.png"
   },
   {
    "id": "ww-20261102-15",
@@ -185,14 +176,25 @@
   {
    "id": "ww-20261102-16",
    "kind": "image",
-   "template": "I2 speech bubble",
+   "template": "F painted night scene (inbox image recreation)",
    "character": "The Hot Mess",
-   "quote": "My doctor asked if I exercise. I said I climb the stairs for my keys. She wrote something down.",
-   "caption": "It was a long answer and I stood by it. The stairs are real and so are the keys. She wrote for noticeably longer than I'd spoken.",
-   "first": "I've since started leaving the keys upstairs on purpose. It's the only workout plan I've ever stuck with, mostly because I keep forgetting it's one. I got my keys on the first try, which felt like a very specific prize.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun sitting on a doctor's exam table, shrugging with her arms crossed and keys dangling from one finger. Text in the speech bubble reads: My doctor asked if I exercise. I said I climb the stairs for my keys. She wrote something down.",
+   "quote": "That moment when you get your pajamas on and are ready for bed - only to realize it’s just 6:30. The daylight saving time struggle is real.",
+   "caption": "The sun had set by 4:50, which I didn't love, but the moon showed up early and looked great. It came up over the lake like it had been told to hurry, big and orange and unbothered. I stood at the back window in my slippers holding a mug I'd forgotten to drink from. Everyone on the street had already turned their lights on. The whole neighborhood seemed to have agreed to start the evening at once. I stayed at the window a little longer than the moon probably needed me to.",
+   "first": "I watched it rise for about twelve minutes and then got distracted by a squirrel on the fence. The squirrel was less interesting than the moon but more active. I went back to the moon. It was still there, which is more than I can say for most of my evening plans.",
+   "alt": "Painted illustration of a huge orange full moon over a dark calm lake, with a small woman in flannel pajamas holding a mug seen from behind at a window. Text in the night sky reads: That moment when you get your pajamas on and are ready for bed - only to realize it's just 6:30. The daylight saving time struggle is real.",
    "image": "images/wine-wimsey/2026-11-02/ww-20261102-16.png",
    "ai": false
+  },
+  {
+   "id": "ww-20261102-17",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "All I want is to live in a world where I don’t mutter “What on earth is wrong with people?” every single time I leave the house.",
+   "caption": "I made it as far as the parking lot before the first one. That's an improvement on last week.",
+   "first": "I went to the grocery store on Saturday with a fixed plan to say nothing. I made it from the cart corral to the bread aisle. Someone had left a cart across the whole lane, and I said it out loud, to no one. The bread was fine.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun pushing a shopping cart down an empty supermarket aisle with a deadpan stare, a wine glass in her other hand and an abandoned cart ahead. Text in the speech bubble reads: All I want is to live in a world where I don’t mutter “What on earth is wrong with people?” every single time I leave the house.",
+   "image": "images/wine-wimsey/2026-11-02/ww-20261102-17.png"
   }
  ],
  "stories": [
@@ -210,12 +212,12 @@
   {
    "id": "ws-20261102-2",
    "kind": "story",
-   "template": "I speech bubble",
+   "template": "I2 speech bubble",
    "character": "The Hot Mess",
-   "quote": "The coffee went cold again. That's the third cup today I've only held.",
+   "quote": "I just love turning the clocks back so it’s dark by 4:30,” said absolutely no one, ever.",
    "caption": "",
    "first": "",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun sitting at a kitchen table holding a coffee mug with a blank dreamy stare, mail and a wine glass at her elbow. Text in the speech bubble reads: The coffee went cold again. That's the third cup today I've only held.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun in a dim kitchen holding a wall clock with a deadpan stare, a dark sky in the window and a wine glass on the counter. Text in the speech bubble reads: I just love turning the clocks back so it’s dark by 4:30,” said absolutely no one, ever.",
    "image": "images/wine-wimsey/2026-11-02/stories/ws-20261102-2.png"
   },
   {
@@ -232,12 +234,12 @@
   {
    "id": "ws-20261102-4",
    "kind": "story",
-   "template": "I2 speech bubble",
+   "template": "I speech bubble",
    "character": "The Hot Mess",
-   "quote": "My phone says I have 4,812 photos and I remember taking about nine.",
+   "quote": "I used to pick outfits based on how they looked. Now the only requirement is that it feels exactly like pajamas.",
    "caption": "",
    "first": "",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun standing under an autumn tree scrolling a smartphone in disbelief, a paper coffee cup in her other hand. Text in the speech bubble reads: My phone says I have 4,812 photos and I remember taking about nine.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun in front of an open closet shaking her head at stiff clothes, a fleece blanket on her shoulders and fuzzy slippers on her feet. Text in the speech bubble reads: I used to pick outfits based on how they looked. Now the only requirement is that it feels exactly like pajamas.",
    "image": "images/wine-wimsey/2026-11-02/stories/ws-20261102-4.png"
   }
  ]
