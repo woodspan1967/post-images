@@ -97,12 +97,12 @@
   {
    "id": "ww-20261102-09",
    "kind": "image",
-   "template": "F illustrated scene",
+   "template": "I2 speech bubble",
    "character": "The Hot Mess",
-   "quote": "First frost this morning. I stood on the porch in my robe and scraped the windshield with a spatula. It worked. Don't ask.",
-   "caption": "The scraper lives in the garage, which was a different zip code at 7:05. The spatula was on the counter, and it's flat, and it was right there. It does a better job than the real scraper and I am not looking into why. The pancakes will taste the same. I washed it first. The neighbor across the road has an actual ice scraper with a glove attached and I will say nothing against it. Mine is in the garage somewhere and the spatula was right there. The kitchen smelled like cold air and burnt toast for an hour afterward.",
-   "first": "The robe was my husband's idea in 2011. It has since outlived two coats and an opinion. I wore it on the porch and the neighbor waved. I waved back with the spatula. The spatula is back in the drawer. It has never looked prouder.",
-   "alt": "Painted illustration of a woman with a messy grey-streaked bun in a flannel robe scraping frost from a station wagon windshield with a metal spatula on a farmhouse porch at sunrise. Text at the top reads: First frost this morning. I stood on the porch in my robe and scraped the windshield with a spatula. It worked. Don't ask.",
+   "quote": "Today's goal: leave the house once, and come back with the thing I left for.",
+   "caption": "I'd like it noted that the first trip was a success. I made it out the door, down the steps, and halfway to the car before the thing I'd left for stopped being there. It's a gift, really. Every errand has a built-in second act. I stood in the driveway running through the list, and the list ran back at me. Eventually I went inside, sat down, and found the thing on the chair, right where it had been the whole time. We were both relieved.",
+   "first": "The last time I did this, I got as far as the mailbox, remembered, and walked back so slowly the neighbor waved twice. I've started leaving the keys in my teeth so my hands stay free for the thing. It hasn't helped, but it does make the trip more interesting.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun in a front hallway with her coat half on and keys in her mouth, a wine glass on a shelf. Text in the speech bubble reads: Today's goal: leave the house once, and come back with the thing I left for.",
    "image": "images/wine-wimsey/2026-11-02/ww-20261102-09.png",
    "ai": false
   },
@@ -201,12 +201,12 @@
   {
    "id": "ws-20261102-1",
    "kind": "story",
-   "template": "I2 speech bubble",
+   "template": "F illustrated scene",
    "character": "The Hot Mess",
-   "quote": "Today's goal: leave the house once, and come back with the thing I left for.",
+   "quote": "First frost this morning. I stood on the porch in my robe and scraped the windshield with a spatula. It worked. Don't ask.",
    "caption": "",
    "first": "",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun in a front hallway with her coat half on and keys in her mouth, a wine glass on a shelf. Text in the speech bubble reads: Today's goal: leave the house once, and come back with the thing I left for.",
+   "alt": "Painted illustration of a woman with a messy grey-streaked bun in a flannel robe scraping frost from a station wagon windshield with a metal spatula on a farmhouse porch at sunrise. Text at the top reads: First frost this morning. I stood on the porch in my robe and scraped the windshield with a spatula. It worked. Don't ask.",
    "image": "images/wine-wimsey/2026-11-02/stories/ws-20261102-1.png"
   },
   {
