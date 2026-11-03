@@ -12,6 +12,6 @@ for f in sorted(glob.glob(os.path.expanduser("~/.claude/projects/**/*.jsonl"), r
 text = text.replace("\\u0026", "&").replace("\\\\", "\\")
 for arg in sys.argv[1:]:
     dest, gid = arg.split("=", 1)
-    urls = re.findall(r'https://storage\.googleapis\.com/[^"\\\s]*/' + re.escape(gid) + r'/content\.png\?[^"\\\s]+', text)
+    urls = re.findall(r'https://(?:storage\.googleapis\.com|elevenlabsusercontent\.com)/[^"\\\s]*/' + re.escape(gid) + r'/content\.png\?[^"\\\s]+', text)
     if not urls: sys.exit(f"no URL found for {gid}; call creative_get_flow_run_status for it first")
     print(dest, urls[-1])
