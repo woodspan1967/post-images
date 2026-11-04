@@ -13,7 +13,7 @@ Question: is the Wine Wimsey reach problem the writing, the character image, or 
 | D | new quote from plan.json | plain card |
 
 - No caption and no first comment on any test post, in all four cells. Alt text and AI-content setting follow PIPELINE.md as for every image post, identical across cells.
-- Plain card = tools/make_card.py (1080x1350, flat off-white, bold text) + `tools/stamp.py --brand WineWimsey`, no `--ai` (flat type is not photo-style). Upload as a photo post, never a native Text post.
+- Plain card = tools/make_card.py (1080x1350, flat off-white, bold text) + `tools/stamp.py --brand WineWimsey`, no `--ai` (flat type is not photo-style). Added 2026-11-04 (Scott): cards set the punchline apart with a blank-line pause. make_card.py does this automatically: a quote with two or more sentences gets a gap before its last sentence; a single-sentence quote stays one block. Do not edit quote wording to force a pause. Applies to cells B and D alike. Upload as a photo post, never a native Text post.
 - Cells A and B: write the day's regular image quotes as usual, then take the 4th and 11th image quotes (fixed positions, NOT chosen by merit). 4th -> A, 11th -> B. Strip their caption and first comment. Remaining regular quotes stay regular.
 - Cells C and D: use that day's entry in plan.json (`C` = quote + suggested character, `D` = quote). Quotes were checked against used/wine-wimsey-quotes.txt on 2026-11-03; re-check before use, and append them to the used log.
 - Slot rotation: queue positions 2, 6, 10, 14 (if a TOBI sits there, take the next image post). `slots` in plan.json says which cell takes which position each day; it rotates so no cell always gets the strong morning slots.
