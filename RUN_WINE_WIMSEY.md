@@ -30,6 +30,18 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - Reject of a test post: replace it with another quote for the SAME cell (unused inbox item first for A/B, a new short inward two-beat quote for C/D); keep the cell and slot.
 - After upload, append the scheduled time of each test post to `tests/quote-test-2026-11/log.csv`. Do not change anything else about the posts during the test.
 
+## 0d. Seasonal posts (added 2026-11-04, Scott; batches dated 2026-11-05 on)
+- Why: the best Wine Wimsey posts of Nov 1-3 were all timely (clocks back, dark by 4:30, pajamas at 6:30). Scott wants to lean into seasonal content through Thanksgiving and Christmas.
+- Count: 4 of the 12 regular feed posts a day are seasonal (not test posts, not TOBIs), plus 1 of the 4 stories. The rest stay evergreen.
+- Seasonal quotes must make sense on their PUBLISH date (posts go out a day or two after the batch date). Same rules as everything: new quotes only, no engagement bait, no brand names, no weekday references that will be wrong on the publish day (flag per Scott's standing rule).
+- Calendar (2026):
+  - Through Nov 25: early dark, cold, sweaters, thermostat, holiday-prep dread; Thanksgiving planning (hosting, who brings what, the good dishes, grocery store before the holiday).
+  - Nov 24-26: Thanksgiving itself (cooking, the kids' table, nap after dinner). Thanksgiving is Thu Nov 26.
+  - Nov 27-30: leftovers, Black Friday avoidance, recovery.
+  - Dec 1-24: Christmas (tangled lights, cards, wrapping, shopping, cookies, relatives arriving, hiding gifts, the one box of ornaments).
+  - Dec 25-31: the day itself, returns and leftovers, being asleep before midnight on New Year's Eve.
+- Do not use seasonal posts for test cells A and B (see tests/quote-test-2026-11/README.md): cells A/B take the 4th and 11th NON-seasonal image quotes, so seasonality can't confound the test. Cells C and D are evergreen by design.
+
 ## 1. Write the day
 - 16 feed posts total = held posts + new ones (changed from 12 by Scott, 2026-10-28). TOBIs count toward the 16; the rest are image posts. TOBI count alternates (Scott, 2026-10-28): in an EVEN ISO week (week of Oct 26 2026 = week 44) Mon/Wed/Fri/Sun get 2 TOBIs and Tue/Thu/Sat get 1; in an ODD ISO week it is switched (Tue/Thu/Sat get 2, Mon/Wed/Fri/Sun get 1).
 - 4 stories (image only, own quotes).
