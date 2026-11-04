@@ -22,7 +22,7 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 - New inbox items fill slots before anything you write yourself. Oldest first. If there are more than fit today, leave the rest as new for tomorrow.
 - Mark each used item in the inbox: ArtifactData update {status:"used", usedIn:"<Mon D> review"} with its if_version. Mention on the review page subtitle how many came from the inbox.
 
-## 0c. Quote/format test (batches dated 2026-11-05 through 2026-11-14 only)
+## 0c. Quote/format test (batches dated 2026-11-05 through 2026-11-16 only)
 - Follow `tests/quote-test-2026-11/README.md` and `plan.json` for the batch date. Of the day's 16 feed slots, 4 are test posts (cells A-D); the other 12 are regular. Stories and TOBIs are unchanged.
 - Test posts have NO caption and NO first comment (empty strings in batch.json; build_csv.py writes empty cells). Alt text and AI-content setting as for any image post.
 - Cells B and D are plain cards: `python3 tools/make_card.py out.png "<quote>"` (or `--batch`), then `python3 tools/stamp.py --brand WineWimsey out.png` (no `--ai`). No image generation credits needed. Cells A and C use the normal character image.

@@ -1,7 +1,7 @@
 {
  "name": "Wine Wimsey quote/format test",
  "start": "2026-11-05",
- "end": "2026-11-14",
+ "end": "2026-11-16",
  "cells": {
   "A": "usual quote, character image",
   "B": "usual quote, plain card",
@@ -187,6 +187,42 @@
    "D": {
     "id": "qt-20261114-D",
     "quote": "My phone has six hundred contacts and I answer four of them."
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "slots": {
+    "C": 2,
+    "D": 6,
+    "A": 10,
+    "B": 14
+   },
+   "C": {
+    "id": "qt-20261115-C",
+    "quote": "I used to dread being the oldest person in the room. Now I just look for the chair.",
+    "character": "The Hot Mess"
+   },
+   "D": {
+    "id": "qt-20261115-D",
+    "quote": "I've started apologizing to furniture I bump into."
+   }
+  },
+  {
+   "date": "2026-11-16",
+   "slots": {
+    "D": 2,
+    "A": 6,
+    "B": 10,
+    "C": 14
+   },
+   "C": {
+    "id": "qt-20261116-C",
+    "quote": "I've reached the age where \"new and improved\" just means they moved the thing I needed.",
+    "character": "The Bold One"
+   },
+   "D": {
+    "id": "qt-20261116-D",
+    "quote": "My favorite exercise is closing a drawer with my hip."
    }
   }
  ]
