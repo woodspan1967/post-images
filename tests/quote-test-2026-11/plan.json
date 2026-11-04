@@ -1,0 +1,193 @@
+{
+ "name": "Wine Wimsey quote/format test",
+ "start": "2026-11-05",
+ "end": "2026-11-14",
+ "cells": {
+  "A": "usual quote, character image",
+  "B": "usual quote, plain card",
+  "C": "new quote, character image",
+  "D": "new quote, plain card"
+ },
+ "days": [
+  {
+   "date": "2026-11-05",
+   "slots": {
+    "A": 2,
+    "B": 6,
+    "C": 10,
+    "D": 14
+   },
+   "C": {
+    "id": "qt-20261105-C",
+    "quote": "My back used to be sore sometimes. Now it holds a grudge.",
+    "character": "The Settled One"
+   },
+   "D": {
+    "id": "qt-20261105-D",
+    "quote": "I used to stay out until midnight. Now I'm in bed by nine, awake by two, and thinking about something I said in 1998."
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "slots": {
+    "B": 2,
+    "C": 6,
+    "D": 10,
+    "A": 14
+   },
+   "C": {
+    "id": "qt-20261106-C",
+    "quote": "I've started saying \"back in my day\" about things that happened last spring.",
+    "character": "The Hot Mess"
+   },
+   "D": {
+    "id": "qt-20261106-D",
+    "quote": "I don't say \"no\" to plans anymore. I say \"let me check\" and never check."
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "slots": {
+    "C": 2,
+    "D": 6,
+    "A": 10,
+    "B": 14
+   },
+   "C": {
+    "id": "qt-20261107-C",
+    "quote": "I got dressed up to go out and was home by 8:15, proud of both decisions.",
+    "character": "The Glamorous One"
+   },
+   "D": {
+    "id": "qt-20261107-D",
+    "quote": "I used to worry about being late. Now I worry about being early and having to make conversation."
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "slots": {
+    "D": 2,
+    "A": 6,
+    "B": 10,
+    "C": 14
+   },
+   "C": {
+    "id": "qt-20261108-C",
+    "quote": "I bought a nice pan to become a better cook. The pan is doing great. I'm still ordering dinner.",
+    "character": "The Glamorous One"
+   },
+   "D": {
+    "id": "qt-20261108-D",
+    "quote": "Every year I learn to say no. Every year I volunteer for something by February."
+   }
+  },
+  {
+   "date": "2026-11-09",
+   "slots": {
+    "A": 2,
+    "B": 6,
+    "C": 10,
+    "D": 14
+   },
+   "C": {
+    "id": "qt-20261109-C",
+    "quote": "I finally have the patience of an adult. It showed up the same year my energy left.",
+    "character": "The Bold One"
+   },
+   "D": {
+    "id": "qt-20261109-D",
+    "quote": "I don't forget names. I file them somewhere I can't reach."
+   }
+  },
+  {
+   "date": "2026-11-10",
+   "slots": {
+    "B": 2,
+    "C": 6,
+    "D": 10,
+    "A": 14
+   },
+   "C": {
+    "id": "qt-20261110-C",
+    "quote": "Somewhere along the way, \"I'll call you back\" became my love language.",
+    "character": "The Homebody"
+   },
+   "D": {
+    "id": "qt-20261110-D",
+    "quote": "My plans for the day: nothing. I'm protecting it."
+   }
+  },
+  {
+   "date": "2026-11-11",
+   "slots": {
+    "C": 2,
+    "D": 6,
+    "A": 10,
+    "B": 14
+   },
+   "C": {
+    "id": "qt-20261111-C",
+    "quote": "My kids moved out and took all the noise with them. I miss about half of it.",
+    "character": "The Settled One"
+   },
+   "D": {
+    "id": "qt-20261111-D",
+    "quote": "I used to chase dreams. Now I chase the one hour a day when the house is quiet."
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "slots": {
+    "D": 2,
+    "A": 6,
+    "B": 10,
+    "C": 14
+   },
+   "C": {
+    "id": "qt-20261112-C",
+    "quote": "I keep a list of things I'll do when I have time. The list has now outlasted my last three jobs.",
+    "character": "The Hot Mess"
+   },
+   "D": {
+    "id": "qt-20261112-D",
+    "quote": "I clean for company, then spend the whole visit apologizing for a mess I can't see."
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "slots": {
+    "A": 2,
+    "B": 6,
+    "C": 10,
+    "D": 14
+   },
+   "C": {
+    "id": "qt-20261113-C",
+    "quote": "Prices are up, patience is down, and somehow my coupon is expired.",
+    "character": "The Bold One"
+   },
+   "D": {
+    "id": "qt-20261113-D",
+    "quote": "I bought a planner to get organized. The planner is gorgeous. I've now lost the planner."
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "slots": {
+    "B": 2,
+    "C": 6,
+    "D": 10,
+    "A": 14
+   },
+   "C": {
+    "id": "qt-20261114-C",
+    "quote": "I love my husband, but when he says \"I'll do it later,\" I know exactly which decade he means.",
+    "character": "The Settled One"
+   },
+   "D": {
+    "id": "qt-20261114-D",
+    "quote": "My phone has six hundred contacts and I answer four of them."
+   }
+  }
+ ]
+}
