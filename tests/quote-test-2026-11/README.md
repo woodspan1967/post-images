@@ -41,3 +41,6 @@ Photos rate dipped to about $0.15 around Oct 10 and has run about $0.30-0.33 sin
 
 ## Phase 2 (agreed with Scott 2026-11-04)
 After the read-out, bring reels back at 1-2 a week as a probe (Scott's call, given restriction history). Watch Page Quality and the reel "view duration too short" share (46% of reel views were non-qualified).
+
+## Homebody vs Hot Mess (added 2026-11-04, Scott)
+Homebody now has no cap and is used on any quote that fits her (see RUN_WINE_WIMSEY.md). At the read-out, also compare her median views/shares/earnings against Hot Mess using batch.json characters joined to the export on caption. October baseline (46 vs 165 matched posts): median views 4,941 vs 2,428; shares 22 vs 6. Confounded: her quotes were often Scott's curated winners.
