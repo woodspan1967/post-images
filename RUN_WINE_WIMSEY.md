@@ -32,7 +32,7 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 
 ## 0d. Seasonal posts (added 2026-11-04, Scott; batches dated 2026-11-05 on)
 - Why: the best Wine Wimsey posts of Nov 1-3 were all timely (clocks back, dark by 4:30, pajamas at 6:30). Scott wants to lean into seasonal content through Thanksgiving and Christmas.
-- Count: 4 of the 12 regular feed posts a day are seasonal (not test posts, not TOBIs), plus 1 of the 4 stories. The rest stay evergreen.
+- Count: 6 of the 12 regular feed posts a day are seasonal (raised from 4 on 2026-11-04, Scott: "make a few more"; not test posts, not TOBIs), plus 1 of the 4 stories. The rest stay evergreen. Curated seasonal items from Scott's inbox count toward the 6 and go first.
 - Seasonal quotes must make sense on their PUBLISH date (posts go out a day or two after the batch date). Same rules as everything: new quotes only, no engagement bait, no brand names, no weekday references that will be wrong on the publish day (flag per Scott's standing rule).
 - Calendar (2026):
   - Through Nov 25: early dark, cold, sweaters, thermostat, holiday-prep dread; Thanksgiving planning (hosting, who brings what, the good dishes, grocery store before the holiday).
