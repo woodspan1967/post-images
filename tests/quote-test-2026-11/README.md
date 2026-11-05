@@ -26,4 +26,16 @@ After upload, read each test post's scheduled time in Post Planner and append a 
 Export per-post data (Meta Business Suite > Insights > Content). For each cell compare MEDIAN views, shares and reactions per post at 72 hours. Twelve posts per cell only shows large effects: treat about 2x or more as real; if all four cells are within about 30% of each other, format is not the lever. Also report EARNINGS (added 2026-11-04, Scott): median earnings per post and earnings per 1,000 views for each cell, because RPM differs by format (Scott's figures on 2026-11-04: TOBI about $0.11, image about $0.31, reels about $0.13 per 1,000 views). Earnings keep accumulating for days after posting, so read them no sooner than the views. Report the top post per cell. Read seasonal posts separately from the cells; do not mix them in. Note that Scott's recent top posts were curated and lightly reworded from pages where they had already done well, so the original quotes in cells C and D start without that proven-elsewhere advantage; weigh that when comparing against A/B. Do not average (a single viral post skews it).
 
 ## Not in this test
-Videos (phase 2, after the read-out, small and watching Page Quality).
+Videos (phase 2, see below).
+
+## Earnings baseline (Scott's Earnings-rate screenshots, 28 days ending Nov 3-4, 2026)
+Rates are per 1,000 QUALIFIED views (views that earn), not per total view.
+| Format | Earnings (28d) | Rate per 1K qualified | Qualified views | Main non-qualified reason |
+|---|---|---|---|---|
+| Photos | $452.49 | $0.28 | 1,588,540 | repeat views 24%, restricted users 4% |
+| Reels | $25.36 | $0.14 | 185,782 | view duration too short 46% |
+| Text (TOBI) | $5.51 | $0.12 | 44,547 | repeat views 28%, restricted users 8% |
+Photos rate dipped to about $0.15 around Oct 10 and has run about $0.30-0.33 since late October. At the read-out (Nov 23), ask Scott for the same three screenshots and compare to this table. Rough per-slot estimate (about 1.5 TOBIs and 14.5 image posts a day): about $0.13 per TOBI vs about $1.10 per image post.
+
+## Phase 2 (agreed with Scott 2026-11-04)
+After the read-out, bring reels back at 1-2 a week as a probe (Scott's call, given restriction history). Watch Page Quality and the reel "view duration too short" share (46% of reel views were non-qualified).
