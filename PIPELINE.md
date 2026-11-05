@@ -22,6 +22,7 @@ These override any skill or runbook.
 - Images are copied here by the Fetch images workflow (drop a `queue/*.txt` list of `path url` lines) for permanent links.
 
 ## Wine Wimsey
+- NO TOBIs (changed 2026-11-04, Scott): Wine Wimsey TOBIs earned about a tenth of an image post per slot (28-day Earnings rate: Text $5.51 vs Photos $452.49). All 16 daily feed posts are image posts. Ignore the TOBI counts and alternation below for Wine Wimsey. Whispers Of Yesterday and Horse Soup are unchanged until Scott says otherwise.
 - Bucket: Wine Wimsy. 16 posts a day total (changed 2026-10-28): 1 or 2 of them TOBIs, the rest image posts (15+1 or 14+2). TOBI count alternates by weekday and ISO week: even week = 2 on Mon/Wed/Fri/Sun and 1 on Tue/Thu/Sat; odd week switched. TOBI background `black`.
 - Daily run at about 6 AM Central covers one day (16 posts + 4 stories). Scott asks for multi-day runs when he needs them. See RUN_WINE_WIMSEY.md. TOBIs are interleaved between image posts in queue order.
 - Each post: caption + first comment (5-minute delay). No second comment in bulk uploads.

@@ -42,6 +42,8 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
   - Dec 25-31: the day itself, returns and leftovers, being asleep before midnight on New Year's Eve.
 - Do not use seasonal posts for test cells A and B (see tests/quote-test-2026-11/README.md): cells A/B take the 4th and 11th NON-seasonal image quotes, so seasonality can't confound the test. Cells C and D are evergreen by design.
 
+**TOBIs are dropped (2026-11-04, Scott): all 16 feed posts are image posts; ignore every TOBI count/alternation rule below. A held TOBI is converted to an image post or dropped.**
+
 ## 1. Write the day
 - 16 feed posts total = held posts + new ones (changed from 12 by Scott, 2026-10-28). TOBIs count toward the 16; the rest are image posts. TOBI count alternates (Scott, 2026-10-28): in an EVEN ISO week (week of Oct 26 2026 = week 44) Mon/Wed/Fri/Sun get 2 TOBIs and Tue/Thu/Sat get 1; in an ODD ISO week it is switched (Tue/Thu/Sat get 2, Mon/Wed/Fri/Sun get 1).
 - 4 stories (image only, own quotes).
