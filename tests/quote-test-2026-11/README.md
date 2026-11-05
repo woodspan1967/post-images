@@ -19,6 +19,8 @@ Question: is the Wine Wimsey reach problem the writing, the character image, or 
 - Slot rotation: queue positions 2, 6, 10, 14 (TOBIs were dropped 2026-11-04, so every slot is an image post). `slots` in plan.json says which cell takes which position each day; it rotates so no cell always gets the strong morning slots.
 - Everything else stays constant for the 12 days: no videos, no new templates, no other format changes.
 
+Edge (added 2026-11-04, Scott): 4 of the 24 quotes in plan.json are deliberately edgy (days 2 and 9 in cell C, days 5 and 11 in cell D) to match FFF's mix of about 1 swear in 6 posts; the rest are clean. Edgy examples: use mild words (shit, bullshit, asshole). Read these separately in the read-out.
+
 ## Logging
 After upload, read each test post's scheduled time in Post Planner and append a row to log.csv (date, cell, post_id, quote_id, scheduled_time). Test posts have no caption, so the Meta export is joined on Publish time, not on caption.
 
