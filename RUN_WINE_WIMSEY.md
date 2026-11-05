@@ -47,7 +47,8 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 ## 1. Write the day
 - 16 feed posts total = held posts + new ones (changed from 12 by Scott, 2026-10-28). TOBIs count toward the 16; the rest are image posts. TOBI count alternates (Scott, 2026-10-28): in an EVEN ISO week (week of Oct 26 2026 = week 44) Mon/Wed/Fri/Sun get 2 TOBIs and Tue/Thu/Sat get 1; in an ODD ISO week it is switched (Tue/Thu/Sat get 2, Mon/Wed/Fri/Sun get 1).
 - 4 stories (image only, own quotes).
-- Mix templates and characters per the skill (I2 is the primary format). Do NOT use Template B (photoreal) or Template C (vintage B&W photo) with people; if you want those looks, make them people-free (still life, empty porch) or draw the people as illustration. Template D still life is fine (AI label).
+- Characters (Scott, 2026-11-04): The Hot Mess is the default for character images. Use The Homebody ONLY when the quote fits her (staying in, couch, pajamas, TV, snacks, early bedtime, cancelling plans, cozy or lazy); never force her onto other quotes. An inbox note naming a character or template overrides this.
+- Mix templates per the skill (I2 is the primary format). Do NOT use Template B (photoreal) or Template C (vintage B&W photo) with people; if you want those looks, make them people-free (still life, empty porch) or draw the people as illustration. Template D still life is fine (AI label).
 - Captions ~100 words (hook / story / button), first comment ~50 words, no hashtags. TOBI text under 130 characters + first comment.
 - Image prompts: end with "No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format." Never ask the model for a watermark.
 - Ids: feed `ww-YYYYMMDD-NN`, TOBI `ww-YYYYMMDD-tN`, stories `ws-YYYYMMDD-N`.
