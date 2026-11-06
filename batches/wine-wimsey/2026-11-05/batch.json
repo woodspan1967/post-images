@@ -1,25 +1,25 @@
 {
- "title": "Wine Wimsey Review \u00b7 Thu Nov 5",
- "subtitle": "16 feed posts (all images, no TOBIs) and 4 stories. Posting date is Thu Nov 5 (next unused folder); if you meant Nov 6, say so. Inbox: 4 new items used (#4, #5, #12, #15), held 0. Test cells at queue positions 2, 6, 10, 14: A (#2, Homebody image) and C (#10, Settled One image) are character images; B (#6) and D (#14) are plain cards. No caption or first comment on any of the four. Seasonal: 6 regular feed posts (#3, #5, #8, #11, #13, #16) plus story 1. Caption mix is 6 short and 6 See More. Flags: (1) Only 8 of the 14 usual quotes are non-seasonal, so there is no 11th; A is the 4th non-seasonal quote (banana bread) and B is the 8th, the last (bucket list). (2) Story 2 was blocked once by the image filter (false positive); I changed the pose (holding the sneaker instead of crouching) and regenerated once, quote unchanged. (3) Inbox quotes #5, #12 and the Daylight post contain mild swearing (shit), left as written. (4) The test C post uses The Settled One per plan.json. (5) Credits: 19 generations at about 45 credits each (about 861); the blocked one may be refunded.",
+ "title": "Wine Wimsey Review · Thu Nov 5",
+ "subtitle": "REVISED after your review: rejected #1, #3, #7, #13 now use the four story images (new captions/comments); test B and C re-written; stories bucket is empty. 16 feed posts (all images, no TOBIs) and 4 stories. Posting date is Thu Nov 5 (next unused folder); if you meant Nov 6, say so. Inbox: 4 new items used (#4, #5, #12, #15), held 0. Test cells at queue positions 2, 6, 10, 14: A (#2, Homebody image) and C (#10, Settled One image) are character images; B (#6) and D (#14) are plain cards. No caption or first comment on any of the four. Seasonal: 6 regular feed posts (#3, #5, #8, #11, #13, #16) plus story 1. Caption mix is 6 short and 6 See More. Flags: (1) Only 8 of the 14 usual quotes are non-seasonal, so there is no 11th; A is the 4th non-seasonal quote (banana bread) and B is the 8th, the last (bucket list). (2) Story 2 was blocked once by the image filter (false positive); I changed the pose (holding the sneaker instead of crouching) and regenerated once, quote unchanged. (3) Inbox quotes #5, #12 and the Daylight post contain mild swearing (shit), left as written. (4) The test C post uses The Settled One per plan.json. (5) Credits: 19 generations at about 45 credits each (about 861); the blocked one may be refunded.",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
   {
    "id": "ww-20261105-01",
    "kind": "image",
-   "template": "E comic panel",
+   "template": "E comic panel · seasonal",
    "character": "The Hot Mess",
-   "quote": "THE MAN AT THE POST OFFICE ASKED IF MY PACKAGE CONTAINED ANYTHING LIQUID, FRAGILE, OR PERISHABLE. I SAID, ONLY ME.",
-   "caption": "It was a framed photo for my sister, wrapped in so much tape it needed its own zip code. He slid a form across the counter and I filled it out with a pen on a chain that had given up years ago. Someone behind me cleared their throat in a way I took personally. The clerk stamped the form with the calm of a man who has seen every kind of box. I left feeling lighter and a little questioned. The photo is in transit. I have mixed feelings about its schedule.",
-   "first": "The pen on the chain wrote exactly one letter and quit. I asked to borrow another and he handed me his own, with a look like I'd asked for a kidney. I returned it with both hands.",
-   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun and glasses on her forehead standing at a post office counter holding a taped cardboard box and looking deadpan at a clerk behind a window. Text at the top reads: The man at the post office asked if my package contained anything liquid, fragile, or perishable. I said, only me.",
+   "quote": "MY THANKSGIVING PREP SO FAR IS KNOWING WHERE THE ROASTING PAN ISN'T.",
+   "caption": "I have a hosting plan, a guest list, and no idea where the roasting pan went. I checked the cabinet with a flashlight like it owed me money. It did not respond.",
+   "first": "Found a lid to something. Found a different lid to something else. The pan itself is apparently on an extended vacation, and I've decided to let it have one.",
+   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun kneeling in front of an open cabinet with pots and lids spilling out, holding a flashlight. Text at the top reads: My Thanksgiving prep so far is knowing where the roasting pan isn't.",
    "ai": false,
-   "image": "images/wine-wimsey/2026-11-05/ww-20261105-01.png"
+   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-1.png"
   },
   {
    "id": "qt-20261105-A",
    "kind": "image",
-   "template": "TEST A \u00b7 I2 speech bubble",
+   "template": "TEST A · I2 speech bubble",
    "character": "The Homebody",
    "quote": "I BAKED BANANA BREAD SO THE HOUSE WOULD SMELL LIKE I HAVE MY LIFE TOGETHER. THE BREAD HAS ITS LIFE TOGETHER. I'M JUST THE STAFF.",
    "caption": "",
@@ -31,14 +31,14 @@
   {
    "id": "ww-20261105-03",
    "kind": "image",
-   "template": "I2 speech bubble \u00b7 seasonal",
+   "template": "I2 speech bubble",
    "character": "The Hot Mess",
-   "quote": "I VOLUNTEERED TO HOST THANKSGIVING IN A MOMENT OF STRENGTH. THE STRENGTH HAS PASSED. THE TURKEY HAS NOT BEEN CONSULTED.",
-   "caption": "I said yes in September when the weather was nice and nobody was writing anything down. Now there is a spreadsheet, and my sister has opinions about the sweet potatoes. I'm told the table seats ten if everyone is friendly about elbows.",
-   "first": "I found out last week that my oven runs twenty degrees hot. I've decided to treat that as a feature. Last year's turkey was done early and nobody has said a word about it since.",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun and glasses on her forehead standing in a cluttered kitchen looking at a raw turkey on the counter with a menu list taped to a cabinet. Text at the top reads: I volunteered to host Thanksgiving in a moment of strength. The strength has passed. The turkey has not been consulted.",
+   "quote": "I BENT DOWN TO TIE MY SHOE AND SPENT A MOMENT DECIDING IF I'D COME BACK UP.",
+   "caption": "It was a quiet decision made halfway down. Everything works, technically, but nobody mentions that the return trip needs a plan. I tied the shoe and came back up in stages, dignity mostly intact.",
+   "first": "The other shoe stayed untied on purpose. One bend a day is my limit and I've already used it. I'm calling them slip-ons now.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun crouching in a hallway tying a sneaker with a thoughtful resigned expression. Text at the top reads: I bent down to tie my shoe and spent a moment deciding if I'd come back up.",
    "ai": false,
-   "image": "images/wine-wimsey/2026-11-05/ww-20261105-03.png"
+   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-2.png"
   },
   {
    "id": "ww-20261105-04",
@@ -55,7 +55,7 @@
   {
    "id": "ww-20261105-05",
    "kind": "image",
-   "template": "I2 speech bubble \u00b7 seasonal",
+   "template": "I2 speech bubble · seasonal",
    "character": "The Homebody",
    "quote": "DAYLIGHT'S GETTING SHORTER, WHICH IS FINE. I WASN'T DOING SHIT WITH IT ANYWAY.",
    "caption": "My days have always had a big middle where the sun was out and I was inside, and nothing has changed except the sun's schedule. I used to feel a little guilty about the unused hours. Now there are fewer of them, and the guilt is on a reduced shift. By four-thirty the lamp is on, the slippers are on, and the day has officially stopped asking things of me. I think this is what people mean by a good rhythm. I've been in it all along.",
@@ -69,29 +69,29 @@
    "kind": "image",
    "template": "TEST B",
    "character": "",
-   "quote": "I don't have a bucket list anymore. I have a list of things I'd like finished by four o'clock.",
+   "quote": "Every pill I take comes with a list of side effects. It's longer than my list of reasons for taking it.",
    "caption": "",
    "first": "",
-   "alt": "Plain off-white card with bold dark text that reads: I don't have a bucket list anymore. I have a list of things I'd like finished by four o'clock.",
+   "alt": "Plain off-white card with bold dark text that reads: Every pill I take comes with a list of side effects. It's longer than my list of reasons for taking it.",
    "ai": false,
    "image": "images/wine-wimsey/2026-11-05/qt-20261105-B.png"
   },
   {
    "id": "ww-20261105-07",
    "kind": "image",
-   "template": "E comic panel",
+   "template": "I speech bubble",
    "character": "The Hot Mess",
-   "quote": "I HELD THE DOOR FOR A MAN THIRTY FEET AWAY. HE JOGGED. I WILL THINK ABOUT THAT JOG FOR THE REST OF MY LIFE.",
-   "caption": "I'd committed before I saw the distance. The only options were letting go and looking rude, or standing there like a doorman. He did a trot, then a half-run, then a wave that said sorry and thank you at once. I nodded like it was nothing.",
-   "first": "He held the next door for me inside, a full minute later, as if settling a debt. I thanked him like we'd both been through something. Maybe we had.",
-   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun holding open a shop door with a polite fixed smile while a man in a jacket jogs toward her from across the sidewalk. Text at the top reads: I held the door for a man thirty feet away. He jogged. I will think about that jog for the rest of my life.",
+   "quote": "THE AUTOMATED VOICE SAID MY CALL WAS IMPORTANT. IT HAS BEEN SAYING THAT FOR FORTY MINUTES.",
+   "caption": "Forty minutes in, I know the hold music better than songs I actually like. The voice returns every few minutes to remind me I matter. I believe it a little less each time.",
+   "first": "I eventually got a person. She was lovely and fixed everything in ninety seconds, which made the forty minutes feel personal. I thanked her twice and hung up oddly emotional.",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun sitting on a couch with a phone on speaker and a tired flat stare, a wall clock behind her. Text at the top reads: The automated voice said my call was important. It has been saying that for forty minutes.",
    "ai": false,
-   "image": "images/wine-wimsey/2026-11-05/ww-20261105-07.png"
+   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-3.png"
   },
   {
    "id": "ww-20261105-08",
    "kind": "image",
-   "template": "I speech bubble \u00b7 seasonal",
+   "template": "I speech bubble · seasonal",
    "character": "The Hot Mess",
    "quote": "THE STORES PUT UP CHRISTMAS DECORATIONS BEFORE THE HALLOWEEN CANDY WAS GONE. I BOUGHT BOTH AND I'M HOLDING THE STORE RESPONSIBLE.",
    "caption": "There was a full eight-foot tree next to a bin of half-price candy, and a woman in a Halloween sweatshirt standing between them like a referee. I paused to admire the commitment of whoever planned the aisle. Then I took one ornament, one bag of candy, and a roll of wrapping paper I had no plans for. The cashier didn't blink. I've already spent more on holiday things than I meant to this month, and it's barely started. At least the candy won't last the week.",
@@ -115,19 +115,19 @@
   {
    "id": "qt-20261105-C",
    "kind": "image",
-   "template": "TEST C \u00b7 TEST C",
+   "template": "TEST C · TEST C",
    "character": "The Settled One",
-   "quote": "MY BACK USED TO BE SORE SOMETIMES. NOW IT HOLDS A GRUDGE.",
+   "quote": "I USED TO PLAN AHEAD. NOW I PLAN TO SIT DOWN.",
    "caption": "",
    "first": "",
-   "alt": "Cartoon illustration of a silver-haired woman in lavender-tinted round glasses and an oatmeal cardigan sitting barefoot at a kitchen table with a mug and a heating pad on her chair. Text at the top reads: My back used to be sore sometimes. Now it holds a grudge.",
+   "alt": "Cartoon illustration of a silver-haired woman in lavender-tinted round glasses and an oatmeal cardigan sitting barefoot in a sunroom armchair holding a mug. Text at the top reads: I used to plan ahead. Now I plan to sit down.",
    "ai": false,
    "image": "images/wine-wimsey/2026-11-05/qt-20261105-C.png"
   },
   {
    "id": "ww-20261105-11",
    "kind": "image",
-   "template": "I speech bubble \u00b7 seasonal",
+   "template": "I speech bubble · seasonal",
    "character": "The Hot Mess",
    "quote": "I GOT OUT THE GOOD DISHES TO CHECK THEM BEFORE THANKSGIVING. EIGHT PLATES SURVIVED. I'M ALREADY DECIDING WHO GETS THE EVERYDAY ONES.",
    "caption": "The good dishes live on the top shelf of the dining room cabinet behind a tablecloth I received as a wedding gift and have used twice. Every year there is a ritual: take down the stack, wash each plate by hand, hold it to the light like a jeweler. This year there was a chip I'd forgotten, a crack I'd chosen not to remember, and a gravy stain from 2019 that is, at this point, part of the family. I washed everything anyway. The cabinet is quiet again. It knows.",
@@ -151,14 +151,14 @@
   {
    "id": "ww-20261105-13",
    "kind": "image",
-   "template": "D still life \u00b7 seasonal",
-   "character": "",
-   "quote": "I BOUGHT A BOX OF FIFTY HOLIDAY CARDS. I HAVE ELEVEN PEOPLE I'M STILL SPEAKING TO. THE REST ARE FOR EMERGENCIES.",
-   "caption": "The list is on the back of an envelope, in pencil, with two names crossed out and one underlined. I started signing them last night at the kitchen table and stopped at the fourth because I couldn't think of one true thing to say. Hope you're well is carrying a lot of weight.",
-   "first": "The stamps are in a drawer somewhere. I bought new ones. The old ones will turn up in July, in a coat, next to a coupon.",
-   "alt": "Still life photograph of a kitchen table with an open box of holiday cards, a pen, a pencil list on an envelope, a glass of red wine and a small lamp glowing. Text at the top reads: I bought a box of fifty holiday cards. I have eleven people I'm still speaking to. The rest are for emergencies.",
-   "ai": true,
-   "image": "images/wine-wimsey/2026-11-05/ww-20261105-13.png"
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "THE COUCH HAS A DENT IN THE SHAPE OF MY BEST DECISIONS.",
+   "caption": "It took years of dedicated effort to get that shape right. Left cushion, slight angle, one arm on the pillow. It fits me exactly and has never once asked me to be anywhere.",
+   "first": "Visitors are offered the other end. They sit there politely while the dent waits. It remembers who it belongs to.",
+   "alt": "Cartoon illustration of a plump woman with short mauve-pink curls lying contentedly on a floral sofa with a dent in the cushions, wearing fluffy slippers beside a wine glass. Text at the top reads: The couch has a dent in the shape of my best decisions.",
+   "ai": false,
+   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-4.png"
   },
   {
    "id": "qt-20261105-D",
@@ -187,7 +187,7 @@
   {
    "id": "ww-20261105-16",
    "kind": "image",
-   "template": "E comic panel \u00b7 seasonal",
+   "template": "E comic panel · seasonal",
    "character": "The Hot Mess",
    "quote": "I'M BRINGING THE ROLLS TO THANKSGIVING. THEY'RE FROM A BAKERY AND THEY'RE GOING IN MY OWN DISH. NOBODY NEEDS THE DETAILS.",
    "caption": "I've been assigned rolls for six years, and for six years I've said I'll make them. The recipe is in my mother's handwriting, which I can read about two-thirds of. There's a word in the middle that is either scald or scold, and either one sounds like a threat. So on the morning of, I go to the bakery, buy two dozen, and warm them in the good casserole dish with a dish towel on top. They arrive looking homemade. I get complimented every year. I accept it.",
@@ -197,54 +197,5 @@
    "image": "images/wine-wimsey/2026-11-05/ww-20261105-16.png"
   }
  ],
- "stories": [
-  {
-   "id": "ws-20261105-1",
-   "kind": "story",
-   "template": "E comic panel \u00b7 seasonal",
-   "character": "The Hot Mess",
-   "quote": "MY THANKSGIVING PREP SO FAR IS KNOWING WHERE THE ROASTING PAN ISN'T.",
-   "caption": "",
-   "first": "",
-   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun kneeling in front of an open cabinet with pots and lids spilling out, holding a flashlight. Text at the top reads: My Thanksgiving prep so far is knowing where the roasting pan isn't.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-1.png"
-  },
-  {
-   "id": "ws-20261105-2",
-   "kind": "story",
-   "template": "I2 speech bubble",
-   "character": "The Hot Mess",
-   "quote": "I BENT DOWN TO TIE MY SHOE AND SPENT A MOMENT DECIDING IF I'D COME BACK UP.",
-   "caption": "",
-   "first": "",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun crouching in a hallway tying a sneaker with a thoughtful resigned expression. Text at the top reads: I bent down to tie my shoe and spent a moment deciding if I'd come back up.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-2.png"
-  },
-  {
-   "id": "ws-20261105-3",
-   "kind": "story",
-   "template": "I speech bubble",
-   "character": "The Hot Mess",
-   "quote": "THE AUTOMATED VOICE SAID MY CALL WAS IMPORTANT. IT HAS BEEN SAYING THAT FOR FORTY MINUTES.",
-   "caption": "",
-   "first": "",
-   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun sitting on a couch with a phone on speaker and a tired flat stare, a wall clock behind her. Text at the top reads: The automated voice said my call was important. It has been saying that for forty minutes.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-3.png"
-  },
-  {
-   "id": "ws-20261105-4",
-   "kind": "story",
-   "template": "I2 speech bubble",
-   "character": "The Homebody",
-   "quote": "THE COUCH HAS A DENT IN THE SHAPE OF MY BEST DECISIONS.",
-   "caption": "",
-   "first": "",
-   "alt": "Cartoon illustration of a plump woman with short mauve-pink curls lying contentedly on a floral sofa with a dent in the cushions, wearing fluffy slippers beside a wine glass. Text at the top reads: The couch has a dent in the shape of my best decisions.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-4.png"
-  }
- ]
+ "stories": []
 }
