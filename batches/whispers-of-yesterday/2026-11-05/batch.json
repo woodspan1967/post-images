@@ -1,6 +1,6 @@
 {
  "title": "Whispers Of Yesterday Review · Nov 5",
- "subtitle": "10 feed (8 images + 2 TOBIs) + 3 stories · 0 from the inbox (nothing new) · 0 held posts carried in · all quotes checked against the used list · T1 grounded look: 4 scenes (#3, #6, #8, story 3) first came out photo-like, so I redid them once as clearly inked drawings; #1 shows a boy from behind only · TOBIs, captions and first comments have no questions or hashtags",
+ "subtitle": "REVISED: slots 4, 7 and story 2 were rejected as too cartoony, so they are replaced with realistic vintage photos (no people), 3 new quotes. Everything else unchanged and still approved. 10 feed (8 images + 2 TOBIs) + 3 stories · 0 from the inbox · captions and first comments have no questions or hashtags",
  "bucket": "Whispers Of Yesterday",
  "story_bucket": "Whispers Of Yesterday Stories",
  "posts": [
@@ -59,15 +59,15 @@
   {
    "id": "wy-20261105-04",
    "kind": "image",
-   "template": "T3 retro poster",
-   "character": "Entertainment and travel (the train depot)",
-   "quote": "THE TRAIN DEPOT / A BRASS BELL, A WOODEN BENCH, AND A STATIONMASTER WHO KNEW EVERYBODY'S BUSINESS",
-   "caption": "The depot had one long wooden bench, worn smooth by a hundred years of waiting. Over the window, the stationmaster kept a brass bell and a ledger and a pencil behind his ear. He knew who was coming home for the holidays before the family did. He knew whose son had shipped out and whose daughter was leaving for the city. If you asked him the time, he'd pull out his pocket watch and tell you exactly how late the train was going to be. And if you were crying on the platform, he'd look the other way and find something to do with the ledger.",
-   "first": "My mother caught the 6:10 out of our depot the day she left for nursing school. She said the stationmaster carried her suitcase and wouldn't take the tip. She kept that little ticket stub in her jewelry box until she passed.",
-   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a single flat illustrated scene of a small-town train depot with a green roof, a long wooden bench on the platform, a brass bell hanging by the ticket window, and a stationmaster in a vest and cap holding a pocket watch, a steam locomotive waiting in the background. Bold retro serif headline text at top reads exactly: \"THE TRAIN DEPOT\". Subtitle text reads exactly: \"A BRASS BELL, A WOODEN BENCH, AND A STATIONMASTER WHO KNEW EVERYBODY'S BUSINESS\". Warm muted palette, clean lines, nostalgic school textbook aesthetic, people drawn as flat simple illustration. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
+   "template": "T2 vintage photo",
+   "character": "School days (the pencil sharpener)",
+   "quote": "THE PENCIL SHARPENER WAS BOLTED TO THE WALL, AND THE LONG WALK TO IT WAS THE BEST PART OF THE DAY.",
+   "caption": "Every classroom had one hand-crank sharpener bolted to the wall by the door, and it was the most visited spot in the room. Nobody's pencil was ever dull enough to need it, but a hundred pencils got a little shorter anyway. You raised your hand, got the nod, and walked the long way past every desk on the aisle. You gave the crank a slow turn and listened to the grinding all the way down to a perfect point. Then you took a good look out the window before you walked back. The shavings smelled like cedar, and the tray underneath was emptied by whichever kid the teacher trusted most.",
+   "first": "Our teacher kept a coffee can of stubby pencils by hers, and the sharpener was the one thing nobody was allowed to touch without permission. I wore mine down to the size of a thumb just for the trip. I can still smell those cedar shavings.",
+   "prompt": "A realistic color photograph from the 1970s, a close view of a hand-crank pencil sharpener bolted to a painted cinderblock classroom wall beside a door, a few cedar shavings and a stubby yellow pencil resting on the ledge below it, soft daylight from a tall window, a corner of a wooden desk at the edge of the frame. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE PENCIL SHARPENER WAS BOLTED TO THE WALL, AND THE LONG WALK TO IT WAS THE BEST PART OF THE DAY.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
    "image": "images/whispers-of-yesterday/2026-11-05/wy-20261105-04.png",
-   "alt": "Retro poster illustration of a small-town train depot with a wooden bench, a brass bell, and a stationmaster in a cap holding a pocket watch. Headline: The Train Depot. Subtitle: A brass bell, a wooden bench, and a stationmaster who knew everybody's business."
+   "alt": "Vintage-style color photo of a hand-crank pencil sharpener bolted to a classroom wall with cedar shavings and a stubby pencil beneath it. No people. Text at the top reads: The pencil sharpener was bolted to the wall, and the long walk to it was the best part of the day."
   },
   {
    "id": "wy-20261105-05",
@@ -111,15 +111,15 @@
   {
    "id": "wy-20261105-07",
    "kind": "image",
-   "template": "T3 retro poster",
-   "character": "Entertainment (the roller rink)",
-   "quote": "THE ROLLER RINK / A WOODEN FLOOR, AN ORGAN PLAYER, AND THE LAST SKATE OF THE NIGHT",
-   "caption": "The rink had a hardwood floor worn pale in the shape of a giant oval, and a live organist who played from a little booth in the corner. She played waltzes, polkas, and whatever was on the radio that week, all with the same cheerful vibrato. Kids went round and round in rented skates with laces that never stayed tied. The big kids showed off by skating backward, and the little ones held the rail like it was a lifeline. At the end of the night the lights went low, and the organ slowed down for the last skate. You never forgot who you were holding on to when it started.",
-   "first": "I got my first real kiss during a last skate, and I still don't know what song was playing. I remember the organist wore a gold sweater, and I remember my hands were sweating inside my mittens.",
-   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a single flat illustrated scene of a 1960s roller rink with a pale wooden oval floor, a woman playing an organ in a corner booth, a handful of children and teenagers skating in rented skates, couples skating hand in hand, strings of soft lights overhead. Bold retro serif headline text at top reads exactly: \"THE ROLLER RINK\". Subtitle text reads exactly: \"A WOODEN FLOOR, AN ORGAN PLAYER, AND THE LAST SKATE OF THE NIGHT\". Warm muted palette, clean lines, nostalgic school textbook aesthetic, people drawn as flat simple illustration. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
+   "template": "T2 vintage photo",
+   "character": "Home life (the floor vent)",
+   "quote": "THE FLOOR VENT WAS THE WARMEST SPOT IN THE HOUSE, AND THE DOG ALWAYS GOT THERE FIRST.",
+   "caption": "On a cold morning the whole house had exactly one good spot, and it was a square iron grate in the hallway floor. Warm air came up from the furnace below with a faint smell of toasted dust. The dog found it before anyone else was out of bed, and he stretched across it like a rug. The kids stood in line at the edge, trading turns to hold their pajamas over the heat. Somebody always dropped a sock down it and spent the afternoon fishing it out with a coat hanger. It was the only place in the house nobody argued about sharing, mostly because the dog never moved.",
+   "first": "Our dog was a beagle named Duke, and he would not move for anybody except Dad. I stood on that grate in my socks every winter morning of my childhood. The pattern of it is still printed on my memory.",
+   "prompt": "A realistic color photograph from the 1970s, a wrought iron floor heating grate set into a hardwood hallway floor beside a braided rug, a brown and white beagle curled up asleep directly on the grate, a pair of small wool socks lying on the floor nearby, soft morning window light. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE FLOOR VENT WAS THE WARMEST SPOT IN THE HOUSE, AND THE DOG ALWAYS GOT THERE FIRST.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
    "image": "images/whispers-of-yesterday/2026-11-05/wy-20261105-07.png",
-   "alt": "Retro poster illustration of a 1960s roller rink with skaters on a wooden floor and an organist playing in a corner booth. Headline: The Roller Rink. Subtitle: A wooden floor, an organ player, and the last skate of the night."
+   "alt": "Vintage-style color photo of a beagle asleep on an iron floor heating grate in a hallway beside a braided rug. No people. Text at the top reads: The floor vent was the warmest spot in the house, and the dog always got there first."
   },
   {
    "id": "wy-20261105-08",
@@ -152,15 +152,15 @@
   {
    "id": "wys-20261105-2",
    "kind": "story",
-   "template": "T3 retro poster",
-   "character": "Community (the corner bakery)",
-   "quote": "THE CORNER BAKERY / A BELL ON THE DOOR, A WAX PAPER BAG, AND A WARM ROLL FOR THE KID",
+   "template": "T2 vintage photo",
+   "character": "School days (the paste jar)",
+   "quote": "THE PASTE JAR HAD A LITTLE WOODEN PADDLE IN THE LID, AND SOME KIDS ATE IT.",
    "caption": "",
    "first": "",
-   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a single flat illustrated scene of a small corner bakery storefront with a striped awning, a small bell above the door, a baker in a white apron handing a child a warm roll from a wax paper bag across a glass counter. Bold retro serif headline text at top reads exactly: \"THE CORNER BAKERY\". Subtitle text reads exactly: \"A BELL ON THE DOOR, A WAX PAPER BAG, AND A WARM ROLL FOR THE KID\". Warm muted palette, clean lines, nostalgic school textbook aesthetic, people drawn as flat simple illustration. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
+   "prompt": "A realistic color photograph from the 1970s, a small white glass jar of school paste with a little wooden paddle sticking out of the lid, sitting on a wooden school desk beside a sheet of construction paper and a pair of blunt scissors, soft window light. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE PASTE JAR HAD A LITTLE WOODEN PADDLE IN THE LID, AND SOME KIDS ATE IT.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
    "image": "images/whispers-of-yesterday/2026-11-05/stories/wys-20261105-2.png",
-   "alt": "Retro poster illustration of a corner bakery where a baker in an apron hands a child a warm roll in a wax paper bag. Headline: The Corner Bakery. Subtitle: A bell on the door, a wax paper bag, and a warm roll for the kid."
+   "alt": "Vintage-style color photo of a jar of school paste with a small wooden paddle on a school desk beside construction paper and scissors. No people. Text at the top reads: The paste jar had a little wooden paddle in the lid, and some kids ate it."
   },
   {
    "id": "wys-20261105-3",
