@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review · Thu Nov 5",
- "subtitle": "REVISED after your review: rejected #1, #3, #7, #13 now use the four story images (new captions/comments); test B and C re-written; stories bucket is empty. 16 feed posts (all images, no TOBIs) and 4 stories. Posting date is Thu Nov 5 (next unused folder); if you meant Nov 6, say so. Inbox: 4 new items used (#4, #5, #12, #15), held 0. Test cells at queue positions 2, 6, 10, 14: A (#2, Homebody image) and C (#10, Settled One image) are character images; B (#6) and D (#14) are plain cards. No caption or first comment on any of the four. Seasonal: 6 regular feed posts (#3, #5, #8, #11, #13, #16) plus story 1. Caption mix is 6 short and 6 See More. Flags: (1) Only 8 of the 14 usual quotes are non-seasonal, so there is no 11th; A is the 4th non-seasonal quote (banana bread) and B is the 8th, the last (bucket list). (2) Story 2 was blocked once by the image filter (false positive); I changed the pose (holding the sneaker instead of crouching) and regenerated once, quote unchanged. (3) Inbox quotes #5, #12 and the Daylight post contain mild swearing (shit), left as written. (4) The test C post uses The Settled One per plan.json. (5) Credits: 19 generations at about 45 credits each (about 861); the blocked one may be refunded.",
+ "subtitle": "REVISED after your review: rejected #1, #3, #7, #13 now use the four story images (new captions/comments); test B and C re-written; 4 new stories added (#5 seasonal; story 4 first try was blocked as a likely false positive, scene softened and regenerated once; about 225 extra credits). 16 feed posts (all images, no TOBIs) and 4 stories. Posting date is Thu Nov 5 (next unused folder); if you meant Nov 6, say so. Inbox: 4 new items used (#4, #5, #12, #15), held 0. Test cells at queue positions 2, 6, 10, 14: A (#2, Homebody image) and C (#10, Settled One image) are character images; B (#6) and D (#14) are plain cards. No caption or first comment on any of the four. Seasonal: 6 regular feed posts (#3, #5, #8, #11, #13, #16) plus story 1. Caption mix is 6 short and 6 See More. Flags: (1) Only 8 of the 14 usual quotes are non-seasonal, so there is no 11th; A is the 4th non-seasonal quote (banana bread) and B is the 8th, the last (bucket list). (2) Story 2 was blocked once by the image filter (false positive); I changed the pose (holding the sneaker instead of crouching) and regenerated once, quote unchanged. (3) Inbox quotes #5, #12 and the Daylight post contain mild swearing (shit), left as written. (4) The test C post uses The Settled One per plan.json. (5) Credits: 19 generations at about 45 credits each (about 861); the blocked one may be refunded.",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -197,5 +197,54 @@
    "image": "images/wine-wimsey/2026-11-05/ww-20261105-16.png"
   }
  ],
- "stories": []
+ "stories": [
+  {
+   "id": "ws-20261105-5",
+   "kind": "story",
+   "template": "E comic panel · seasonal",
+   "character": "The Hot Mess",
+   "quote": "THE THANKSGIVING RECIPE SAYS SERVES EIGHT. I'M SERVING FOUR AND KEEPING THE REST AS A REWARD.",
+   "caption": "",
+   "first": "",
+   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun resting her chin on her hand at a kitchen table with an open cookbook showing a roast turkey and a glass of red wine, autumn leaves outside. Text at the top reads: The Thanksgiving recipe says serves eight. I'm serving four and keeping the rest as a reward.",
+   "ai": false,
+   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-5.png"
+  },
+  {
+   "id": "ws-20261105-6",
+   "kind": "story",
+   "template": "I speech bubble",
+   "character": "The Hot Mess",
+   "quote": "I GOT INTO A STARING CONTEST WITH THE THERMOSTAT. IT SAID 68. MY BODY SAID OTHERWISE. NOBODY BLINKED.",
+   "caption": "",
+   "first": "",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun standing in a hallway with arms crossed and a wine glass, giving a sideways glare at a wall thermostat reading 68 while a cat looks up at her. Text in the speech bubble reads: I got into a staring contest with the thermostat. It said 68. My body said otherwise. Nobody blinked.",
+   "ai": false,
+   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-6.png"
+  },
+  {
+   "id": "ws-20261105-7",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Hot Mess",
+   "quote": "I STOOD UP TOO FAST AND THE ROOM ASKED ME TO RECONSIDER.",
+   "caption": "",
+   "first": "",
+   "alt": "Cartoon illustration of a woman with a messy grey-streaked bun gripping a kitchen chair with wide dizzy eyes and little stars around her head, holding a glass of wine. Text at the top reads: I stood up too fast and the room asked me to reconsider.",
+   "ai": false,
+   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-7.png"
+  },
+  {
+   "id": "ws-20261105-8",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "The Homebody",
+   "quote": "I DON'T MISS GOING OUT. I MISS GOING OUT AND BEING HOME BY SEVEN.",
+   "caption": "",
+   "first": "",
+   "alt": "Cartoon illustration of a woman with short mauve-pink curls relaxing in a floral armchair in fluffy slippers with a mug and a plaid blanket, a coat on a hook and a wall clock showing seven, a cat asleep at her feet. Text at the top reads: I don't miss going out. I miss going out and being home by seven.",
+   "ai": false,
+   "image": "images/wine-wimsey/2026-11-05/stories/ws-20261105-8.png"
+  }
+ ]
 }
