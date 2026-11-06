@@ -1,0 +1,171 @@
+{
+ "title": "Whispers Of Yesterday Review · Nov 6",
+ "subtitle": "10 feed (8 images + 2 TOBIs) + 3 stories · 0 from the inbox (empty) · 0 held posts · no questions or hashtags in captions or first comments",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261106-01",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Church (the funeral home fans)",
+   "quote": "THE CHURCH FANS CAME FROM THE FUNERAL HOME, AND EVERYBODY WAVED THEM ANYWAY.",
+   "caption": "July in a church with no air conditioning had its own kind of sermon. The windows were propped open, the ceiling fans did their best, and the real relief came from a rack on the back of every pew. Cardboard fans on a wooden stick, a country scene on the front and the name of the funeral home printed on the back. Nobody found that strange, not once. Grandmothers fanned in time with the organ, and the little kids fanned each other until somebody got a look. By the closing hymn the whole congregation was swaying like a field of wheat.",
+   "first": "Ours had the funeral home's name on the back in tiny letters. My grandmother kept hers in her purse all week, just in case. I think I used the same fan until I was twelve.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, the inside of a small white country church on a hot summer Sunday, rows of wooden pews, tall windows propped open, a grandmother in a plain dress and a boy in a collared shirt in a pew fanning themselves with cardboard hand fans on wooden sticks, a rack of more fans on the pew back in front of them, other churchgoers seen from behind. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE CHURCH FANS CAME FROM THE FUNERAL HOME, AND EVERYBODY WAVED THEM ANYWAY.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Hand-drawn illustration of a grandmother and a boy fanning themselves with cardboard hand fans in a pew of a small country church on a hot day. Text at the top reads: The church fans came from the funeral home, and everybody waved them anyway.",
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-01.png"
+  },
+  {
+   "id": "wy-20261106-02",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Home life (the flypaper)",
+   "quote": "A STRIP OF FLYPAPER HUNG OVER THE KITCHEN TABLE, AND NOBODY EVER THOUGHT TWICE ABOUT IT.",
+   "caption": "Every kitchen in summer had a sticky yellow strip twisting slowly from the ceiling light. By August it was a small museum of everything that had ever come through the screen door. Mom hung a fresh one every few weeks, standing on a chair with a thumbtack in her teeth and no ceremony at all. We ate supper right under it, passed the potatoes, and kept our heads tipped just slightly to the left. You learned early which way the strip swung when somebody walked by. It was never discussed, and it was never once a reason to skip pie.",
+   "first": "Ours hung right over the butter dish, which always seemed like poor planning. My father would reach up and flick it with one finger to see how full it was. He called that the weekly report.",
+   "prompt": "A realistic color photograph from the 1970s, a plain farmhouse kitchen table with a checkered oilcloth, a pie on a plate and a salt shaker, and a twisted strip of sticky yellow flypaper hanging from the pull-chain of the ceiling light above it, a screen door and window with a thin curtain in the background. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"A STRIP OF FLYPAPER HUNG OVER THE KITCHEN TABLE, AND NOBODY EVER THOUGHT TWICE ABOUT IT.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a kitchen table with a checkered oilcloth and a pie, with a twisted strip of flypaper hanging from the ceiling light. No people. Text at the top reads: A strip of flypaper hung over the kitchen table, and nobody ever thought twice about it.",
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-02.png"
+  },
+  {
+   "id": "wy-20261106-t1",
+   "kind": "tobi",
+   "template": "TOBI (black)",
+   "character": "Old habits (nails in the pocket)",
+   "quote": "My grandfather kept a few nails in his shirt pocket, just in case the day needed one.",
+   "caption": "",
+   "first": "He never explained it, and he was never wrong. Half the fences on that place held together because of what was in that pocket."
+  },
+  {
+   "id": "wy-20261106-03",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Cars and driving culture (the truck heater)",
+   "quote": "THE HEATER IN DAD'S TRUCK HAD TWO SETTINGS: OFF, AND FOGGING UP EVERY WINDOW.",
+   "caption": "The first cold morning of the year, Dad's truck had a routine. He turned the key, pumped the pedal twice, and pulled the heater knob all the way out. For the first ten minutes nothing came through the vents but cold air and a smell of old rubber. Then, finally, warmth, and every window in the cab turned white at once. I rode shotgun with my sleeve pulled over my fist, wiping a little porthole to see the road. Dad drove with his head tilted to look through the one clear spot above the dash. We got where we were going every time.",
+   "first": "Dad kept a gray rag on the dashboard just for the windshield. It was damp by November and frozen stiff by January. I got in trouble once for using it on my nose, and he took it back and wiped the glass with his glove instead.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, the cab of an old 1950s pickup truck on a cold morning, a father in a work coat and cap at the wheel leaning forward to wipe the fogged windshield with his coat sleeve, a boy in a knit cap beside him on the bench seat holding a lunch pail, windows white with condensation, their breath visible, a small clear patch on the glass showing a frosty country road. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE HEATER IN DAD'S TRUCK HAD TWO SETTINGS: OFF, AND FOGGING UP EVERY WINDOW.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Hand-drawn illustration of a father wiping a fogged windshield with his sleeve in an old pickup truck, a boy in a knit cap beside him holding a lunch pail. Text at the top reads: The heater in Dad's truck had two settings: off, and fogging up every window.",
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-03.png"
+  },
+  {
+   "id": "wy-20261106-04",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the pay envelope)",
+   "quote": "THE PAY ENVELOPE / CASH, A PENCILED TOTAL, AND A WEEK'S WORK IN YOUR HAND",
+   "caption": "Friday at the plant meant a small brown envelope with your name on the front. The total was penciled across the top in somebody's careful handwriting, and the cash inside was folded once. You counted it twice, right there in the hall, then slid it into your shirt pocket where you could feel it. Some of it went straight to Mom for the grocery money, and some went in the sugar bowl on the top shelf. There was no pay stub, because the envelope was the stub. Some fellows kept the empty one in a drawer for a week, just to look at the number again.",
+   "first": "My father brought his home every Friday, still in his shirt pocket, and set it by the sugar bowl before he even took off his boots. Mom would pick it up, count it without a word, and put on the coffee. I thought that was how every house worked.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a young man in work clothes and a cap standing at a factory gate, holding a small brown pay envelope in one hand and a few folded dollar bills in the other, a plain brick factory with a smokestack behind him, a lunch pail at his feet. Bold retro serif headline text at top reads exactly: \"THE PAY ENVELOPE\". Subtitle text below it reads exactly: \"CASH, A PENCILED TOTAL, AND A WEEK'S WORK IN YOUR HAND\". Warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro flat illustration of a young man in work clothes holding a brown pay envelope and folded bills in front of a brick factory. Headline: The Pay Envelope. Subtitle: Cash, a penciled total, and a week's work in your hand.",
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-04.png"
+  },
+  {
+   "id": "wy-20261106-05",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Hobbies (the tackle box)",
+   "quote": "DAD'S TACKLE BOX HAD A TRAY FOR EVERYTHING, AND A SMELL YOU COULD IDENTIFY BLINDFOLDED.",
+   "caption": "The tackle box sat on the garage shelf all winter like it was waiting for a signal. Open the lid and the trays rose up in steps, each little compartment holding something that mattered: red-and-white bobbers, a coil of line, hooks sorted by size, and one lure with a missing feather that was somehow the lucky one. Under all of it was a smell of rust, pond water, and a little bacon grease from some earlier trip. We weren't allowed to touch it until we asked, and we weren't allowed to ask until we'd earned it. On the first warm Saturday it went out to the truck before the coffee did.",
+   "first": "I was twelve before Dad let me carry it. I held it with both hands the whole way to the lake like it was full of eggs. I can still tell you which tray had the little brass swivels.",
+   "prompt": "A realistic color photograph from the 1970s, a dented green metal cantilever tackle box standing open on a weathered wooden dock, its tiered trays holding red-and-white bobbers, hooks, a coil of fishing line and old lures with a few feathers, a still lake and reeds softly blurred behind it. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"DAD'S TACKLE BOX HAD A TRAY FOR EVERYTHING, AND A SMELL YOU COULD IDENTIFY BLINDFOLDED.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of an open metal tackle box with tiered trays of bobbers, hooks and lures on a wooden dock beside a lake. No people. Text at the top reads: Dad's tackle box had a tray for everything, and a smell you could identify blindfolded.",
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-05.png"
+  },
+  {
+   "id": "wy-20261106-06",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Holidays (the good china)",
+   "quote": "THE GOOD CHINA CAME OUT TWICE A YEAR, AND NOBODY BREATHED WHILE IT WAS BEING WASHED.",
+   "caption": "The good china lived on the top shelf of the dining room hutch, wrapped in a tablecloth nobody else was allowed to use. It came down for Thanksgiving and Easter, and not one day more. Every plate had to be washed by hand, one at a time, in water that was just warm enough. Grandma washed, Mom dried, and anyone else was sent to the other room. If a cup chipped, the whole kitchen went quiet as a church. Years later, whoever inherited the set always said the same thing: it was the chipped cup they wanted to keep.",
+   "first": "Ours had a thin gold rim that wore off a little more every Thanksgiving. My grandmother counted the plates twice, before and after. I have two of them on a shelf now, and I still wash them by hand.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s farmhouse kitchen after a holiday dinner, a grandmother in an apron washing a delicate plate with a gold rim at the sink while her daughter dries with a dish towel, a neat stack of matching china plates on a towel beside the sink, a small girl watching from the doorway, window above the sink showing early dusk. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE GOOD CHINA CAME OUT TWICE A YEAR, AND NOBODY BREATHED WHILE IT WAS BEING WASHED.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Hand-drawn illustration of a grandmother washing a gold-rimmed china plate at a kitchen sink while her daughter dries, a girl watching from the doorway. Text at the top reads: The good china came out twice a year, and nobody breathed while it was being washed.",
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-06.png"
+  },
+  {
+   "id": "wy-20261106-t2",
+   "kind": "tobi",
+   "template": "TOBI (black)",
+   "character": "Sundays (the quiet street)",
+   "quote": "On Sunday afternoons the whole street went quiet, and nobody found that strange.",
+   "caption": "",
+   "first": "On ours you could hear one screen door, one lawn mower, and a dog barking two streets over, and that was the whole concert. I used to lie on the porch boards and let it all go by."
+  },
+  {
+   "id": "wy-20261106-07",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "School days (the metal lunch box)",
+   "quote": "THE METAL LUNCH BOX HAD A DENT FROM EVERY SCHOOL YEAR, AND NOBODY WANTED A NEW ONE.",
+   "caption": "The lunch box came out of the cupboard the last week of August, already carrying last year. There was a dent on one corner from a fall off the bus steps, a scratch along the lid from a playground argument, and a decal rubbed down to a ghost. The thermos inside smelled a little like every soup it had ever held. Mom packed it the night before: a sandwich in wax paper, an apple, and a cookie wrapped in a napkin. You carried it by the handle and swung it just enough to feel important. A new one would have been fine, but it would not have been yours.",
+   "first": "Mine had a hinge that squeaked, and my teacher could tell it was me from across the room. I kept that box in the garage for forty years. It still smells faintly of baloney.",
+   "prompt": "A realistic color photograph from the 1970s, a dented metal school lunch box with a worn faded decal, lid open, a tartan thermos and a sandwich wrapped in wax paper beside it, sitting on a scarred wooden school bench near a coat hook wall. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE METAL LUNCH BOX HAD A DENT FROM EVERY SCHOOL YEAR, AND NOBODY WANTED A NEW ONE.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a dented metal lunch box with a thermos and a wax-paper sandwich on a worn wooden school bench. No people. Text at the top reads: The metal lunch box had a dent from every school year, and nobody wanted a new one.",
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-07.png"
+  },
+  {
+   "id": "wy-20261106-08",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Winter (the pile of quilts)",
+   "quote": "THERE WERE SO MANY QUILTS ON THE BED THAT YOU HAD TO WAIT FOR MORNING TO TURN OVER.",
+   "caption": "The upstairs bedroom had no heat of its own, only a grate in the floor that let a little warmth drift up from the kitchen. Grandma's answer was quilts, and plenty of them. You climbed in under a stack so heavy you could hardly lift a knee, and it settled over you like a friendly dog. Frost grew on the inside of the window in feathery ferns. You stayed absolutely still, because moving meant finding a cold spot. By morning you had a warm place about the size of a loaf of bread, and you defended it with your life.",
+   "first": "My grandmother made every one of those quilts from old shirts and dresses, so I could tell you whose pajamas I was under. There was a square from my grandfather's work shirt right over my chest. I've slept under plenty since, and none of them were as good.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a cold upstairs bedroom under a slanted ceiling on a winter night, a child buried under a tall pile of patchwork quilts with only a nose and two eyes showing, an iron bed frame, a small floor grate, frost ferns on the window, a pitcher and basin on a washstand, a knit cap on the bedpost. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THERE WERE SO MANY QUILTS ON THE BED THAT YOU HAD TO WAIT FOR MORNING TO TURN OVER.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Hand-drawn illustration of a child buried under a tall stack of patchwork quilts in a cold attic bedroom, frost on the window. Text at the top reads: There were so many quilts on the bed that you had to wait for morning to turn over.",
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-08.png"
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261106-1",
+   "kind": "story",
+   "template": "T2 vintage photo",
+   "character": "Real-photo nostalgia (the penny scale)",
+   "quote": "THE PENNY SCALE AT THE DRUGSTORE TOLD YOUR WEIGHT AND YOUR FORTUNE FOR A PENNY.",
+   "caption": "",
+   "first": "",
+   "prompt": "A realistic color photograph from the 1970s, a cast-iron coin-operated penny scale with a round white dial and a small fortune card slot standing on the checkered tile floor of an old drugstore, glass-front shelves of bottles softly blurred behind it. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE PENNY SCALE AT THE DRUGSTORE TOLD YOUR WEIGHT AND YOUR FORTUNE FOR A PENNY.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a cast-iron penny scale with a round dial on the tile floor of an old drugstore. No people. Text at the top reads: The penny scale at the drugstore told your weight and your fortune for a penny.",
+   "image": "images/whispers-of-yesterday/2026-11-06/stories/wys-20261106-1.png"
+  },
+  {
+   "id": "wys-20261106-2",
+   "kind": "story",
+   "template": "T1 illustrated scene",
+   "character": "Home life (the avocado pit)",
+   "quote": "AN AVOCADO PIT, THREE TOOTHPICKS, AND A GLASS OF WATER WERE GRANDMA'S WHOLE GREENHOUSE.",
+   "caption": "",
+   "first": "",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1970s kitchen with harvest-gold appliances and a window over the sink, a grandmother in a housedress leaning in to look at a glass of water on the windowsill holding an avocado pit propped up with three toothpicks, a few small green plants in tin cans beside it, afternoon light. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"AN AVOCADO PIT, THREE TOOTHPICKS, AND A GLASS OF WATER WERE GRANDMA'S WHOLE GREENHOUSE.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Hand-drawn illustration of a grandmother in a 1970s kitchen looking at an avocado pit held up by toothpicks in a glass of water on a windowsill. Text at the top reads: An avocado pit, three toothpicks, and a glass of water were Grandma's whole greenhouse.",
+   "image": "images/whispers-of-yesterday/2026-11-06/stories/wys-20261106-2.png"
+  },
+  {
+   "id": "wys-20261106-3",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Community (the church bazaar)",
+   "quote": "THE CHURCH BAZAAR / HOMEMADE JAM, KNITTED POTHOLDERS, AND A CASH BOX WITH A KEY",
+   "caption": "",
+   "first": "",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a church hall fall bazaar, a woman in an apron seated behind a folding table covered with jars of homemade jam, stacks of knitted potholders and a small metal cash box with a key, a hand-lettered paper banner strung behind her with no readable words. Bold retro serif headline text at top reads exactly: \"THE CHURCH BAZAAR\". Subtitle text below it reads exactly: \"HOMEMADE JAM, KNITTED POTHOLDERS, AND A CASH BOX WITH A KEY\". Warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro flat illustration of a woman in an apron behind a folding table of jam jars, knitted potholders and a cash box at a church bazaar. Headline: The Church Bazaar. Subtitle: Homemade jam, knitted potholders, and a cash box with a key.",
+   "image": "images/whispers-of-yesterday/2026-11-06/stories/wys-20261106-3.png"
+  }
+ ]
+}
