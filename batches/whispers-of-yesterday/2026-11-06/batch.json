@@ -1,21 +1,21 @@
 {
  "title": "Whispers Of Yesterday Review · Nov 6",
- "subtitle": "10 feed (8 images + 2 TOBIs) + 3 stories · 0 from the inbox (empty) · 0 held posts · no questions or hashtags in captions or first comments",
+ "subtitle": "REVISED: posts 1 and 5 (first and fifth in queue) were rejected and are replaced (rug beating, coal delivery) and are Waiting; everything else unchanged and approved. 10 feed (8 images + 2 TOBIs) + 3 stories · 0 from the inbox · no questions or hashtags in captions or first comments",
  "bucket": "Whispers Of Yesterday",
  "story_bucket": "Whispers Of Yesterday Stories",
  "posts": [
   {
-   "id": "wy-20261106-01",
+   "id": "wy-20261106-09",
    "kind": "image",
    "template": "T1 illustrated scene",
-   "character": "Church (the funeral home fans)",
-   "quote": "THE CHURCH FANS CAME FROM THE FUNERAL HOME, AND EVERYBODY WAVED THEM ANYWAY.",
-   "caption": "July in a church with no air conditioning had its own kind of sermon. The windows were propped open, the ceiling fans did their best, and the real relief came from a rack on the back of every pew. Cardboard fans on a wooden stick, a country scene on the front and the name of the funeral home printed on the back. Nobody found that strange, not once. Grandmothers fanned in time with the organ, and the little kids fanned each other until somebody got a look. By the closing hymn the whole congregation was swaying like a field of wheat.",
-   "first": "Ours had the funeral home's name on the back in tiny letters. My grandmother kept hers in her purse all week, just in case. I think I used the same fan until I was twelve.",
-   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, the inside of a small white country church on a hot summer Sunday, rows of wooden pews, tall windows propped open, a grandmother in a plain dress and a boy in a collared shirt in a pew fanning themselves with cardboard hand fans on wooden sticks, a rack of more fans on the pew back in front of them, other churchgoers seen from behind. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE CHURCH FANS CAME FROM THE FUNERAL HOME, AND EVERYBODY WAVED THEM ANYWAY.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "character": "Home life (beating the rugs)",
+   "quote": "MOM BEAT THE RUGS OVER THE CLOTHESLINE EVERY SPRING, AND THE WHOLE YARD DISAPPEARED IN DUST.",
+   "caption": "The first warm Saturday in spring, the rugs came out of the house and went over the clothesline like surrendered flags. Mom handed each of us a wicker beater shaped like a tennis racket and pointed. You hit the rug, a cloud of last winter came out, and you hit it again. The dust hung in the sunlight, golden and thick, and the dog ran circles through it. By noon the yard smelled like clean wool, and the rug, somehow, looked exactly the same. Nobody ever asked why it had to be done every year.",
+   "first": "I got the beater with the cracked handle, which I took personally. Mom said the harder you hit, the cleaner it got, so I hit it like it owed me money. Years later I found one of those wicker beaters at a yard sale and nearly bought it.",
+   "prompt": "(ElevenLabs flow d7h1ivjBhXOj21mxWPft node wy-20261106-09)",
    "ai": false,
-   "alt": "Hand-drawn illustration of a grandmother and a boy fanning themselves with cardboard hand fans in a pew of a small country church on a hot day. Text at the top reads: The church fans came from the funeral home, and everybody waved them anyway.",
-   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-01.png"
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-09.png",
+   "alt": "Hand-drawn illustration of a mother and a young boy beating a rug hung on a clothesline with wicker carpet beaters, dust rising and a dog trotting by. Text at the top reads: Mom beat the rugs over the clothesline every spring, and the whole yard disappeared in dust."
   },
   {
    "id": "wy-20261106-02",
@@ -53,17 +53,17 @@
    "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-03.png"
   },
   {
-   "id": "wy-20261106-04",
+   "id": "wy-20261106-10",
    "kind": "image",
    "template": "T3 retro poster",
-   "character": "Old jobs and skills (the pay envelope)",
-   "quote": "THE PAY ENVELOPE / CASH, A PENCILED TOTAL, AND A WEEK'S WORK IN YOUR HAND",
-   "caption": "Friday at the plant meant a small brown envelope with your name on the front. The total was penciled across the top in somebody's careful handwriting, and the cash inside was folded once. You counted it twice, right there in the hall, then slid it into your shirt pocket where you could feel it. Some of it went straight to Mom for the grocery money, and some went in the sugar bowl on the top shelf. There was no pay stub, because the envelope was the stub. Some fellows kept the empty one in a drawer for a week, just to look at the number again.",
-   "first": "My father brought his home every Friday, still in his shirt pocket, and set it by the sugar bowl before he even took off his boots. Mom would pick it up, count it without a word, and put on the coffee. I thought that was how every house worked.",
-   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a young man in work clothes and a cap standing at a factory gate, holding a small brown pay envelope in one hand and a few folded dollar bills in the other, a plain brick factory with a smokestack behind him, a lunch pail at his feet. Bold retro serif headline text at top reads exactly: \"THE PAY ENVELOPE\". Subtitle text below it reads exactly: \"CASH, A PENCILED TOTAL, AND A WEEK'S WORK IN YOUR HAND\". Warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "character": "Old jobs and skills (the coal delivery)",
+   "quote": "THE COAL DELIVERY / A CHUTE, A CLOUD OF DUST, AND A WINTER'S WORTH IN THE CELLAR",
+   "caption": "The coal truck came in the fall, and the whole block knew it by the sound. The driver backed up to the side of the house, opened the little iron door at the foundation, and set a steel chute against it. Then came the roar, a long black river pouring into the cellar, and a cloud of dust that settled on everything within fifty feet. Mom closed the windows, and Dad stood in the yard with his arms folded, watching the pile grow. A full bin meant you could stop worrying about January. A whole winter's warmth arrived in about ten loud minutes.",
+   "first": "Shoveling that coal into the furnace was my job all winter, one scoop at a time. By March I had arms like a grown man. The cellar smelled like that for the rest of my childhood.",
+   "prompt": "(ElevenLabs flow d7h1ivjBhXOj21mxWPft node wy-20261106-10)",
    "ai": false,
-   "alt": "Retro flat illustration of a young man in work clothes holding a brown pay envelope and folded bills in front of a brick factory. Headline: The Pay Envelope. Subtitle: Cash, a penciled total, and a week's work in your hand.",
-   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-04.png"
+   "image": "images/whispers-of-yesterday/2026-11-06/wy-20261106-10.png",
+   "alt": "Retro flat illustration of a coal truck with a steel chute running into a cellar window of a frame house, a father watching from the yard. Headline: The Coal Delivery. Subtitle: A chute, a cloud of dust, and a winter's worth in the cellar."
   },
   {
    "id": "wy-20261106-05",
