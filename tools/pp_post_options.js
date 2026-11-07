@@ -4,7 +4,9 @@
 // Use in the built-in browser on the bucket page (https://app.postplanner.com/posts/buckets/<id>/posts),
 // viewport 1280x800. Reload the bucket page and take ONE screenshot first: while the browser pane is
 // hidden the post list doesn't draw its rows until a screenshot is taken. Then paste this whole file into javascript_tool once per page load, then:
-//   await __pp.run([{search: "<distinctive caption words>", caption: "<caption start>", alt: "<alt text>"}, ...])
+//   __pp.start([{search: "<distinctive caption words>", caption: "<caption start>", alt: "<alt text>"}, ...])
+//   then poll ({prog: window.__prog, res: window.__res}) every ~30 s until res is not null. (A run takes
+//   30-60 s per post, longer than javascript_tool's timeout, so don't await __pp.run(...) directly.)
 //   stories (no caption): {image: "<image file name, e.g. wys-20261017-1.png>", alt: "..."}
 // run() searches the bucket for each post (the list only draws rows on screen, so search is how we
 // reach a post), opens Edit Post, switches AI content ON and Add alt text ON, fills the alt text box,
@@ -94,23 +96,64 @@ window.__pp = {
     for (let i = 0; i < 25; i++) { await this.sleep(300); if (!document.querySelector('[role=dialog]')) return save ? 'saved' : 'closed'; }
     return 'still open';
   },
+  // Every post-image URL currently drawn or scrolled past in the list (the list only draws rows on screen,
+  // so scroll through it). Used to spot a story's new image URL after a save (see one()).
+  async scanSrcs() {
+    const els = this.scrollers(); els.forEach(e => e.scrollTop = 0); await this.sleep(400);
+    const seen = new Set();
+    for (let i = 0; i < 40; i++) {
+      document.querySelectorAll('main img').forEach(im => { if (/^https?:/.test(im.src) && !/icons|\.svg|graph\.facebook/.test(im.src)) seen.add(im.src); });
+      const before = els.map(e => e.scrollTop);
+      els.forEach(e => e.scrollTop += 400); await this.sleep(250);
+      if (els.every((e, k) => e.scrollTop === before[k])) break;
+    }
+    els.forEach(e => e.scrollTop = 0);
+    return [...seen];
+  },
   async one(p) {
     const label = p.image || p.caption.slice(0, 30);
+    // Stories have no caption and are found by image file name. Post Planner re-hosts a story's image under
+    // a new file name when the edit is saved (seen 2026-11-06 and 2026-11-07), so the file name no longer
+    // matches on the recheck. Fix: remember every image URL before saving, then find the one new URL after.
+    const before = p.image ? await this.scanSrcs() : null;
     let o = await this.open(p); if (o !== 'open') return { post: label, ok: false, error: o };
     const st = await this.apply(p.alt);
     if (typeof st === 'string') { await this.close(false); return { post: label, ok: false, error: st }; }
     const saved = await this.close(true); if (saved !== 'saved') return { post: label, ok: false, error: 'save: ' + saved };
     await this.sleep(1500);
-    o = await this.open(p); if (o !== 'open') return { post: label, ok: false, error: 'recheck: ' + o };
+    let q = p;
+    if (before) {
+      const fresh = (await this.scanSrcs()).filter(s => !before.includes(s));
+      // Keep the new URL on the job too, so a retry of this post (see run()) can still find it.
+      if (fresh.length === 1) { q = { ...p, image: fresh[0] }; p.image = fresh[0]; }
+      else if (fresh.length > 1) return { post: label, ok: false, error: 'recheck: ' + fresh.length + ' new image URLs, cannot tell which is this post' };
+    }
+    o = await this.open(q); if (o !== 'open') return { post: label, ok: false, error: 'recheck: ' + o };
     const back = this.state(); await this.close(false);
     const ok = back.ai === true && back.altOn === true && back.alt === p.alt.slice(0, 500);
     return { post: label, ok, ai: back.ai, altOn: back.altOn, altSaved: back.alt === p.alt.slice(0, 500) };
   },
+  // Runs every item, then retries each failure once (the runbook rule). A failed first pass is usually the
+  // list not drawing yet or a slow save; the settings are idempotent, so a retry is safe.
   async run(items) {
     const out = [];
-    for (const p of items) out.push(await this.one(p));
+    for (const p of items) { out.push(await this.one(p)); window.__prog = out.length; }
+    for (let i = 0; i < out.length; i++) {
+      if (out[i].ok) continue;
+      const first = out[i].error;
+      await this.search('');
+      out[i] = await this.one(items[i]); out[i].retried = true; out[i].firstError = first;
+    }
     await this.search('');
     return out;
+  },
+  // Use this from javascript_tool instead of awaiting run(): a run takes about 30-60 s per post, longer than
+  // the tool's timeout. start() returns at once; poll `({prog: window.__prog, res: window.__res})` until
+  // window.__res is not null (an array of per-post results, or {error}).
+  start(items) {
+    window.__res = null; window.__prog = 0;
+    this.run(items).then(r => window.__res = r).catch(e => window.__res = { error: String(e) });
+    return 'started ' + items.length;
   }
 };
 '__pp ready';
