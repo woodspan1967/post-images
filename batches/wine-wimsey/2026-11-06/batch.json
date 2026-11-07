@@ -47,14 +47,13 @@
    "kind": "image",
    "template": "E comic panel · seasonal",
    "character": "The Hot Mess",
-   "quote": "BLACK FRIDAY NOW STARTS THE FIRST WEEK OF NOVEMBER. AT THIS RATE THEY SHOULD JUST CALL IT FALL.",
-   "caption": "I got an email on the third of November saying the deals are here. I checked my calendar twice. Still not Black Friday. They've moved it so many times I expect to see it in September next year, between back to school and the first pumpkin anything.",
-   "first": "I'm not buying anything. I'm just watching the emails pile up like leaves. It's very seasonal, in its way.",
-   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun at a kitchen table with a laptop and a pile of store flyers, squinting at a wall calendar with a glass of red wine. Text at the top reads: Black Friday now starts the first week of November. At this rate they should just call it fall.",
-   "prompt": "A colorful cartoon comic panel illustration of The Hot Mess, a medium-build woman in her early 50s with auburn-brown hair with clearly visible grey streaks, piled into a messy bun with a yellow pencil pushed through it and loose strands falling around her face. Warm complexion, soft full cheeks, laugh lines, expressive raised eyebrows. Round tortoiseshell reading glasses pushed up on her forehead. Wearing an olive-green zip-up vest over a navy-and-cream striped long-sleeve shirt and dark blue jeans, sitting at a kitchen table with an open laptop and a tall messy pile of colorful store flyers, squinting suspiciously at a wall calendar with one finger raised, a glass of red wine beside the laptop, a window with bare autumn trees. Bright bright yellow background with a thick black comic book border around the entire panel. Bold black uppercase text at the top of the panel reads exactly: \"BLACK FRIDAY NOW STARTS THE FIRST WEEK OF NOVEMBER. AT THIS RATE THEY SHOULD JUST CALL IT FALL.\". Cartoon illustration style, thick black outlines, flat vibrant colors, expressive features, Sunday newspaper comic aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "quote": "I ORDERED THANKSGIVING GROCERIES ONLINE. THEY SUBSTITUTED THE CRANBERRY SAUCE WITH ONE BEET. I DIDN'T ASK FOR A PLOT TWIST.",
+   "caption": "I ordered everything on Monday and felt very organized. The pickup bag had stuffing, rolls, and one beet where the cranberry sauce should be, with a note saying the item was unavailable. It's a nice beet. It's also not what my family has eaten every year since 1987.",
+   "first": "I'm going to put the beet on the table and see who says something first.",
+   "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun at a kitchen counter holding up a single beet with a puzzled flat look next to an open grocery bag, with a glass of red wine. Text at the top reads: I ordered Thanksgiving groceries online. They substituted the cranberry sauce with one beet. I didn't ask for a plot twist.",
    "seasonal": true,
-   "ai": false,
-   "image": "images/wine-wimsey/2026-11-06/ww-20261106-04.png"
+   "image": "images/wine-wimsey/2026-11-06/ww-20261106-04.png",
+   "ai": false
   },
   {
    "id": "ww-20261106-05",
@@ -114,9 +113,8 @@
    "caption": "It started in the summer with a thing about hearing aids and now there's a whole folder. Walk-in tubs, cruises for people who enjoy relaxing, a plan that wants me to call by December 7. I read all of it standing at the mailbox, like it's going to quiz me.",
    "first": "The tub brochure had a woman in it smiling very calmly. I'd like to know what she knows.",
    "alt": "Cartoon illustration of a woman with a messy grey-streaked bun standing at a curbside mailbox holding a handful of colorful brochures and mail and reading one with a curious raised eyebrow. Text at the top reads: Since I turned fifty-five, my mailbox has been very interested in walk-in tubs. I'm not saying I looked at the prices.",
-   "prompt": "An Aunty Acid-style flat cartoon vector illustration of The Hot Mess, a medium-build woman in her early 50s with auburn-brown hair with clearly visible grey streaks, piled into a messy bun with a yellow pencil pushed through it and loose strands falling around her face. Warm complexion, soft full cheeks, laugh lines, expressive raised eyebrows. Round tortoiseshell reading glasses pushed up on her forehead. Wearing an olive-green zip-up vest over a navy-and-cream striped long-sleeve shirt and dark blue jeans, standing at a curbside mailbox on a crisp fall day holding a fat handful of glossy brochures and envelopes, reading one brochure with a curious raised eyebrow and a half smile, a glass of red wine in her other hand, autumn leaves on the lawn and a house behind her. A large white speech bubble with a thick bold black outline spans horizontally across the top 30 to 35 percent of the image. Inside the speech bubble, bold black UPPERCASE text in a thick comic-style sans-serif font reads exactly: \"SINCE I TURNED FIFTY-FIVE, MY MAILBOX HAS BEEN VERY INTERESTED IN WALK-IN TUBS. I'M NOT SAYING I LOOKED AT THE PRICES.\". Text is centered, 2 to 4 lines, dominant in the composition. Saturated colors, thick bold black outlines on everything, NO panel border, NO frame, full-bleed illustration. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
-   "ai": false,
-   "image": "images/wine-wimsey/2026-11-06/ww-20261106-09.png"
+   "image": "images/wine-wimsey/2026-11-06/ww-20261106-09.png",
+   "ai": false
   },
   {
    "id": "qt-20261106-D",
@@ -215,10 +213,9 @@
    "caption": "",
    "first": "",
    "alt": "Comic-panel cartoon of a woman with a messy grey-streaked bun at a dining table stacked with plates and napkins, rubbing her temple with a wine glass in hand. Text at the top reads: Somebody always says 'I don't mind hosting' in July. By November, everybody minds.",
-   "prompt": "A colorful cartoon comic panel illustration of The Hot Mess, a medium-build woman in her early 50s with auburn-brown hair with clearly visible grey streaks, piled into a messy bun with a yellow pencil pushed through it and loose strands falling around her face. Warm complexion, soft full cheeks, laugh lines, expressive raised eyebrows. Round tortoiseshell reading glasses pushed up on her forehead. Wearing an olive-green zip-up vest over a navy-and-cream striped long-sleeve shirt and dark blue jeans, standing at a dining table stacked with plates, napkins and serving dishes, rubbing her temple with one hand and holding a glass of red wine in the other, a weary side-eye at the viewer, a wall calendar behind her. Bright soft green background with a thick black comic book border around the entire panel. Bold black uppercase text at the top of the panel reads exactly: \"SOMEBODY ALWAYS SAYS 'I DON'T MIND HOSTING' IN JULY. BY NOVEMBER, EVERYBODY MINDS.\". Cartoon illustration style, thick black outlines, flat vibrant colors, expressive features, Sunday newspaper comic aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
    "seasonal": true,
-   "ai": false,
-   "image": "images/wine-wimsey/2026-11-06/stories/ws-20261106-1.png"
+   "image": "images/wine-wimsey/2026-11-06/stories/ws-20261106-1.png",
+   "ai": false
   },
   {
    "id": "ws-20261106-2",
