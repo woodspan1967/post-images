@@ -1,0 +1,114 @@
+{
+ "title": "Horse Soup Review · Nov 7",
+ "subtitle": "6 feed (5 images + 1 TOBI) and 2 stories · 0 from inbox (empty), 0 held",
+ "bucket": "Horse Soup",
+ "story_bucket": "Horse Soup Stories",
+ "posts": [
+  {
+   "id": "hs-20261107-01",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "Pudding",
+   "theme": "treats and food obsession",
+   "quote": "I GOT THE GRAIN BIN OPEN IN NINE MINUTES. EVERYONE WANTS TO KNOW WHERE THE GRAIN WENT. NOBODY'S IMPRESSED BY MY PROGRESS.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. Pudding, an adorable, very round, chubby Shetland pony drawn in a cute, friendly cartoon style, with four short stubby legs, small hooves, fuzzy pony ears, a soft fuzzy dark brown coat, a big round belly, and a huge fluffy cream-colored forelock that flops over his forehead with one or two pieces of straw stuck in it. His face is a natural soft horse muzzle with no human lips and no visible teeth: large round shiny brown eyes with sparkly highlights, rosy cheeks, a small closed-mouth content smile, and slightly raised eyebrows that look innocent and a little guilty. Standing in the open doorway of a feed room, a smear of oats on his nose, looking up with innocent slightly guilty eyes, one small hoof resting on the swung-open door in a feed room with wooden grain bins, a spilled scoop, a metal scoop on a hook, a bag of feed with a torn corner and a barn cat watching from a shelf, with a small sign on the wall reading \"No Hay No Way\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"I GOT THE GRAIN BIN OPEN IN NINE MINUTES. EVERYONE WANTS TO KNOW WHERE THE GRAIN WENT. NOBODY'S IMPRESSED BY MY PROGRESS.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Cartoon illustration of a round fuzzy brown Shetland pony with a cream forelock standing in an open feed room doorway with oats on his nose, grain bins behind him. Text at the top reads: I got the grain bin open in nine minutes. Everyone wants to know where the grain went. Nobody's impressed by my progress.",
+   "caption": "I found the feed room door standing open at 6:15 and I knew before I looked. Pudding was in the aisle with oats on his nose and the calm face of someone who has nothing to explain. Three scoops were gone, which in pony terms is a banquet. I swept for twenty minutes and spent the rest of the morning wondering who taught him. He watched the broom the whole time. That afternoon I bought a carabiner for the bin lid. The man at the feed store said it won't help. I bought two.",
+   "first": "My first pony taught me to check every lid and latch twice. I still do it every night with a flashlight, in my slippers, like someone guarding a vault. Pudding watches from his stall and doesn't say a word. I think he's taking notes.",
+   "ai": false,
+   "image": "images/horse-soup/2026-11-07/hs-20261107-01.png"
+  },
+  {
+   "id": "hs-20261107-02",
+   "kind": "image",
+   "template": "I2 speech bubble",
+   "character": "Big Red",
+   "theme": "mud, weather, and blankets",
+   "quote": "THE TAG ON MY BLANKET SAYS 'WATERPROOF.' THE TAG HAS NEVER MET MY PADDOCK.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. Big Red, a huge, solidly built copper-chestnut draft mare with heavy white feathered legs, a wide white blaze, an enormous wild halo of curly copper mane and forelock, thin round wire-frame reading glasses, large gold hoop earrings in both ears, and a bold geometric-print blanket in burnt orange, deep plum, and mustard gold, with a confident side-eye and a smug red-lipped smirk. Standing in a puddled paddock with one front hoof lifted in a firm stop gesture, head turned toward an off-frame person with a smug side-eye, a pair of muddy rubber boots visible at the edge of the frame in a muddy paddock with a fence line, an open-sided run-in shelter, an overturned bucket, puddles reflecting gray clouds and a hay net hanging from a post, with a small sign on the wall reading \"Mud Season\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"THE TAG ON MY BLANKET SAYS 'WATERPROOF.' THE TAG HAS NEVER MET MY PADDOCK.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Cartoon illustration of a big copper draft mare with reading glasses and a geometric blanket standing in a muddy paddock, one front hoof raised, giving a smug side-eye to someone out of frame. Text at the top reads: The tag on my blanket says 'waterproof.' The tag has never met my paddock.",
+   "caption": "The new blankets came in on Tuesday, tags still on, and I put the biggest one on my draft mare before a morning of rain. By ten the paddock was a soup of brown water and the herd was lined up under the roof like commuters. All except one mare, who stood in the middle of it with her blanket soaked to the girth. She had the look of someone who'd read the tag and chosen to test it. I toweled her for half an hour. She leaned into every minute.",
+   "first": "I own a rain jacket with a hole in the left elbow that I've been meaning to replace since 2019. It hangs by the barn door and has met every storm with me. Last week my husband offered to buy a new one. I told him this one still works. He said it doesn't. It's still on the hook.",
+   "ai": false,
+   "image": "images/horse-soup/2026-11-07/hs-20261107-02.png"
+  },
+  {
+   "id": "hs-20261107-t1",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "",
+   "theme": "non-horse people not understanding",
+   "quote": "My neighbor asked what I do with a horse all day. I told her the truth: I carry water, and I'm supervised.",
+   "first": "Last Saturday I hauled forty gallons of water, three bales, and one very opinionated wheelbarrow across the yard before nine. The horse watched from the shade and flicked an ear when I dropped a bucket. I took it as encouragement. My neighbor waved from her porch with a coffee.",
+   "ai": false
+  },
+  {
+   "id": "hs-20261107-03",
+   "kind": "image",
+   "template": "W storybook",
+   "character": "Homebody",
+   "theme": "the horse budget vs. the spouse",
+   "quote": "Hay is up again and the budget is tight. She said she'd skip her own appointment before she'd skip my winter blanket. I've never told her I heard.",
+   "prompt": "Whimsical, heartwarming hand-drawn storybook cartoon illustration with clean black ink outlines, soft rounded shapes, gentle painterly coloring, and a warm nostalgic glow. Golden sunbeams stream through a window with floating dust motes and soft light. The main character is a real four-legged horse drawn extra cute and huggable, with a round soft body, sturdy legs, small hooves, fuzzy ears, and a soft rounded muzzle with no human lips and no visible teeth. Big gentle expressive eyes, rosy blushing cheeks, and a tender, sweet expression. Cozy, cluttered, sentimental setting full of heartfelt keepsake details. The Homebody, a round, plump bay mare with a fuzzy extra-thick winter coat, a short black mane, soft heavy-lidded sleepy eyes, full rosy cheeks, and a contented little smile, wearing a cozy lavender-purple fleece cooler, with a tabby barn cat curled up asleep on her back. Resting in a deep straw-bedded corner with her eyes crinkled in a soft smile and a single happy tear, looking toward a coffee can on a shelf in a tack room corner with afternoon sun through a small window, saddles on racks and a quilt over a stall door, surrounded by keepsakes: a rusty coffee can on a shelf, a folded winter blanket on a hook, faded show ribbons, a worn first halter, a child's crayon drawing of a horse and a jar of peppermints. A clean white speech bubble with a black outline sits in the upper right of the image, tail pointing to the character. Inside, black sentence-case text in a friendly handwritten font reads exactly: \"Hay is up again and the budget is tight. She said she'd skip her own appointment before she'd skip my winter blanket. I've never told her I heard.\". Natural line breaks. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Storybook-style cartoon illustration of a round bay mare in a lavender fleece cooler with a tabby cat asleep on her back, resting in straw in a sunny tack room beside a coffee can, a folded blanket and old show ribbons. Text reads: Hay is up again and the budget is tight. She said she'd skip her own appointment before she'd skip my winter blanket. I've never told her I heard.",
+   "caption": "Our tack room has a coffee can on the shelf labeled 'dentist.' It isn't for the dentist. It's where the cash goes when the hay guy raises his price, and it has been getting lighter since August. I counted it on Sunday and found a note in my own handwriting that said 'blanket first.' I have no memory of writing it. I looked over the stall door at my round bay mare asleep under a lavender cooler with a cat on her back, and I understood myself completely. The dentist can wait another winter.",
+   "first": "The barn cat picked her spot on that mare's back in October and hasn't moved since, except for meals. I tiptoe in at night to check the water and neither of them opens an eye. It's the best-run operation on the property, and it costs me two bags of kibble a month.",
+   "ai": false,
+   "image": "images/horse-soup/2026-11-07/hs-20261107-03.png"
+  },
+  {
+   "id": "hs-20261107-04",
+   "kind": "image",
+   "template": "H character card",
+   "character": "Old Timer",
+   "theme": "who's really in charge",
+   "quote": "The young gelding asked how to get her attention. I said stand by the gate and look underfed. It's worked since 2009.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Old Timer, an elderly dappled gray gelding with a silver-white mane and long white forelock, gray whiskers on his muzzle, a slightly swayed back, a droopy relaxed lower lip, calm heavy-lidded eyes, and small round bifocals perched low on his nose, wearing a faded green plaid sheet. shown from the shoulders or chest up on the left side of the image, calm and unbothered, chewing a single strand of hay with a flat knowing look. Soft cream background with one small sketched scene element in the lower right corner, a small sketched fence post with a bucket hanging from it. On the right side, large black hand-lettered text in a playful handwritten font reads exactly: \"The young gelding asked how to get her attention. I said stand by the gate and look underfed. It's worked since 2009.\", written directly on the background with natural line breaks, no speech bubble, no box. The only text in the image is the hand-lettered text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Cartoon illustration of an elderly dapple gray gelding with small round bifocals and a faded green plaid sheet, chewing a strand of hay on a cream background beside a sketched fence post and bucket. Hand-lettered text reads: The young gelding asked how to get her attention. I said stand by the gate and look underfed. It's worked since 2009.",
+   "caption": "The new gelding showed up in September with a trailer full of opinions. He tried the gate, the water trough, and the fence charger before lunch on his first day. The old gray in the end stall watched all of it from under his forelock and said nothing. Two weeks later the new one was standing beside him every afternoon, chewing at exactly the same speed. I don't know what was said. The quiet in that barn has gotten noticeably better, and the gate hasn't been touched since.",
+   "first": "My husband says that horse has the best posture in the county for his age. I tell him it's the bifocals. They make him look like he's reading something important. He's mostly checking who is holding a carrot. He has been right every single time.",
+   "ai": false,
+   "image": "images/horse-soup/2026-11-07/hs-20261107-04.png"
+  },
+  {
+   "id": "hs-20261107-05",
+   "kind": "image",
+   "template": "I soft bubble",
+   "character": "Diva",
+   "theme": "vet and farrier bills",
+   "quote": "The vet bill was $412. She paid it, looked at me, and said 'worth it.' I fixed my forelock and pretended that was routine.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Diva, a sleek chestnut mare with a glossy copper coat, a long flowing wavy flaxen-blonde mane and forelock that look salon-styled, a small white star on her forehead, long dark eyelashes, heavy-lidded knowing eyes, a slim gold hoop earring in her left ear, and a sly closed-mouth smirk, wearing a burgundy leather halter with small gold trim. Standing at the open end of a barn aisle with her chin lifted, her forelock perfectly arranged, giving a soft side-glance toward an off-frame person while a vet's truck is parked in the distance outside the doorway in a barn aisle with stall doors, a rubber-matted floor, a wooden bench holding a thermos and a folded invoice envelope, halters on hooks and morning light through the doorway. A clean white speech bubble with a black outline sits in the upper portion of the image, tail pointing to the character. Inside, black sentence-case text in a friendly handwritten font reads exactly: \"The vet bill was $412. She paid it, looked at me, and said 'worth it.' I fixed my forelock and pretended that was routine.\". Natural line breaks. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Cartoon illustration of a sleek chestnut mare with a gold hoop earring and a burgundy halter standing in a barn aisle, chin lifted, a vet's truck visible outside the doorway. Text reads: The vet bill was $412. She paid it, looked at me, and said 'worth it.' I fixed my forelock and pretended that was routine.",
+   "caption": "The vet's invoice came in an envelope heavier than I wanted. Inside was a number with a comma in it and a line that said 'dental float.' I stood in the kitchen reading it twice, then walked out to the barn in my socks. She was at the stall door with her forelock perfectly arranged, which is her way of saying everything is fine. I scratched under her halter and said nothing. The check went out Friday. The forelock stayed arranged all week.",
+   "first": "My mother used to say you don't buy a horse, you sign up for a second mortgage with feelings. I laughed at the time. I've since had a conversation with my own bank. They were polite. The horse was not present for that meeting.",
+   "ai": false,
+   "image": "images/horse-soup/2026-11-07/hs-20261107-05.png"
+  }
+ ],
+ "stories": [
+  {
+   "id": "hss-20261107-1",
+   "kind": "story",
+   "template": "I2 speech bubble",
+   "character": "Diva",
+   "theme": "mare attitude",
+   "quote": "I AM NOT LATE. THE SHOW STARTS WHEN I ARRIVE.",
+   "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Diva, a sleek chestnut mare with a glossy copper coat, a long flowing wavy flaxen-blonde mane and forelock that look salon-styled, a small white star on her forehead, long dark eyelashes, heavy-lidded knowing eyes, a slim gold hoop earring in her left ear, and a sly closed-mouth smirk, wearing a burgundy leather halter with small gold trim. Walking in through the gate of a show ring with her chin high, a tiny glance over her shoulder at the clock, mid-stride with all four hooves on the ground in a show ring with a judge's booth, striped flower boxes, a row of jump rails, ribbons on a rail and an empty bleacher, with a small sign on the wall reading \"Good Pony\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"I AM NOT LATE. THE SHOW STARTS WHEN I ARRIVE.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Cartoon illustration of a sleek chestnut mare with a gold hoop earring striding into a show ring with her chin high, a judge's booth behind her. Text at the top reads: I am not late. The show starts when I arrive.",
+   "ai": false,
+   "image": "images/horse-soup/2026-11-07/stories/hss-20261107-1.png"
+  },
+  {
+   "id": "hss-20261107-2",
+   "kind": "story",
+   "template": "W storybook",
+   "character": "Pudding",
+   "theme": "spooking at nothing",
+   "quote": "I jumped at my own shadow this morning. It followed me all day. We're getting along now.",
+   "prompt": "Whimsical, heartwarming hand-drawn storybook cartoon illustration with clean black ink outlines, soft rounded shapes, gentle painterly coloring, and a warm nostalgic glow. Golden sunbeams stream through a window with floating dust motes and soft light. The main character is a real four-legged horse drawn extra cute and huggable, with a round soft body, sturdy legs, small hooves, fuzzy ears, and a soft rounded muzzle with no human lips and no visible teeth. Big gentle expressive eyes, rosy blushing cheeks, and a tender, sweet expression. Cozy, cluttered, sentimental setting full of heartfelt keepsake details. Pudding, an adorable, very round, chubby Shetland pony drawn in a cute, friendly cartoon style, with four short stubby legs, small hooves, fuzzy pony ears, a soft fuzzy dark brown coat, a big round belly, and a huge fluffy cream-colored forelock that flops over his forehead with one or two pieces of straw stuck in it. His face is a natural soft horse muzzle with no human lips and no visible teeth: large round shiny brown eyes with sparkly highlights, rosy cheeks, a small closed-mouth content smile, and slightly raised eyebrows that look innocent and a little guilty. Standing in a golden pasture at the end of the day, looking down at his own long round shadow on the grass with a soft curious smile in a hay barn doorway opening onto a pasture at sunset, surrounded by keepsakes: a pitchfork leaning on a bale, a faded show ribbon on a post, a child's crayon drawing of a pony pinned to a beam, a small bucket of carrots and a tabby barn cat nearby. A clean white speech bubble with a black outline sits in the upper right of the image, tail pointing to the character. Inside, black sentence-case text in a friendly handwritten font reads exactly: \"I jumped at my own shadow this morning. It followed me all day. We're getting along now.\". Natural line breaks. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text. Keep the bottom corners plain. Vertical 4:5 format.",
+   "alt": "Storybook-style cartoon illustration of a round fuzzy brown Shetland pony with a cream forelock looking down at his own long shadow on a golden pasture at sunset. Text reads: I jumped at my own shadow this morning. It followed me all day. We're getting along now.",
+   "ai": false,
+   "image": "images/horse-soup/2026-11-07/stories/hss-20261107-2.png"
+  }
+ ]
+}
