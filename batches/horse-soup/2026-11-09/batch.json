@@ -1,6 +1,6 @@
 {
  "title": "Horse Soup Review · Nov 9",
- "subtitle": "(set after images)",
+ "subtitle": "6 feed (5 images + 1 TOBI) and 2 stories for Nov 9 · 0 from inbox (inbox was empty), 0 held · themes: non-horse people (Big Red post and Big Red story), budget vs. spouse (Diva, Old Timer card), who's in charge (TOBI), treats (Homebody), humbling riding (Pudding), spooking (Diva story) · all 5 characters in the feed, I soft bubble today (F ran Nov 8) · 8 images generated (7 + 1 retake of the Big Red post: the first take drew five legs), about 362 credits · FLAGS: (1) Diva story: her ear tip touches the E in 'BE' in the bubble, text still reads fine, left as is; (2) weekday words in the copy, check them if this goes out on a different day than Nov 9: Big Red caption says 'on Saturday', Old Timer card says 'Every Saturday'; (3) every theme was used in the last 3 days, so I picked the least-used ones; (4) no Nov 4-8 joke or used-list quote is reused",
  "bucket": "Horse Soup",
  "story_bucket": "Horse Soup Stories",
  "posts": [
@@ -14,7 +14,9 @@
    "quote": "THE TRAILER SALESMAN SAID IT FITS TWO HORSES COMFORTABLY. I'M ONE HORSE AND I'VE ALREADY FILED A COMPLAINT.",
    "first": "My first trailer was a rusted two-horse bumper pull I bought for eight hundred dollars. It hauled me to every show for eleven years. I checked the floor with a screwdriver before every trip and said a short prayer at the hitch. I miss it more than I'd admit to a salesman.",
    "caption": "The soft spot in our old trailer floor has finally become something we can't ignore, so we drove forty minutes to a dealer lot on Saturday. The salesman had a clipboard and a great deal of confidence. He opened the divider, knocked on the wall, and told us the trailer fit two horses comfortably. I walked my draft mare up the ramp to check for myself. She stepped in, stopped, and stood with her nose against the front wall and her tail against the back gate. It took her eleven seconds to give her opinion. The salesman wrote something down. We're still shopping.",
-   "ai": false
+   "ai": false,
+   "alt": "Cartoon illustration of a large copper-chestnut draft mare in round glasses and a patterned blanket, standing at the lowered ramp of a silver horse trailer with one front hoof raised toward a person holding a clipboard. Text at the top reads: The trailer salesman said it fits two horses comfortably. I'm one horse and I've already filed a complaint.",
+   "image": "images/horse-soup/2026-11-09/hs-20261109-01.png"
   },
   {
    "id": "hs-20261109-02",
@@ -26,7 +28,9 @@
    "quote": "SHE CALLS ME HER BEST INVESTMENT. NINE YEARS IN, THE ONLY RETURN IS MY SHINE. I CALL THAT A DIVIDEND.",
    "first": "I started the folder the week I brought her home, with a manila envelope and a stapler borrowed from the feed store counter. It became a binder, then a box. I can find any vet record in under a minute. I couldn't tell you where I put my car title.",
    "caption": "I keep a folder for her on the kitchen shelf, and it's thicker than the one for the house. It holds registration papers, vet records, a Coggins test that expires in March, farrier notes, and four years of show entries she did not win. Last night my husband sat down and read every page. I was braced for a speech. He closed the cover, slid it back across the table, and put his boots on. Ten minutes later he was out at the barn checking her water. She was already waiting at the stall door.",
-   "ai": false
+   "ai": false,
+   "alt": "Cartoon illustration of a glossy chestnut mare with a long blonde mane and a burgundy halter, looking back over her shoulder in a tack room with saddles, bridles and show rosettes. Text at the top reads: She calls me her best investment. Nine years in, the only return is my shine. I call that a dividend.",
+   "image": "images/horse-soup/2026-11-09/hs-20261109-02.png"
   },
   {
    "id": "hs-20261109-t1",
@@ -48,7 +52,9 @@
    "quote": "Every Saturday he says he's only coming out to help for ten minutes. That was four years ago. He has since claimed the good chair.",
    "first": "The chair is green, it folds, and I bought it for six dollars at a yard sale for guests. Nobody else has ever sat in it. He keeps it at the end of the aisle with a thermos and a wool blanket, and I've stopped moving it back.",
    "caption": "The old gelding turned twenty-seven in October, and we marked it the way he prefers, which is not at all. He got his usual scoop, a carrot cut into coins, and a long scratch under the forelock. Then my husband stood at the stall door with his coffee and told him about the weather for twenty minutes. The horse blinked slowly through all of it. I think he had already heard the forecast. I didn't interrupt either of them. It rained the next day, and neither of them mentioned it.",
-   "ai": false
+   "ai": false,
+   "alt": "Cartoon illustration of an elderly dappled gray horse in a green plaid sheet and small round glasses, chewing a piece of hay, beside a sketch of a folding chair and a thermos on a fence post. Text on the right reads: Every Saturday he says he's only coming out to help for ten minutes. That was four years ago. He has since claimed the good chair.",
+   "image": "images/horse-soup/2026-11-09/hs-20261109-03.png"
   },
   {
    "id": "hs-20261109-04",
@@ -60,7 +66,9 @@
    "quote": "Breakfast at six, dinner at four, and nobody needs me for anything in between. I call that a balanced schedule.",
    "first": "The string lights were my husband's idea after the power went out for two days last January. They run off a battery pack now, which is the most useful thing anyone has ever bought for this barn. She likes the warm yellow. I like not walking to the water buckets in the dark.",
    "caption": "By three-thirty the barn smells like warm beet pulp and wet wool, which is how I know winter has officially started. I soak the pulp in the big blue bucket before lunch and carry it down the aisle with both hands. Every head comes over its stall door at once. Except hers. She's already lying in the straw with her back legs tucked, watching the dusk come in through the window like a show she paid for. I leave her bucket by the door and turn on the string lights. She'll get up when she's ready.",
-   "ai": false
+   "ai": false,
+   "alt": "Cartoon illustration of a plump bay mare in a purple fleece blanket lying in deep straw in a cozy stall at dusk, with a tabby cat asleep on her back, a quilt on the stall door and string lights overhead. Text at the top reads: Breakfast at six, dinner at four, and nobody needs me for anything in between. I call that a balanced schedule.",
+   "image": "images/horse-soup/2026-11-09/hs-20261109-04.png"
   },
   {
    "id": "hs-20261109-05",
@@ -72,7 +80,9 @@
    "quote": "I'm too small to ride, too round to show, and too loved to sell. I've read the paperwork. I'm exactly where I'm supposed to be.",
    "first": "I bought Pudding at a small livestock auction for sixty dollars because he looked at me like I owed him something. That was seven years ago. I've been paying it off ever since, mostly in carrots. Nobody has ever offered to buy him back, which is just as well, because the answer would be no.",
    "caption": "Pudding makes his rounds at ten every morning. He stops at each stall door, waits until the horse inside looks at him, and then moves on to the next. The barn manager says he's inspecting. The boarders say he's taking attendance. Last week he skipped the new mare's stall, walked three steps, turned around, and stood there until she came over to the door. Then he went back to his hay like nothing had happened. I stopped asking what his job is. The grain bill suggests he's on payroll.",
-   "ai": false
+   "ai": false,
+   "alt": "Storybook-style illustration of a round, fuzzy brown pony with a cream forelock standing in a sunlit hayloft, surrounded by a child's crayon drawing, a blue rosette, a step stool, a bucket of carrots and a small riding helmet. Text at the top right reads: I'm too small to ride, too round to show, and too loved to sell. I've read the paperwork. I'm exactly where I'm supposed to be.",
+   "image": "images/horse-soup/2026-11-09/hs-20261109-05.png"
   }
  ],
  "stories": [
@@ -84,7 +94,9 @@
    "theme": "spooking at nothing",
    "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. The Diva, a sleek chestnut mare with a glossy copper coat, a long flowing wavy flaxen-blonde mane and forelock that look salon-styled, a small white star on her forehead, long dark eyelashes, heavy-lidded knowing eyes, a slim gold hoop earring in her left ear, and a sly closed-mouth smirk, wearing a burgundy leather halter with small gold trim. Standing in the aisle with her neck stretched back and ears pricked, one eye narrowed at a wheelbarrow parked crookedly across the aisle, haughty and unamused in a barn aisle with stall doors, halters on hooks, a crooked wheelbarrow of fresh shavings, a push broom leaning on the wall and a barn cat on a hay bale, with a small sign on the wall reading \"Horse Hair Everywhere\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"THE WHEELBARROW IS FIVE FEET LEFT OF WHERE IT WAS YESTERDAY. NOBODY CONSULTED ME. I'LL BE USING THE OTHER DOOR.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small wall sign. Keep the bottom corners plain. Vertical 4:5 format.",
    "quote": "THE WHEELBARROW IS FIVE FEET LEFT OF WHERE IT WAS YESTERDAY. NOBODY CONSULTED ME. I'LL BE USING THE OTHER DOOR.",
-   "ai": false
+   "ai": false,
+   "alt": "Cartoon illustration of a chestnut mare with a long blonde mane and a burgundy halter standing in a barn aisle, eyeing a wheelbarrow of wood shavings parked crookedly in front of her. Text at the top reads: The wheelbarrow is five feet left of where it was yesterday. Nobody consulted me. I'll be using the other door.",
+   "image": "images/horse-soup/2026-11-09/stories/hss-20261109-1.png"
   },
   {
    "id": "hss-20261109-2",
@@ -94,7 +106,9 @@
    "theme": "non-horse people not understanding",
    "prompt": "Hand-drawn cartoon illustration in a warm, richly detailed comic style with bold clean black ink outlines, soft painterly coloring with subtle shading, a saturated warm palette, and expressive exaggerated characters. The main character is a real four-legged horse with correct horse anatomy (four legs, hooves, horse ears, mane along the neck) and a chunky, rounded, slightly exaggerated build, with a highly expressive human-like face: heavy-lidded knowing eyes, long eyelashes, expressive brows, a sly smirk, rosy cheeks. Cozy, cluttered, lived-in setting packed with charming details. Warm golden lighting. Big Red, a huge, solidly built copper-chestnut draft mare with heavy white feathered legs, a wide white blaze, an enormous wild halo of curly copper mane and forelock, thin round wire-frame reading glasses, large gold hoop earrings in both ears, and a bold geometric-print blanket in burnt orange, deep plum, and mustard gold, with a confident side-eye and a smug red-lipped smirk. Standing with her head turned looking after a departing pickup truck with a pleased, smug expression, one ear flicked toward it in a muddy paddock beside a fence line, a plain feed truck backing slowly out of the gravel driveway in the background, a stack of feed sacks at the gate, a water trough and bare autumn trees, with a small sign on the fence reading \"Carrots Accepted Here\". A large white speech bubble with a thick bold black outline spans the top 30-35% of the image, its tail pointing to the character. Inside the bubble, bold black UPPERCASE comic-style sans-serif text reads exactly: \"THE FEED DELIVERY MAN BACKED OUT OF THE DRIVEWAY VERY SLOWLY. I'D LIKE TO THINK IT WAS RESPECT.\". Text centered, 2-4 lines. Full-bleed illustration, no panel border, no frame. The only text in the image is the speech bubble text and the small fence sign. Keep the bottom corners plain. Vertical 4:5 format.",
    "quote": "THE FEED DELIVERY MAN BACKED OUT OF THE DRIVEWAY VERY SLOWLY. I'D LIKE TO THINK IT WAS RESPECT.",
-   "ai": false
+   "ai": false,
+   "alt": "Cartoon illustration of a large copper-chestnut draft mare in round glasses and a patterned blanket, looking over her shoulder in a muddy paddock as a pickup truck backs down a driveway behind a fence. Text at the top reads: The feed delivery man backed out of the driveway very slowly. I'd like to think it was respect.",
+   "image": "images/horse-soup/2026-11-09/stories/hss-20261109-2.png"
   }
  ]
 }
