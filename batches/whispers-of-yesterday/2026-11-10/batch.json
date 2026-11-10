@@ -1,0 +1,171 @@
+{
+ "title": "Whispers Of Yesterday Review · Nov 10",
+ "subtitle": "10 feed (8 images + 2 TOBIs) + 3 stories · 0 from the inbox (no new items) · 0 held carried over · no questions, hashtags or reply invitations in captions or first comments · every quote checked against used quotes",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261110-01",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Seasons (the outside faucet)",
+   "quote": "THE FIRST HARD FROST MEANT DAD SHUT OFF THE OUTSIDE FAUCET, AND THAT WAS HOW WE KNEW WINTER HAD OFFICIALLY ARRIVED.",
+   "caption": "There was a morning every November when Dad walked outside before breakfast, looked at the white grass, and said nothing at all. Then he went down to the basement with a wrench and turned the shutoff valve under the stairs. He opened the faucet on the side of the house to let the last of the water run out, and he left it open all winter so the pipe could not split. The hose got coiled up and hung on its nail in the garage, and that was the end of washing the car. We never needed a calendar to tell us the season had changed. We just watched which tool Dad carried out of the house.",
+   "first": "Dad kept a little tag tied to that valve that said OFF in his blocky capital letters, and he retied it every fall. When I bought my own house years later I found myself doing the same thing without being told. Some habits come with the toolbox.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a late-November dusk behind a 1960s frame house, frost on the brown grass, a father in a wool jacket crouched at an outside spigot on the brick foundation with a wrench in one hand, a coiled green garden hose hanging on a nail by the back steps, a bare maple tree and a lit kitchen window behind him. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE FIRST HARD FROST MEANT DAD SHUT OFF THE OUTSIDE FAUCET, AND THAT WAS HOW WE KNEW WINTER HAD OFFICIALLY ARRIVED.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a father in a wool jacket crouching at an outside faucet on a brick foundation on a frosty evening, with a coiled hose hanging nearby. Text at the top reads: The first hard frost meant Dad shut off the outside faucet, and that was how we knew winter had officially arrived.",
+   "image": "images/whispers-of-yesterday/2026-11-10/wy-20261110-01.png"
+  },
+  {
+   "id": "wy-20261110-02",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Real-photo nostalgia (the mantel clock)",
+   "quote": "THE MANTEL CLOCK WAS WOUND EVERY SUNDAY NIGHT, AND ONLY ONE PERSON IN THE HOUSE HAD THE KEY.",
+   "caption": "It sat in the exact middle of the mantel, between a framed wedding photograph and a glass candy dish nobody ever emptied. The key lived in the drawer of the little table beside Grandpa's chair, and Sunday night after supper he opened the glass door and gave it his slow, careful turns. Everyone else in the house was allowed to look at the clock and tell the time. Nobody was allowed to touch the hands, and nobody had to be told twice. It struck the hour a few seconds late for forty years, and we set our watches by it anyway.",
+   "first": "Our clock chimed a half note flat on the quarter hour, and I could pick out that sound from another room with my eyes closed. After Grandpa passed, my father wound it every Sunday without saying why. It still runs in his front room.",
+   "prompt": "A realistic color photograph from the 1970s, a dark wood mantel clock with a glass door and a brass pendulum sitting at the center of a painted fireplace mantel, a small glass candy dish and a framed picture without any people showing beside it, patterned wallpaper behind, warm lamplight. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE MANTEL CLOCK WAS WOUND EVERY SUNDAY NIGHT, AND ONLY ONE PERSON IN THE HOUSE HAD THE KEY.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a wooden mantel clock with a brass pendulum on a fireplace mantel, with a glass candy dish beside it. Text at the top reads: The mantel clock was wound every Sunday night, and only one person in the house had the key.",
+   "image": "images/whispers-of-yesterday/2026-11-10/wy-20261110-02.png"
+  },
+  {
+   "id": "wy-20261110-03",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "School days (the cafeteria lady)",
+   "quote": "THE CAFETERIA LADY / A HAIRNET, A LADLE, AND A SECOND ROLL FOR THE KID WHO NEEDED IT",
+   "caption": "She stood behind the steam table in a white apron and a hairnet, and she had a ladle in her hand like a judge holding a gavel. She did not say much, but she looked at every kid who came through the line, and she remembered who was growing too fast and who had skipped breakfast. A second roll would slide onto a few trays without a word, and the kid it was meant for always knew. She wrote nothing down and asked for nothing back. Years later it is the roll I remember better than any lesson in that building.",
+   "first": "The lady in our school was Mrs. Pruitt, and she called every boy sweetheart, even the ones who needed a haircut. I carried my tray to the same table every day and she never once got the milk wrong. She retired the year I left for high school, and it felt like the building should have said something.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated school cafeteria serving line, a woman in a white apron and hairnet holding a ladle behind a steam table, a stack of metal trays and a basket of dinner rolls in front of her, a boy in a striped shirt holding up his tray with a hopeful look, long tables and a milk cooler in the background. Bold retro serif headline text at the top reads exactly: \"THE CAFETERIA LADY\" Subtitle text below it reads exactly: \"A HAIRNET, A LADLE, AND A SECOND ROLL FOR THE KID WHO NEEDED IT\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a cafeteria worker in a hairnet holding a ladle while a boy holds up his tray in a school lunch line. Headline: The Cafeteria Lady. Subtitle: A hairnet, a ladle, and a second roll for the kid who needed it.",
+   "image": "images/whispers-of-yesterday/2026-11-10/wy-20261110-03.png"
+  },
+  {
+   "id": "wy-20261110-t1",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Old habits (the folded newspaper)",
+   "quote": "Grandpa folded the newspaper into quarters so he could read it one-handed at the breakfast table.",
+   "caption": "",
+   "first": "He held his coffee in the other hand and never spilled a drop. The paper came out of its folds with a sound I can still hear, a quick snap and then silence. My grandmother said it was the only time he sat still all day."
+  },
+  {
+   "id": "wy-20261110-04",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Summer (the screened porch)",
+   "quote": "WE SLEPT ON THE SCREENED PORCH IN JULY, AND THE CRICKETS NEVER ONCE TOOK A NIGHT OFF.",
+   "caption": "On the hottest nights of July, Mom dragged the cots out to the screened porch and the whole house moved outside. The mattresses smelled like cedar and old canvas, and the sheets were damp from the heat before you even lay down. Moths ticked against the screen and a box fan turned slowly in the corner. Somewhere out in the yard the crickets started up and did not stop until the sun was almost in your face. You were told to go to sleep, but nobody really slept until the air turned cool just before morning.",
+   "first": "My brother and I kept a flashlight under the pillow and read comics until the batteries went yellow. The screen door had a spring that sang when it opened, and Mom could tell from the sound exactly who was sneaking in for a glass of water. Those nights are still the longest summer I own.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s screened-in porch at night in July, two canvas cots with patchwork sheets and two kids lying on them, one propped on an elbow with a small flashlight, a box fan on the floor in the corner, moths on the screen, a lit window of the house behind them and dark trees outside. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"WE SLEPT ON THE SCREENED PORCH IN JULY, AND THE CRICKETS NEVER ONCE TOOK A NIGHT OFF.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of two children on cots on a screened porch at night with a flashlight and a box fan, moths on the screen. Text at the top reads: We slept on the screened porch in July, and the crickets never once took a night off.",
+   "image": "images/whispers-of-yesterday/2026-11-10/wy-20261110-04.png"
+  },
+  {
+   "id": "wy-20261110-05",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Neighborhood (the driveway hoop)",
+   "quote": "THE HOOP OVER THE GARAGE HAD NO NET, AND EVERY KID ON THE BLOCK KNEW EXACTLY HOW THE BALL BOUNCED OFF THAT RIM.",
+   "caption": "Dad bolted a plywood backboard over the garage door one Saturday and painted a white square on it with leftover house paint. The rim was bent a little on the left side from a ladder that slipped, and nobody ever fixed it. By August every kid on the block understood its moods better than their own homework. A shot that hit the left side kicked sideways into the hydrangea, and a shot that hit the back came straight down like it had been called home. You could tell a stranger on our driveway by the way he missed.",
+   "first": "The net lasted about a week the summer Dad put it up, and then the rim looked the way it was always going to look. I knew that bounce so well I could have made a free throw blindfolded. The paint is still faintly visible on that board.",
+   "prompt": "A realistic color photograph from the 1970s, a weathered plywood backboard with a faded painted white square and a slightly bent orange rim with no net mounted above a white garage door, a cracked asphalt driveway below with a scuffed basketball resting on it, a hydrangea bush at the edge, late afternoon light. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE HOOP OVER THE GARAGE HAD NO NET, AND EVERY KID ON THE BLOCK KNEW EXACTLY HOW THE BALL BOUNCED OFF THAT RIM.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a weathered backboard and netless rim over a garage door, with a basketball on the cracked driveway. Text at the top reads: The hoop over the garage had no net, and every kid on the block knew exactly how the ball bounced off that rim.",
+   "image": "images/whispers-of-yesterday/2026-11-10/wy-20261110-05.png"
+  },
+  {
+   "id": "wy-20261110-06",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "School days (the band instrument)",
+   "quote": "THE CLARINET CAME HOME IN A CASE THAT SMELLED LIKE OLD VELVET, AND THE PRACTICING WAS A WHOLE FAMILY'S PROBLEM.",
+   "caption": "The case had a latch that snapped like a mousetrap, and inside the velvet lining was the color of a wine stain. For a month it was one note, then two, then something close to a scale on a good day. Mom kept the radio on in the kitchen louder than usual and Dad suddenly remembered the garage needed sweeping. The dog went under the bed and stayed there until supper. Nobody said a word against it, because everybody had agreed without speaking that this was how a musician got made.",
+   "first": "I played third chair in the school band for exactly two years and never got any better than adequate. My father still says the best thing I ever played was the last note of the spring concert, because that meant it was over. He kept the program in his wallet anyway.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s living room in the late afternoon, a skinny twelve-year-old boy in a striped shirt standing at a music stand with a clarinet, his mother in an apron in the kitchen doorway with her hands over her ears and a patient smile, a dog's tail sticking out from under the sofa, an open velvet-lined instrument case on the floor. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE CLARINET CAME HOME IN A CASE THAT SMELLED LIKE OLD VELVET, AND THE PRACTICING WAS A WHOLE FAMILY'S PROBLEM.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a boy practicing clarinet at a music stand in a living room while his mother in the kitchen doorway covers her ears and a dog hides under the sofa. Text at the top reads: The clarinet came home in a case that smelled like old velvet, and the practicing was a whole family's problem.",
+   "image": "images/whispers-of-yesterday/2026-11-10/wy-20261110-06.png"
+  },
+  {
+   "id": "wy-20261110-t2",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Neighborhood (the spare key)",
+   "quote": "The spare key lived under the flowerpot, and the whole neighborhood pretended not to know.",
+   "caption": "",
+   "first": "Ours was a chipped clay pot with a geranium that never quite died. I locked myself out twice and the key was always right where it should be. I never saw anyone tell the mailman, but I think he knew too."
+  },
+  {
+   "id": "wy-20261110-07",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the telegram)",
+   "quote": "THE TELEGRAM / A YELLOW ENVELOPE, A KNOCK AT THE DOOR, AND NEWS THAT COULDN'T WAIT",
+   "caption": "Most of the time a knock at the door meant a neighbor or the paperboy collecting. But when a boy on a bicycle stood on the step holding a thin yellow envelope, the whole house went quiet. Mom wiped her hands on her apron before she took it, and she read it standing right there in the doorway. Sometimes it was good news and the kitchen filled with noise. Sometimes it was not, and she folded it very carefully and put it in her pocket. Either way, you remembered the color of that paper for the rest of your life.",
+   "first": "My grandmother kept one telegram in her Bible for fifty years, a short one announcing my uncle's safe arrival somewhere overseas. The paper had gone soft as cloth at the folds. She said it was the shortest letter she ever loved.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated front door scene, a teenage boy in a cap holding a bicycle and a thin yellow envelope out to a woman in an apron standing in the open doorway of a white frame house, a leafy street behind him, a hint of a lit hallway behind her. Bold retro serif headline text at the top reads exactly: \"THE TELEGRAM\" Subtitle text below it reads exactly: \"A YELLOW ENVELOPE, A KNOCK AT THE DOOR, AND NEWS THAT COULDN'T WAIT\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a boy with a bicycle handing a yellow envelope to a woman in an apron at her front door. Headline: The Telegram. Subtitle: A yellow envelope, a knock at the door, and news that couldn't wait.",
+   "image": "images/whispers-of-yesterday/2026-11-10/wy-20261110-07.png"
+  },
+  {
+   "id": "wy-20261110-08",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Home life (the yardstick)",
+   "quote": "THE YARDSTICK FROM THE FEED STORE WAS THE ONLY RULER IN THE HOUSE, AND IT MEASURED EVERYTHING FROM CURTAINS TO CAKE PANS TO PLANTING ROWS.",
+   "caption": "It was free with a purchase, and it had the name of the feed store stamped along one edge in red letters. It hung from a nail in the pantry, between the dish towels and the flyswatter. Mom used it to hem curtains, Dad used it to lay out the tomato rows, and I used it on one memorable occasion as a sword. The inches were worn so smooth at the middle that you had to tilt it toward the window to read them. Nothing in that house was ever measured with anything else.",
+   "first": "The feed store's name is almost gone from ours now, but I can still make out the first two letters. It measured my height every birthday until the pencil marks climbed past it. I keep it in my own pantry on a nail.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s kitchen in morning light, a mother holding a length of floral curtain fabric up to a window while a boy in a school shirt holds one end of a worn wooden yardstick against it, a father in a doorway behind them rolling up a seed packet, a nail in the wall holding a flyswatter and dish towels. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE YARDSTICK FROM THE FEED STORE WAS THE ONLY RULER IN THE HOUSE, AND IT MEASURED EVERYTHING FROM CURTAINS TO CAKE PANS TO PLANTING ROWS.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a mother and a boy measuring curtain fabric against a window with a wooden yardstick in a kitchen while a father stands in the doorway. Text at the top reads: The yardstick from the feed store was the only ruler in the house, and it measured everything from curtains to cake pans to planting rows.",
+   "image": "images/whispers-of-yesterday/2026-11-10/wy-20261110-08.png"
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261110-1",
+   "kind": "story",
+   "template": "T1 illustrated scene",
+   "character": "Neighbors (the visiting dog)",
+   "quote": "THE NEIGHBOR'S DOG KNEW OUR BACK DOOR BETTER THAN HIS OWN, AND NOBODY EVER TURNED HIM AWAY.",
+   "caption": "",
+   "first": "",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a late-afternoon scene on a 1960s back stoop, a medium brown mutt sitting politely at a screen door, a mother in an apron holding the door half open with a dish towel over her shoulder and a small smile, a bowl of scraps on the step, a fence with a gap in it behind. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE NEIGHBOR'S DOG KNEW OUR BACK DOOR BETTER THAN HIS OWN, AND NOBODY EVER TURNED HIM AWAY.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a brown dog sitting at a screen door while a woman in an apron smiles at him and a bowl of scraps waits on the step. Text at the top reads: The neighbor's dog knew our back door better than his own, and nobody ever turned him away.",
+   "image": "images/whispers-of-yesterday/2026-11-10/stories/wys-20261110-1.png"
+  },
+  {
+   "id": "wys-20261110-2",
+   "kind": "story",
+   "template": "T2 vintage photo",
+   "character": "School days (the coat hooks)",
+   "quote": "THE COAT HOOKS HAD A NAME ABOVE EVERY ONE, AND YOU COULD FIND YOURS WITH YOUR EYES CLOSED.",
+   "caption": "",
+   "first": "",
+   "prompt": "A realistic color photograph from the 1970s, a long school cloakroom wall with a row of metal coat hooks, a strip of masking tape with a different handwritten first name above each hook, small wool coats and knitted caps hanging from some of them, a row of rubber boots on the floor below on a newspaper. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE COAT HOOKS HAD A NAME ABOVE EVERY ONE, AND YOU COULD FIND YOURS WITH YOUR EYES CLOSED.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a school cloakroom wall with named coat hooks, small coats and caps hanging, and boots lined up below. Text at the top reads: The coat hooks had a name above every one, and you could find yours with your eyes closed.",
+   "image": "images/whispers-of-yesterday/2026-11-10/stories/wys-20261110-2.png"
+  },
+  {
+   "id": "wys-20261110-3",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the shoe repair shop)",
+   "quote": "THE SHOE REPAIR SHOP / A LEATHER APRON, A ROW OF LASTS, AND NEW HEELS BY FRIDAY",
+   "caption": "",
+   "first": "",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated cobbler's shop interior, a man in a leather apron at a workbench with a hammer and a boot on an iron last, a shelf of tagged shoes behind him, a customer's pair on the counter with a paper ticket, a bell hanging at the door. Bold retro serif headline text at the top reads exactly: \"THE SHOE REPAIR SHOP\" Subtitle text below it reads exactly: \"A LEATHER APRON, A ROW OF LASTS, AND NEW HEELS BY FRIDAY\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a cobbler in a leather apron hammering a boot at a workbench with shelves of tagged shoes behind him. Headline: The Shoe Repair Shop. Subtitle: A leather apron, a row of lasts, and new heels by Friday.",
+   "image": "images/whispers-of-yesterday/2026-11-10/stories/wys-20261110-3.png"
+  }
+ ]
+}
