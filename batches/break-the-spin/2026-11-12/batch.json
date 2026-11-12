@@ -1,0 +1,61 @@
+{
+  "title": "Break The Spin Review · Nov 12",
+  "bucket": "Break The Spin",
+  "story_bucket": "",
+  "subtitle": "4 posts (C Hegseth L1 real photos, D White House L2 letter card, F Seattle L4, E Texas L4b). Facts in data/2026-11-12/verify.md (local).",
+  "posts": [
+    {
+      "id": "bts-20261112-01",
+      "kind": "image",
+      "template": "layout1 face + circle inset (real official portraits)",
+      "theme": "Massie Hegseth impeachment fails 211-204; 11 Dems absent",
+      "quote": "MASSIE'S HEGSETH IMPEACHMENT DIED 211-204. 11 DEMOCRATS DIDN'T EVEN SHOW UP TO VOTE.",
+      "alt": "Official portrait photo of Pete Hegseth in a pinstripe suit in front of the American flag, with a red-ringed circle inset of Rep. Thomas Massie's official portrait in the top right corner. Bold text below reads: Massie's Hegseth impeachment died 211-204. 11 Democrats didn't even show up to vote.",
+      "caption": "Thomas Massie's push to impeach Pete Hegseth is dead for now, and it never came close.\n\nThe House voted 211 to 204 to send the Kentucky Republican's resolution to the Judiciary Committee, which is where impeachment efforts go to die. Massie was the only Republican on his side. His eight articles accused Hegseth of taking the country to war in Iran without authorization from Congress, of the strikes on suspected drug boats in the Caribbean, and of retaliating against Sen. Mark Kelly.\n\nHegseth did not exactly sound worried. \"What one disgruntled and defeated congressman is attempting is not oversight, and it's not accountability,\" he said.\n\nPresident Trump weighed in on Truth Social, writing that the attempt \"has miserably FAILED!\"\n\nHere is the part Democrats would rather you skip. Eleven of their own members did not vote at all. A couple of them blamed traffic. On a seven-vote margin, their own base noticed.",
+      "first": "Democrats say they will try again once the new Congress is seated, and next time they will hold the majority. That makes this vote a preview, not a finish line.\n\nLeadership's defense of the no-shows is that Republicans would simply have held the vote open until their own missing members arrived. Maybe so. It still left progressive activists openly furious with their own party.\n\nAs for Massie, he spent his political capital on a resolution that drew exactly zero Republican votes besides his own. Whatever you think of the case against Hegseth, that is not what leverage looks like.",
+      "ai": false,
+      "image": "images/break-the-spin/2026-11-12/bts-20261112-01.jpg",
+      "draft_key": "C"
+    },
+    {
+      "id": "bts-20261112-02",
+      "kind": "image",
+      "template": "layout2 photo + letter card",
+      "theme": "White House counsel letter to incoming Oversight chair Garcia",
+      "quote": "BREAK THE SPIN bar + letter card quoting Scharf verbatim.",
+      "alt": "Photo-style AI image of the White House lit up at night above a white card with a blue border. The card quotes White House Counsel Will Scharf's letter to Rep. Robert Garcia: The Administration will not be extorted and will not be cowed.",
+      "caption": "The White House just put the incoming House Oversight chair on notice, in writing.\n\nWhite House Counsel Will Scharf sent a letter to Rep. Robert Garcia of California, who is set to run the Oversight Committee when Democrats take the House. Garcia has been promising investigations of the administration and told officials to \"lawyer up.\"\n\nScharf's answer: \"The Administration will not be extorted and will not be cowed by unlawful process motivated by animus, pettiness, hatred, or any other unlawful motive to intimidate, penalize, or interfere with the lawful functioning of government.\"\n\nThe letter goes further, warning that some of what Democrats are planning could \"cross the line into blatant criminality.\"\n\nGarcia's reply: \"It appears Donald Trump has something to hide.\" He also says House Democrats will not be deterred by what he called baseless threats.\n\nTranslation for everyone keeping score: the subpoena wars have started before the new Congress is even sworn in.",
+      "first": "Worth knowing what the letter does and does not do. It does not cite a specific criminal statute, and it does not announce a referral to the Justice Department. It is a warning shot, and a loud one.\n\nOversight is a real power of Congress. So is the executive branch's right to push back on fishing expeditions, and courts have refereed those fights many times before. The difference this time is that Democrats have been openly promising investigations, and the White House is answering before the first subpoena is even printed.\n\nExpect two long years of letters, lawsuits and press conferences.",
+      "ai": true,
+      "image": "images/break-the-spin/2026-11-12/bts-20261112-02.jpg",
+      "draft_key": "D"
+    },
+    {
+      "id": "bts-20261112-03",
+      "kind": "image",
+      "template": "layout4 two panels + Anton headline",
+      "theme": "Seattle mayor reactivates and expands crime cameras",
+      "quote": "SEATTLE'S SOCIALIST MAYOR SWITCHED OFF THE CRIME CAMERAS. NOW SHE'S TURNING THEM BACK ON AND ADDING MORE.",
+      "alt": "Photo-style AI image in two panels: Seattle Mayor Katie Wilson speaking at a podium on the left, and a police security camera on a pole above a city street at night on the right. Bold text below reads: Seattle's socialist mayor switched off the crime cameras. Now she's turning them back on and adding more.",
+      "caption": "Seattle's mayor turned off the crime cameras. Now she is turning them back on, and adding more.\n\nMayor Katie Wilson, a democratic socialist, paused the city's police camera program earlier this year while an outside audit looked at privacy concerns, including fears that federal agents could use the footage for immigration enforcement. The Stadium District cameras went dark. Those cameras feed the police department's Real Time Crime Center.\n\nThat audit came back with recommendations, not a reason to quit. So the Stadium District and SODO cameras are switching back on right away, and the expansion the City Council already approved is moving ahead in the Capitol Hill nightlife district and around Garfield High School in the Central District.\n\nIn between, there was a mass shooting at the Bite of Seattle festival at Seattle Center in July. Now a city councilmember wants about $1 million to put cameras there too.",
+      "first": "Credit where it is due: reversing course is better than doubling down. But it is worth asking what changed besides the politics.\n\nThe cameras did not become less useful while they were off. The audit's recommendations were about guardrails like access logs, retention limits and clearer rules, not about shutting the system down. Those fixes could have been made with the cameras running. If the guardrails needed work, fine. Fix them and keep the lights on.\n\nMeanwhile, the neighborhoods that asked for coverage waited. Public safety should not depend on which way the activist wind is blowing at City Hall in a given month.",
+      "ai": true,
+      "image": "images/break-the-spin/2026-11-12/bts-20261112-03.jpg",
+      "draft_key": "F"
+    },
+    {
+      "id": "bts-20261112-04",
+      "kind": "image",
+      "template": "layout4b one image split + Anton headline",
+      "theme": "Texas elects Democrat governor; Operation Lone Star in doubt",
+      "quote": "TEXAS ELECTED ITS FIRST DEMOCRAT GOVERNOR SINCE 1995. SHE CALLED OPERATION LONE STAR \"POLITICAL THEATRE.\"",
+      "alt": "Photo-style AI image split into two panels showing coils of razor wire and state trooper vehicles along the Rio Grande at dusk. Bold text below reads: Texas elected its first Democrat governor since 1995. She called Operation Lone Star \"political theatre.\"",
+      "caption": "Texas just did something it has not done since 1995. It elected a Democrat as governor.\n\nGina Hinojosa beat Greg Abbott, and Abbott conceded on election night. Now the big question along the border is what happens to Operation Lone Star, the state's own border security mission that Abbott built with razor wire, buoys, troopers and the National Guard.\n\nThe program has cost Texas about $11 billion. Hinojosa has called it \"political theatre.\" In her words: \"Public safety shouldn't be a political stunt.\" She has said she wants to review whether it actually works.\n\nSupporters of the operation say that review is the warning sign. If the state pulls back, they argue, the gaps Texas has been filling on its own come right back, and the cartels and smugglers will be the first to notice.\n\nShe takes office in January. Border towns will be watching every word.",
+      "first": "To be fair to her, \"review it\" is not the same as \"end it,\" and she has also said she will spend what it takes to keep communities safe. That is the version she campaigned on.\n\nBut this is the same lawmaker who called the program political theatre while troopers were stringing wire along the river. Texans who live near the border do not get to treat this as a debate club topic. They are the ones who see what happens when enforcement thins out.\n\nWashington still controls the border itself. What Texas added is the layer on top. Whether that layer survives is now up to her.",
+      "ai": true,
+      "image": "images/break-the-spin/2026-11-12/bts-20261112-04.jpg",
+      "draft_key": "E"
+    }
+  ],
+  "stories": []
+}
