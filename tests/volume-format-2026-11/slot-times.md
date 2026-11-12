@@ -46,5 +46,21 @@ Read 2026-11-08 from the Wine Wimsey weekly posting plan (Mon and Tue columns). 
 | 2026-11-12 (Thu) | Wine Wimsy Stories | 2 | 12:03 PM |
 | 2026-11-12 (Thu) | Wine Wimsy Stories | 3 | 4:12 PM |
 | 2026-11-12 (Thu) | Wine Wimsy Stories | 4 | 7:12 PM |
+| 2026-11-13 (Fri) | Wine Wimsy | 1 | 6:16 AM |
+| 2026-11-13 (Fri) | Wine Wimsy | 2 | 8:25 AM |
+| 2026-11-13 (Fri) | Wine Wimsy | 3 | 9:26 AM |
+| 2026-11-13 (Fri) | Wine Wimsy | 4 | 11:44 AM |
+| 2026-11-13 (Fri) | Wine Wimsy | 5 | 12:46 PM |
+| 2026-11-13 (Fri) | Wine Wimsy | 6 | 1:51 PM |
+| 2026-11-13 (Fri) | Wine Wimsy | 7 | 5:04 PM |
+| 2026-11-13 (Fri) | Wine Wimsy | 8 | 6:14 PM |
+| 2026-11-13 (Fri) | Wine Wimsy | 9 | 8:31 PM |
+| 2026-11-13 (Fri) | Wine Wimsy | 10 | 9:33 PM |
+| 2026-11-13 (Fri) | Wine Wimsy Stories | 1 | 7:33 AM |
+| 2026-11-13 (Fri) | Wine Wimsy Stories | 2 | 12:14 PM |
+| 2026-11-13 (Fri) | Wine Wimsy Stories | 3 | 4:12 PM |
+| 2026-11-13 (Fri) | Wine Wimsy Stories | 4 | 7:12 PM |
 
 Thu 2026-11-12 rows read 2026-11-11 from the Wine Wimsey weekly posting plan (Thu column) before upload. All 14 Nov 12 slots were empty; the buckets held only Nov 11 posts (feed 3 at 6:04/8:19/9:21 PM, story 1 at 7:12 PM).
+
+Fri 2026-11-13 rows read 2026-11-12 from the Wine Wimsey weekly posting plan (Fri column). All 14 Nov 13 slots were empty; both buckets held only Nov 12 posts (feed 3 at 6:11/8:18/9:19 PM, story 1 at 7:12 PM); no drafts.
