@@ -1,0 +1,35 @@
+{
+  "title": "Break The Spin Review · Nov 11",
+  "bucket": "Break The Spin",
+  "story_bucket": "",
+  "subtitle": "2 test posts (Stage 1-4 pilot): DSA subpoena, United flight bomb claim. Facts in data/2026-11-11/verify.md (local).",
+  "posts": [
+    {
+      "id": "bts-20261111-01",
+      "kind": "image",
+      "template": "layout5 scene + badge + headline",
+      "theme": "Florida AG subpoenas DSA over possible Cuba/China contributions",
+      "quote": "FLORIDA WANTS TO KNOW WHO PAID FOR DSA'S TRIPS TO CUBA AND CHINA",
+      "prompt": "Photorealistic cinematic photo, wide landscape 3:2 framing. A folded Cuban flag and a folded Chinese flag lying on a dark wooden desk next to a thick stack of US hundred-dollar bills and a manila folder. Behind, through a large window and softly out of focus, the Florida State Capitol building in Tallahassee at dusk. Moody low-key lighting, deep shadows, dark tones. No people, no text, no logos, no watermark.",
+      "alt": "Photo-style AI image of a folded Cuban flag and a folded Chinese flag on a dark wooden desk beside a stack of hundred-dollar bills and a manila folder, with the Florida Capitol at dusk through the window behind. Bold text below reads: Florida wants to know who paid for DSA's trips to Cuba and China.",
+      "caption": "Florida's attorney general has served the Democratic Socialists of America with an investigative subpoena, and the questions are pointed.\n\nJames Uthmeier wants records on DSA's delegations to Cuba and China and on the travel fund drives that raised money for them. His office is examining whether the group accepted contributions or support from \"foreign sources of concern,\" a category Florida law reserves for regimes like Havana and Beijing.\n\n\"Our laws prohibit accepting contributions from foreign sources of concern,\" Uthmeier said.\n\nThe legal hook is Florida's Deceptive and Unfair Trade Practices Act plus the state's rules on soliciting donations. Translation: if you raise money from Florida donors, you have to be straight about where it comes from and where it goes.\n\nDSA's response so far? No comment.\n\nTo be clear, nobody has proven DSA took a dime from Cuba or China. That is exactly what the subpoena is for. But a group that keeps sending delegations to communist Cuba to sit down with government officials should not be surprised when someone finally asks who picked up the tab.",
+      "first": "Why this matters beyond Florida: DSA had a big midterm night, with endorsed candidates winning races from statehouses to Congress. As the movement gains real power, voters deserve to know whether any of its activity is being underwritten by governments hostile to the United States.\n\nThe subpoena does not accuse anyone by name and does not allege a specific crime yet. It demands documents. If the fundraising was clean, DSA can hand them over and be done with it.\n\nIf it wasn't, Florida has laws written for exactly this, and an attorney general who seems eager to use them.",
+      "ai": true,
+      "image": "images/break-the-spin/2026-11-11/bts-20261111-01.jpg"
+    },
+    {
+      "id": "bts-20261111-02",
+      "kind": "image",
+      "template": "layout5 scene + badge + headline",
+      "theme": "Twice-deported man claims bomb on United flight to New Orleans",
+      "quote": "DEPORTED TWICE. RELEASED BY A JUDGE. THEN HE TOLD A FLIGHT CREW HE HAD A BOMB.",
+      "prompt": "Photorealistic cinematic photo, wide landscape 3:2 framing. A plain white narrow-body passenger jet with no airline logos, livery or markings, parked on a dark airport tarmac at night. Several police cars surround it with red and blue lights flashing, reflections on wet pavement, a set of boarding stairs at the front door, airport terminal lights blurred in the distance. No people visible, no text, no logos, no watermark.",
+      "alt": "Photo-style AI image of a plain white passenger jet on a wet, dark airport tarmac at night, surrounded by police cars with flashing red and blue lights. Bold text below reads: Deported twice. Released by a judge. Then he told a flight crew he had a bomb.",
+      "caption": "A United flight from Newark to New Orleans ended with a passenger in handcuffs after he told the crew he had a bomb.\n\nThe plane landed safely with 46 passengers and six crew aboard. Jefferson Parish deputies arrested Rony Gomez-Alberto, 34, at Louis Armstrong New Orleans International Airport. He is charged under Louisiana law with terrorizing and with communicating false information about planned arson, and he is being held without bond. No bomb was reported found.\n\nThen came the part that should make every traveler angry. According to the Department of Homeland Security, this was not his first trip into the country. DHS says he was removed in 2011 and again in 2014, caught crossing again in 2019, and then released from ICE custody on a judge's order in January 2020 while his case dragged on.\n\n\"He has been removed from the country twice and was released a third time, pending removal proceedings, by a judge,\" DHS said.\n\nICE has now lodged a detainer.",
+      "first": "DHS also says he tried to get into the cockpit during the flight. Local deputies and United have not described that part publicly, so for now it is the DHS account. The FBI says federal prosecutors in Louisiana will decide whether to bring federal charges, and the FAA has opened its own investigation.\n\nHere is the question nobody had to answer back in 2020: what happens when a man deported twice is released anyway? Nearly seven years later, 52 people on one plane found out. Thankfully the crew got him to the back of the aircraft and everyone walked off safely.\n\nEnforcement only works if removal actually means removal.",
+      "ai": true,
+      "image": "images/break-the-spin/2026-11-11/bts-20261111-02.jpg"
+    }
+  ],
+  "stories": []
+}
