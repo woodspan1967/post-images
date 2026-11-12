@@ -1,0 +1,48 @@
+{
+  "title": "Break The Spin Review · Nov 12 (breaking)",
+  "bucket": "Break The Spin",
+  "story_bucket": "",
+  "subtitle": "3 breaking posts from Scott's links, TOP of queue: G Trump tariff (Truth Social card), H CodePink, I networks skip United story.",
+  "posts": [
+    {
+      "id": "bts-20261112-05",
+      "kind": "image",
+      "template": "layout2 Truth Social card (real portrait + real avatar)",
+      "theme": "Trump threatens to double Mexico tariffs over caravan",
+      "quote": "BREAK THE SPIN bar + quote card of Trump's Truth Social post, verbatim excerpt.",
+      "alt": "Official White House portrait of President Donald Trump above a white Truth Social-style card showing his post from @realDonaldTrump: Mexico must stop them, now, and if they do not do so, the tariffs on Mexico will be immediately doubled. There will be no leniency.",
+      "caption": "President Trump just tied the next border fight directly to Mexico's wallet.\n\nA new migrant caravan, estimated at more than a thousand people and mostly from Central America, set out from Tapachula near Mexico's border with Guatemala. Reports say the group is headed first for Mexico City. Trump's response on Truth Social was blunt: \"MEXICO MUST STOP THEM, NOW, and if they do not do so, the Tariffs on Mexico will be IMMEDIATELY DOUBLED.\"\n\nHe added that Mexico, the incoming Texas governor, Border Patrol and ICE \"HAVE BEEN SO INFORMED,\" and closed with: \"There will be no leniency!\"\n\nThe timing is not an accident. Texas just elected a Democrat governor who has called Operation Lone Star political theatre, and Democrats picked up state attorney general seats that could unwind state border laws. Caravans read the news too.\n\nTariff threats have moved Mexico before. The question is whether Mexico believes he means it this time.",
+      "first": "What we do not know yet: which tariffs he means, how high they would go, or how fast. The post did not say, and the details will matter for everyone who buys anything made in Mexico.\n\nWhat we do know is the pattern. When the border looks soft, the caravans start forming. When the cost lands on the governments that let them pass through, the math changes fast.\n\nMexico had not publicly responded at the time of the post. Tariffs are a blunt tool, and they cost Americans too. But blunt is the point. That silence will not last long, and neither will this caravan's walk north.",
+      "ai": false,
+      "image": "images/break-the-spin/2026-11-12/bts-20261112-05.jpg",
+      "draft_key": "G"
+    },
+    {
+      "id": "bts-20261112-06",
+      "kind": "image",
+      "template": "layout5 scene + badge (CODEPINK's own X photo)",
+      "theme": "CodePink lobbies on Veterans Day, blocks Fox camera",
+      "quote": "ON VETERANS DAY, CODEPINK LOBBIED CONGRESS TO GUT THE MILITARY. THEN THEY HID FROM THE CAMERA.",
+      "alt": "Photo posted by CODEPINK of activists in pink shirts and scarves posing outside a congressional office with a banner reading Stop $1.5 trillion for war. Bold text below reads: On Veterans Day, CodePink lobbied Congress to gut the military. Then they hid from the camera.",
+      "caption": "CodePink spent Veterans Day lobbying Congress. The moment a camera turned on them, they covered the lens.\n\nFox News Digital followed the group and its allies for about six hours through House office buildings during a three-day lobbying push the activists called the \"Taxpayer Uprising.\" On camera, activists blocked the lens with a keffiyeh, a jacket, a tote bag, a backpack and a hand. A volunteer told the reporter to leave the Rayburn cafeteria. Another told the reporter, \"I don't have to respond to you,\" and then, \"Just buzz off.\"\n\nThis is a group whose co-founder, Medea Benjamin, reminded everyone that day: \"Remember, they work for us. They're not better than us.\" Apparently accountability only flows one direction.\n\nHouse Majority Leader Steve Scalise did not hold back: \"Anybody who would protest Veterans Day, you know, they need to really check themselves.\"",
+      "first": "The money is why the cameras matter. According to IRS filings cited by Fox, businessman Neville Roy Singham's network has given $1.33 million to CodePink and $22.44 million to The People's Forum. Singham has denied acting at the direction of the Chinese government, and Fox found none of the coalition groups registered as foreign agents.\n\nScalise put it simply: \"You just follow the money when you see who funds some of these groups that hate America.\"\n\nIf your cause is righteous, a camera in a public hallway of a congressional office building should not scare you. The activists posted their own footage online too. Fox posted its video. Judge the hallway for yourself.",
+      "ai": false,
+      "image": "images/break-the-spin/2026-11-12/bts-20261112-06.jpg",
+      "draft_key": "H"
+    },
+    {
+      "id": "bts-20261112-07",
+      "kind": "image",
+      "template": "layout4 DHS booking photo + AI studio",
+      "theme": "Networks skip United flight bomb-claim arrest",
+      "quote": "DEPORTED TWICE. CLAIMED A BOMB ON A UNITED FLIGHT. CNN AND MS NOW NEVER SAID A WORD.",
+      "alt": "Two panels: the DHS booking photo of Rony Alexander Gomez-Alberto on the left and an AI image of an empty TV news studio on the right. Bold text below reads: Deported twice. Claimed a bomb on a United flight. CNN and MS NOW never said a word.",
+      "caption": "Twice deported. Claimed he had a bomb. Tried to reach the cockpit, according to DHS. Arrested when the plane landed in New Orleans. The flight carried 46 passengers and six crew, and everyone got off safely.\n\nYou would think that is national news. According to a Fox News review of transcripts, CNN and MS NOW did not mention it on any program for two days after the arrest, and NBC's national morning and evening newscasts skipped it too. The New York Times had no story on its website as of the third morning.\n\nCBS covered it on CBS News Mornings. ABC covered the incident on World News Tonight but did not say the suspect was in the country illegally.\n\nThe suspect, Rony Alexander Gomez-Alberto, is a Honduran national. DHS says he was deported in 2011 and 2014, caught again in 2019, and released by a judge in 2020 pending removal proceedings.",
+      "first": "Media Research Center president David Bozell said the story \"should send every newsroom in the country digging.\"\n\nFair question for any editor who skipped it: if the suspect's background had fit a different narrative, would it have led the evening news? Coverage choices are choices. Fair questions are not partisan, and every passenger on that flight deserved the coverage. When a story about public safety, immigration enforcement and a judge's release order gets left out, viewers notice what is missing.\n\nHe faces state charges of terrorizing and communicating false information about planned arson. Federal prosecutors are still deciding whether to add federal charges.",
+      "ai": true,
+      "image": "images/break-the-spin/2026-11-12/bts-20261112-07.jpg",
+      "draft_key": "I"
+    }
+  ],
+  "stories": []
+}
