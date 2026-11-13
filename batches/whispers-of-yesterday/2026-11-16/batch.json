@@ -1,0 +1,33 @@
+{
+ "title": "Whispers Of Yesterday Review \u00b7 Nov 16 (2 extra images)",
+ "subtitle": "Two extra image posts to complete the Nov 16 feed \u00b7 0 from the inbox \u00b7 2 images generated, no retakes \u00b7 no questions, hashtags or reply invitations \u00b7 flag: the faces in post x1 (road map) are drawn but on the painterly-realistic side, redo if it reads as a photo",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261116-x1",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Cars and driving culture (the glove box road map)",
+   "quote": "THE ROAD MAP CAME OUT OF THE GLOVE BOX ONCE A YEAR, AND NOBODY EVER FOLDED IT BACK THE RIGHT WAY.",
+   "caption": "The road map lived in the glove box all year, under the registration and a flashlight that never worked. Once a summer it came out, usually in the driveway with the whole family watching. Dad spread it across the hood and traced a route with one finger, and Mom looked at it from the other side and said it was upside down. It wasn't, but it never helped to say so. When they finally agreed on the route, the map went back in the glove box folded in some brand new way that none of its creases had ever planned for. By the next summer it was a different shape again, and the whole thing started over.",
+   "first": "My father had one rule about the map: whoever opened it had to be the one to fold it. That rule lasted until about the second creek. I still have one of those maps in a drawer, and I still can't get it back the way it came.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork. A 1960s family station wagon parked in a gravel driveway on a bright summer afternoon with the doors open. A father in a short-sleeved shirt and a mother in a simple dress stand beside the hood holding a huge unfolded paper road map between them, the creases all going the wrong way, the map showing only colored lines and shapes with no readable words. Two children watch from the back seat window. Bold white text with a dark outline across the top of the image reads exactly: \"THE ROAD MAP CAME OUT OF THE GLOVE BOX ONCE A YEAR, AND NOBODY EVER FOLDED IT BACK THE RIGHT WAY.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/whispers-of-yesterday/2026-11-16/wy-20261116-x1.png",
+   "alt": "Illustration of a father and mother standing at the front of a blue station wagon with wood-grain side panels, holding a large paper road map spread across the hood while two children look out the back window and luggage sits on the roof rack. Text at the top reads: The road map came out of the glove box once a year, and nobody ever folded it back the right way."
+  },
+  {
+   "id": "wy-20261116-x2",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Home life (the bank calendar)",
+   "quote": "THE CALENDAR FROM THE BANK HUNG BY THE KITCHEN DOOR, AND EVERY BIRTHDAY AND DENTIST VISIT WAS WRITTEN ON IT IN PENCIL.",
+   "caption": "Every kitchen had a calendar from the bank or the hardware store, hung from a single nail beside the door. It had a picture of a red barn or a covered bridge at the top and a grid of squares underneath. Nobody wrote on it in pen, because pencil could be changed. Birthdays went in first, then the dentist, the church supper, and the day the furnace man was coming. A pencil hung beside it on a piece of string, so there was never an excuse. By the end of the month the whole page was a record of where the family had been and where it was supposed to be. When the new one came after Christmas, the old one got saved for the picture.",
+   "first": "My grandmother kept her old calendars in a drawer by the stove, one for every year. After she was gone we found them, and you could read the whole decade in them, right down to what she paid the paperboy. I took the 1966 one.",
+   "prompt": "A realistic color photograph from the 1960s with slightly faded film colors and fine grain, a farmhouse kitchen wall beside a doorway, a paper wall calendar hanging from a single nail with a grid of squares filled with penciled handwriting that is too small to read, a pencil hanging from the nail on a piece of string, painted plaster wall with a hairline crack, the edge of a linoleum floor and a wooden door frame. No people anywhere in the frame. Bold white uppercase text across the top of the image reads exactly: \"THE CALENDAR FROM THE BANK HUNG BY THE KITCHEN DOOR, AND EVERY BIRTHDAY AND DENTIST VISIT WAS WRITTEN ON IT IN PENCIL.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "image": "images/whispers-of-yesterday/2026-11-16/wy-20261116-x2.png",
+   "alt": "Vintage-style color photo of a paper wall calendar for April 1966 hanging from a nail on a kitchen wall, with a pencil on a string beside it and a kitchen table visible through the doorway. Text at the top reads: The calendar from the bank hung by the kitchen door, and every birthday and dentist visit was written on it in pencil."
+  }
+ ],
+ "stories": []
+}
