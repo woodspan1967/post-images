@@ -1,0 +1,21 @@
+{
+  "title": "Break The Spin · Nov 13 breaking (ground stop)",
+  "bucket": "Break The Spin",
+  "story_bucket": "",
+  "subtitle": "Breaking: FAA nationwide ground stop. TOP of queue.",
+  "posts": [
+    {
+      "id": "bts-20261113-05",
+      "kind": "image",
+      "template": "layout5 scene + strip badge (AI Delta-livery airport)",
+      "theme": "FAA nationwide ground stop",
+      "quote": "THOUSANDS OF FLIGHTS IN THE AIR. EVERY DEPARTURE FROZEN. THE FAA'S NETWORK JUST WENT DARK.",
+      "alt": "Photo-style AI image taken through an airport terminal window at dusk: Delta passenger jets parked at their gates with jet bridges attached, idle baggage carts, and the control tower in the distance. Text below reads: Thousands of flights in the air. Every departure frozen. The FAA's network just went dark.",
+      "caption": "The FAA froze every departing flight in the United States.\n\nThe FAA ordered a nationwide ground stop, citing \"extraordinary circumstances and for reasons of safety.\" The alert was blunt: \"All departing traffic should remain ground stopped until further notice.\" Planes already in the air are being allowed to land, and thousands of them were airborne when the order came down.\n\nOfficials are blaming a telecommunications outage hitting multiple air traffic control centers. Multiple sources told CBS News that an update to the private communications network linking the air traffic control system triggered a reboot that crashed it.\n\nA cyberattack has not been ruled out. Homeland Security Secretary Markwayne Mullin said there was \"no indication, as of yet, that this was a nefarious act against us,\" but he would not rule out any cause, including a cyberattack, CNN reported. Two law enforcement officials told CNN the early information suggests it was not one, and the investigation is still early.\n\nThe FAA now says departures will resume as air traffic facilities recover, but more than 5,000 flights have already been canceled. It is the first nationwide ground stop since January 2023.",
+      "first": "If you are flying, check with your airline before heading to the airport. Delays will ripple well past the moment the stop is lifted, because crews and planes end up in the wrong cities.\n\nThe bigger question is how one network update can freeze the busiest airspace on earth. The 2023 ground stop was blamed on a corrupted file in an aging FAA system. Now a single point of failure has taken down the whole network again. Travelers deserve to know exactly what failed and why there was no backup.\n\nAmerica runs on air travel. The system that keeps it moving needs a backup that actually works.",
+      "ai": true,
+      "image": "images/break-the-spin/2026-11-13/bts-20261113-05.jpg"
+    }
+  ],
+  "stories": []
+}
