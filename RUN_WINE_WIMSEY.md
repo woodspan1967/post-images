@@ -5,6 +5,17 @@ If Scott asked for more days ahead (vacation), multiply counts by that number of
 
 **First read the "All pages: hard rules" section of PIPELINE.md (no realistic people, no reused quotes or jokes, rejected = replaced). They override the skill and this file.**
 
+## 0e. Volume change (2026-11-15, Scott): 7 feed posts + 2 stories a day
+**From batch date 2026-11-16 on, the daily Wine Wimsey batch is 7 feed posts + 2 stories.** This overrides every "16", "12", "10", "5/5" and "4 stories" count below, in PIPELINE.md, and in the nightly prompt. One day = 7 + 2 (multi-day runs multiply).
+- Feed format: plain cards and character posts alternate in queue order, flipping each day. ODD day of the month: plain cards at positions 1,3,5,7 (4 plain) and characters at 2,4,6 (3 character). EVEN day: plain cards at 2,4,6 (3 plain) and characters at 1,3,5,7 (4 character). Template field stays "PLAIN" / "CHAR".
+- Characters: mix across the character posts, never the same one more than 2 times a day (so 3 or 4 character posts always use at least 2 characters). Otherwise unchanged from the 2026-11-08 rules.
+- Seasonal (0d): 3 of the 7 feed posts (at least 1 plain and 1 character) plus 1 of the 2 stories. The rest are evergreen.
+- Plain-card quote sourcing: aim for about 2 spun + the rest original (was 3 spun + 2 original of 5).
+- Stories: 2 a day, own quotes, image only. Story slots in Post Planner: 2 a day.
+- Held posts count toward the 7 and go first, keeping the plain/character split above.
+- Upload step 4b: Scott's Post Planner slots are now 7 feed + 2 story a day. Read the slots as they are, check each day has exactly 7 + 2 empty slots, and use the position rule above for the slot-order check.
+- Image credits: only the 3-4 character posts and 2 stories need ElevenLabs images; plain cards are free.
+
 ## 0. Setup
 - Clone/pull this repo (woodspan1967/post-images, push access). Work in it.
 - Load the Wine Wimsey skill (`wine-niche-initiative`) for characters, templates, voice, caption/comment rules, quote quality filter.
