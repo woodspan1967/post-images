@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review \u00b7 Mon Nov 16",
- "subtitle": "Batch date Mon Nov 16 (EVEN day): plain cards at queue positions 2,4,6; character posts at 1,3,5,7. NEW VOLUME: 7 feed posts + 2 stories, no captions or first comments. Characters: Hot Mess 1 (#1), Homebody 1 (#3), Settled One 1 (#5), Bold One 1 (#7); stories Settled One and Homebody. Seasonal: 3 of 7 feed (plain #4, character #3 and #7) plus story 2. Quotes: 1 spun (#2), 0 inbox, 8 original. No weekday references. Credits: 6 images x 45 = about 272 (plain cards free). Image checks: every quote matches word for word. Flagged: the model added a cat to #5 and story 1; the Homebody in story 2 has a darker skin tone than in #3.",
+ "subtitle": "Batch date Mon Nov 16 (EVEN day): plain cards at queue positions 2,4,6; character posts at 1,3,5,7. NEW VOLUME: 7 feed posts + 2 stories, no captions or first comments. Characters: Hot Mess 1 (#1), Homebody 1 (#3), Settled One 1 (#5), Bold One 1 (#7); stories Settled One and Homebody. ROUND 2: Scott rejected #4 and it was replaced with a new original seasonal plain card (shown as Waiting). Seasonal: 3 of 7 feed (plain #4, character #3 and #7) plus story 2. Quotes: 1 spun (#2), 0 inbox, 8 original. No weekday references. Credits: 6 images x 45 = about 272 (plain cards free). Image checks: every quote matches word for word. Flagged: the model added a cat to #5 and story 1; the Homebody in story 2 has a darker skin tone than in #3.",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -59,10 +59,10 @@
    "kind": "image",
    "template": "PLAIN",
    "character": "",
-   "quote": "I'm hosting Thanksgiving for twelve and I own nine folding chairs. I've decided the last three seats are a personality test.",
+   "quote": "I've hosted Thanksgiving in my head at 3 a.m. six times this week. The real one will be a rerun.",
    "caption": "",
    "first": "",
-   "alt": "Plain off-white quote card with centered bold dark text. Text reads: I'm hosting Thanksgiving for twelve and I own nine folding chairs. I've decided the last three seats are a personality test.",
+   "alt": "Plain off-white quote card with centered bold dark text. Text reads: I've hosted Thanksgiving in my head at 3 a.m. six times this week. The real one will be a rerun.",
    "seasonal": true,
    "ai": false,
    "src": "original",
