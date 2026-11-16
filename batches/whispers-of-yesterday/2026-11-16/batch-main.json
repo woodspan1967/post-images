@@ -1,0 +1,166 @@
+{
+ "title": "Whispers Of Yesterday Review · Nov 16 (main batch)",
+ "subtitle": "",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261116-01",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Home life (the margarine dye bag)",
+   "quote": "THE MARGARINE CAME HOME WHITE WITH A BUBBLE OF DYE IN THE BAG, AND KNEADING IT YELLOW WAS THE KIDS' JOB.",
+   "caption": "Margarine came home from the store white as lard, sealed in a clear plastic bag with one little bubble of yellow dye in the middle. Nobody wanted to eat white butter, so the dye had to be broken and worked through by hand. That was the kids' job, and it was a good one. You squeezed and folded and squeezed again while the color crept out in streaks like paint in a bag. My brother always claimed his side was the most even. When it finally went all one shade, it got spooned into the dish and sat on the table like it had been butter all along.",
+   "first": "My sister and I used to fight over who got to pop the dye bubble. Mom let us take turns, and she kept count better than any referee. The bag was always warm from our hands by the time we were done.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1950s kitchen with a Formica table, a girl about nine and her younger brother kneading a clear plastic bag of white margarine with a small yellow-orange pouch of dye breaking up inside it, streaks of yellow spreading through the white, their mother in an apron stirring a pot at the stove behind them, a butter dish and a bread knife on the table. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE MARGARINE CAME HOME WHITE WITH A BUBBLE OF DYE IN THE BAG, AND KNEADING IT YELLOW WAS THE KIDS' JOB.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-02",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "School days (the school clock)",
+   "quote": "THE SCHOOL CLOCK CLUNKED FORWARD ONE MINUTE AT A TIME, AND THE WHOLE ROOM HEARD EVERY ONE OF THEM.",
+   "caption": "The clock over the classroom door did not tick so much as clunk. Once a minute the big hand jumped forward with a sound you could hear in the back row. On a normal day nobody noticed it. On the afternoon before a holiday, or during a test, it was the loudest thing in the building. You learned to watch it out of the corner of your eye, and you learned that watching made it slower. At three o'clock it clunked one last time and the whole room stood up at once.",
+   "first": "Ours had a little wire cage over the face, as if it might make a break for it. I can still hear it clunk on a Friday afternoon. I think it was louder on Fridays.",
+   "prompt": "A realistic vintage-style photograph, no people anywhere in the frame (no faces, hands or figures), a realistic color photograph, a round school wall clock with a black minute hand and a small wire guard over its face mounted high on a painted cinderblock wall above a classroom doorway, a slate chalkboard ledge with chalk dust and a worn eraser at the edge of the frame, the clock numerals plain and the markings unreadable. Authentic period photography, soft grain. Bold white uppercase text across the top of the image reads exactly: \"THE SCHOOL CLOCK CLUNKED FORWARD ONE MINUTE AT A TIME, AND THE WHOLE ROOM HEARD EVERY ONE OF THEM.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-03",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the pony photographer)",
+   "quote": "THE PONY PHOTOGRAPHER / A BORROWED PONY, A COWBOY HAT, AND ONE PICTURE FOR THE MANTEL",
+   "caption": "Every few summers a man came down the street leading a pony and carrying a camera on a tripod. He stopped at each house with small children and made his offer from the sidewalk. For a dollar, your kid got a cowboy hat, a leather vest, and a seat on a pony that had clearly done this a thousand times. The pony stood perfectly still. The child usually did not. A few weeks later a photograph came in the mail, and it went on the mantel next to the wedding picture, where it stayed for fifty years.",
+   "first": "I'm in one of those pictures, age four, wearing a hat that came down over my eyebrows. I look absolutely terrified. My mother kept it in the front hall until the frame came apart.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a small boy in an oversized cowboy hat and vest sitting stiffly on a short brown pony in front of a plain frame house, a man in suspenders crouched behind a wooden box camera on a tripod, a mother watching from the porch steps. Bold retro serif headline text at the top reads exactly: \"THE PONY PHOTOGRAPHER\". Subtitle text below it reads exactly: \"A BORROWED PONY, A COWBOY HAT, AND ONE PICTURE FOR THE MANTEL\". Warm muted palette, clean flat lines, school textbook aesthetic, people drawn as flat illustrations. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-t1",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Home life (the twist ties)",
+   "quote": "Nobody ever threw out the twist ties, and nobody ever knew what they were saving them for.",
+   "caption": "",
+   "first": "We had a coffee can of them under the sink. I think it was my mother's way of keeping a little in reserve for a day that never came. When she moved out of that house, the can was still half full.",
+   "prompt": "",
+   "ai": false,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-04",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Summer (the tar bubbles)",
+   "quote": "THE TAR BUBBLES ON THE ROAD WERE MADE FOR POPPING, AND YOU CAME HOME WITH PROOF ON BOTH FEET.",
+   "caption": "By the middle of July the blacktop road in front of our house was soft enough to leave a footprint. The tar bubbled up in little black blisters along the seams, and popping them with a stick was a respectable way to spend an afternoon. Each one hissed a little and left a shiny dent. You came home with tar on your hands and tar on your feet, and a long talk waiting from your mother. She had a rag and a jar of cooking oil ready for it. The rag was never clean again, and nobody ever suggested it should be.",
+   "first": "Mom kept a jar of cooking oil on the back porch for exactly this reason. My brother tracked tar footprints across the kitchen floor for most of one summer. By August she had stopped seeing them.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a quiet country blacktop road in hot July sun with heat shimmer, two barefoot children about eight and ten in shorts crouched at the road's edge poking small black tar blisters with sticks, their sandals left in the gravel beside them, a mailbox on a post and a plain farmhouse with a maple tree across the road. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE TAR BUBBLES ON THE ROAD WERE MADE FOR POPPING, AND YOU CAME HOME WITH PROOF ON BOTH FEET.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-05",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Crafts and homemaking (the let-down hem)",
+   "quote": "MOM LET DOWN THE HEM EVERY YEAR, AND THE OLD LINE STAYED IN THE FABRIC LIKE RINGS IN A TREE.",
+   "caption": "Every August, before school started, the dress went up on the kitchen chair with a girl still in it. Mom knelt on the linoleum with pins in her mouth and let the hem down another inch. The old fold stayed behind as a pale line in the fabric, and she pressed it with a damp cloth and a hot iron until it nearly disappeared. Nearly. By the third year there were three faint lines, one above the other, and anyone who looked closely could read how much you had grown. Mom never said it out loud, but she could have told you which summer each line belonged to.",
+   "first": "My mother's pincushion was shaped like a tomato, and it sat on the kitchen windowsill all through my childhood. I wore one plaid dress for three school years, and by the end it had three faint lines at the bottom. I never noticed them until she pointed them out.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s kitchen in late summer, a girl about ten in a plaid dress standing on a wooden kitchen chair while her mother kneels on the linoleum pinning the hem, a tomato-shaped pincushion and a sewing basket on the floor, an ironing board set up in the background, faint pale fold lines visible near the bottom of the dress. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"MOM LET DOWN THE HEM EVERY YEAR, AND THE OLD LINE STAYED IN THE FABRIC LIKE RINGS IN A TREE.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-06",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Cars and driving culture (the choke knob)",
+   "quote": "THE CHOKE KNOB HAD TO BE PULLED OUT JUST THE RIGHT AMOUNT, AND ONLY DAD EVER KNEW HOW MUCH.",
+   "caption": "On a cold morning the car did not start on the first try, and Dad did not expect it to. He pulled the choke knob out partway, pumped the pedal once, and turned the key. The engine coughed, thought it over, and coughed again. Too much choke and it flooded, too little and it died, and the right amount was something you could not describe, only feel. We watched from the back seat, breathing little clouds, while he leaned toward the dashboard like he was listening to it. When it finally caught and ran rough, he pushed the knob in a little at a time, and then we were off.",
+   "first": "I tried it myself when I was sixteen and flooded the engine twice. Dad stood in the driveway with his arms folded and didn't say a word. That was worse than a lecture.",
+   "prompt": "A realistic vintage-style photograph, no people anywhere in the frame (no faces, hands or figures), a realistic color photograph, close-up of the dashboard of an old 1960s sedan with a pull-out chrome choke knob and a throttle knob under the dash, a cracked vinyl dash pad, a bench seat edge and a steering wheel rim at the side of the frame, frosted windshield glass behind, the gauge faces blurred and unreadable. Authentic period photography, soft grain. Bold white uppercase text across the top of the image reads exactly: \"THE CHOKE KNOB HAD TO BE PULLED OUT JUST THE RIGHT AMOUNT, AND ONLY DAD EVER KNEW HOW MUCH.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-07",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Hobbies (the stamp collection)",
+   "quote": "THE STAMP COLLECTION / A MAGNIFYING GLASS, A PAIR OF TWEEZERS, AND A SATURDAY AFTERNOON",
+   "caption": "Stamp collecting started with an envelope on the kitchen table and a boy who was told to leave it alone. He soaked the corner in a bowl of warm water, waited for the stamp to float loose, and dried it flat between two pages of the dictionary. Then came the tweezers, which you were never allowed to skip, and the little paper hinges that held each stamp in its place. The album had a page for every country, and most of them were empty. Somewhere in the world was a stamp that would fill each space, and the whole hobby was waiting for it to show up in the mail.",
+   "first": "I kept my album in a drawer under my bed and showed it to nobody. An uncle sent me stamps from three countries I had never heard of. I still have it, and the empty pages are still my favorites.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a boy about eleven at a wooden table with an open stamp album, a large magnifying glass, a pair of tweezers, a small bowl of water and a stack of glassine envelopes, a table lamp casting warm light, a dictionary and an envelope with a torn corner beside him. Bold retro serif headline text at the top reads exactly: \"THE STAMP COLLECTION\". Subtitle text below it reads exactly: \"A MAGNIFYING GLASS, A PAIR OF TWEEZERS, AND A SATURDAY AFTERNOON\". Warm muted palette, clean flat lines, school textbook aesthetic, people drawn as flat illustrations. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-t2",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Rural life (the dinner bell)",
+   "quote": "The dinner bell on the farmhouse porch had one job, and it could be heard in three fields.",
+   "caption": "",
+   "first": "My grandfather could tell by the sound whether it was Grandma ringing it or one of the kids. She rang it twice and no more. When it rang, the work stopped, wherever you happened to be standing.",
+   "prompt": "",
+   "ai": false,
+   "alt": ""
+  },
+  {
+   "id": "wy-20261116-08",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Winter (the window frost)",
+   "quote": "THE FROST GREW FERNS ON THE INSIDE OF THE BEDROOM WINDOW, AND YOU WROTE YOUR NAME IN THEM WITH ONE FINGER.",
+   "caption": "On the coldest mornings the inside of the bedroom window grew a garden overnight. Frost spread across the glass in feathery ferns, thick at the corners and thin in the middle where the heat from the house reached it. You pulled the quilt up to your nose and looked at it from bed. Then you got up and wrote your name in it with one fingertip, and the cold went straight up your arm. By the time breakfast was on the table the ferns had melted into a few drips on the sill, and nobody ever saw them but you.",
+   "first": "Our house had one furnace and four bedrooms, so the upstairs got the worst of it. My brother and I drew faces in the frost and argued about whose was better. The windowsill had a ring of water stains from it that never came out.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a small upstairs bedroom on a gray winter morning, a boy about nine in flannel pajamas standing on a braided rug at a window covered in feathery frost patterns, one fingertip drawing in the frost, a single iron bed with a patchwork quilt thrown back, a steam radiator under the sill and a wooden dresser. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE FROST GREW FERNS ON THE INSIDE OF THE BEDROOM WINDOW, AND YOU WROTE YOUR NAME IN THEM WITH ONE FINGER.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": ""
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261116-1",
+   "kind": "story",
+   "template": "T1 illustrated scene",
+   "character": "Community (the seed company caps)",
+   "quote": "THE SEED COMPANY GAVE AWAY CAPS, AND EVERY FARMER IN THE COUNTY WORE THE SAME ONE.",
+   "caption": "",
+   "first": "",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a gravel lot beside a country feed store on a bright autumn morning, four farmers in work shirts and overalls leaning against a pickup tailgate and chatting, every one of them wearing the same plain cream mesh-back cap with no lettering or logo on it, sacks of seed stacked on a wooden loading dock behind them, a dog asleep under the truck. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE SEED COMPANY GAVE AWAY CAPS, AND EVERY FARMER IN THE COUNTY WORE THE SAME ONE.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": ""
+  },
+  {
+   "id": "wys-20261116-2",
+   "kind": "story",
+   "template": "T2 vintage photo",
+   "character": "Home life (the oilcloth)",
+   "quote": "THE OILCLOTH WAS CLIPPED UNDER THE TABLE, AND ANY MESS WIPED CLEAN IN ONE SWIPE.",
+   "caption": "",
+   "first": "",
+   "prompt": "A realistic vintage-style photograph, no people anywhere in the frame (no faces, hands or figures), a realistic color photograph, a farmhouse kitchen table covered in a red and white checked oilcloth held down with spring clips underneath, a glass salt shaker and pepper shaker, a folded cloth napkin and a sugar bowl, a window with a gingham curtain behind, soft daylight. Authentic period photography, soft grain. Bold white uppercase text across the top of the image reads exactly: \"THE OILCLOTH WAS CLIPPED UNDER THE TABLE, AND ANY MESS WIPED CLEAN IN ONE SWIPE.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": ""
+  },
+  {
+   "id": "wys-20261116-3",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the blacksmith)",
+   "quote": "THE BLACKSMITH / A COAL FIRE, A LEATHER APRON, AND A HORSESHOE BENT TO FIT",
+   "caption": "",
+   "first": "",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a blacksmith in a leather apron holding a glowing horseshoe in tongs over an anvil beside a coal forge, a brown horse waiting calmly at the open shop door, tools hanging on the wall, sparks drawn as small flat shapes. Bold retro serif headline text at the top reads exactly: \"THE BLACKSMITH\". Subtitle text below it reads exactly: \"A COAL FIRE, A LEATHER APRON, AND A HORSESHOE BENT TO FIT\". Warm muted palette, clean flat lines, school textbook aesthetic, people drawn as flat illustrations. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": ""
+  }
+ ]
+}
