@@ -1,0 +1,160 @@
+{
+ "title": "Whispers Of Yesterday Review · Nov 17",
+ "subtitle": "TBD",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261117-01",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Home life (the pegboard outlines)",
+   "quote": "GRANDPA DREW AN OUTLINE AROUND EVERY TOOL ON THE PEGBOARD, SO YOU ALWAYS KNEW WHAT WAS MISSING.",
+   "caption": "Grandpa's workshop was the one room in the house with a rule posted on the wall, and the rule was drawn in black marker. Every hammer, saw, and pair of pliers hung inside its own outline, like a chalk figure at the scene of a very organized crime. If you borrowed something, you could see the empty shape sitting there, patiently waiting. Nobody ever had to be told who had the level. By supper he would stand in the doorway, look at the board, and say the name of the culprit without turning around.",
+   "first": "I borrowed his tape measure once and kept it three days, and that empty outline did more to teach me about returning things than any lecture could have. I still hang my own tools that way. The outlines are a little crooked, but every one of them gets used.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s basement workshop with a pegboard wall of hand tools, each tool hanging inside a black marker outline, one empty outline with nothing in it, an older man in a canvas apron and reading glasses holding a hammer and looking at the gap, a wooden workbench with a coffee can of nails and a single hanging bulb. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"GRANDPA DREW AN OUTLINE AROUND EVERY TOOL ON THE PEGBOARD, SO YOU ALWAYS KNEW WHAT WAS MISSING.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of an older man in a canvas apron standing at a basement pegboard where tools hang inside black marker outlines, with one outline empty. Text at the top reads: Grandpa drew an outline around every tool on the pegboard, so you always knew what was missing."
+  },
+  {
+   "id": "wy-20261117-02",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Childhood (the sick day tray)",
+   "quote": "A SICK DAY MEANT GINGER ALE, SALTINES, AND A LITTLE BELL BY THE BED THAT YOU WERE NOT SUPPOSED TO ABUSE.",
+   "caption": "The thermometer came out of the drawer, and a verdict was reached before you had even opened your eyes. If it said what Mom hoped it wouldn't, you were staying home, and the rest of the day moved at a different speed. The ginger ale sat until it went flat, because flat was the only way it was allowed. The saltines were laid out on a plate like medicine, and the bell was for emergencies only. By noon you had rung it four times, and the emergencies were getting a little thin.",
+   "first": "My mother wrapped a cold washcloth around my forehead and told me to lie still, which was harder than being sick. I could hear her moving around the kitchen all day, and every time I rang that bell she showed up anyway. I never once heard her sigh.",
+   "prompt": "A realistic color photograph from the 1970s, a bedside tray on a child's patchwork quilt with a tall glass of flat ginger ale, a plate of saltine crackers, a small brass hand bell, a folded washcloth, and a thermometer in a glass, a wood nightstand with a lamp and a stack of comic books beside it. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"A SICK DAY MEANT GINGER ALE, SALTINES, AND A LITTLE BELL BY THE BED THAT YOU WERE NOT SUPPOSED TO ABUSE.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a bedside tray on a quilt holding a glass of flat ginger ale, a plate of saltines, a small brass bell, and a thermometer in a glass. Text at the top reads: A sick day meant ginger ale, saltines, and a little bell by the bed that you were not supposed to abuse."
+  },
+  {
+   "id": "wy-20261117-03",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the fuel oil man)",
+   "quote": "THE FUEL OIL MAN / A LONG HOSE, A HEAVY BOOT, AND A TANK THAT GURGLED FOR HALF AN HOUR",
+   "caption": "You could hear him before you saw him, a heavy truck idling at the curb and a hose dragging across the frozen lawn. He walked it to the pipe on the side of the house, pushed the nozzle in, and then stood there stamping his boots while the tank filled. From the basement came a long, slow gurgle, like the house was drinking. He wrote the gallons on a ticket, tore it off, and tucked it in the storm door. For the rest of the winter that tank was the only thing anyone in the family worried about.",
+   "first": "Our tank sat in the corner of the basement beside the washer, with a little glass gauge that Dad checked every morning on his way to the furnace. He tapped it with his fingernail like he was testing a melon. If the needle sat low he got quiet at supper, and we all understood why.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated winter street scene, a red fuel oil truck with a coiled hose parked at the curb of a two-story house, a man in a heavy coat and cap carrying the hose toward a fill pipe on the side of the house, a few inches of snow on the lawn, a boy watching from the front window, smoke rising from a chimney. Bold retro serif headline text at the top reads exactly: \"THE FUEL OIL MAN\" Subtitle text below it reads exactly: \"A LONG HOSE, A HEAVY BOOT, AND A TANK THAT GURGLED FOR HALF AN HOUR\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a man in a heavy coat carrying a hose from a red fuel oil truck to the side of a snowy house. Headline: The Fuel Oil Man. Subtitle: A long hose, a heavy boot, and a tank that gurgled for half an hour."
+  },
+  {
+   "id": "wy-20261117-t1",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Home life (the Sunday tablecloth)",
+   "quote": "The good tablecloth came out for Sunday and holidays, and it was ironed the night before.",
+   "caption": "",
+   "first": "It was white, with a lace edge, and it had one faint stain in the corner that my mother had been working on since before I was born. Nobody ever spilled on it, because everybody could feel it was watching. After supper it went right back in the drawer, folded in thirds, and the table went back to being a table."
+  },
+  {
+   "id": "wy-20261117-04",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "School days (the chapter after lunch)",
+   "quote": "AFTER LUNCH THE TEACHER READ US ONE CHAPTER, AND THE WHOLE ROOM WENT QUIETER THAN CHURCH.",
+   "caption": "It was the best twenty minutes of the day, and nobody had to say so. Lunch was over, the playground dust was still on your shoes, and the teacher pulled a heavy book out of her desk drawer. She never used a special voice. She just read, and the story got into the room the way warm air does. When she closed the cover on a cliffhanger and said that was all for today, the whole class groaned in perfect unison. Then we went right back to arithmetic, still half inside that book.",
+   "first": "My fourth-grade teacher read us the same story every fall, and by the second year I could tell when she was about to skip a page. I never said so, because it would have ended the whole arrangement. I still remember where I was sitting for every chapter.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s elementary classroom after lunch, a woman teacher in a cardigan sitting on the edge of her desk reading from a thick hardcover book, about twenty children at wooden desks with their heads down on folded arms or chins on fists, sunlight through tall windows, a chalkboard with cursive letters and a green window shade half pulled. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"AFTER LUNCH THE TEACHER READ US ONE CHAPTER, AND THE WHOLE ROOM WENT QUIETER THAN CHURCH.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a woman teacher reading aloud from a thick book while children in a classroom rest their heads on their desks. Text at the top reads: After lunch the teacher read us one chapter, and the whole room went quieter than church."
+  },
+  {
+   "id": "wy-20261117-05",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Autumn (the bowl of walnuts)",
+   "quote": "THE BOWL OF WALNUTS CAME OUT IN NOVEMBER WITH A CRACKER AND A PICK, AND THE SHELLS COVERED THE NEWSPAPER BY BEDTIME.",
+   "caption": "The bowl showed up on the coffee table the first week of November, and it stayed until somebody bought a Christmas tree. The newspaper under it was there to catch the shells, but it never caught all of them. Dad cracked the hard ones with the steel cracker, and the rest of us dug through the pieces with the little pick. A whole walnut half, unbroken, was treated like a minor miracle. By bedtime the newspaper looked like a battlefield, and someone always had a sliver stuck in their sock.",
+   "first": "My grandfather had a pair of walnut trees behind the barn, and he would fill a pillowcase every fall and leave it on our porch without a word. We never found out when he did it. The pillowcase just appeared.",
+   "prompt": "A realistic color photograph from the 1970s, a wooden bowl heaped with walnuts in their shells on a coffee table spread with old newspaper, a steel nutcracker and a small pick beside it, a few broken shells and a handful of nutmeats on a saucer, a lamp and a braided rug in the background. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE BOWL OF WALNUTS CAME OUT IN NOVEMBER WITH A CRACKER AND A PICK, AND THE SHELLS COVERED THE NEWSPAPER BY BEDTIME.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a wooden bowl of walnuts on a newspaper-covered coffee table with a nutcracker, a pick, and a saucer of broken nutmeats. Text at the top reads: The bowl of walnuts came out in November with a cracker and a pick, and the shells covered the newspaper by bedtime."
+  },
+  {
+   "id": "wy-20261117-06",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Work and family (the lunch pail note)",
+   "quote": "DAD'S LUNCH PAIL HAD A NOTE FROM MOM UNDER THE SANDWICH, AND HE KEPT EVERY ONE OF THEM.",
+   "caption": "He worked the line at the plant for thirty-one years, and the lunch pail went with him every one of them. Mom packed it the night before, a sandwich wrapped in wax paper, an apple, a slice of cake when there was cake. Under the sandwich she tucked a note, usually a few words about the grocery list or the weather. He read it at the break table by himself, with the same small smile, and then he folded it into his shirt pocket. When he retired, my sister found them in a cigar box in the closet, thousands of little pieces of paper held together with rubber bands.",
+   "first": "The notes were almost never anything serious. One said the dog had thrown up on the porch and she'd handled it. Another said only, see you at six. I read through that box on a rainy afternoon, and I understood what a marriage looked like.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s factory break room with a long scuffed wooden table, a man in work clothes and a flat cap sitting alone and unfolding a small piece of paper from inside an open black dome-lid lunch pail with a wrapped sandwich and a thermos, other workers eating at a table far behind him, tall windows with wire glass. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"DAD'S LUNCH PAIL HAD A NOTE FROM MOM UNDER THE SANDWICH, AND HE KEPT EVERY ONE OF THEM.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a man in work clothes and a flat cap sitting alone at a factory break table, unfolding a small note from his open lunch pail. Text at the top reads: Dad's lunch pail had a note from Mom under the sandwich, and he kept every one of them."
+  },
+  {
+   "id": "wy-20261117-t2",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Neighborhood (the grocer's pencil)",
+   "quote": "The grocer added up your groceries on a paper bag with a stubby pencil, and he was never off by a penny.",
+   "caption": "",
+   "first": "He kept the pencil tucked behind his ear and wrote the numbers in a quick column down the side of the bag. Nobody ever checked his math, because there was no reason to. If the total came to a few cents over, he rounded down and handed you the bag without saying a word."
+  },
+  {
+   "id": "wy-20261117-07",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the chimney sweep)",
+   "quote": "THE CHIMNEY SWEEP / A TALL BRUSH, A DROP CLOTH, AND A HOUSE THAT SMELLED LIKE SOOT FOR A DAY",
+   "caption": "Every fall a man in a black cap rang the bell and asked where the fireplace was. He spread a canvas cloth across the rug as if he were setting up a stage, then fed a long brush up the flue joint by joint. From somewhere far above came a scratching, and a little soot drifted down into the hearth like black snow. When he finished he rolled up the cloth, shook out his hands, and wrote the date on a card. The house smelled like a burnt match for a day, and Dad said that was how you knew it was safe.",
+   "first": "Ours used to sing a little in the flue when the wind came from the north, and Mom said that was the house clearing its throat. The sweep was a quiet fellow with a gray mustache, and he drank his coffee standing up. I never saw him sit down in our house, not once.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated living room scene, a man in a black cap and coveralls kneeling at a brick fireplace with a long flexible brush and a canvas drop cloth spread across the rug, a woman in an apron moving a lamp out of the way, a boy peeking from behind an armchair, a small pile of black soot in the hearth. Bold retro serif headline text at the top reads exactly: \"THE CHIMNEY SWEEP\" Subtitle text below it reads exactly: \"A TALL BRUSH, A DROP CLOTH, AND A HOUSE THAT SMELLED LIKE SOOT FOR A DAY\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a man in a black cap kneeling at a brick fireplace with a long brush and a drop cloth while a boy watches from behind a chair. Headline: The Chimney Sweep. Subtitle: A tall brush, a drop cloth, and a house that smelled like soot for a day."
+  },
+  {
+   "id": "wy-20261117-08",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Holidays (the tangled lights)",
+   "quote": "THE STRING OF CHRISTMAS LIGHTS CAME OUT OF THE BOX IN ONE KNOT, AND DAD SPENT HALF AN HOUR PRETENDING HE WASN'T FRUSTRATED.",
+   "caption": "The box came down from the closet shelf the first weekend of December, and inside it was the same knot as last year. Dad lowered himself onto the carpet with a sigh he insisted wasn't a sigh. He found one end and followed it, found the other end and lost it, and told us everything was fine in the voice that meant otherwise. Mom stood in the doorway with a dish towel, wise enough to say nothing. After thirty minutes the cord finally lay straight, and the one bulb that didn't work turned out to be the one in the middle.",
+   "first": "We tested every bulb on that string one at a time, and I held the spare. Dad never once raised his voice, but he did say a word I had never heard before. I've since had my own knot, and I think I finally understand.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s living room in early December, a man in a cardigan sitting on the floor with a huge tangle of large colored bulbs and green cord in his lap, an open cardboard box beside him, a bare tabletop tree in a stand behind him, his wife in an apron watching from the kitchen doorway with her hand over her mouth, a boy in pajamas holding a spare bulb. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE STRING OF CHRISTMAS LIGHTS CAME OUT OF THE BOX IN ONE KNOT, AND DAD SPENT HALF AN HOUR PRETENDING HE WASN'T FRUSTRATED.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a man in a cardigan on a living room floor with a large tangle of colored Christmas lights while his wife watches from the doorway and a boy holds a spare bulb. Text at the top reads: The string of Christmas lights came out of the box in one knot, and Dad spent half an hour pretending he wasn't frustrated."
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261117-1",
+   "kind": "story",
+   "template": "T2 vintage photo",
+   "character": "Home life (the clothespin bag)",
+   "quote": "THE CLOTHESPIN BAG HUNG ON THE LINE, AND EVERY SHEET IN THE YARD WAS HELD UP BY WHAT WAS INSIDE IT.",
+   "caption": "",
+   "first": "",
+   "prompt": "A realistic color photograph from the 1970s, a cloth bag shaped like a small apron hanging from a backyard clothesline, filled with wooden spring clothespins, white sheets and towels pinned and swaying on the line behind it, green grass and a wooden fence in soft morning light. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Bold white uppercase text at the top reads exactly: \"THE CLOTHESPIN BAG HUNG ON THE LINE, AND EVERY SHEET IN THE YARD WAS HELD UP BY WHAT WAS INSIDE IT.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a cloth bag of wooden clothespins hanging on a backyard clothesline with white sheets pinned beside it. Text at the top reads: The clothespin bag hung on the line, and every sheet in the yard was held up by what was inside it."
+  },
+  {
+   "id": "wys-20261117-2",
+   "kind": "story",
+   "template": "T1 illustrated scene",
+   "character": "Winter (the snow fort)",
+   "quote": "THE SNOW FORT HAD A FRONT DOOR, A LOOKOUT, AND A RULE THAT THE LITTLE KIDS HAD TO KNOCK.",
+   "caption": "",
+   "first": "",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a snowy backyard in the afternoon, a thick-walled snow fort with an arched doorway and a lookout ledge, three bundled children in wool coats, knit hats and mittens, one older boy standing guard at the door with a tin pie plate as a shield while a small girl in a red scarf lifts her mitten to knock, bare trees and a clothesline pole behind. Bold white text with a thin dark outline across the top of the image, no bubble, reads exactly: \"THE SNOW FORT HAD A FRONT DOOR, A LOOKOUT, AND A RULE THAT THE LITTLE KIDS HAD TO KNOCK.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of bundled children at a snow fort, with an older boy guarding the doorway as a small girl in a red scarf raises her mitten to knock. Text at the top reads: The snow fort had a front door, a lookout, and a rule that the little kids had to knock."
+  },
+  {
+   "id": "wys-20261117-3",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the meter reader)",
+   "quote": "THE METER READER / A FLASHLIGHT, A SMALL BOOK, AND A KNOCK AT THE BASEMENT DOOR",
+   "caption": "",
+   "first": "",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated kitchen and basement stairway scene, a man in a uniform cap holding a flashlight and a small notebook, a woman in an apron opening a door to a steep basement stair, a gas meter with dials on the wall below, a dog looking on from the kitchen floor. Bold retro serif headline text at the top reads exactly: \"THE METER READER\" Subtitle text below it reads exactly: \"A FLASHLIGHT, A SMALL BOOK, AND A KNOCK AT THE BASEMENT DOOR\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a uniformed man with a flashlight and a notebook at a basement door while a woman in an apron holds it open and a dog watches. Headline: The Meter Reader. Subtitle: A flashlight, a small book, and a knock at the basement door."
+  }
+ ]
+}
