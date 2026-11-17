@@ -1,0 +1,22 @@
+{
+ "title": "Break The Spin · FAA warnings",
+ "bucket": "Break The Spin",
+ "story_bucket": "",
+ "subtitle": "FAA warnings post. Bottom of Queue.",
+ "posts": [
+  {
+   "id": "bts-20261116-08",
+   "kind": "image",
+   "template": "layout4 board|Duffy (real)",
+   "theme": "Years of warnings before FAA ground stop",
+   "quote": "WATCHDOGS WARNED THE FAA FOR 20 YEARS. DUFFY SAYS THE ROUTER BEHIND THE GROUND STOP WAS SUPPOSED TO BE REPLACED IN 2006.",
+   "alt": "Two panels: a photo of a Toronto airport departure board showing a column of cancelled flights during the FAA ground stop on the left and an official portrait photo of Transportation Secretary Sean Duffy on the right. Bold text below reads: Watchdogs warned the FAA for 20 years. Duffy says the router behind the ground stop was supposed to be replaced in 2006.",
+   "caption": "The nationwide ground stop that froze every departing flight in America was not a surprise. It was a warning that went unheeded for two decades.\n\nTransportation Secretary Sean Duffy says the fault may trace back to a single router that was supposed to be replaced in 2006. \"This goes back decades,\" he said. During maintenance to swap old copper lines for fiber at a remote FAA site, a router began flooding the network with more than 1,000 connection attempts every four to five seconds. FAA Administrator Bryan Bedford said there is \"zero evidence of anything nefarious.\"\n\nThe paper trail is long. In 2002, Harris Corporation, now L3Harris, won the contract to run the FAA's telecommunications network. By 2006, the Transportation Department's Inspector General warned the program was falling behind. In 2008, the IG flagged reliability problems disrupting air traffic control. In 2009, a telecom outage delayed more than 800 flights, and the IG found the FAA had failed to adequately oversee its contractor.\n\nIn 2024, the Government Accountability Office found 51 of the FAA's 138 air traffic systems were unsustainable, some missing spare parts. The same year, the Inspector General found the FAA had handed L3Harris 10 \"improperly authorized\" contract extensions worth $1.5 billion.",
+   "first": "Even Biden's former transportation inspector general, Eric Soskin, says some FAA equipment is so old a parts maker has been out of business for over a decade. If the upgrades had been done, he said, \"I bet whatever the cause was here wouldn't have happened.\"\n\nDuffy is not holding back on the contractor. \"Many of our contractors, many of our partners, they take our money and they provide really poor service to us,\" he said, adding the government is \"stuck with L3Harris\" until a new system is built. L3Harris says it has finished 70% of the switch from copper to fiber.\n\nCongress already approved $12.5 billion for air traffic modernization in the One Big Beautiful Bill. Duffy now wants $50 billion, and Senate Majority Leader John Thune is pointing to about $8 billion in approved money that has not been spent yet.\n\nTwenty years of warnings, under presidents of both parties, and the same network failed anyway. The fix is not just more money. It is real accountability for the agencies and contractors who were told, over and over, and did not act.",
+   "ai": false,
+   "image": "images/break-the-spin/2026-11-16/bts-20261116-08.jpg",
+   "draft_key": "AC"
+  }
+ ],
+ "stories": []
+}
