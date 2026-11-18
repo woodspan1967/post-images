@@ -1,0 +1,22 @@
+{
+ "title": "Break The Spin · Outages",
+ "bucket": "Break The Spin",
+ "story_bucket": "",
+ "subtitle": "Outages post. Bottom of Queue.",
+ "posts": [
+  {
+   "id": "bts-20261117-05",
+   "kind": "image",
+   "template": "layout4 NSA HQ|departure board (real)",
+   "theme": "Five days of outages, now the NSA",
+   "quote": "FIRST THE FAA. THEN UNITED. THEN THE BANKS. THEN APPLE. NOW THE NSA. WHAT IS GOING ON?",
+   "alt": "Two panels: an aerial photo of National Security Agency headquarters at Fort Meade, Maryland, on the left and a photo of an airport departure board showing cancelled flights during the FAA ground stop on the right. Bold text below reads: First the FAA. Then United. Then the banks. Then Apple. Now the NSA. What is going on?",
+   "caption": "In five days, some of the most important systems in America have gone down one after another.\n\nIt started Nov. 13, when a telecommunications failure forced the FAA to ground every departing flight in the country. The instability spread to 17 of the FAA's 22 air route traffic control centers.\n\nThen United Airlines went down, holding departures for about 90 minutes. A pilots' union memo said the airline could not calculate final weights for outbound flights.\n\nThe same day, more than 2,500 Chase customers reported they could not see balances, log in or move money, with smaller spikes at Bank of America, Wells Fargo and U.S. Bank. Some customers said branches could not even issue cashier's checks.\n\nNext was Apple. iCloud, the App Store, Apple Pay and even iPhone activation stopped working for users across the country.\n\nThen came the one that should get everyone's attention. The National Security Agency's highly classified internal network, the system its people use to share secrets, suffered what a source called an \"intermittent outage.\" The NSA staggered employee arrival times so tens of thousands of people would not try to log in at once.\n\nAnd in the middle of all of it, researchers found that hackers had slipped malicious code onto more than 178 major websites, including CNN, IKEA, Equifax, Alaska Airlines and Zoom, through a compromised vendor called Optimizely. The code tried to steal card numbers and cryptocurrency as people typed, and may have been served during roughly 34 million page visits.",
+   "first": "Here is what the officials say. Every company and agency involved says there is no evidence of a cyberattack. The FAA blamed data flooding its aging network. Chase blamed a \"software bug.\" Apple reportedly blamed an \"internal update.\" The NSA called it \"temporary degradation during scheduled routine maintenance.\" Homeland Security Secretary Markwayne Mullin says he is \"98 percent certain\" a cyberattack was not the cause, and there is no evidence the outages are connected.\n\nMaybe every one of those explanations is true. But five critical systems failing in five days is a lot of coincidence, and the country is at war with Iran. Just days before the NSA outage, the FBI warned that hackers are using an AI-powered tool called ARTEX to automate attacks.\n\nEven former White House Press Secretary Karoline Leavitt is urging her old colleagues to speak up. \"What I would say to the White House is, transparency is key,\" she said. \"It's going to help the country grapple with what's going on.\"\n\nShe is right. Americans do not need panic. They need straight answers about how systems this important became this fragile, and what is being done to fix them.",
+   "ai": false,
+   "image": "images/break-the-spin/2026-11-17/bts-20261117-05.jpg",
+   "draft_key": "AH"
+  }
+ ],
+ "stories": []
+}
