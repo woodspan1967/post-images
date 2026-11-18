@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review · Wed Nov 18",
- "subtitle": "Batch date Wed Nov 18 (EVEN day): plain cards at queue positions 2,4,6; character posts at 1,3,5,7. 7 feed posts + 2 stories, no captions or first comments. Characters: Hot Mess 1 (#1) + story 1, Homebody 1 (#3), Bold One 1 (#5), Settled One 1 (#7) + story 2. Seasonal: 3 of 7 feed (plain #4, characters #3 and #7) plus story 1. Quotes: 2 spun (#2 from the hit-and-run winner, #6 from the 'confusing 50s' winner), 0 inbox (none new), 7 original. Weekday references: none. Credits: 8 images x 45 = 360 (plain cards free), plus 6 x 190 = 1,140 wasted on a first run that came out 16:9/high quality because the tool defaulted that way (fixed, nothing else affected), and 2 regenerations (90) to remove cats. Image checks: every quote matches word for word; no animals; no stray logos; all drawn cartoons, no --ai label.",
+ "subtitle": "Batch date Wed Nov 18 (EVEN day): plain cards at queue positions 2,4,6; character posts at 1,3,5,7. 7 feed posts + 2 stories, no captions or first comments. Characters: Hot Mess 1 (#1) + story 1, Homebody 1 (#3), Bold One 1 (#5), Settled One 1 (#7) + story 2. Seasonal: 3 of 7 feed (plain #4, characters #3 and #7) plus story 1. Quotes: 2 spun (#2 from the hit-and-run winner, #6 from the 'confusing 50s' winner), 0 inbox (none new), 7 original. Weekday references: none. Credits: 8 images x 45 = 360 (plain cards free), plus 6 x 190 = 1,140 wasted on a first run that came out 16:9/high quality because the tool defaulted that way (fixed, nothing else affected), and 2 regenerations (90) to remove cats. Image checks: every quote matches word for word; no animals; no stray logos; all drawn cartoons, no --ai label. ROUND 2: Scott rejected #5 (10 items or fewer); replaced with a new Bold One quote (road commentary), shown as Waiting. +45 credits.",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -75,10 +75,10 @@
    "kind": "image",
    "template": "CHAR",
    "character": "The Bold One",
-   "quote": "THE SIGN SAYS 10 ITEMS OR FEWER. YOU HAVE 14. I HAVE NOWHERE TO BE AND I CAN COUNT.",
+   "quote": "I DON'T HAVE ROAD RAGE. I HAVE ROAD COMMENTARY, AND MY WINDSHIELD HAS HEARD THINGS.",
    "caption": "",
    "first": "",
-   "alt": "Cartoon illustration of a woman with huge auburn curls, round glasses and a bold orange geometric tunic, holding a small basket and raising one palm, side-eyeing a man in a green hoodie with an overflowing cart at a store checkout. Text at the top reads: The sign says 10 items or fewer. You have 14. I have nowhere to be and I can count.",
+   "alt": "Cartoon illustration of a woman with huge auburn curls, round glasses and a bold orange geometric tunic, seen from inside her car with one hand on the wheel and one palm raised, giving a sideways glare at a blue car pulling ahead on a tree-lined street. Text at the top reads: I don't have road rage. I have road commentary, and my windshield has heard things.",
    "seasonal": false,
    "ai": false,
    "src": "original",
