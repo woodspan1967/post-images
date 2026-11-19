@@ -1,0 +1,171 @@
+{
+ "title": "Whispers Of Yesterday Review · Nov 19",
+ "subtitle": "10 feed (8 images + 2 TOBIs) + 3 stories · 0 from the inbox (no new items) · 0 held carried over · no questions, hashtags or reply invitations · people are drawn illustrations, T2 photos have no people and carry the AI label",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261119-01",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Community (the church basement urn)",
+   "quote": "THE CHURCH BASEMENT COFFEE URN WAS THE SIZE OF A MAILBOX, AND IT WAS NEVER ONCE EMPTY.",
+   "caption": "After the service, everyone drifted down the back stairs to the church basement, where the big steel coffee urn sat on a folding table with a paper sign taped to it. The ladies of the kitchen committee ran it like a ship, and nobody ever saw them make a fresh pot. The cups were thick white ones that did not match, and the cookies on the paper doilies were arranged by someone with strong opinions. The grown-ups stood in little circles with their saucers while the kids ran laps around the support poles. By the time the last cup was poured, you could not have said whether the whole thing was about church or coffee, and it was probably both.",
+   "first": "My grandmother was on the kitchen committee for thirty years and she kept her own cup on a hook behind the door. Nobody else was allowed to use it, and nobody ever asked why. When she passed, the cup was still on that hook.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s church basement fellowship hall with a long folding table, a tall steel coffee urn with a spigot, stacks of thick white cups, a plate of cookies on a paper doily, three women in aprons and cardigans behind the table, a few men in suits standing with cups and saucers, a child peeking around a support pole. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE CHURCH BASEMENT COFFEE URN WAS THE SIZE OF A MAILBOX, AND IT WAS NEVER ONCE EMPTY.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of women in aprons behind a folding table with a tall steel coffee urn and a plate of cookies in a church basement while men in suits hold cups and saucers. Text at the top reads: The church basement coffee urn was the size of a mailbox, and it was never once empty.",
+   "image": "images/whispers-of-yesterday/2026-11-19/wy-20261119-01.png"
+  },
+  {
+   "id": "wy-20261119-02",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Rural life (the egg money can)",
+   "quote": "THE EGG MONEY WENT IN A COFFEE CAN, AND THAT COFFEE CAN KNEW EVERYTHING ABOUT THIS FAMILY.",
+   "caption": "Every Saturday morning Grandma carried the egg basket to the neighbors and the little grocery on the county road. What the eggs brought in went into a red coffee can on the top shelf of the pantry, behind the flour. That can paid for school shoes, a new belt for the washing machine, and one very unexpected birthday bicycle. Nobody was told how much was in it, and nobody dared to ask. She counted it at the kitchen table with the radio off, and she wrote the total on a scrap of paper that she then burned in the stove.",
+   "first": "My aunt found that can after the farm sold, and it still had a few coins in it and one folded dollar. She kept the dollar. I think she has it in a drawer to this day.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1950s farmhouse kitchen in the early morning, an older woman in an apron and cardigan seated at a plain wooden table counting coins and a few folded bills from a dented coffee can into small stacks, a basket of brown eggs on the counter, a wood stove and a pantry shelf behind her, frost on the window. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE EGG MONEY WENT IN A COFFEE CAN, AND THAT COFFEE CAN KNEW EVERYTHING ABOUT THIS FAMILY.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of an older woman in an apron counting coins and bills from a dented coffee can at a wooden kitchen table beside a basket of brown eggs. Text at the top reads: The egg money went in a coffee can, and that coffee can knew everything about this family.",
+   "image": "images/whispers-of-yesterday/2026-11-19/wy-20261119-02.png"
+  },
+  {
+   "id": "wy-20261119-t1",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Home life (the good scissors)",
+   "quote": "The good scissors were kept hidden, and everyone in the house knew the penalty for using them on paper.",
+   "caption": "",
+   "first": "Ours lived in my mother's sewing basket under a folded scrap of flannel. She could tell from across the room if somebody had cut a magazine with them. I still cannot trim anything but fabric with a good pair."
+  },
+  {
+   "id": "wy-20261119-03",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Neighborhood (the candy case)",
+   "quote": "THE CANDY CASE WAS BUILT AT KID HEIGHT, AND THE NOSE PRINTS ON THE GLASS WERE THE PROOF.",
+   "caption": "The corner store kept its candy in a low glass case right by the register, and anybody over four feet tall had to bend to look. Every kid in the neighborhood knew the layout by heart, from the licorice whips at the left to the wax lips at the far end. The glass was always smudged with the tip of a nose and a few small fingerprints that never got wiped off for long. You came in with a nickel clutched so tight it left a mark on your palm, and you stood there for a full five minutes. The storekeeper never rushed you, because he knew the decision was the best part.",
+   "first": "I once stood at one of those cases so long that the storekeeper pulled up a stool and sat down to wait with me. I picked a root beer barrel and a pack of gum, and I changed my mind twice on the way out the door. He let me trade without a word.",
+   "prompt": "A realistic color photograph from the 1960s, a low wooden and glass candy counter in a small neighborhood store, rows of hard candies in open trays and jars, wax lips and licorice whips, a brass cash register on the counter behind it, smudges of small noses and fingerprints on the front glass, a wood plank floor. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Very large bold white uppercase text across the top reads exactly: \"THE CANDY CASE WAS BUILT AT KID HEIGHT, AND THE NOSE PRINTS ON THE GLASS WERE THE PROOF.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a low glass candy counter with trays of hard candy and licorice, nose smudges on the glass, and a brass cash register behind it. Text at the top reads: The candy case was built at kid height, and the nose prints on the glass were the proof.",
+   "image": "images/whispers-of-yesterday/2026-11-19/wy-20261119-03.png"
+  },
+  {
+   "id": "wy-20261119-04",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "School days (the confiscation drawer)",
+   "quote": "THE TEACHER KEPT A DRAWER OF EVERYTHING SHE TOOK AWAY, AND ON THE LAST DAY OF JUNE EVERY KID GOT IT BACK.",
+   "caption": "Mrs. Alder had a wide bottom drawer in her desk that stayed locked all year. If your yo-yo, your rubber band ball or your comic book went in there, it stayed in there, and no begging could shake it loose. The whole class pretended to forget the drawer existed until the final afternoon of school. Then she would unlock it, pull out everything one at a time, and call your name like she was handing out prizes. You got your marbles back, your pocketknife was not in there, and somehow nobody was ever really mad at her.",
+   "first": "I got back a harmonica that I had completely forgotten losing. Mrs. Alder had polished it. She said nothing, just handed it over and moved on to the next name.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s elementary classroom on the last afternoon of the school year with open windows, a teacher in a cardigan and glasses behind a wooden desk holding an open bottom drawer filled with yo-yos, marbles, a comic book and rubber bands, a line of children in short sleeves waiting at the desk, a chalkboard and a paper flag behind her. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE TEACHER KEPT A DRAWER OF EVERYTHING SHE TOOK AWAY, AND ON THE LAST DAY OF JUNE EVERY KID GOT IT BACK.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a teacher in glasses behind her desk handing items from an open bottom drawer to a line of children, with a chalkboard and a flag behind her. Text at the top reads: The teacher kept a drawer of everything she took away, and on the last day of June every kid got it back.",
+   "image": "images/whispers-of-yesterday/2026-11-19/wy-20261119-04.png"
+  },
+  {
+   "id": "wy-20261119-05",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the bookmobile)",
+   "quote": "THE BOOKMOBILE / A LIBRARY ON WHEELS, A DATE STAMP, AND A TWO-WEEK DUE DATE",
+   "caption": "Once a month a big square truck turned onto the gravel road and parked at the crossroads store. The back doors folded open and there it was, a tiny library with shelves bolted to the walls and a woman at a small desk with a date stamp. People came from miles around with stacks of books under their arms and a list of what they hoped had come in. You could take out as many as you could carry, and the stamp came down on the card with a thunk that meant you were responsible. Then the doors closed, the truck rolled away, and you spent four weeks rationing what you had.",
+   "first": "I read the same Zane Grey three times because the second one never came in. The woman at the desk started saving the new arrivals under the counter for me, which I did not understand then. I do now.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated gravel country road with a square cream and green bookmobile truck parked at a crossroads, its side doors folded open to show shelves of books, a librarian in a cardigan stamping a card at a small desk, a farmer in overalls and a girl in a plaid dress carrying stacks of books, a wooden fence and a maple tree behind. Bold retro serif headline text at the top reads exactly: \"THE BOOKMOBILE\" Subtitle text below it reads exactly: \"A LIBRARY ON WHEELS, A DATE STAMP, AND A TWO-WEEK DUE DATE\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a bookmobile truck with its doors open at a country crossroads while a librarian stamps a card and a farmer and a girl carry stacks of books. Headline: The Bookmobile. Subtitle: A library on wheels, a date stamp, and a two-week due date.",
+   "image": "images/whispers-of-yesterday/2026-11-19/wy-20261119-05.png"
+  },
+  {
+   "id": "wy-20261119-06",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Summer (the screen door)",
+   "quote": "THE SCREEN DOOR HAD A SPRING THAT SANG, AND EVERY MOTHER KNEW EXACTLY WHICH KID HAD LET IT SLAM.",
+   "caption": "There was a particular sound that screen door made, a long stretched twang followed by a flat clap against the frame. It meant someone had run out without catching it, and the whole house knew about it. From the kitchen your mother could name the guilty party before the echo died. The mesh in the bottom corner had a little patch where a dog had pushed through one July, and the hook and eye never quite lined up. On hot days it was propped open with a brick and every fly in the county considered himself invited.",
+   "first": "Ours had a hand-painted ladybug on the screen that my sister drew, and it faded a little more every summer. I still hear that twang in my head whenever a door closes too fast. My mother never once raised her voice about it, she just said my name.",
+   "prompt": "A realistic color photograph from the 1960s, a white wooden farmhouse screen door standing slightly open on a back porch, the mesh patched in one lower corner, a coiled spring and a hook and eye latch visible, a brick propped beside it, a pair of muddy boots on the step, bright summer sun and dappled shade. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Very large bold white uppercase text across the top reads exactly: \"THE SCREEN DOOR HAD A SPRING THAT SANG, AND EVERY MOTHER KNEW EXACTLY WHICH KID HAD LET IT SLAM.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a white wooden screen door slightly open on a farmhouse porch with a patched lower corner, a brick propped beside it and muddy boots on the step. Text at the top reads: The screen door had a spring that sang, and every mother knew exactly which kid had let it slam.",
+   "image": "images/whispers-of-yesterday/2026-11-19/wy-20261119-06.png"
+  },
+  {
+   "id": "wy-20261119-07",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Work and family (the thermos)",
+   "quote": "DAD'S THERMOS CAP DOUBLED AS HIS CUP, AND YOU WERE ALLOWED EXACTLY ONE SIP.",
+   "caption": "At six in the morning in the cold garage, Dad unscrewed the red cap from his steel thermos and poured a cup of coffee that was too hot to hold. Steam rolled off it like a small locomotive. You stood beside him in your robe and he would tilt it toward you without a word, just a quarter inch. One sip was all you got, and it tasted like burnt toast and grown-up life. Then he screwed the cap back on, checked his watch, and went to work.",
+   "first": "I did not like coffee for another twenty years, but I never turned down that sip. The thermos is on a shelf in my garage now, dented on one side where it fell off a truck in 1974. I do not drink from it. I just like knowing it is there.",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s detached garage at dawn with a cold gray light through a small window, a tired man in a work jacket and cap pouring coffee from a dented steel thermos into its cap with steam rising, a small child in a robe and slippers standing beside him looking up, a workbench with a lunch pail and a pegboard behind them. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"DAD'S THERMOS CAP DOUBLED AS HIS CUP, AND YOU WERE ALLOWED EXACTLY ONE SIP.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a man in a work jacket pouring steaming coffee from a steel thermos into its cap in a garage while a small child in a robe looks up at him. Text at the top reads: Dad's thermos cap doubled as his cup, and you were allowed exactly one sip.",
+   "image": "images/whispers-of-yesterday/2026-11-19/wy-20261119-07.png"
+  },
+  {
+   "id": "wy-20261119-t2",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Family (the pocketknife and handkerchief)",
+   "quote": "Grandpa kept his pocketknife in the left pocket, his handkerchief in the right, and neither was ever lent out.",
+   "caption": "",
+   "first": "He had a system and he never broke it. When I got my first pocketknife at twelve, he showed me which pocket it belonged in before he showed me how to open it."
+  },
+  {
+   "id": "wy-20261119-08",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the watch repairman)",
+   "quote": "THE WATCH REPAIRMAN / A LOUPE, A TINY SCREWDRIVER, AND A TRAY OF PARTS SMALLER THAN RICE",
+   "caption": "His shop was two doors down from the dry cleaner, a narrow room with a bell on the door and a hundred clocks ticking out of time with each other. He sat at a bench under a bright lamp with a little brass loupe screwed into one eye. When you handed over a stopped pocket watch, he opened the back like a surgeon and went quiet. Out came a spring, a wheel and a dozen parts so small they sat on a tray like grains of rice. A week later he handed it back running, and the bill was less than you expected.",
+   "first": "My grandfather's pocket watch stopped the winter he died, and I carried it in to a man like that. He worked on it for ten minutes while I waited and wouldn't take a dime. I still wind it every Sunday night.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated narrow watch repair shop with a wooden workbench under a bright lamp, a bald man with round glasses and a brass loupe over one eye holding a pocket watch open with tweezers, a tray of tiny gears and springs, shelves of wall clocks and a bell above the door, a customer's hat on the counter. Bold retro serif headline text at the top reads exactly: \"THE WATCH REPAIRMAN\" Subtitle text below it reads exactly: \"A LOUPE, A TINY SCREWDRIVER, AND A TRAY OF PARTS SMALLER THAN RICE\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a watch repairman with a loupe over one eye working on an open pocket watch at a bench with a tray of tiny gears and shelves of wall clocks behind him. Headline: The Watch Repairman. Subtitle: A loupe, a tiny screwdriver, and a tray of parts smaller than rice.",
+   "image": "images/whispers-of-yesterday/2026-11-19/wy-20261119-08.png"
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261119-1",
+   "kind": "story",
+   "template": "T2 vintage photo",
+   "character": "School days (the bus heater)",
+   "quote": "THE SCHOOL BUS HEATER ONLY WARMED YOUR ANKLES, AND THE BACK SEATS STAYED FROZEN ALL WINTER.",
+   "caption": "",
+   "first": "",
+   "prompt": "A realistic color photograph from the 1960s, the empty interior of a 1960s yellow school bus on a frosty morning, green vinyl bench seats, a metal heater grille near the front floor with faint warmth haze, frost on the windows, a few forgotten mittens on a seat. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Very large bold white uppercase text across the top reads exactly: \"THE SCHOOL BUS HEATER ONLY WARMED YOUR ANKLES, AND THE BACK SEATS STAYED FROZEN ALL WINTER.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of the empty inside of a yellow school bus with green vinyl seats, frosted windows and a floor heater grille near the front. Text at the top reads: The school bus heater only warmed your ankles, and the back seats stayed frozen all winter.",
+   "image": "images/whispers-of-yesterday/2026-11-19/stories/wys-20261119-1.png"
+  },
+  {
+   "id": "wys-20261119-2",
+   "kind": "story",
+   "template": "T1 illustrated scene",
+   "character": "Childhood (the new shoes)",
+   "quote": "THE NEW SHOES STAYED IN THE BOX UNTIL SUNDAY, AND YOU WALKED CIRCLES IN THE KITCHEN TO BREAK THEM IN.",
+   "caption": "",
+   "first": "",
+   "prompt": "A grounded, natural hand-drawn illustration with true-to-life proportions, clearly inked linework with flat soft color fills, soft realistic lighting and an unposed candid moment, ordinary lived-in setting, clearly an illustration and not a photograph, no exaggerated or storybook styling, no decorative brushwork, a 1960s kitchen on a Saturday afternoon, a boy of about nine in a button shirt and rolled jeans walking carefully in stiff new leather shoes across the linoleum, the open shoebox with tissue paper on a chair, his mother at the stove glancing over with a small smile, a calendar and a wall clock behind them. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE NEW SHOES STAYED IN THE BOX UNTIL SUNDAY, AND YOU WALKED CIRCLES IN THE KITCHEN TO BREAK THEM IN.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a boy in stiff new leather shoes walking across a kitchen floor beside an open shoebox while his mother watches from the stove. Text at the top reads: The new shoes stayed in the box until Sunday, and you walked circles in the kitchen to break them in.",
+   "image": "images/whispers-of-yesterday/2026-11-19/stories/wys-20261119-2.png"
+  },
+  {
+   "id": "wys-20261119-3",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Rural life (the roadside stand)",
+   "quote": "THE ROADSIDE STAND / SWEET CORN, HONEY, AND A COFFEE CAN FOR THE HONOR SYSTEM",
+   "caption": "",
+   "first": "",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated country roadside stand made of a plank table under a striped awning, baskets of sweet corn and jars of honey, a coffee can with a slot on the table, a hand-painted sign shape without lettering, a gravel pullout with a pickup truck, cornfields and a red barn behind. Bold retro serif headline text at the top reads exactly: \"THE ROADSIDE STAND\" Subtitle text below it reads exactly: \"SWEET CORN, HONEY, AND A COFFEE CAN FOR THE HONOR SYSTEM\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a roadside stand with baskets of sweet corn, jars of honey and a coffee can on a plank table beside a pickup truck. Headline: The Roadside Stand. Subtitle: Sweet corn, honey, and a coffee can for the honor system.",
+   "image": "images/whispers-of-yesterday/2026-11-19/stories/wys-20261119-3.png"
+  }
+ ]
+}
