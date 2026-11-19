@@ -1,6 +1,6 @@
 {
  "title": "Wine Wimsey Review · Fri Nov 20",
- "subtitle": "Batch date Fri Nov 20 (EVEN day): character posts at queue positions 1,3,5,7; plain cards at 2,4,6. 7 feed posts + 2 stories, no captions or first comments. Characters: Hot Mess 1 (#1) + story 1, Homebody 1 (#3), Bold One 1 (#5), Settled One 1 (#7) + story 2. Seasonal: 3 of 7 feed (plain #2, characters #3 and #7) plus story 1. Quotes: 2 spun (#4 on the bladder winner, #6 on the chocolate/spinach winner, new jokes), 0 inbox (none new), 5 original. Weekday references: none. Credits: 7 images x 45 = 315 (includes one regeneration of #7 to remove a cat); plain cards free. Image checks: every quote matches word for word; no animals; no stray logos; all drawn cartoons, no --ai label.",
+ "subtitle": "Batch date Fri Nov 20 (EVEN day): character posts at queue positions 1,3,5,7; plain cards at 2,4,6. 7 feed posts + 2 stories, no captions or first comments. Characters: Hot Mess 1 (#1) + story 1, Homebody 1 (#3), Bold One 1 (#5), Settled One 1 (#7) + story 2. Seasonal: 3 of 7 feed (plain #2, characters #3 and #7) plus story 1. Quotes: 2 spun (#4 on the bladder winner, #6 on the chocolate/spinach winner, new jokes), 0 inbox (none new), 5 original. Weekday references: none. Credits: 8 images x 45 = 360 (one regeneration of #7 to remove a cat, one replacement for rejected #5); plain cards free. Image checks: every quote matches word for word; no animals; no stray logos; all drawn cartoons, no --ai label.",
  "bucket": "Wine Wimsy",
  "story_bucket": "Wine Wimsy Stories",
  "posts": [
@@ -75,10 +75,10 @@
    "kind": "image",
    "template": "CHAR",
    "character": "The Bold One",
-   "quote": "'WE SHOULD GET TOGETHER SOMETIME' ISN'T A PLAN. SOMETIME ISN'T A DAY. GIVE ME A DATE OR GIVE ME PEACE.",
+   "quote": "SOMEONE SAID I 'SOUND TIRED.' THIS IS JUST MY VOICE WHEN YOU ASK THE SAME QUESTION A THIRD TIME.",
    "caption": "",
    "first": "",
-   "alt": "Cartoon illustration of a plus-size woman with a huge halo of auburn curls, round wire glasses and gold hoop earrings, in a bold geometric-print tunic, standing in a living room with one palm raised in a stop gesture and a glass of red wine in the other hand, giving a side-eye. Text at the top reads: \"We should get together sometime\" isn't a plan. Sometime isn't a day. Give me a date or give me peace.",
+   "alt": "Cartoon illustration of a plus-size woman with a huge halo of auburn curls, round wire glasses and gold hoop earrings, in a bold geometric-print tunic, standing in a kitchen with one palm raised in a stop gesture and a glass of red wine in the other hand, giving a flat side-eye. Text at the top reads: Someone said I 'sound tired.' This is just my voice when you ask the same question a third time.",
    "seasonal": false,
    "ai": false,
    "src": "original",
@@ -92,16 +92,16 @@
    "kind": "image",
    "template": "PLAIN",
    "character": "",
-   "quote": "Nobody has ever gotten bad news and said, \"Quick, bring me a salad.\" Then everyone acts shocked about the chocolate.",
+   "quote": "I told my body I'd take better care of it once things calm down. It asked for a down payment.",
    "caption": "",
    "first": "",
-   "alt": "Plain off-white quote card with centered bold dark text. Text reads: Nobody has ever gotten bad news and said, \"Quick, bring me a salad.\" Then everyone acts shocked about the chocolate.",
+   "alt": "Plain off-white quote card with centered bold dark text. Text reads: I told my body I'd take better care of it once things calm down. It asked for a down payment.",
    "seasonal": false,
    "ai": false,
-   "src": "The FFF Club (spun)",
+   "src": "original",
    "format": "plain",
    "image": "images/wine-wimsey/2026-11-20/ww-20261120-06.png",
-   "note": "The FFF Club (spun)"
+   "note": "original"
   },
   {
    "id": "ww-20261120-07",
