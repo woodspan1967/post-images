@@ -121,3 +121,20 @@ Wed 2026-11-18 rows re-read in the Planned list after upload: times unchanged. O
 | 2026-11-19 | Wine Wimsy Stories | 2 | 12:03 PM |
 
 Read and uploaded 2026-11-18 evening. The feed bucket held 2 posts for Nov 18 (8:19/9:21 PM), so the 7 new feed posts and 2 stories filled Thu Nov 19. Order checked after upload and after the alt-text edits: plain cards at feed slots 1,3,5,7 and characters at 2,4,6. Times unchanged. No swaps needed.
+
+## 2026-11-20 (read from Post Planner plan, Fri column, and the Planned list; 7 feed + 2 stories)
+| date | bucket | slot | time |
+|---|---|---|---|
+| 2026-11-20 | Wine Wimsy | 1 | 6:16 AM |
+| 2026-11-20 | Wine Wimsy | 2 | 8:25 AM |
+| 2026-11-20 | Wine Wimsy | 3 | 12:46 PM |
+| 2026-11-20 | Wine Wimsy | 4 | 5:04 PM |
+| 2026-11-20 | Wine Wimsy | 5 | 6:14 PM |
+| 2026-11-20 | Wine Wimsy | 6 | 8:31 PM |
+| 2026-11-20 | Wine Wimsy | 7 | 9:33 PM |
+| 2026-11-20 | Wine Wimsy Stories | 1 | 7:33 AM |
+| 2026-11-20 | Wine Wimsy Stories | 2 | 12:14 PM |
+
+Read 2026-11-19 evening. All 9 Nov 20 slots were empty (Planned list showed "NO POST" for each Wine Wimsy time); nothing yet on Nov 21 for these buckets.
+
+Fri 2026-11-20 uploaded 2026-11-19 evening. All 9 posts sit on Nov 20 (nothing on Nov 19 or Nov 21) at the times above; times re-read in the Planned list after upload and after the alt-text edits: unchanged. Order checked: characters at feed slots 1,3,5,7 and plain cards at 2,4,6. Stories at 7:33 AM and 12:14 PM. No swaps needed.
