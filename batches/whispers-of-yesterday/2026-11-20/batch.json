@@ -1,0 +1,171 @@
+{
+ "title": "Whispers Of Yesterday Review · Nov 20",
+ "subtitle": "SUBTITLE",
+ "bucket": "Whispers Of Yesterday",
+ "story_bucket": "Whispers Of Yesterday Stories",
+ "posts": [
+  {
+   "id": "wy-20261120-01",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Winter (the hot water bottle)",
+   "quote": "THE HOT WATER BOTTLE WENT UNDER THE BLANKETS AT BEDTIME, AND BY MORNING IT WAS THE ONLY WARM THING IN THE HOUSE.",
+   "caption": "On the coldest nights, Mom filled the red rubber hot water bottle from the kettle and wrapped it in an old towel. It went to the bottom of the bed like a small stove, and you tucked your feet around it and didn't move. The bedroom had frost on the inside of the glass and a floor register that did nothing at all. By bedtime the blankets were piled so high you could barely turn over. By morning the bottle had gone lukewarm, and getting out from under all that weight was the hardest job of the day.",
+   "first": "Ours had a knitted cover Grandma made in a color nobody would have picked. I took it to my first apartment and it still had a slow leak at the cap. I kept filling it anyway.",
+   "prompt": "A flat hand-drawn editorial illustration with visible ink outlines, simplified stylized faces, flat soft color fills and muted colors, clearly drawn and not a photograph, no photographic skin texture, a 1960s farmhouse bedroom on a winter night with frost on the window, a boy of about eight in flannel pajamas sitting up in a metal-framed bed under a pile of quilts, his mother in a robe handing him a red rubber hot water bottle wrapped in a towel, a kettle steaming on a dresser tray, a braided rug on the floor. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE HOT WATER BOTTLE WENT UNDER THE BLANKETS AT BEDTIME, AND BY MORNING IT WAS THE ONLY WARM THING IN THE HOUSE.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a mother in a robe handing a red hot water bottle to a boy in flannel pajamas in a bed piled with quilts, in a frosty farmhouse bedroom. Text at the top reads: The hot water bottle went under the blankets at bedtime, and by morning it was the only warm thing in the house.",
+   "image": "images/whispers-of-yesterday/2026-11-20/wy-20261120-01.png"
+  },
+  {
+   "id": "wy-20261120-02",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "School days (the valentine box)",
+   "quote": "THE VALENTINE BOX WAS A SHOEBOX IN CREPE PAPER, AND THE TEACHER MADE SURE EVERY KID GOT AT LEAST ONE.",
+   "caption": "The night before the class party, you sat at the kitchen table with a paper bag of cards and a pencil. Mom made you sign one for every name on the class list, including the boy who sat behind you and kicked your chair. The shoebox on the teacher's desk had a slot cut in the lid and red crepe paper wrapped around the sides. You carried it home at the end of the day and dumped it on the bed, and the little cards with the cartoon animals slid out in a pile. Somebody had quietly counted, so that nobody's pile was smaller than anybody else's.",
+   "first": "I still have a card from second grade with a cartoon pig on it that says I'M SWINE ABOUT YOU. I never found out who signed it, and I've decided it was the kid who kicked my chair.",
+   "prompt": "A flat hand-drawn editorial illustration with visible ink outlines, simplified stylized faces, flat soft color fills and muted colors, clearly drawn and not a photograph, no photographic skin texture, a 1960s second-grade classroom decorated with paper hearts, a teacher in a cardigan beside a desk holding a shoebox covered in red crepe paper with a slot in the lid, a line of children in short-sleeve shirts and plaid dresses dropping small envelopes into the slot, a chalkboard behind them. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE VALENTINE BOX WAS A SHOEBOX IN CREPE PAPER, AND THE TEACHER MADE SURE EVERY KID GOT AT LEAST ONE.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a teacher beside a shoebox covered in red crepe paper while schoolchildren drop small valentine envelopes into its slot, in a classroom hung with paper hearts. Text at the top reads: The valentine box was a shoebox in crepe paper, and the teacher made sure every kid got at least one.",
+   "image": "images/whispers-of-yesterday/2026-11-20/wy-20261120-02.png"
+  },
+  {
+   "id": "wy-20261120-t1",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Family (the pocket comb)",
+   "quote": "Dad's pocket comb lived in his back pocket, and it came out for weddings, funerals, and every photograph.",
+   "caption": "",
+   "first": "My father combed his hair one time a day, in the rearview mirror, right before he walked into church. The comb was black and worn smooth at the corners. I found one just like it in a drawer after he was gone and put it in my own pocket."
+  },
+  {
+   "id": "wy-20261120-03",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Neighborhood (the butcher's paper)",
+   "quote": "THE BUTCHER WRAPPED THE MEAT IN WHITE PAPER, TIED IT WITH STRING, AND WROTE THE PRICE IN GREASE PENCIL.",
+   "caption": "The butcher shop smelled like sawdust and cold, and the floor was swept so often it looked polished. He pulled a sheet off the big roll, set your pork chops in the middle, and folded the edges in three quick moves. Then the string came down from the ceiling dispenser, one wrap and a knot, and the end was snapped off against a little hook. The price went on in grease pencil, in numbers so square you could read them from across the counter. Mom carried it home against her coat like a parcel from somewhere far away.",
+   "first": "The butcher on our corner knew what my mother liked without asking and always set aside the thick end of the bacon for us. I remember the paper was slightly stiff and had a faint waxy shine. It folded so neatly you never needed tape.",
+   "prompt": "A realistic color photograph from the 1960s, the inside of a 1960s neighborhood butcher shop, a wooden counter with a big roll of white butcher paper on a wall holder, a hanging string dispenser above a brass scale, a grease pencil on the counter beside a wrapped package tied with string, white tile wall, sawdust on the floor. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Very large bold white uppercase text across the top reads exactly: \"THE BUTCHER WRAPPED THE MEAT IN WHITE PAPER, TIED IT WITH STRING, AND WROTE THE PRICE IN GREASE PENCIL.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a butcher shop counter with a roll of white paper, a hanging string dispenser, a brass scale and a package tied with string. Text at the top reads: The butcher wrapped the meat in white paper, tied it with string, and wrote the price in grease pencil.",
+   "image": "images/whispers-of-yesterday/2026-11-20/wy-20261120-03.png"
+  },
+  {
+   "id": "wy-20261120-04",
+   "kind": "image",
+   "template": "T2 vintage photo",
+   "character": "Entertainment (the TV warm-up)",
+   "quote": "THE TV TOOK A MINUTE TO WARM UP, AND THE WHOLE FAMILY STOOD THERE WAITING FOR THE PICTURE TO ARRIVE.",
+   "caption": "You turned the knob and nothing happened, and that was normal. First came a faint hum from somewhere in the cabinet, then a tiny white dot in the middle of the dark glass. The dot grew into a line, the line grew into a gray haze, and finally the picture swam up out of it. Dad stood with one hand on the dial like a man tuning a ship. Everyone else had gathered behind him already, as if the show might start without them.",
+   "first": "Our set was in a walnut cabinet with doors that closed over the screen, like a piece of furniture hiding something. When it warmed up, the whole living room got a little brighter. I can still hear that hum.",
+   "prompt": "A realistic color photograph from the 1960s, a 1960s living room with a walnut console television cabinet whose screen shows only a small glowing white dot in the center of the dark glass, a rabbit-ear antenna on top, a lace doily, a green armchair and a braided rug facing the set. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Very large bold white uppercase text across the top reads exactly: \"THE TV TOOK A MINUTE TO WARM UP, AND THE WHOLE FAMILY STOOD THERE WAITING FOR THE PICTURE TO ARRIVE.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a walnut console television with a small white dot glowing in the middle of its dark screen, a rabbit-ear antenna on top and an empty armchair facing it. Text at the top reads: The TV took a minute to warm up, and the whole family stood there waiting for the picture to arrive.",
+   "image": "images/whispers-of-yesterday/2026-11-20/wy-20261120-04.png"
+  },
+  {
+   "id": "wy-20261120-05",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the pharmacist)",
+   "quote": "THE PHARMACIST / A MORTAR AND PESTLE, A GLASS COUNTER, AND A LABEL TYPED BY HAND",
+   "caption": "The pharmacist worked behind a high counter with a wall of brown bottles behind him. He knew your family doctor, your mother's allergies, and which of your cousins always came in coughing in March. A prescription took a few minutes because everything was counted out by hand onto a small tray. The label came out of a typewriter and was pressed onto the bottle with his thumb. Then he leaned over the counter and told you exactly when to take it, in a voice that was never in a hurry.",
+   "first": "Our pharmacist kept a jar of lollipops by the register for the kids, and he always asked how my grandmother was feeling before he asked what she needed. He knew the answer to both.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated drugstore interior with a tall wooden counter, a glass case, a wall of brown glass bottles, a pharmacist in a white coat grinding powder in a mortar and pestle, a small brass scale and a typewriter on the counter, a woman in a hat waiting with her purse. Bold retro serif headline text at the top reads exactly: \"THE PHARMACIST\" Subtitle text below it reads exactly: \"A MORTAR AND PESTLE, A GLASS COUNTER, AND A LABEL TYPED BY HAND\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a pharmacist in a white coat using a mortar and pestle at a wooden counter, with shelves of brown bottles behind him and a woman waiting. Headline: The Pharmacist. Subtitle: A mortar and pestle, a glass counter, and a label typed by hand.",
+   "image": "images/whispers-of-yesterday/2026-11-20/wy-20261120-05.png"
+  },
+  {
+   "id": "wy-20261120-06",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Rural life (the barn cats)",
+   "quote": "THE BARN CATS GOT A SAUCER OF WARM MILK AT MILKING TIME, AND NOT ONE OF THEM WAITED ANYWHERE ELSE.",
+   "caption": "Five minutes before the evening milking, the barn cats started to appear. They came from the hayloft, the feed room, and the machine shed, sitting in a loose half circle on the concrete like it was a meeting. Dad filled the pie tin with milk straight from the bucket, still warm, and they went at it without a sound. One cat always sat apart, sure that she was in charge. When the pan was empty they went back to being wild, and nobody on that farm ever called them pets.",
+   "first": "We had a gray tom who never let anyone touch him. He'd still sit exactly one arm's length away every night. My father called that friendship.",
+   "prompt": "A flat hand-drawn editorial illustration with visible ink outlines, simplified stylized faces, flat soft color fills and muted colors, clearly drawn and not a photograph, no photographic skin texture, a 1960s dairy barn at dusk with a concrete aisle, a farmer in coveralls and a cap pouring milk from a steel pail into a pie tin, six barn cats of different colors gathered around it, a stool and a second pail beside him, hay bales and a lantern in the background. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE BARN CATS GOT A SAUCER OF WARM MILK AT MILKING TIME, AND NOT ONE OF THEM WAITED ANYWHERE ELSE.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a farmer in a cap pouring milk into a pie tin for a circle of barn cats inside a dairy barn at dusk. Text at the top reads: The barn cats got a saucer of warm milk at milking time, and not one of them waited anywhere else.",
+   "image": "images/whispers-of-yesterday/2026-11-20/wy-20261120-06.png"
+  },
+  {
+   "id": "wy-20261120-t2",
+   "kind": "tobi",
+   "template": "TOBI",
+   "character": "Work and family (the pencil behind the ear)",
+   "quote": "The pencil behind Dad's ear was never sharp, and somehow it was never missing when he needed it.",
+   "caption": "",
+   "first": "My father was a carpenter, and that stub of a pencil was flat on two sides so it wouldn't roll. He used it to mark a board and then set it back behind his ear without looking. I keep one in my workshop and put it in the exact same spot."
+  },
+  {
+   "id": "wy-20261120-07",
+   "kind": "image",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the telephone lineman)",
+   "quote": "THE TELEPHONE LINEMAN / A CLIMBING SPIKE, A LEATHER BELT, AND A POLE IN EVERY WEATHER",
+   "caption": "Every storm brought somebody up a pole. The lineman strapped on his leather belt, kicked in his climbing spikes, and walked up the trunk like it was a flight of stairs. He hung there, forty feet up, with a pair of pliers and a coil of wire, while the wind did what it liked. The whole street stood at their windows and watched, because their phone depended on him. When the line came back, there was a small click on the kitchen phone and Mom said, well, there he is.",
+   "first": "A lineman lived two doors down from us, and the kids thought he was a superhero in work boots. He let us hold his spikes once. They were heavier than they looked, and so was the job.",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated country road with a tall wooden telephone pole, a lineman in a hard hat and leather tool belt climbing it with metal climbing spikes, a coil of wire over his shoulder, glass insulators on the crossarm, dark storm clouds with a bit of blue behind, a truck parked below. Bold retro serif headline text at the top reads exactly: \"THE TELEPHONE LINEMAN\" Subtitle text below it reads exactly: \"A CLIMBING SPIKE, A LEATHER BELT, AND A POLE IN EVERY WEATHER\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a lineman in a hard hat and tool belt climbing a tall wooden telephone pole with climbing spikes under a stormy sky. Headline: The Telephone Lineman. Subtitle: A climbing spike, a leather belt, and a pole in every weather.",
+   "image": "images/whispers-of-yesterday/2026-11-20/wy-20261120-07.png"
+  },
+  {
+   "id": "wy-20261120-08",
+   "kind": "image",
+   "template": "T1 illustrated scene",
+   "character": "Community (the Friday night bleachers)",
+   "quote": "THE STADIUM BLANKET WENT OVER FIVE KNEES, AND THE COCOA WENT DOWN THE ROW TWICE.",
+   "caption": "By the second quarter, the metal bleachers were as cold as a skating rink. Somebody's mother had brought the big plaid blanket, and it stretched across a whole row of knees. The thermos made its way down the line, and everybody took a careful sip and handed it on. Out on the field the band was waiting at the end zone with their hats pulled down. Nobody remembered the score on the way home, but they remembered the blanket.",
+   "first": "My dad never missed a home game, even in years he knew a single person on the team. He kept a wool cap in the glove box just for those nights. I sat on a cold bench next to him and learned the names of everybody's mothers.",
+   "prompt": "A flat hand-drawn editorial illustration with visible ink outlines, simplified stylized faces, flat soft color fills and muted colors, clearly drawn and not a photograph, no photographic skin texture, a small-town high school football game on an October night under tall stadium lights, a row of fans in wool coats and scarves in the metal bleachers sharing one plaid blanket, a woman pouring cocoa from a green thermos into a cup, a marching band in uniforms below and the field behind them. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE STADIUM BLANKET WENT OVER FIVE KNEES, AND THE COCOA WENT DOWN THE ROW TWICE.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of fans in wool coats sharing a plaid blanket on cold metal bleachers at a night football game while a woman pours cocoa from a thermos. Text at the top reads: The stadium blanket went over five knees, and the cocoa went down the row twice.",
+   "image": "images/whispers-of-yesterday/2026-11-20/wy-20261120-08.png"
+  }
+ ],
+ "stories": [
+  {
+   "id": "wys-20261120-1",
+   "kind": "story",
+   "template": "T1 illustrated scene",
+   "character": "School days (the pencil box)",
+   "quote": "THE PENCIL BOX HAD A SLIDING LID, A PLASTIC RULER, AND ONE ERASER THAT NEVER ERASED.",
+   "caption": "",
+   "first": "",
+   "prompt": "A flat hand-drawn editorial illustration with visible ink outlines, simplified stylized faces, flat soft color fills and muted colors, clearly drawn and not a photograph, no photographic skin texture, a 1960s third-grade desk with a girl in a plaid dress and pigtails opening a zippered cloth pencil box with a sliding lid showing pencils, a plastic ruler and a worn pink eraser, a boy at the next desk leaning to peek, an inkwell hole in the desktop, a window with autumn trees behind. Keep the top fifth of the image calm and uncluttered for the text. Very large, extra bold white text with a thick dark outline, filling the full width of the top of the image, no bubble, reads exactly: \"THE PENCIL BOX HAD A SLIDING LID, A PLASTIC RULER, AND ONE ERASER THAT NEVER ERASED.\" No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Illustration of a girl at a school desk opening a pencil box with pencils, a ruler and a worn eraser while a boy leans over to look. Text at the top reads: The pencil box had a sliding lid, a plastic ruler, and one eraser that never erased.",
+   "image": "images/whispers-of-yesterday/2026-11-20/stories/wys-20261120-1.png"
+  },
+  {
+   "id": "wys-20261120-2",
+   "kind": "story",
+   "template": "T2 vintage photo",
+   "character": "Home life (the cake dome)",
+   "quote": "THE GLASS CAKE DOME ALWAYS HAD SOMETHING UNDER IT, AND NOBODY EVER LIFTED IT WITHOUT ASKING.",
+   "caption": "",
+   "first": "",
+   "prompt": "A realistic color photograph from the 1960s, a 1960s kitchen counter with a glass cake dome on a white pedestal plate covering a coconut layer cake with one slice missing, a lace doily beneath, a yellow canister set and a window with gingham curtains behind. No people anywhere in the frame. Authentic period photography style, soft natural light, fine grain. Very large bold white uppercase text across the top reads exactly: \"THE GLASS CAKE DOME ALWAYS HAD SOMETHING UNDER IT, AND NOBODY EVER LIFTED IT WITHOUT ASKING.\" Clean typographic overlay, no decorative elements. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": true,
+   "alt": "Vintage-style color photo of a glass cake dome covering a coconut cake on a kitchen counter with yellow canisters and gingham curtains. Text at the top reads: The glass cake dome always had something under it, and nobody ever lifted it without asking.",
+   "image": "images/whispers-of-yesterday/2026-11-20/stories/wys-20261120-2.png"
+  },
+  {
+   "id": "wys-20261120-3",
+   "kind": "story",
+   "template": "T3 retro poster",
+   "character": "Old jobs and skills (the tailor)",
+   "quote": "THE TAILOR / A TAPE AROUND HIS NECK, A PIECE OF CHALK, AND A SLEEVE MEASURED TWICE",
+   "caption": "",
+   "first": "",
+   "prompt": "A vintage 1960s educational illustration in flat retro style, warm cream background, a flat illustrated tailor shop with a tailor in a vest and glasses with a measuring tape around his neck marking chalk lines on a man's suit jacket, a dress form, bolts of fabric on shelves, a sewing machine and a pincushion. Bold retro serif headline text at the top reads exactly: \"THE TAILOR\" Subtitle text below it reads exactly: \"A TAPE AROUND HIS NECK, A PIECE OF CHALK, AND A SLEEVE MEASURED TWICE\" Flat vintage textbook illustration, warm muted palette, clean lines, nostalgic school textbook aesthetic. No other text, signs, logos, signatures, or watermarks anywhere in the image; keep the bottom corners plain. Vertical 4:5 portrait format.",
+   "ai": false,
+   "alt": "Retro poster illustration of a tailor with a tape measure around his neck chalking a suit jacket on a customer, with bolts of cloth and a dress form behind him. Headline: The Tailor. Subtitle: A tape around his neck, a piece of chalk, and a sleeve measured twice.",
+   "image": "images/whispers-of-yesterday/2026-11-20/stories/wys-20261120-3.png"
+  }
+ ]
+}
