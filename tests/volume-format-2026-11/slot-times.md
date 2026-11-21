@@ -154,3 +154,18 @@ Fri 2026-11-20 uploaded 2026-11-19 evening. All 9 posts sit on Nov 20 (nothing o
 | 2026-11-21 (Sat) | Wine Wimsy Stories | 2 | 12:03 PM |
 
 Fri 2026-11-20 evening: uploaded 2026-11-20 evening. All 9 posts sit on Sat Nov 21 (nothing on other days) at the times above; re-read in the Planned list after upload and after the AI content/alt text edits: unchanged. Order checked by image size and alt text: plain cards at feed slots 1,3,5,7 (ww-20261121-01,03,05,07), characters at 2,4,6 (02,04,06). Stories ws-1 at 7:33 AM, ws-2 at 12:03 PM. No swaps needed.
+
+## 2026-11-22 (Sun) slots read before upload (Fri 2026-11-20 evening)
+| date | bucket | slot | time |
+|---|---|---|---|
+| 2026-11-22 (Sun) | Wine Wimsy | 1 | 6:22 AM |
+| 2026-11-22 (Sun) | Wine Wimsy | 2 | 8:36 AM |
+| 2026-11-22 (Sun) | Wine Wimsy | 3 | 12:03 PM |
+| 2026-11-22 (Sun) | Wine Wimsy | 4 | 5:22 PM |
+| 2026-11-22 (Sun) | Wine Wimsy | 5 | 6:28 PM |
+| 2026-11-22 (Sun) | Wine Wimsy | 6 | 8:42 PM |
+| 2026-11-22 (Sun) | Wine Wimsy | 7 | 9:43 PM |
+| 2026-11-22 (Sun) | Wine Wimsy Stories | 1 | 7:33 AM |
+| 2026-11-22 (Sun) | Wine Wimsy Stories | 2 | 12:35 PM |
+
+Fri 2026-11-20 evening: uploaded. Correction to the list above: Post Planner's Nov 22 slots are feed 6:22 AM, 8:36 AM, 12:03 PM, 5:22 PM, 6:28 PM, 8:42 PM, 9:43 PM and stories 7:33 AM, 12:35 PM (my pre-upload read had 12:03/12:35 swapped between feed and story). Re-read after upload and after AI content/alt text edits: unchanged. Order checked visually and by image size: characters at feed slots 1,3,5,7 (ww-20261122-01,03,05,07), plain cards at 2,4,6 (02,04,06). ws-20261122-1 (printer) at 7:33 AM, ws-20261122-2 (Black Friday couch) at 12:35 PM. No swaps needed.
