@@ -14,12 +14,12 @@ STEP 2, build and upload:
 
 STEP 3, check date and slot order:
 - All 7 feed posts + 2 stories must sit on Sat Nov 21, nothing spilling into another day.
-- Slot order: Nov 21 is an ODD day, so plain cards (template PLAIN) at feed slots 1,3,5,7 and character posts (template CHAR) at 2,4,6. Match each post to its position using batch.json ids (ww-20261118-01 is position 1, and so on).
+- Slot order: Nov 21 is an ODD day, so plain cards (template PLAIN) at feed slots 1,3,5,7 and character posts (template CHAR) at 2,4,6. Match each post to its position using batch.json ids (ww-20261121-01 is position 1, and so on).
 - If any post is in the wrong slot, tell me which posts and the swap you plan BEFORE changing anything. Then fix it by swapping scheduled times or moving posts within the SAME day only. Never move across days, never delete or recreate posts. Re-read that day's 7 feed times and confirm the final order. If a fix fails twice, stop and tell me.
 - Spot-check in the bucket that images, AI content and alt text landed.
 
 STEP 4, record:
-- Append one row per feed post and story to tests/volume-format-2026-11/log.csv (date, position, format, character, quote_id, src, scheduled_time) using the FINAL scheduled times after any swaps (stories use position s1 and s2 with format "story", as in the existing rows). Update slot-times.md if the times changed. Row data (src/character) is in batch.json.
+- log.csv already has 9 rows for 2026-11-21 with the scheduled_time column blank. Fill in scheduled_time on those rows (do not add duplicates) in tests/volume-format-2026-11/log.csv (date, position, format, character, quote_id, src, scheduled_time) using the FINAL scheduled times after any swaps (stories use position s1 and s2 with format "story", as in the existing rows). Update slot-times.md if the times changed. Row data (src/character) is in batch.json.
 - git pull --rebase, commit, push to main.
 - Send me a short summary (counts, any swaps made, any failures) by email and a push notification.
 
