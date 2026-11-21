@@ -114,12 +114,12 @@ date,position,format,character,quote_id,src,scheduled_time
 2026-11-20,7,character,The Settled One,ww-20261120-07,original,2026-11-20 21:33
 2026-11-20,s1,story,The Hot Mess,ws-20261120-1,,2026-11-20 07:33
 2026-11-20,s2,story,The Settled One,ws-20261120-2,,2026-11-20 12:14
-2026-11-21,1,plain,,ww-20261121-01,src: inbox FFF Club,
-2026-11-21,2,character,The Hot Mess,ww-20261121-02,original,
-2026-11-21,3,plain,,ww-20261121-03,original,
-2026-11-21,4,character,The Settled One,ww-20261121-04,src: inbox FFF Club,
-2026-11-21,5,plain,,ww-20261121-05,original,
-2026-11-21,6,character,The Bold One,ww-20261121-06,original,
-2026-11-21,7,plain,,ww-20261121-07,original,
-2026-11-21,s1,story,The Bold One,ws-20261121-1,src: inbox FFF Club,
-2026-11-21,s2,story,The Hot Mess,ws-20261121-2,,
+2026-11-21,1,plain,,ww-20261121-01,src: inbox FFF Club,2026-11-21 06:04
+2026-11-21,2,character,The Hot Mess,ww-20261121-02,original,2026-11-21 08:15
+2026-11-21,3,plain,,ww-20261121-03,original,2026-11-21 12:31
+2026-11-21,4,character,The Settled One,ww-20261121-04,src: inbox FFF Club,2026-11-21 17:58
+2026-11-21,5,plain,,ww-20261121-05,original,2026-11-21 18:14
+2026-11-21,6,character,The Bold One,ww-20261121-06,original,2026-11-21 20:12
+2026-11-21,7,plain,,ww-20261121-07,original,2026-11-21 21:14
+2026-11-21,s1,story,The Bold One,ws-20261121-1,src: inbox FFF Club,2026-11-21 07:33
+2026-11-21,s2,story,The Hot Mess,ws-20261121-2,,2026-11-21 12:03
