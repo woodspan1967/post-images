@@ -5,6 +5,7 @@ Writes out_dir/feed.csv and out_dir/stories.csv, plus feed.js.txt / stories.js.t
 as a JSON string literal for pasting into the browser's file-input injection script.
 Image URLs are https://raw.githubusercontent.com/woodspan1967/post-images/main/<image>.
 No hashtags in first comments (PIPELINE.md hard rule 3): any #tag is stripped here with a warning.
+First-comment delay: uses batch.json field "delay" (minutes, 0 = immediate) when present; otherwise 5, so other pages are unchanged.
 """
 import csv, io, json, os, re, sys
 b = json.load(open(sys.argv[1])); ok = set(open(sys.argv[2]).read().split()); out = sys.argv[3]
@@ -25,11 +26,13 @@ def clean(pid, text):
     lines = [re.sub(r"[ \t]{2,}", " ", TAG.sub("", ln)).strip() for ln in text.split("\n")]
     while lines and not lines[-1]: lines.pop()
     return "\n".join(lines)
+def delay(p):
+    return str(p["delay"]) if "delay" in p else "5"
 feed = []
 for p in b["posts"]:
     if p["id"] not in ok: continue
-    if p["kind"] == "tobi": feed.append(["", p["quote"], "", "", "", clean(p["id"], p["first"]), "5", "black", ""])
-    else: feed.append(["", clean(p["id"] + " caption", p["caption"]), "", RAW + p["image"], "", clean(p["id"], p["first"]), "5", "", ""])
+    if p["kind"] == "tobi": feed.append(["", p["quote"], "", "", "", clean(p["id"], p["first"]), delay(p), "black", ""])
+    else: feed.append(["", clean(p["id"] + " caption", p["caption"]), "", RAW + p["image"], "", clean(p["id"], p["first"]), delay(p), "", ""])
 if stripped: print("WARNING: removed hashtags from", ", ".join(stripped), "(no hashtags in first comments)")
 write("feed", feed)
 write("stories", [["", "", "", RAW + s["image"], "", "", "", "", "story"] for s in b.get("stories", []) if s["id"] in ok])
