@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-26",
+  "bucket": "Whispers Of Yesterday Stories (not uploaded; awaiting Scott's review and 'upload')",
+  "format": "Facebook Story, 9:16, 1080x1920 (exception to the 4:5 feed rule). Generated at 9:16 (720x1280), Lanczos-upscaled to 1080x1920; text and watermark added with PIL (compose_stories.py).",
+  "stories": [
+    {
+      "id": "wy-story-20261126-01",
+      "file": "wy-story-20261126-01.png",
+      "target_slot": "Thu Nov 26, 2026, 1:14 PM CT",
+      "line": "THE MEN WATCHED THE THANKSGIVING GAME WITH THEIR EYES CLOSED.",
+      "caption": "Every year the game was on, and every year Dad and Uncle Ray missed the whole second half.",
+      "alt_text": "Painted illustration of a 1960s wood-paneled living room on Thanksgiving afternoon. A man in a white shirt and loosened tie is asleep in a plaid armchair with his stocking feet on a footstool, and another man in a tan cardigan is asleep on a floral sofa. A console television between them shows a black-and-white football game, and a golden dog sleeps on a braided rug. Text reads: The men watched the Thanksgiving game with their eyes closed.",
+      "source": "raw/story1_v2.jpg"
+    },
+    {
+      "id": "wy-story-20261126-02",
+      "file": "wy-story-20261126-02.png",
+      "target_slot": "Thu Nov 26, 2026, 5:08 PM CT",
+      "line": "THE BEST THANKSGIVING MEAL WAS THE TURKEY SANDWICH THAT NIGHT.",
+      "caption": "White bread, cold turkey, a little mayo, and a glass of milk at the kitchen table after everybody went home.",
+      "alt_text": "Painted illustration of a 1960s kitchen at night. A smiling father in a white undershirt lays turkey slices on bread while a grinning boy in striped pajamas bites into a turkey sandwich. The table holds the leftover turkey, a jar of mayonnaise, cranberry sauce, stuffing and a glass of milk, with turquoise cabinets and a rounded white refrigerator behind them. Text reads: The best Thanksgiving meal was the turkey sandwich that night.",
+      "source": "raw/story2_v3.jpg"
+    }
+  ]
+}
