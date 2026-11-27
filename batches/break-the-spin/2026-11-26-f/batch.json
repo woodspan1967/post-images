@@ -1,0 +1,23 @@
+{
+  "title": "Break The Spin \u00b7 Nov 26-F (Wisconsin AG Kaul HUD housing lawsuit)",
+  "bucket": "Break The Spin",
+  "story_bucket": "",
+  "subtitle": "1 post, real photo (SLR Images, CC BY 2.0). Scott: if true, run it.",
+  "posts": [
+    {
+      "id": "bts-20261126f-01",
+      "kind": "image",
+      "template": "t1_lowerthird v2 scene-mode visible",
+      "theme": "Wisconsin AG Josh Kaul joins lawsuit to block HUD mixed-status housing rule",
+      "quote": "Wisconsin's Attorney General Sues To Keep Illegal Immigrants In Government Housing.",
+      "alt": "Photo of Wisconsin Attorney General Josh Kaul in a light blue shirt against an orange background, looking slightly to the right. Headline text at the bottom: Wisconsin's Attorney General Sues To Keep Illegal Immigrants In Government Housing. Break The Spin logo top left. Photo credit: SLR Images, CC BY 2.0.",
+      "caption": "Wisconsin Attorney General Josh Kaul is suing to stop a federal rule that would keep people who are in the country illegally from living in taxpayer-funded housing.\n\nThe HUD rule takes effect Dec. 14. Every person in a public housing unit, or on a Section 8 voucher, must be a U.S. citizen or an eligible immigrant. If one person in the home is ineligible, the whole household loses the aid. Those families have gotten a prorated subsidy covering only eligible members, while ineligible relatives still live in the unit.\n\nKaul joined 21 other attorneys general and Pennsylvania Gov. Josh Shapiro in a Nov. 23 lawsuit in federal court in Massachusetts. \"This cruel rule that would destabilize families should be invalidated,\" Kaul said.\n\nHUD Secretary Scott Turner said the change \"represents a reallocation of up to $218 million which will now go to eligible Americans that are currently on a waitlist.\"",
+      "first": "The facts: The case is California et al. v. HUD and Scott Turner, filed Nov. 23, 2026, in U.S. District Court in Massachusetts, No. 1:26-cv-15218. The final rule, published Nov. 12, 2026, at 91 Fed. Reg. 72,978, covers public housing, Section 8, and project-based aid. HUD estimates about 20,000 mixed-status families, 78,100 people, would lose assistance, including 55,000 who are themselves eligible, many children. Ineligible members include people in the country illegally and some lawfully present immigrants who do not qualify for HUD housing.\n\nSources: Wisconsin DOJ press release, court complaint, Federal Register, California AG, Milwaukee Journal Sentinel, CBS 58.",
+      "ai": false,
+      "delay": 5,
+      "image": "images/break-the-spin/2026-11-26-f/bts-20261126f-01.jpg",
+      "draft_key": "kaul",
+      "length": "MEDIUM"
+    }
+  ]
+}
