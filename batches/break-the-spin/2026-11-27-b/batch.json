@@ -1,0 +1,23 @@
+{
+  "title": "Break The Spin \u00b7 Nov 27-B (Canada waitlist deaths)",
+  "bucket": "Break The Spin",
+  "story_bucket": "",
+  "subtitle": "1 post, AI-edited image of Mark Carney from Scott's photo. Caption approved; image pending Scott review. Do not upload to Post Planner until he signs off.",
+  "posts": [
+    {
+      "id": "bts-20261127b-01",
+      "kind": "image",
+      "template": "t4_ggl v2 full-bleed bg mode, no inset",
+      "theme": "SecondStreet.org report: 29,468 Canadians died on health-care waiting lists in fiscal 2025-26",
+      "quote": "Nearly 30,000 Canadians Died Waiting For Care In The Government Health System.",
+      "alt": "Photo-style AI image of Canadian Prime Minister Mark Carney seated and holding a microphone, wearing a charcoal gray suit, a light blue shirt and a burgundy tie, against a softly blurred curtain background. Headline text: Nearly 30,000 Canadians Died Waiting For Care In The Government Health System. Break The Spin logo top left. Credit: AI-edited image.",
+      "caption": "They call it free health care. In Canada, nearly 30,000 people died while they were still waiting to get it.\n\nA new report from the Canadian think tank SecondStreet.org found 29,468 cases in the 2025-26 fiscal year where a surgery, a procedure, a diagnostic scan or a specialist appointment was cancelled because the patient had died. Of those, 5,931 were waiting for surgery or a procedure. The rest were waiting for a scan or a specialist. Since 2018, the group has counted more than 129,892 waitlist deaths.\n\nThe numbers come from government records, pulled through freedom of information requests to more than 30 provincial health bodies. They are incomplete. Newfoundland and Labrador refused to provide any data.\n\nNo government body showed how many of those deaths were caused by the wait. Some patients were waiting for heart surgery or cancer treatment. Some were waiting for a hip replacement or a cataract operation. Dying on a list is not the same as proving the delay killed you. It is still 29,468 people who never received the care they were promised.\n\nAmong the health bodies that reported in both years, waitlist deaths rose 1.4 percent. Surgical waitlist deaths jumped 17.5 percent. Ontario recorded 115 cancer-related waitlist deaths. Alberta recorded 52 cardiac waitlist deaths, with a median wait of 23 days by the time those patients died. In Manitoba, surgical waitlist deaths nearly doubled, from 163 to 316.\n\nThis is not a system that ran out of money. According to figures in the report, provincial governments spent about $269 billion on health care that year, roughly $6,867 per person. What patients get in return is a government monopoly and a waiting list.\n\nA separate Fraser Institute report found the median wait from a family doctor's referral to treatment hit 30.7 weeks in 2026, the longest it has ever recorded. In 1993, the same wait was 9.3 weeks.\n\nSecondStreet.org president Colin Craig put it plainly: \"Governments will publicly report if a restaurant is missing a paper towel holder, but they don't report how many patients die in the health system.\" \"That double standard needs to end.\"\n\nAmericans who want Washington to copy this model should look at the list first. Care that arrives after you are gone is not care.",
+      "first": "The facts: The figures are from SecondStreet.org's \"Died on a Waiting List\" 2026 edition, released Nov. 25, 2026, covering April 1, 2025, through March 31, 2026. The 29,468 total is 5,931 surgical or procedure cases and 23,537 diagnostic or specialist cases. The group says the total is underreported because many health bodies do not track or disclose complete data, and because more bodies reported this year than in prior years. The report does not claim every death was caused by the wait. The Fraser Institute's \"Waiting Your Turn\" 2026 report, released Nov. 17, 2026, found a median 30.7-week wait from a general practitioner's referral to treatment.\n\nSources: SecondStreet.org, Fraser Institute, Canadian Institute for Health Information figures cited in the SecondStreet report.",
+      "ai": true,
+      "delay": 5,
+      "image": "images/break-the-spin/2026-11-27-b/bts-20261127b-01.jpg",
+      "draft_key": "carney",
+      "length": "LONG"
+    }
+  ]
+}
